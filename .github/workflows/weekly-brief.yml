@@ -17,6 +17,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Secret availability check
+        run: |
+          if [ -z "${{ secrets.OPENAI_API_KEY }}" ]; then
+            echo "secrets.OPENAI_API_KEY is EMPTY (not injected)"
+          else
+            echo "secrets.OPENAI_API_KEY is PRESENT (injected)"
+          fi
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
