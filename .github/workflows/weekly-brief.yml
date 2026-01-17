@@ -61,6 +61,4 @@ jobs:
           echo "ref=$GITHUB_REF"
 
       - name: Build brief
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: npm run build:brief
+        run: OPENAI_API_KEY="${{ secrets.OPENAI_API_KEY }}" npm run build:brief
