@@ -1,0 +1,43 @@
+name: Weekly Brief Generator
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'briefs/**'
+      - 'scripts/**'
+  workflow_dispatch:
+  schedule:
+    # Run every Monday at 9 AM UTC
+    - cron: '0 9 * * 1'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+          cache: 'npm'
+      
+      - name: Install dependencies
+        run: npm ci
+      
+      - name: Generate brief
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: npm run build:brief
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add briefs/*.json
+          git diff --staged --quiet || git commit -m "chore: update weekly brief [skip ci]"
+          git push
