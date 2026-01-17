@@ -19,7 +19,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          # IMPORTANT: no npm caching here
 
       - name: Debug files
         run: |
