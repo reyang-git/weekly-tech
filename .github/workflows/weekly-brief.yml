@@ -22,6 +22,10 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Export OPENAI_API_KEY
+        run: |
+          echo "OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }}" >> $GITHUB_ENV
+
       - name: Debug runner files
         run: |
           echo "PWD:"
