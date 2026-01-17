@@ -2,7 +2,7 @@ name: Weekly Brief Generator
 
 on:
   schedule:
-    - cron: "0 22 * * 0" # weekly
+    - cron: "0 22 * * 0"
   workflow_dispatch:
 
 permissions:
@@ -20,15 +20,18 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Debug files
+      - name: Debug runner files
         run: |
+          echo "PWD:"
           pwd
+          echo "LS:"
           ls -la
-          ls -la package.json || true
+          echo "LOCKFILES:"
           ls -la package-lock.json || true
-          ls -la .github || true
-          ls -la scripts || true
-          ls -la briefs || true
+          ls -la npm-shrinkwrap.json || true
+          ls -la yarn.lock || true
+          echo "PACKAGE.JSON:"
+          ls -la package.json || true
 
       - name: Install dependencies
         run: npm install
