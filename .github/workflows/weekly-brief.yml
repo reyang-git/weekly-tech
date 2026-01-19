@@ -62,6 +62,9 @@ jobs:
 
       - name: Build brief
         run: OPENAI_API_KEY="${{ secrets.OPENAI_API_KEY }}" npm run build:brief
+        
+      - name: Show briefs folder
+        run: ls -la briefs
 
       - name: Commit and push updated brief
         run: |
