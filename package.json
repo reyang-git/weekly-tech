@@ -3,7 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build:brief": "node --loader ts-node/esm scripts/buildBrief.ts"
+    "build:brief": "node --loader ts-node/esm scripts/buildBrief.ts",
+    "build:topic": "node --loader ts-node/esm scripts/buildTopic.ts"
   },
   "dependencies": {
     "openai": "^4.20.0",

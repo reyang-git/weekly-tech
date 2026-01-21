@@ -1,0 +1,35 @@
+name: Generate Topic Briefs
+
+on:
+  schedule:
+    - cron: '30 2 * * 1'  # Monday 2:30 AM UTC (30 minutes after main brief)
+  workflow_dispatch:
+
+jobs:
+  generate-topics:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        topic: ['AI', 'robotics', 'quantum', 'health', 'climate', 'education']
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - run: npm ci
+      
+      - name: Generate brief for ${{ matrix.topic }}
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SEARCH_TOPIC: ${{ matrix.topic }}
+        run: npm run build:topic
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase
+          git add briefs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ${{ matrix.topic }} brief" && git push)

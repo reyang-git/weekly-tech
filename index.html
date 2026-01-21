@@ -5,6 +5,27 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Innovation Brief</title>
     <link rel="stylesheet" href="./style.css" />
+    <style>
+      .topic-btn {
+        padding: 8px 16px;
+        background: #ffffff;
+        color: #5a7a65;
+        border: 1px solid #d4e0d8;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 14px;
+        transition: all 0.2s;
+      }
+      .topic-btn:hover {
+        background: #f5f2ed;
+        border-color: #7a9682;
+      }
+      .topic-btn.active {
+        background: #5a7a65;
+        color: white;
+        border-color: #5a7a65;
+      }
+    </style>
   </head>
   <body>
     <main class="container">
@@ -12,6 +33,19 @@
         <h1>Innovation Brief</h1>
         <p class="sub">Weekly tech startup + innovation summaries focused on new uses.</p>
       </header>
+
+      <section class="card">
+        <h2>Browse by Topic</h2>
+        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px;">
+          <button class="topic-btn active" data-topic="weekly">All Topics</button>
+          <button class="topic-btn" data-topic="ai">AI</button>
+          <button class="topic-btn" data-topic="robotics">Robotics</button>
+          <button class="topic-btn" data-topic="quantum">Quantum</button>
+          <button class="topic-btn" data-topic="health">Health</button>
+          <button class="topic-btn" data-topic="climate">Climate</button>
+          <button class="topic-btn" data-topic="education">Education</button>
+        </div>
+      </section>
 
       <section id="meta" class="card"></section>
       <section id="themes" class="card"></section>
