@@ -1,39 +1,42 @@
 {
-  "generatedAt": "2026-01-21T04:54:37.692Z",
+  "generatedAt": "2026-01-21T05:44:27.256Z",
   "weekOf": "2026-01-21",
-  "lead": "Big Tech's influence continues to reshape the political landscape as new tech innovations and partnerships emerge.",
+  "lead": "This week in tech highlights the rapid deployment of AI in businesses, Curl's decision to end its bug bounty program, and notable product reviews including new smartphones and laptops.",
   "themes": [
-    "Big Tech and Politics",
-    "Tech Innovations",
-    "Consumer Electronics",
-    "Streaming Services",
-    "Investment and IPOs"
+    "AI Safety and Deployment",
+    "Product Reviews",
+    "Tech Industry Dynamics"
   ],
   "stories": [
     {
-      "title": "One year in, Big Tech has out-maneuvered MAGA populists",
-      "link": "https://www.theverge.com/column/864759/big-tech-trump-one-year-in",
-      "summary": "As the first anniversary of Trump's presidency approaches, Big Tech leaders have strategically aligned themselves with the administration, influencing American politics significantly."
+      "title": "Curl shutters bug bounty program to remove incentive for submitting AI slop",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/curl_ends_bug_bounty/",
+      "summary": "Curl has decided to end its bug bounty program, citing concerns over low-quality AI submissions that do not meet their standards.",
+      "source": "The Register - Software"
     },
     {
-      "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
-      "link": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
-      "summary": "Bolna has secured $6.3 million in funding to enhance its voice orchestration platform, focusing on the growing Indian market."
+      "title": "Businesses are deploying AI agents faster than safety protocols can keep up, Deloitte says",
+      "link": "https://www.zdnet.com/article/ai-agent-deployment-in-workplace-outpaces-safety-protocols-deloitte-says/",
+      "summary": "Deloitte's report warns that the rapid deployment of AI agents in workplaces is outpacing the establishment of necessary safety protocols, raising significant risks.",
+      "source": "Latest news"
+    },
+    {
+      "title": "I changed 10 settings on my Samsung phone to significantly improve the performance",
+      "link": "https://www.zdnet.com/article/best-samsung-phone-settings-improve-performance/",
+      "summary": "Tweaking settings on Samsung phones can lead to significant performance improvements, enhancing user experience without needing new hardware.",
+      "source": "Latest news"
     },
     {
       "title": "Sony and TCL are teaming up to make your next TV, and it's a bigger deal than you think",
       "link": "https://www.zdnet.com/article/sony-tcl-tv-partnership-deal/",
-      "summary": "Sony and TCL have announced a partnership that will see TCL take control of Sony's TV division by 2027, indicating a significant shift in the television market."
-    },
-    {
-      "title": "Netflix to redesign its app as it competes with social platforms for daily engagement",
-      "link": "https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/",
-      "summary": "In an effort to boost user engagement, Netflix plans to redesign its app to incorporate more social features, including vertical video feeds."
+      "summary": "Sony and TCL's partnership will see TCL taking control of Sony's TV division by 2027, marking a significant shift in the television market.",
+      "source": "Latest news"
     },
     {
       "title": "Elon Musk Makes Part of X Algorithm Open Source, Says It ‘Sucks’",
       "link": "https://gizmodo.com/elon-musk-makes-part-of-x-algorithm-open-source-says-it-sucks-2000712201",
-      "summary": "Elon Musk has made a portion of the X algorithm open source, openly criticizing its effectiveness and inviting community input for improvements."
+      "summary": "Elon Musk has made parts of the X algorithm open source, expressing his dissatisfaction with its current state and calling it 'dumb'.",
+      "source": "Gizmodo"
     }
   ]
 }
