@@ -1,11 +1,39 @@
 {
-  "generatedAt": "2026-01-19T05:51:40.837Z",
-  "weekOf": "2026-01-19",
-  "lead": "Placeholder brief. Next step: wire RSS + OpenAI summarisation.",
+  "generatedAt": "2026-01-21T04:45:25.759Z",
+  "weekOf": "2026-01-21",
+  "lead": "Big Tech's influence continues to reshape politics and technology in 2026.",
   "themes": [
-    "Theme 1",
-    "Theme 2",
-    "Theme 3"
+    "Big Tech and Politics",
+    "Tech Gadgets and Reviews",
+    "Streaming Services and Advertising",
+    "AI and User Safety",
+    "Television and Media Partnerships"
   ],
-  "stories": []
+  "stories": [
+    {
+      "title": "One year in, Big Tech has out-maneuvered MAGA populists",
+      "link": "https://www.theverge.com/column/864759/big-tech-trump-one-year-in",
+      "summary": "As Big Tech leaders continue to navigate the political landscape, their influence over the Trump administration has become increasingly evident, showcasing a significant shift in power dynamics."
+    },
+    {
+      "title": "Elon Musk Makes Part of X Algorithm Open Source, Says It ‘Sucks’",
+      "link": "https://gizmodo.com/elon-musk-makes-part-of-x-algorithm-open-source-says-it-sucks-2000712201",
+      "summary": "Elon Musk's decision to open source part of the X algorithm reflects ongoing transparency efforts, despite his candid admission about its shortcomings."
+    },
+    {
+      "title": "Netflix to redesign its app as it competes with social platforms for daily engagement",
+      "link": "https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/",
+      "summary": "In a bid to enhance user engagement, Netflix plans to integrate vertical video feeds into its app, adapting to the competitive landscape of social media."
+    },
+    {
+      "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
+      "link": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
+      "summary": "Bolna's recent funding round highlights the growing demand for voice technology solutions in India, with a significant portion of its revenue coming from self-serve customers."
+    },
+    {
+      "title": "Sony and TCL are teaming up to make your next TV, and it's a bigger deal than you think",
+      "link": "https://www.zdnet.com/article/sony-tcl-tv-partnership-deal/",
+      "summary": "The partnership between Sony and TCL marks a strategic shift in the TV market, with TCL set to take control of Sony's TV division by 2027."
+    }
+  ]
 }
