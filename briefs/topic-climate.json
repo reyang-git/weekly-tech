@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-01-21T22:37:19.173Z",
+  "generatedAt": "2026-01-21T22:47:37.606Z",
   "topic": "climate",
   "weekOf": "2026-01-21",
-  "lead": "Recent developments in climate technology and awareness highlight the intersection of innovation, real estate, and energy finance as the world grapples with climate change.",
+  "lead": "Recent developments in climate technology and policy highlight the growing intersection of innovation, finance, and environmental awareness.",
   "stories": [
     {
       "title": "Volvo’s EX60 Promises 400-mile Range in a More Competitive EV Climate",
       "link": "https://gizmodo.com/volvos-ex60-promises-400-mile-range-in-a-more-competitive-ev-climate-2000712520",
-      "summary": "Volvo's new electric SUV, the EX60, is set to make waves in the competitive EV market with a promised range of 400 miles. This vehicle comes equipped with advanced features including HugInCore technology and Nvidia-powered infotainment systems, emphasizing the brand's commitment to sustainability and innovation. As the EV climate becomes increasingly competitive, Volvo aims to establish itself as a leader in electric mobility.",
+      "summary": "Volvo has unveiled its new EX60 electric SUV, which boasts an impressive 400-mile range, positioning it competitively in the evolving electric vehicle market. The vehicle features advanced technology, including integrated AI and Nvidia-powered infotainment systems, emphasizing Volvo's commitment to innovation in the EV sector. This launch comes at a time when the demand for sustainable transportation solutions is at an all-time high.",
       "source": "Gizmodo"
     },
     {
       "title": "Zillow removed climate risk scores. This climate expert is restoring them.",
       "link": "https://arstechnica.com/science/2026/01/zillow-removed-climate-risk-scores-this-climate-expert-is-restoring-them/",
-      "summary": "In a significant move, Zillow has removed climate risk scores from its platform, a decision that has faced backlash from climate experts. One expert is taking the initiative to restore these crucial scores, which inform potential homebuyers about climate-related risks. This situation underscores the ongoing tension between real estate interests and the need for transparency regarding climate impacts.",
-      "source": "Ars Technica - All content"
+      "summary": "Zillow's recent decision to remove climate risk scores from its listings has sparked controversy, prompting a climate expert to take action to restore these critical data points. The removal was influenced by pressure from real estate brokers in California, raising concerns about transparency in the housing market. The restoration of these scores aims to provide potential buyers with essential information regarding climate-related risks.",
+      "source": "Ars Technica"
     },
     {
-      "title": "Berlin’s Cloover secures over $1.2 Billion to build the 'Shopify of Energy'",
+      "title": "Berlin’s Cloover secures over $1.2 Billion to build the “Shopify of Energy”",
       "link": "https://thenextweb.com/news/berlins-cloover-secures-over-1-2-billion-to-build-the-shopify-of-energy",
-      "summary": "Cloover, a Berlin-based climate fintech, has successfully raised over $1.2 billion to develop a platform aimed at transforming the energy sector. This funding includes significant equity and a substantial debt facility, which will be used to accelerate the rollout of its innovative software and financing solutions across Europe. Cloover's initiative represents a pivotal moment in the energy transition, aiming to streamline and democratize access to sustainable energy solutions.",
+      "summary": "Cloover, a Berlin-based climate fintech, has raised over $1.2 billion to enhance its platform aimed at transforming the energy sector. The funding includes a substantial debt facility and Series A equity, which will be used to expand their software and financing solutions across Europe. This significant investment reflects the growing interest in innovative financial solutions that support the transition to sustainable energy.",
       "source": "The Next Web"
     }
   ]
