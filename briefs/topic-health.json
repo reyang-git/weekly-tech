@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-01-21T22:47:37.313Z",
+  "topic": "health",
+  "weekOf": "2026-01-21",
+  "lead": "The health landscape is evolving with innovations in technology, dietary recommendations, and societal attitudes toward mental health. From AI-driven healthcare solutions to the exploration of alternative beverages, the intersection of health and technology is reshaping our approach to wellness.",
+  "stories": [
+    {
+      "title": "Expert Take On the New Alternative to Alcohol — THC Drinks, Are They Healthier?",
+      "link": "https://www.cnet.com/health/nutrition/thc-drinks-healthier-than-alcohol/",
+      "summary": "As THC drinks gain popularity, experts are weighing in on their potential health benefits compared to traditional alcohol. These beverages may offer a different experience and could appeal to those seeking alternatives for relaxation without the negative effects associated with alcohol consumption. However, the long-term health implications remain to be fully understood.",
+      "source": "CNET"
+    },
+    {
+      "title": "Get Closer to Your 2026 Heart Health Goals With These Foods",
+      "link": "https://www.cnet.com/health/nutrition/get-closer-to-your-2026-heart-health-goals-with-these-foods/",
+      "summary": "A balanced diet is crucial for heart health, and certain foods can help individuals achieve their 2026 heart health goals. Incorporating these foods into daily meals can support cardiovascular wellness and reduce the risk of heart disease. Awareness and dietary adjustments are essential steps toward a healthier lifestyle.",
+      "source": "CNET"
+    },
+    {
+      "title": "Amazon is adding AI-powered assistant to One Medical",
+      "link": "https://www.engadget.com/ai/amazon-is-adding-ai-powered-assistant-to-one-medical-180803368.html?src=rss",
+      "summary": "Amazon's introduction of an AI-powered assistant, 'Health AI,' to One Medical aims to enhance patient care by providing personalized health guidance. This tool can help manage medications, explain lab results, and book appointments, while also addressing privacy concerns. The integration of AI into healthcare is a significant step towards more accessible medical support.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns",
+      "link": "https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/",
+      "summary": "A new report highlights a troubling trend where surveillance and immigration enforcement are deterring patients from seeking necessary medical care. This 'health privacy crisis' is eroding trust in the healthcare system, particularly among vulnerable populations. Addressing these issues is critical for ensuring equitable access to healthcare services.",
+      "source": "WIRED"
+    },
+    {
+      "title": "My friends in Italy are using AI therapists. But is that so bad, when a stigma surrounds mental health?",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/21/italy-using-ai-therapists-mental-health",
+      "summary": "In Italy, the use of AI therapists is becoming more common as traditional mental health services fall short. This trend raises questions about privacy and the effectiveness of digital therapy compared to human interaction. As societal stigma around mental health persists, many are turning to technology for support, highlighting an evolving landscape in mental health care.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Meta Seeks to Bar Mentions of Mental Health—and Zuckerberg’s Harvard Past—From Child Safety Trial",
+      "link": "https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/",
+      "summary": "As Meta faces a child safety trial, the company is attempting to limit discussions around mental health and its founder's background. This legal strategy underscores the ongoing scrutiny tech companies face regarding their impact on user well-being, particularly among vulnerable populations like children.",
+      "source": "WIRED"
+    },
+    {
+      "title": "My analogue month: would ditching my smartphone make me healthier, happier – or more stressed?",
+      "link": "https://www.theguardian.com/technology/2026/jan/21/my-analogue-month-would-ditching-my-smartphone-make-me-healthier-happier-or-more-stressed",
+      "summary": "A personal experiment of living without a smartphone reveals insights into the impact of technology on daily life and mental health. The experience prompts reflections on how digital distractions can detract from real-world interactions and overall well-being. This exploration raises questions about the balance between technology use and mental health.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "AI initiatives without the risk: My guide to methodology-driven success",
+      "link": "https://www.cio.com/article/4119137/ai-initiatives-without-the-risk-my-guide-to-methodology-driven-success.html",
+      "summary": "Successful AI implementation in healthcare requires clear objectives and a structured approach to mitigate risks. This article emphasizes the importance of aligning AI projects with business goals and governance frameworks to ensure they enhance patient care without compromising safety. The focus on disciplined project management is essential for achieving meaningful outcomes.",
+      "source": "CIO"
+    }
+  ]
+}
