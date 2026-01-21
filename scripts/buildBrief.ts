@@ -137,7 +137,13 @@ const generateBrief = async (items: FeedItem[]): Promise<Brief> => {
   });
 
   const content = response.choices[0]?.message?.content ?? "";
-  const parsed = JSON.parse(content) as Omit<Brief, "generatedAt" | "weekOf">;
+  let cleanContent = content.trim();
+  if (cleanContent.startsWith('```json')) {
+    cleanContent = cleanContent.replace(/^```json\n/, '').replace(/\n```$/, '');
+  } else if (cleanContent.startsWith('```')) {
+    cleanContent = cleanContent.replace(/^```\n/, '').replace(/\n```$/, '');
+  }
+  const parsed = JSON.parse(cleanContent) as Omit<Brief, "generatedAt" | "weekOf">;
   return {
     generatedAt: now.toISOString(),
     weekOf,
