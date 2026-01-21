@@ -30,6 +30,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase
           git add briefs/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ${{ matrix.topic }} brief" && git push)
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update ${{ matrix.topic }} brief"
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add briefs/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update ${{ matrix.topic }} brief"
+          
+          # Retry push up to 5 times with delays
+          for i in {1..5}; do
+            git pull --rebase origin main && git push && break || sleep 10
+          done
