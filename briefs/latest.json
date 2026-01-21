@@ -1,41 +1,73 @@
 {
-  "generatedAt": "2026-01-21T05:44:27.256Z",
+  "generatedAt": "2026-01-21T22:07:27.988Z",
   "weekOf": "2026-01-21",
-  "lead": "This week in tech highlights the rapid deployment of AI in businesses, Curl's decision to end its bug bounty program, and notable product reviews including new smartphones and laptops.",
+  "lead": "This week in tech: Apple is reportedly developing a new AI wearable, while AI's impact on business profitability is under scrutiny. Meanwhile, the debate over AI chip exports continues to heat up.",
   "themes": [
-    "AI Safety and Deployment",
-    "Product Reviews",
-    "Tech Industry Dynamics"
+    "AI Developments",
+    "Consumer Electronics",
+    "Regulatory Issues",
+    "Entertainment",
+    "Audio Technology"
   ],
   "stories": [
     {
-      "title": "Curl shutters bug bounty program to remove incentive for submitting AI slop",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/curl_ends_bug_bounty/",
-      "summary": "Curl has decided to end its bug bounty program, citing concerns over low-quality AI submissions that do not meet their standards.",
+      "title": "Apple is reportedly working on an AirTag-sized AI wearable",
+      "link": "https://www.theverge.com/news/865212/apple-ai-pin-wearable-airtag-rumor",
+      "summary": "Apple is developing a new AI-powered wearable device that resembles an AirTag, featuring multiple cameras and microphones to capture the user's environment. The device is still in early development and could launch as soon as 2027. This move aligns with Apple's strategy to enhance its AI capabilities, particularly in light of recent collaborations with Google.",
+      "source": "The Verge"
+    },
+    {
+      "title": "AI hasn't delivered the profits it was hyped for, says Deloitte",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/deloitte_enterprises_adopting_ai_revenue_lift/",
+      "summary": "A new report from Deloitte indicates that businesses are struggling to realize the profitability gains that AI was expected to deliver. Many companies are still in the early stages of AI adoption, leading to a gap between expectations and actual financial benefits. This raises questions about the sustainability of AI investments in the current economic climate.",
       "source": "The Register - Software"
     },
     {
-      "title": "Businesses are deploying AI agents faster than safety protocols can keep up, Deloitte says",
-      "link": "https://www.zdnet.com/article/ai-agent-deployment-in-workplace-outpaces-safety-protocols-deloitte-says/",
-      "summary": "Deloitte's report warns that the rapid deployment of AI agents in workplaces is outpacing the establishment of necessary safety protocols, raising significant risks.",
-      "source": "Latest news"
+      "title": "Washington Is Divided on AI Chip Exports as Anthropic CEO Deems China Sales a ‘Mistake’",
+      "link": "https://gizmodo.com/washington-is-divided-on-ai-chips-exports-as-anthropic-ceo-deems-china-sales-a-mistake-2000712639",
+      "summary": "The debate over AI chip exports to China is intensifying, with Congress considering more authority over such transactions. Anthropic's CEO has publicly criticized these sales as a mistake, reflecting broader concerns about national security and technological competition. The situation highlights the complexities of regulating advanced technology in a global market.",
+      "source": "Gizmodo"
     },
     {
-      "title": "I changed 10 settings on my Samsung phone to significantly improve the performance",
-      "link": "https://www.zdnet.com/article/best-samsung-phone-settings-improve-performance/",
-      "summary": "Tweaking settings on Samsung phones can lead to significant performance improvements, enhancing user experience without needing new hardware.",
-      "source": "Latest news"
+      "title": "Siri Reinvented as a ChatGPT Rival? The Rumors Are Getting a Lot Louder",
+      "link": "https://www.cnet.com/tech/services-and-software/siri-reinvented-as-a-chatgpt-rival-the-rumors-are-getting-a-lot-louder/",
+      "summary": "Apple's Siri is reportedly undergoing a significant transformation to become a more interactive AI chatbot, similar to ChatGPT. This upgrade is expected to roll out later this year, potentially changing how users interact with their Apple devices. The move indicates Apple's commitment to staying competitive in the rapidly evolving AI landscape.",
+      "source": "CNET"
     },
     {
-      "title": "Sony and TCL are teaming up to make your next TV, and it's a bigger deal than you think",
-      "link": "https://www.zdnet.com/article/sony-tcl-tv-partnership-deal/",
-      "summary": "Sony and TCL's partnership will see TCL taking control of Sony's TV division by 2027, marking a significant shift in the television market.",
-      "source": "Latest news"
+      "title": "Marshall's new Heddon hub adds multi-room audio to speakers with Auracast",
+      "link": "https://www.engadget.com/audio/marshalls-new-heddon-hub-adds-multi-room-audio-to-speakers-with-auracast-210500811.html?src=rss",
+      "summary": "Marshall has introduced the Heddon hub, a new device that enables multi-room audio for its Bluetooth speakers using Auracast technology. Priced at $300, the hub allows users to synchronize older Marshall speakers with modern streaming services. This innovation aims to extend the life of existing audio systems and enhance the listening experience.",
+      "source": "Engadget"
     },
     {
-      "title": "Elon Musk Makes Part of X Algorithm Open Source, Says It ‘Sucks’",
-      "link": "https://gizmodo.com/elon-musk-makes-part-of-x-algorithm-open-source-says-it-sucks-2000712201",
-      "summary": "Elon Musk has made parts of the X algorithm open source, expressing his dissatisfaction with its current state and calling it 'dumb'.",
+      "title": "Eightfold sued for helping companies secretly score job seekers",
+      "link": "https://www.itnews.com.au/news/eightfold-sued-for-helping-companies-secretly-score-job-seekers-623095?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Eightfold, an AI recruitment platform, is facing legal action for allegedly enabling companies to covertly score job applicants. The lawsuit raises significant ethical concerns regarding transparency and fairness in AI-driven hiring practices. This case could set a precedent for how AI technologies are regulated in recruitment.",
+      "source": "iTnews"
+    },
+    {
+      "title": "Bezos' Blue Origin to deploy enterprise-grade LEOsat network",
+      "link": "https://www.itnews.com.au/news/bezos-blue-origin-to-deploy-enterprise-grade-leosat-network-623094?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Blue Origin, founded by Jeff Bezos, is set to launch an enterprise-grade Low Earth Orbit satellite network capable of delivering speeds up to 6Tbps. This initiative aims to enhance global connectivity, particularly for businesses in remote areas. The project underscores the growing competition in the satellite internet sector.",
+      "source": "iTnews"
+    },
+    {
+      "title": "AI-Powered Impersonation Is Emerging as a Top Cyberthreat for 2026",
+      "link": "https://www.cnet.com/tech/services-and-software/ai-powered-impersonation-emerging-as-top-cyberthreat-2026/",
+      "summary": "As AI technology advances, the threat of AI-powered impersonation is becoming a significant concern for cybersecurity in 2026. A recent survey shows that 68% of consumers are worried about identity theft, highlighting the urgent need for enhanced security measures. This trend poses challenges for both individuals and organizations in protecting sensitive information.",
+      "source": "CNET"
+    },
+    {
+      "title": "Kioxia's memory is 'sold out' for 2026, prolonging a 'high-end and expensive phase'",
+      "link": "https://arstechnica.com/gadgets/2026/01/kioxias-memory-is-sold-out-for-2026-prolonging-a-high-end-and-expensive-phase/",
+      "summary": "Kioxia has announced that its memory products are sold out for 2026, indicating a prolonged phase of high prices and limited availability. The company is ramping up manufacturing capacity, but relief for consumers and manufacturers alike may come slowly. This situation reflects ongoing supply chain challenges in the semiconductor industry.",
+      "source": "Ars Technica - All content"
+    },
+    {
+      "title": "‘Pirates of the Caribbean’ Director Has a Theory on Why Visual FX Suck So Much Now",
+      "link": "https://gizmodo.com/pirates-of-the-caribbean-director-has-a-theory-on-why-visual-fx-suck-so-much-now-2000712660",
+      "summary": "Director Gore Verbinski has shared his insights on the decline in quality of visual effects in modern films. He suggests that the software used in the industry may be to blame, raising questions about the tools and techniques employed in contemporary filmmaking. This commentary adds to the ongoing discourse about the future of visual storytelling.",
       "source": "Gizmodo"
     }
   ]
