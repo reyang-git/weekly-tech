@@ -27,8 +27,9 @@ async function main() {
     <article class="story">
       <div class="kicker">${s.source || ""}${s.publishedAt ? ` • ${s.publishedAt}` : ""} • Novelty ${s.noveltyScore ?? ""}/10</div>
       <h2><a href="${s.url}" target="_blank" rel="noreferrer">${s.title}</a></h2>
+      <div class="kicker" style="margin-top: 4px; margin-bottom: 12px;">${s.source || "Unknown source"}</div>
       <p>${s.summary || ""}</p>
-      <p><strong>Why it matters:</strong> ${s.whyItMatters || ""}</p>
+      <p>${s.whyItMatters || ""}</p>
       ${(s.newUseCases && s.newUseCases.length) ? `
         <p><strong>New uses:</strong></p>
         <ul>${s.newUseCases.map(u => `<li>${u}</li>`).join("")}</ul>
