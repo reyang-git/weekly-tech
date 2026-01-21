@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-01-21T22:37:19.173Z",
+  "topic": "climate",
+  "weekOf": "2026-01-21",
+  "lead": "Recent developments in climate technology and awareness highlight the intersection of innovation, real estate, and energy finance as the world grapples with climate change.",
+  "stories": [
+    {
+      "title": "Volvo’s EX60 Promises 400-mile Range in a More Competitive EV Climate",
+      "link": "https://gizmodo.com/volvos-ex60-promises-400-mile-range-in-a-more-competitive-ev-climate-2000712520",
+      "summary": "Volvo's new electric SUV, the EX60, is set to make waves in the competitive EV market with a promised range of 400 miles. This vehicle comes equipped with advanced features including HugInCore technology and Nvidia-powered infotainment systems, emphasizing the brand's commitment to sustainability and innovation. As the EV climate becomes increasingly competitive, Volvo aims to establish itself as a leader in electric mobility.",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "Zillow removed climate risk scores. This climate expert is restoring them.",
+      "link": "https://arstechnica.com/science/2026/01/zillow-removed-climate-risk-scores-this-climate-expert-is-restoring-them/",
+      "summary": "In a significant move, Zillow has removed climate risk scores from its platform, a decision that has faced backlash from climate experts. One expert is taking the initiative to restore these crucial scores, which inform potential homebuyers about climate-related risks. This situation underscores the ongoing tension between real estate interests and the need for transparency regarding climate impacts.",
+      "source": "Ars Technica - All content"
+    },
+    {
+      "title": "Berlin’s Cloover secures over $1.2 Billion to build the 'Shopify of Energy'",
+      "link": "https://thenextweb.com/news/berlins-cloover-secures-over-1-2-billion-to-build-the-shopify-of-energy",
+      "summary": "Cloover, a Berlin-based climate fintech, has successfully raised over $1.2 billion to develop a platform aimed at transforming the energy sector. This funding includes significant equity and a substantial debt facility, which will be used to accelerate the rollout of its innovative software and financing solutions across Europe. Cloover's initiative represents a pivotal moment in the energy transition, aiming to streamline and democratize access to sustainable energy solutions.",
+      "source": "The Next Web"
+    }
+  ]
+}
