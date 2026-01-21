@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-01-21T22:37:15.457Z",
+  "generatedAt": "2026-01-21T22:47:34.266Z",
   "topic": "robotics",
   "weekOf": "2026-01-21",
-  "lead": "Robotics is rapidly evolving, with significant developments in funding, technology, and industry focus, particularly in Europe and Asia.",
+  "lead": "The field of robotics is rapidly evolving, with significant developments in funding, industry shifts, and technological advancements shaping its future.",
   "stories": [
     {
-      "title": "The Robotics Explosion in China",
+      "title": "The Robotics Explosion: Living in the Chinese Century",
       "link": "https://www.wired.com/china-issue/",
-      "summary": "China is leading a robotics revolution, showcasing advancements that surpass those in the United States. The article discusses how this robotics explosion is part of a larger trend of technological and cultural dominance by China. Various sectors are experiencing rapid automation, significantly impacting global industries.",
+      "summary": "The rise of robotics in China is transforming industries and setting new standards for innovation. This article discusses how China's advancements in robotics are outpacing those in the United States, leading to a cultural and technological shift. As robotics becomes integral to various sectors, the implications for global competitiveness are profound.",
       "source": "WIRED"
     },
     {
       "title": "ASUS Shifts Focus Towards Robotics and AI",
       "link": "https://www.engadget.com/mobile/smartphones/asus-will-not-release-any-new-smartphones-this-year-213043832.html?src=rss",
-      "summary": "ASUS has announced it will not release new smartphones this year, hinting at a strategic shift towards AI and robotics projects. Chairman Jonney Shih indicated that the company might explore opportunities in robotics and smartglasses, marking a significant pivot in their business strategy. This move reflects a broader trend of tech companies reallocating resources towards emerging technologies.",
+      "summary": "ASUS is pivoting away from the smartphone market and may focus on AI and robotics in the future. Chairman Jonney Shih hinted at a potential shift towards developing robotics and smartglasses, indicating a strategic realignment of the company's product offerings. This move reflects a broader trend in the tech industry towards integrating AI with robotics.",
       "source": "Engadget"
     },
     {
-      "title": "Europe’s €307 Million AI Funding Call",
+      "title": "Europe's €307 Million AI Funding Call",
       "link": "https://thenextweb.com/news/europes-e307-million-ai-funding-call",
-      "summary": "The European Commission has launched a €307 million funding initiative aimed at advancing AI, robotics, and related technologies. This funding is part of a strategic effort to foster trustworthy AI and enhance European digital autonomy. While the amount may seem modest compared to global investments, it signals a commitment to developing critical technologies within Europe.",
+      "summary": "The European Commission has announced a €307 million funding initiative aimed at advancing AI technologies, including robotics. This funding is part of a strategic push for trustworthy AI and aims to enhance Europe's digital autonomy. While the amount may seem modest compared to global investments, it represents a significant commitment to fostering innovation in robotics and related fields.",
       "source": "The Next Web"
     }
   ]
