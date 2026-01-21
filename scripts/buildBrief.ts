@@ -123,7 +123,8 @@ const generateBrief = async (items: FeedItem[]): Promise<Brief> => {
         content:
           "You are a helpful assistant that writes a concise weekly tech brief in JSON. " +
           "Return ONLY JSON with fields: lead (string), themes (array of 3-5 strings), " +
-          "stories (array of objects with title, link, summary). " +
+          "stories (array of objects with title, link, summary, source). " +
+          "The source field should contain the publication name from the provided feed items. " +
           "Summaries should be 1-2 sentences and grounded in the provided items."
       },
       {
