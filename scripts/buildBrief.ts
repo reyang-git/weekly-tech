@@ -60,9 +60,21 @@ const parseDateMs = (item: FeedItem): number => {
 
 const collectItems = async (urls: string[]): Promise<FeedItem[]> => {
   const items: FeedItem[] = [];
+  
+  // Map URLs to proper source names
+  const sourceNames: Record<string, string> = {
+    'https://www.axios.com/technology/rss': 'Axios',
+    'https://www.techbusinessnews.com.au/feed': 'Tech Business News',
+    'https://www.cnbc.com/id/100727382/device/rss/rss.xml': 'CNBC',
+    'https://www.pcmag.com/rss/all': 'PCMag',
+    // Add more mappings as needed
+  };
+  
   for (const url of urls) {
     try {
       const feed = await parser.parseURL(url);
+      const sourceName = sourceNames[url] || feed.title || url;
+      
       for (const entry of feed.items ?? []) {
         items.push({
           title: entry.title ?? undefined,
@@ -71,7 +83,7 @@ const collectItems = async (urls: string[]): Promise<FeedItem[]> => {
           pubDate: entry.pubDate ?? undefined,
           contentSnippet: entry.contentSnippet ?? undefined,
           content: entry.content ?? undefined,
-          source: feed.title ?? url
+          source: sourceName
         });
       }
     } catch (error) {
