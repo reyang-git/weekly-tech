@@ -66,10 +66,28 @@ const collectItems = async (urls: string[]): Promise<FeedItem[]> => {
   const items: FeedItem[] = [];
   
   const sourceNames: Record<string, string> = {
+    'https://techcrunch.com/feed/': 'TechCrunch',
+    'https://www.theverge.com/rss/index.xml': 'The Verge',
+    'https://www.wired.com/feed/rss': 'Wired',
+    'https://www.technologyreview.com/feed/': 'MIT Technology Review',
+    'https://feeds.arstechnica.com/arstechnica/index': 'Ars Technica',
+    'https://www.engadget.com/rss.xml': 'Engadget',
     'https://www.axios.com/technology/rss': 'Axios',
+    'https://www.theguardian.com/uk/technology/rss': 'The Guardian',
+    'https://www.theguardian.com/au/technology/rss': 'The Guardian Australia',
+    'https://www.smh.com.au/rss/technology.xml': 'Sydney Morning Herald',
+    'https://gizmodo.com/rss': 'Gizmodo',
+    'https://www.itnews.com.au/RSS/rss.ashx': 'IT News',
     'https://www.techbusinessnews.com.au/feed': 'Tech Business News',
+    'https://www.cio.com/rss': 'CIO',
     'https://www.cnbc.com/id/100727382/device/rss/rss.xml': 'CNBC',
+    'https://www.forbes.com/technology/feed/': 'Forbes',
+    'https://www.theregister.com/software/headlines.atom': 'The Register',
+    'https://thenextweb.com/feed/': 'The Next Web',
+    'https://www.zdnet.com/news/rss.xml': 'ZDNet',
     'https://www.pcmag.com/rss/all': 'PCMag',
+    'https://www.cnet.com/rss/all/': 'CNET',
+    'https://www.abc.net.au/news/feed/51120/rss.xml': 'ABC News'
   };
   
   for (const url of urls) {
@@ -140,7 +158,9 @@ const generateBrief = async (items: FeedItem[], topic: string): Promise<Brief> =
           "Return ONLY JSON with fields: lead (string), " +
           "stories (array of 8-10 objects with title, link, summary, source). " +
           "Select the most interesting and diverse stories related to the topic from the provided items. " +
-          "The source field should contain the publication name from the provided feed items. " +
+          "IMPORTANT: For each story, the source field MUST contain the exact publication name " +
+          "listed as 'Source:' in the feed items (e.g., 'TechCrunch', 'The Verge', 'Wired'). " +
+          "Do not use generic names like 'Latest news'. " +
           "Summaries should be 3-4 sentences and grounded in the provided items."
       },
       {

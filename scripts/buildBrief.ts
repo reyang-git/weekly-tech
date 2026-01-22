@@ -17,6 +17,7 @@ type BriefStory = {
   title: string;
   link: string;
   summary: string;
+  source?: string;
 };
 
 type Brief = {
@@ -63,11 +64,28 @@ const collectItems = async (urls: string[]): Promise<FeedItem[]> => {
   
   // Map URLs to proper source names
   const sourceNames: Record<string, string> = {
+    'https://techcrunch.com/feed/': 'TechCrunch',
+    'https://www.theverge.com/rss/index.xml': 'The Verge',
+    'https://www.wired.com/feed/rss': 'Wired',
+    'https://www.technologyreview.com/feed/': 'MIT Technology Review',
+    'https://feeds.arstechnica.com/arstechnica/index': 'Ars Technica',
+    'https://www.engadget.com/rss.xml': 'Engadget',
     'https://www.axios.com/technology/rss': 'Axios',
+    'https://www.theguardian.com/uk/technology/rss': 'The Guardian',
+    'https://www.theguardian.com/au/technology/rss': 'The Guardian Australia',
+    'https://www.smh.com.au/rss/technology.xml': 'Sydney Morning Herald',
+    'https://gizmodo.com/rss': 'Gizmodo',
+    'https://www.itnews.com.au/RSS/rss.ashx': 'IT News',
     'https://www.techbusinessnews.com.au/feed': 'Tech Business News',
+    'https://www.cio.com/rss': 'CIO',
     'https://www.cnbc.com/id/100727382/device/rss/rss.xml': 'CNBC',
+    'https://www.forbes.com/technology/feed/': 'Forbes',
+    'https://www.theregister.com/software/headlines.atom': 'The Register',
+    'https://thenextweb.com/feed/': 'The Next Web',
+    'https://www.zdnet.com/news/rss.xml': 'ZDNet',
     'https://www.pcmag.com/rss/all': 'PCMag',
-    // Add more mappings as needed
+    'https://www.cnet.com/rss/all/': 'CNET',
+    'https://www.abc.net.au/news/feed/51120/rss.xml': 'ABC News'
   };
   
   for (const url of urls) {
@@ -134,11 +152,13 @@ const generateBrief = async (items: FeedItem[]): Promise<Brief> => {
         role: "system",
         content:
         "You are a helpful assistant that writes a concise weekly tech brief in JSON. " +
-        "Return ONLY JSON with fields: lead (string), themes (array of 3-5 strings), " +
-        "stories (array of 10 objects with title, link, summary, source). " +
-        "Select the 10 most interesting and diverse stories from the provided items. " +
-        "The source field should contain the publication name from the provided feed items. " +
-        "Summaries should be 3-4 sentences and grounded in the provided items."
+"Return ONLY JSON with fields: lead (string), themes (array of 3-5 strings), " +
+"stories (array of 10 objects with title, link, summary, source). " +
+"Select the 10 most interesting and diverse stories from the provided items. " +
+"IMPORTANT: For each story, the source field MUST contain the exact publication name " +
+"listed as 'Source:' in the feed items (e.g., 'TechCrunch', 'The Verge', 'Wired'). " +
+"Do not use generic names like 'Latest news'. " +
+"Summaries should be 3-4 sentences and grounded in the provided items."
       },
       {
         role: "user",
