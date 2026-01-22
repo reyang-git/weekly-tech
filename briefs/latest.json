@@ -1,68 +1,68 @@
 {
-  "generatedAt": "2026-01-22T04:44:52.811Z",
+  "generatedAt": "2026-01-22T05:24:43.788Z",
   "weekOf": "2026-01-22",
-  "lead": "This week in tech, AI governance becomes a critical focus for CIOs, while new tools and updates in the tech landscape offer both solutions and challenges.",
+  "lead": "This week, the tech world is buzzing with debates over AI ethics, new social media features, and the future of personal devices.",
   "themes": [
-    "AI Governance",
-    "Tech Tools and Updates",
-    "Natural Disaster Recovery",
-    "Political Developments",
-    "Consumer Electronics"
+    "AI Ethics",
+    "Social Media Innovations",
+    "Virtual Reality",
+    "Consumer Technology",
+    "Future of Work"
   ],
   "stories": [
     {
-      "title": "AI Governance Signals for CIOs",
-      "link": "https://www.cio.com/article/4120447/%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%ea%b0%80-%eb%8a%a6%ec%9c%bc%eb%a9%b4-%eb%a6%ac%ec%8a%a4%ed%81%ac%ea%b0%80-%ec%95%9e%ec%84%a0%eb%8b%a4-cio%ea%b0%80-%ec%a3%bc%ec%8b%9c%ed%95%b4.html",
-      "summary": "As AI technologies evolve, CIOs must focus on governance signals that indicate how AI is integrated into organizational workflows. Key indicators include the transition of AI from a supportive tool to an autonomous decision-maker, the clarity of governance structures, and the cultural readiness of teams to handle AI's uncertainties. This shift necessitates a proactive approach to governance to avoid operational risks.",
-      "source": "CIO"
+      "title": "Hundreds of creatives warn against an AI slop future",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
+      "summary": "Around 800 artists, writers, and musicians have united in a campaign called 'Stealing Isn't Innovation' to protest against AI companies they accuse of stealing creative content. Notable signatories include authors George Saunders and Jodi Picoult, and musicians like R.E.M. The campaign highlights concerns over the ethical implications of AI in creative fields, emphasizing the need for proper licensing and respect for human artistry.",
+      "source": "The Verge"
     },
     {
-      "title": "How to Strip AI from Chrome, Edge, and Firefox",
+      "title": "X is also launching Bluesky-like starter packs",
+      "link": "https://www.engadget.com/social-media/x-is-also-launching-bluesky-like-starter-packs-050057033.html?src=rss",
+      "summary": "X, formerly known as Twitter, is introducing a feature called 'Starterpacks' that curates account recommendations for new users based on their interests. This move mirrors a similar feature from Bluesky, which allows users to create their own packs. The competition among social media platforms to enhance user experience continues as they adopt features from one another.",
+      "source": "Engadget"
+    },
+    {
+      "title": "How to strip AI from Chrome, Edge, and Firefox with one simple script",
       "link": "https://www.zdnet.com/article/just-the-browser-tool-more-privacy-less-clutter-chrome-edge-firefox/",
-      "summary": "A new tool allows users to remove unwanted AI features from popular web browsers like Chrome, Edge, and Firefox, addressing concerns over bloated software. This move is part of a broader trend where users seek more privacy and streamlined experiences in their digital tools. The tool promises to restore a more traditional browsing experience.",
+      "summary": "A new tool has emerged that allows users to remove unwanted AI features from popular web browsers like Chrome, Edge, and Firefox. As browsers become increasingly bloated with AI functionalities, this script offers a way to revert back to a simpler, more streamlined browsing experience, appealing to users who prioritize privacy and efficiency.",
       "source": "ZDNet"
     },
     {
-      "title": "Rockhampton Flood Levels Revised to Minor",
-      "link": "https://www.abc.net.au/news/2026-01-22/rockhampton-flood-levels-revised-to-minor-levels/106254436",
-      "summary": "Residents of Rockhampton can breathe a sigh of relief as flood predictions have been revised from moderate to minor levels. While some areas will still face delays in water receding, the situation is not as severe as initially feared. This update highlights the importance of accurate weather forecasting in disaster preparedness.",
-      "source": "ABC News"
-    },
-    {
-      "title": "eBay Bans AI-Powered Shop-Bots",
+      "title": "eBay updates legalese to ban AI-powered shop-bots",
       "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/ebay_updates_legalese_to_ban/",
-      "summary": "eBay has updated its policies to prohibit the use of AI-powered shop-bots, responding to concerns about fairness and competition on its platform. This decision reflects a growing trend among online marketplaces to regulate AI technologies that could disrupt traditional buying and selling practices. The ban aims to ensure a level playing field for all users.",
-      "source": "The Register - Software"
+      "summary": "eBay has revised its terms of service to explicitly prohibit the use of AI-powered shop-bots on its platform. This decision comes in response to concerns over fairness and the potential for automated systems to disrupt the marketplace. The move reflects a growing trend among online platforms to regulate AI usage to protect human sellers.",
+      "source": "The Register"
     },
     {
-      "title": "Testing the Claude AI Coworker",
+      "title": "Goodbye, VirtualBox - I found a better, more reliable VM manager for Linux",
+      "link": "https://www.zdnet.com/article/virt-manager-better-more-reliable-vm-manager-than-virtualbox/",
+      "summary": "A review of Virt-Manager highlights it as a superior alternative to VirtualBox for managing virtual machines on Linux. The article discusses its user-friendly interface and reliability, making it an appealing choice for those looking to enhance their virtualization experience. This shift could influence how Linux users manage their virtual environments.",
+      "source": "ZDNet"
+    },
+    {
+      "title": "iOS 27 may be the death of Siri as we know it, but we'll be happy with what it becomes",
+      "link": "https://www.zdnet.com/article/apple-turning-siri-into-chatgpt-chatbot-ai-ios-27-iphone-mac-ipad/",
+      "summary": "Apple is reportedly transforming Siri into a more advanced AI chatbot for iOS 27, potentially changing how users interact with their devices. This evolution aims to enhance user experience by providing more sophisticated responses and functionalities, aligning Siri more closely with competitors like OpenAI's ChatGPT.",
+      "source": "ZDNet"
+    },
+    {
+      "title": "Testing the Claude AI coworker",
       "link": "https://www.smh.com.au/technology/testing-the-claude-ai-coworker-20260122-p5nw7g.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "Anthropic's new AI agent, Claude, aims to enhance workplace productivity by acting as a coworker. Early tests demonstrate its potential to assist with various tasks, but the effectiveness of AI in collaborative environments remains a topic of interest. This development could signal a shift in how AI is integrated into daily work routines.",
-      "source": "Sydney Morning Herald - Technology"
+      "summary": "Anthropic's new AI agent, Claude, aims to function as a collaborative coworker, integrating into workplace environments. The testing phase reveals its potential to assist with various tasks while raising questions about the future of human-AI collaboration in professional settings.",
+      "source": "Sydney Morning Herald"
     },
     {
-      "title": "AT&T's Free iPhone 17 Pro Bundle Deal",
-      "link": "https://www.zdnet.com/article/att-iphone-17-ipad-apple-watch-bundle-deal/",
-      "summary": "AT&T has launched an enticing bundle deal offering a free iPhone 17 Pro along with an iPad and Apple Watch for a minimal monthly fee. This promotion is aimed at attracting new customers and encouraging upgrades among existing users. The deal highlights the competitive landscape in the telecommunications market.",
-      "source": "ZDNet"
+      "title": "YouTube Will Soon Let Creators Make Shorts Using Their AI Likeness",
+      "link": "https://www.cnet.com/tech/services-and-software/youtube-will-soon-let-creators-make-shorts-using-their-ai-likeness/",
+      "summary": "YouTube is set to introduce a feature allowing creators to generate Shorts using their AI likeness, positioning artificial intelligence as a tool for creative expression rather than a replacement for human input. This development could significantly alter content creation dynamics on the platform.",
+      "source": "CNET"
     },
     {
-      "title": "The Future of Sony's Audio Products",
-      "link": "https://www.zdnet.com/article/sony-linkbuds-clip-cushions-review/",
-      "summary": "Sony's latest audio products, including the LinkBuds Clip, showcase innovative designs aimed at enhancing user comfort and experience. As the market for audio devices evolves, Sony's roadmap indicates a commitment to integrating user feedback into future designs. This approach could solidify Sony's position in the competitive audio market.",
-      "source": "ZDNet"
-    },
-    {
-      "title": "The Role of Linux in AI Development",
-      "link": "https://www.zdnet.com/article/why-ai-runs-on-linux/",
-      "summary": "Linux remains the backbone of AI development, powering major AI frameworks and tools. The article explores why Linux is preferred for AI applications, emphasizing its stability, flexibility, and community support. This insight underscores the critical role of open-source software in advancing AI technologies.",
-      "source": "ZDNet"
-    },
-    {
-      "title": "Cars Recovered from Ocean After Floods",
-      "link": "https://www.abc.net.au/news/2026-01-22/floods-great-ocean-road-cars-recovered-by-helicopter/106257270",
-      "summary": "In a dramatic recovery operation, emergency services retrieved vehicles from the ocean along Victoria's Great Ocean Road following severe flooding. This operation highlights the challenges faced by communities in the aftermath of natural disasters and the resilience of emergency responders. The recovery efforts are crucial for assessing damage and restoring normalcy.",
-      "source": "ABC News"
+      "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
+      "link": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
+      "summary": "Apple is reportedly working on an AI wearable device, potentially set for release in 2027. This move signals Apple's commitment to staying competitive in the rapidly evolving AI landscape, following similar innovations by companies like OpenAI.",
+      "source": "TechCrunch"
     }
   ]
 }
