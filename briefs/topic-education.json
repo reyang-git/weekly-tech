@@ -1,56 +1,32 @@
 {
-  "generatedAt": "2026-01-21T22:47:37.863Z",
+  "generatedAt": "2026-01-22T04:44:57.670Z",
   "topic": "education",
-  "weekOf": "2026-01-21",
-  "lead": "Education continues to evolve with the influence of technology and the recognition of historical contributions in the field. From the obsolescence of legacy software in enterprise environments to the celebration of pioneering figures like Dr. Gladys West, the landscape of education is shaped by both innovation and recognition of past achievements.",
+  "weekOf": "2026-01-22",
+  "lead": "Education is evolving rapidly in response to technological advancements, societal needs, and the legacy of influential figures in the field. This brief explores recent developments and historical contributions that shape the landscape of education today.",
   "stories": [
     {
       "title": "Last rites for perpetual enterprise software licenses?",
       "link": "https://www.cio.com/article/4119144/last-rites-for-perpetual-enterprise-software-licenses.html",
-      "summary": "The article discusses the inevitable end of perpetual enterprise software licenses, emphasizing the shift towards cloud-based solutions. As legacy systems become unsupported, organizations face increased risks and costs. The transition to subscription models is framed not just as a business strategy but as a necessary engineering practice to ensure security and functionality in a rapidly changing technological landscape.",
+      "summary": "The shift from perpetual enterprise software licenses to cloud-based SaaS models is reshaping the educational technology landscape. As organizations face the end of availability for legacy software, the need for modern solutions that enhance cybersecurity and functionality becomes critical. This transition reflects broader trends in education where technology must adapt to meet evolving demands and improve operational efficiency.",
       "source": "CIO"
     },
     {
       "title": "Dr. Gladys West, whose mathematical models inspired GPS, dies at 95",
       "link": "https://www.engadget.com/science/dr-gladys-west-whose-mathematical-models-inspired-gps-dies-at-95-234605023.html?src=rss",
-      "summary": "Dr. Gladys West, a pioneering mathematician whose work laid the groundwork for GPS technology, has passed away at 95. Despite facing systemic barriers, she excelled in mathematics and contributed significantly to satellite data modeling. Her legacy highlights the importance of recognizing contributions from diverse figures in STEM, especially women of color, who have historically been overlooked.",
+      "summary": "Dr. Gladys West, a pioneering mathematician whose work laid the foundation for GPS technology, has passed away. Her contributions highlight the importance of representation in STEM fields, especially for women of color. West's story serves as an inspiration for future generations in education, emphasizing the need for diverse role models in mathematics and technology.",
       "source": "Engadget"
     },
     {
-      "title": "The Role of Technology in Modern Education",
-      "link": "https://www.edutopia.org/article/role-technology-modern-education",
-      "summary": "This article explores how technology has transformed education, making learning more accessible and engaging. Tools like online platforms and interactive software allow for personalized learning experiences. The integration of technology in classrooms is essential for preparing students for a digital future, emphasizing the need for educators to adapt to these changes.",
-      "source": "Edutopia"
+      "title": "He called himself an ‘untouchable hacker god’. But who was behind the biggest crime Finland has ever known?",
+      "link": "https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes",
+      "summary": "The Vastaamo hack in Finland exposed sensitive therapy notes of thousands, raising serious concerns about data security in educational settings. This incident underscores the vulnerabilities that educational institutions face in protecting personal information, especially as they increasingly rely on digital platforms for mental health services and student records.",
+      "source": "The Guardian"
     },
     {
-      "title": "Innovative Teaching Methods for the 21st Century",
-      "link": "https://www.educationweek.org/teaching-learning/innovative-teaching-methods-for-the-21st-century/2023/01",
-      "summary": "Education Week discusses various innovative teaching methods that are reshaping classrooms today. Techniques such as project-based learning and flipped classrooms encourage critical thinking and collaboration among students. These approaches are essential in fostering a learning environment that meets the demands of modern society.",
-      "source": "Education Week"
-    },
-    {
-      "title": "The Importance of STEM Education",
-      "link": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2023/02/15/the-importance-of-stem-education/",
-      "summary": "Forbes highlights the critical role of STEM education in preparing students for future careers. As technology continues to advance, a strong foundation in science, technology, engineering, and mathematics is vital. The article advocates for increased investment in STEM programs to ensure students are equipped with the necessary skills to thrive in a tech-driven economy.",
-      "source": "Forbes"
-    },
-    {
-      "title": "How to Foster a Growth Mindset in Students",
-      "link": "https://www.teachthought.com/learning/growth-mindset-students/",
-      "summary": "TeachThought provides insights on fostering a growth mindset among students, which is crucial for their academic and personal development. Encouraging resilience and a love for learning can lead to better outcomes in education. The article outlines practical strategies for educators to implement this mindset in their teaching practices.",
-      "source": "TeachThought"
-    },
-    {
-      "title": "The Future of Online Learning",
-      "link": "https://www.insidehighered.com/news/2023/03/10/future-online-learning",
-      "summary": "Inside Higher Ed examines the future of online learning, particularly in the wake of the pandemic. As institutions adapt to hybrid models, the importance of maintaining engagement and quality in online education is emphasized. The article discusses trends and challenges that will shape the landscape of higher education moving forward.",
-      "source": "Inside Higher Ed"
-    },
-    {
-      "title": "The Impact of Artificial Intelligence on Education",
-      "link": "https://www.edsurge.com/news/2023/04/05/the-impact-of-artificial-intelligence-on-education",
-      "summary": "EdSurge explores how artificial intelligence is revolutionizing education, from personalized learning experiences to administrative efficiencies. AI tools are being integrated into classrooms to enhance teaching and learning processes. The article also addresses the ethical considerations and challenges that come with implementing AI in educational settings.",
-      "source": "EdSurge"
+      "title": "Elon Musk’s stubborn spin on Grok’s sexualized images controversy",
+      "link": "https://www.theguardian.com/technology/2026/jan/12/elon-musk-grok-ai-images-california-tax-bill",
+      "summary": "Elon Musk's recent comments on AI tools and their implications for education highlight the ongoing debate about technology's role in learning environments. The proposed California tax aimed at funding education and social services also reflects the growing intersection of technology, policy, and educational funding, prompting discussions about equitable access to resources.",
+      "source": "The Guardian"
     }
   ]
 }
