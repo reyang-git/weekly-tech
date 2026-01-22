@@ -33,14 +33,21 @@ jobs:
           git add briefs/
           git diff --quiet && git diff --staged --quiet || git commit -m "Update ${{ matrix.topic }} brief"
       
-      - name: Commit and push
+      - name: Commit and push with retry
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add briefs/
           git diff --quiet && git diff --staged --quiet || git commit -m "Update ${{ matrix.topic }} brief"
           
-          # Retry push up to 5 times with delays
-          for i in {1..5}; do
-            git pull --rebase origin main && git push && break || sleep 10
+          # Retry push up to 10 times
+          for i in 1 2 3 4 5 6 7 8 9 10; do
+            if git pull --rebase origin main && git push; then
+              echo "Successfully pushed on attempt $i"
+              exit 0
+            fi
+            echo "Push failed, retrying in 15 seconds... (attempt $i/10)"
+            sleep 15
           done
+          echo "Failed to push after 10 attempts"
+          exit 1
