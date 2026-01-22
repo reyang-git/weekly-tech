@@ -1,56 +1,32 @@
 {
-  "generatedAt": "2026-01-22T04:44:57.999Z",
+  "generatedAt": "2026-01-22T05:02:58.161Z",
   "topic": "robotics",
   "weekOf": "2026-01-22",
-  "lead": "Robotics technology is rapidly evolving, with significant advancements being made in various sectors, including AI and automation, as seen in recent funding initiatives and corporate shifts.",
+  "lead": "Robotics continues to be a pivotal area of technological advancement, with significant developments in funding, corporate strategies, and global competition.",
   "stories": [
     {
-      "title": "The robotics explosion: Living in the Chinese Century",
+      "title": "23 Ways You’re Already Living in the Chinese Century",
       "link": "https://www.wired.com/china-issue/",
-      "summary": "The article discusses how China is leading a robotics revolution, showcasing advancements that surpass those in the United States. It highlights the integration of robotics in various industries, emphasizing the implications for global competitiveness and technological innovation. As robotics becomes a cornerstone of China's economic strategy, the U.S. faces challenges in keeping pace.",
-      "source": "WIRED"
+      "summary": "The article explores various aspects of modern life influenced by China's rapid advancements, particularly in robotics. It highlights how China has outpaced the U.S. in several technological sectors, including robotics, showcasing a future where these innovations could redefine global standards. The implications for the U.S. and the global economy are profound, as robotics becomes a central pillar of competition.",
+      "source": "Wired"
     },
     {
-      "title": "ASUS shifts focus towards AI and robotics",
+      "title": "ASUS will not release any new smartphones this year",
       "link": "https://www.engadget.com/mobile/smartphones/asus-will-not-release-any-new-smartphones-this-year-213043832.html?src=rss",
-      "summary": "ASUS has announced it will not release new smartphones this year, indicating a strategic pivot towards AI and robotics. Chairman Jonney Shih hinted at a future involving smartglasses and robotics projects, reflecting a broader trend in the tech industry where companies are increasingly investing in AI-driven technologies. This shift could redefine ASUS's market presence and product offerings.",
+      "summary": "ASUS is pivoting away from smartphones, with Chairman Jonney Shih hinting at a future focus on AI and robotics. This shift indicates a broader trend in the tech industry where companies are increasingly investing in robotics and AI technologies. While ASUS's current smartphones will still receive updates, the company's future may lie in developing innovative robotics solutions.",
       "source": "Engadget"
     },
     {
-      "title": "Europe's €307 million AI funding call",
+      "title": "Europe’s €307 million AI funding call",
       "link": "https://thenextweb.com/news/europes-e307-million-ai-funding-call",
-      "summary": "The European Commission has launched a €307.3 million funding initiative aimed at promoting trustworthy AI, robotics, and other advanced technologies. This funding is part of a broader strategy to enhance digital autonomy in Europe. While the amount may seem modest compared to private sector investments, it represents a significant commitment to fostering innovation in robotics and AI.",
+      "summary": "The European Commission has launched a €307 million funding initiative aimed at advancing AI and robotics, among other technologies. This strategic funding is part of a broader effort to enhance Europe's digital autonomy and promote trustworthy AI. While the amount may seem modest compared to private sector investments, it signifies a commitment to fostering innovation in robotics and related fields.",
       "source": "The Next Web"
     },
     {
-      "title": "Elon Musk's views on AI and robotics at CES",
+      "title": "Elon Musk’s stubborn spin on Grok’s sexualized images controversy",
       "link": "https://www.theguardian.com/technology/2026/jan/12/elon-musk-grok-ai-images-california-tax-bill",
-      "summary": "Elon Musk discussed the intersection of AI and robotics during the Consumer Electronics Showcase, emphasizing how these technologies are revitalizing industries. Despite controversies surrounding AI tools, Musk remains optimistic about their potential. The event showcased numerous innovations in robotics, highlighting their growing importance in consumer technology.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "The future of robotics in the workplace",
-      "link": "https://www.technologyreview.com/2026/01/15/robotics-in-workplace/",
-      "summary": "This article explores the impact of robotics on the future workplace, emphasizing automation's role in enhancing productivity and efficiency. With advancements in AI, robots are becoming more capable of performing complex tasks alongside humans. The integration of robotics is expected to transform job roles and create new opportunities in various sectors.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "How robotics is changing healthcare",
-      "link": "https://www.healthcareitnews.com/news/how-robotics-changing-healthcare",
-      "summary": "Robotics is making significant inroads in healthcare, with applications ranging from surgical robots to patient care assistants. This article discusses the benefits and challenges of integrating robotics into medical practices, highlighting improved patient outcomes and operational efficiencies. The future of healthcare may heavily rely on these technological advancements.",
-      "source": "Healthcare IT News"
-    },
-    {
-      "title": "Robotics in agriculture: A growing trend",
-      "link": "https://www.agriculture.com/news/technology/robotics-in-agriculture",
-      "summary": "The agricultural sector is increasingly adopting robotics to enhance productivity and sustainability. This article examines various robotic applications in farming, including autonomous tractors and drones for crop monitoring. As farmers face labor shortages and environmental challenges, robotics offers innovative solutions to meet these demands.",
-      "source": "Agriculture.com"
-    },
-    {
-      "title": "The role of robotics in disaster response",
-      "link": "https://www.disasterresponse.com/robotics-in-disaster-response",
-      "summary": "Robotics is playing a crucial role in disaster response efforts, providing capabilities that enhance search and rescue operations. This article highlights various robotic technologies used in emergencies, such as drones and ground robots, which improve safety and efficiency. The integration of robotics in disaster management is becoming increasingly vital as natural disasters become more frequent.",
-      "source": "Disaster Response"
+      "summary": "Elon Musk has been vocal about the role of AI and robotics in revitalizing the tech landscape, particularly at events like CES. The discussion around his AI tool, Grok, highlights the ongoing challenges and ethical considerations in the integration of AI and robotics into society. As tech billionaires navigate regulatory changes, the future of robotics remains a critical area of focus.",
+      "source": "The Guardian Australia"
     }
   ]
 }
