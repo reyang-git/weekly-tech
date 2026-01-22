@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-01-22T04:45:01.394Z",
+  "generatedAt": "2026-01-22T05:02:54.779Z",
   "topic": "climate",
   "weekOf": "2026-01-22",
-  "lead": "Recent developments in climate technology and policy highlight the intersection of innovation and environmental responsibility, from electric vehicles to energy financing.",
+  "lead": "Recent developments in climate technology and policy highlight the intersection of innovation and environmental responsibility, from electric vehicles to real estate climate risk assessments.",
   "stories": [
     {
       "title": "Volvo’s EX60 Promises 400-mile Range in a More Competitive EV Climate",
       "link": "https://gizmodo.com/volvos-ex60-promises-400-mile-range-in-a-more-competitive-ev-climate-2000712520",
-      "summary": "Volvo's latest electric SUV, the EX60, aims to compete in the growing EV market with a promising 400-mile range. The vehicle incorporates advanced features such as integrated AI and Nvidia-powered infotainment systems, reflecting the increasing integration of technology in sustainable transportation. This move aligns with the broader push for more efficient and environmentally friendly vehicles.",
+      "summary": "Volvo's new electric SUV, the EX60, aims to redefine the electric vehicle market with a promised range of 400 miles. Featuring advanced technology like HugInCore and Nvidia-powered infotainment, this vehicle is positioned to compete effectively in an increasingly crowded EV landscape. The EX60 reflects the automotive industry's shift towards sustainable transportation.",
       "source": "Gizmodo"
     },
     {
       "title": "Zillow removed climate risk scores. This climate expert is restoring them.",
       "link": "https://arstechnica.com/science/2026/01/zillow-removed-climate-risk-scores-this-climate-expert-is-restoring-them/",
-      "summary": "In a significant move for real estate transparency, climate expert Dr. Amy McCulloch is working to reinstate climate risk scores on Zillow after the platform removed them under pressure. These scores are crucial for informing buyers about potential climate-related risks associated with properties, highlighting the importance of climate data in real estate decisions. This initiative underscores the growing recognition of climate risks in market dynamics.",
+      "summary": "In a controversial move, Zillow removed climate risk scores from its listings, prompting backlash from climate experts. A prominent climate researcher is now working to reinstate these scores to provide potential homebuyers with crucial information regarding climate-related risks. This initiative highlights the importance of transparency in real estate amid growing climate concerns.",
       "source": "Ars Technica"
     },
     {
-      "title": "Berlin’s Cloover secures over $1.2 Billion to build the 'Shopify of Energy'",
+      "title": "Berlin’s Cloover secures over $1.2 Billion to build the “Shopify of Energy”",
       "link": "https://thenextweb.com/news/berlins-cloover-secures-over-1-2-billion-to-build-the-shopify-of-energy",
-      "summary": "Cloover, a Berlin-based climate fintech, has successfully secured over $1.2 billion in funding to enhance its energy software and financing platform. This funding, which includes significant equity and a major debt facility, positions Cloover to play a pivotal role in Europe's energy transition. The initiative reflects a growing trend of financial investment in sustainable energy solutions.",
+      "summary": "Cloover, a Berlin-based climate fintech, has raised over $1.2 billion to develop a platform aimed at revolutionizing the energy sector. This funding includes significant equity and a substantial debt facility, which will be used to enhance their software and financing solutions for energy transition. Cloover's initiative represents a significant step towards integrating technology with sustainable energy practices.",
       "source": "The Next Web"
     }
   ]
