@@ -1,68 +1,74 @@
 {
-  "generatedAt": "2026-01-22T05:24:43.788Z",
-  "weekOf": "2026-01-22",
-  "lead": "This week, the tech world is buzzing with debates over AI ethics, new social media features, and the future of personal devices.",
+  "generatedAt": "2026-01-25T22:42:33.166Z",
+  "weekOf": "2026-01-25",
+  "lead": "This week in tech highlights the intersection of AI, gaming, and ongoing debates surrounding technology's societal impact.",
   "themes": [
-    "AI Ethics",
-    "Social Media Innovations",
-    "Virtual Reality",
-    "Consumer Technology",
-    "Future of Work"
+    "Artificial Intelligence",
+    "Gaming",
+    "Cryptocurrency",
+    "Technology Ethics",
+    "Software Updates"
   ],
   "stories": [
     {
-      "title": "Hundreds of creatives warn against an AI slop future",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
-      "summary": "Around 800 artists, writers, and musicians have united in a campaign called 'Stealing Isn't Innovation' to protest against AI companies they accuse of stealing creative content. Notable signatories include authors George Saunders and Jodi Picoult, and musicians like R.E.M. The campaign highlights concerns over the ethical implications of AI in creative fields, emphasizing the need for proper licensing and respect for human artistry.",
-      "source": "The Verge"
+      "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
+      "link": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
+      "summary": "Information from Grokipedia, an AI-generated encyclopedia created by Elon Musk's xAI, is starting to influence responses from ChatGPT. This development raises questions about the reliability and bias of AI sources, especially given Grokipedia's conservative leanings. The integration of such content into popular AI tools like ChatGPT could impact how users perceive information.",
+      "source": "TechCrunch"
     },
     {
-      "title": "X is also launching Bluesky-like starter packs",
-      "link": "https://www.engadget.com/social-media/x-is-also-launching-bluesky-like-starter-packs-050057033.html?src=rss",
-      "summary": "X, formerly known as Twitter, is introducing a feature called 'Starterpacks' that curates account recommendations for new users based on their interests. This move mirrors a similar feature from Bluesky, which allows users to create their own packs. The competition among social media platforms to enhance user experience continues as they adopt features from one another.",
+      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+      "link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+      "summary": "A new startup, Humans&, founded by alumni from major tech firms, aims to develop AI models that enhance collaboration rather than just conversation. Their approach focuses on improving how AI can assist in coordinating tasks among teams, marking a shift towards practical applications of AI in workplace settings. This could redefine productivity tools and team dynamics.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "It Turns Out Crypto’s Stablecoin Adoption is Around 1% of Previous Estimates",
+      "link": "https://gizmodo.com/it-turns-out-cryptos-stablecoin-adoption-is-around-1-of-previous-estimates-2000713814",
+      "summary": "Recent analyses reveal that the actual adoption rate of stablecoins in cryptocurrency transactions is significantly lower than previously thought, at only about 1%. This discrepancy highlights the challenges facing the crypto market in achieving mainstream acceptance as a payment method. The findings suggest that while blockchain technology is prevalent, its use for everyday transactions remains limited.",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "Science fiction writers, Comic-Con say goodbye to AI",
+      "link": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
+      "summary": "At a recent Comic-Con event, prominent science fiction writers expressed their concerns about generative AI, advocating for a return to human creativity in storytelling. This movement reflects a growing sentiment in the creative community that AI-generated content may dilute the uniqueness of artistic expression. The discussion highlights the ongoing tension between technology and traditional creative processes.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Microsoft releases second emergency Windows 11 update to fix Outlook crashes",
+      "link": "https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html?src=rss",
+      "summary": "Microsoft has issued a second emergency update for Windows 11 to resolve critical issues causing Outlook to crash. This follows a previous update that led to multiple problems, including login failures and shutdown issues. The swift response indicates Microsoft's commitment to maintaining user trust and functionality amidst ongoing software challenges.",
       "source": "Engadget"
     },
     {
-      "title": "How to strip AI from Chrome, Edge, and Firefox with one simple script",
-      "link": "https://www.zdnet.com/article/just-the-browser-tool-more-privacy-less-clutter-chrome-edge-firefox/",
-      "summary": "A new tool has emerged that allows users to remove unwanted AI features from popular web browsers like Chrome, Edge, and Firefox. As browsers become increasingly bloated with AI functionalities, this script offers a way to revert back to a simpler, more streamlined browsing experience, appealing to users who prioritize privacy and efficiency.",
+      "title": "‘Halo’ Actor Steve Downes Asks You Not to Remake His Voice with AI",
+      "link": "https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343",
+      "summary": "Steve Downes, the voice behind Master Chief in the Halo franchise, has publicly requested that his voice not be recreated using AI for fan projects. This highlights the ethical considerations surrounding the use of AI in creative fields, particularly regarding consent and the preservation of artistic integrity. The conversation is part of a broader dialogue on the implications of AI in entertainment.",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "Apple reportedly plans to reveal its Gemini-powered Siri in February",
+      "link": "https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html?src=rss",
+      "summary": "Apple is set to unveil a new version of Siri powered by Google's Gemini technology, aiming to enhance its AI capabilities. This new assistant is expected to behave more like an AI chatbot, potentially transforming user interaction with Apple devices. The announcement is anticipated to take place in February, with broader implications for AI integration in consumer technology.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Flight Cancellations Hit Record High As Winter Storm Rages On",
+      "link": "https://gizmodo.com/flight-cancellations-hit-record-high-as-winter-storm-rages-on-2000713792",
+      "summary": "Severe winter storms have led to unprecedented flight cancellations across North America, affecting thousands of travelers. The extreme weather conditions have not only disrupted air travel but also raised concerns about the resilience of transportation infrastructure during climate-related events. This situation underscores the need for improved preparedness in the face of natural disasters.",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "Best Buy is selling last year's LG OLED TV for 50% off right now, and it's a top choice for me",
+      "link": "https://www.zdnet.com/article/best-buy-lg-b5-oled-tv-deal/",
+      "summary": "Best Buy is currently offering a significant discount on last year's LG OLED TV, making it an attractive option for consumers looking to upgrade their home entertainment systems. The sale reflects ongoing trends in the electronics market where older models are being sold at reduced prices as newer models are introduced. This could be a great opportunity for budget-conscious buyers.",
       "source": "ZDNet"
     },
     {
-      "title": "eBay updates legalese to ban AI-powered shop-bots",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/ebay_updates_legalese_to_ban/",
-      "summary": "eBay has revised its terms of service to explicitly prohibit the use of AI-powered shop-bots on its platform. This decision comes in response to concerns over fairness and the potential for automated systems to disrupt the marketplace. The move reflects a growing trend among online platforms to regulate AI usage to protect human sellers.",
-      "source": "The Register"
-    },
-    {
-      "title": "Goodbye, VirtualBox - I found a better, more reliable VM manager for Linux",
-      "link": "https://www.zdnet.com/article/virt-manager-better-more-reliable-vm-manager-than-virtualbox/",
-      "summary": "A review of Virt-Manager highlights it as a superior alternative to VirtualBox for managing virtual machines on Linux. The article discusses its user-friendly interface and reliability, making it an appealing choice for those looking to enhance their virtualization experience. This shift could influence how Linux users manage their virtual environments.",
-      "source": "ZDNet"
-    },
-    {
-      "title": "iOS 27 may be the death of Siri as we know it, but we'll be happy with what it becomes",
-      "link": "https://www.zdnet.com/article/apple-turning-siri-into-chatgpt-chatbot-ai-ios-27-iphone-mac-ipad/",
-      "summary": "Apple is reportedly transforming Siri into a more advanced AI chatbot for iOS 27, potentially changing how users interact with their devices. This evolution aims to enhance user experience by providing more sophisticated responses and functionalities, aligning Siri more closely with competitors like OpenAI's ChatGPT.",
-      "source": "ZDNet"
-    },
-    {
-      "title": "Testing the Claude AI coworker",
-      "link": "https://www.smh.com.au/technology/testing-the-claude-ai-coworker-20260122-p5nw7g.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "Anthropic's new AI agent, Claude, aims to function as a collaborative coworker, integrating into workplace environments. The testing phase reveals its potential to assist with various tasks while raising questions about the future of human-AI collaboration in professional settings.",
-      "source": "Sydney Morning Herald"
-    },
-    {
-      "title": "YouTube Will Soon Let Creators Make Shorts Using Their AI Likeness",
-      "link": "https://www.cnet.com/tech/services-and-software/youtube-will-soon-let-creators-make-shorts-using-their-ai-likeness/",
-      "summary": "YouTube is set to introduce a feature allowing creators to generate Shorts using their AI likeness, positioning artificial intelligence as a tool for creative expression rather than a replacement for human input. This development could significantly alter content creation dynamics on the platform.",
-      "source": "CNET"
-    },
-    {
-      "title": "Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable",
-      "link": "https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/",
-      "summary": "Apple is reportedly working on an AI wearable device, potentially set for release in 2027. This move signals Apple's commitment to staying competitive in the rapidly evolving AI landscape, following similar innovations by companies like OpenAI.",
-      "source": "TechCrunch"
+      "title": "Creators and communities everywhere take a stand against ICE",
+      "link": "https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice",
+      "summary": "In light of recent events involving federal agents, various creators and communities have begun to voice their opposition to ICE. This movement reflects a growing trend of activism within social media, where even non-political accounts are engaging in discussions about social justice. The shift indicates a broader societal awareness and response to governmental actions.",
+      "source": "The Verge"
     }
   ]
 }
