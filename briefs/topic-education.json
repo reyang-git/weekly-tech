@@ -1,32 +1,14 @@
 {
-  "generatedAt": "2026-01-22T05:02:54.107Z",
+  "generatedAt": "2026-01-26T05:06:24.073Z",
   "topic": "education",
-  "weekOf": "2026-01-22",
-  "lead": "Exploring the intersection of technology and education, this brief highlights significant developments and figures shaping the future of learning and innovation.",
+  "weekOf": "2026-01-26",
+  "lead": "Innovative approaches to education are emerging, leveraging technology and AI to enhance learning experiences for children and adults alike.",
   "stories": [
     {
-      "title": "Last rites for perpetual enterprise software licenses?",
-      "link": "https://www.cio.com/article/4119144/last-rites-for-perpetual-enterprise-software-licenses.html",
-      "summary": "The shift from perpetual enterprise software licenses to cloud-based solutions is becoming inevitable as legacy systems face end-of-life challenges. Organizations are grappling with the costs and complexities of maintaining outdated software, which can hinder innovation and security. This transition is not merely a financial decision but an engineering necessity to ensure functionality and security in a rapidly evolving technological landscape.",
-      "source": "CIO"
-    },
-    {
-      "title": "Dr. Gladys West, whose mathematical models inspired GPS, dies at 95",
-      "link": "https://www.engadget.com/science/dr-gladys-west-whose-mathematical-models-inspired-gps-dies-at-95-234605023.html?src=rss",
-      "summary": "Dr. Gladys West, a pioneering mathematician whose work was foundational to the development of GPS technology, has passed away at 95. Despite facing significant racial barriers, she excelled in mathematics and contributed to critical advancements in satellite data modeling. Her legacy highlights the importance of recognizing diverse contributions in STEM fields and the impact of education on technological progress.",
-      "source": "Engadget"
-    },
-    {
-      "title": "He called himself an ‘untouchable hacker god’. But who was behind the biggest crime Finland has ever known?",
-      "link": "https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes",
-      "summary": "The Vastaamo hack exposed sensitive therapy notes of thousands of Finnish individuals, raising serious concerns about data privacy and security in digital education and healthcare. This incident underscores the vulnerabilities present in online systems and the need for robust cybersecurity measures to protect personal information, especially in sensitive sectors like education and mental health.",
-      "source": "The Guardian Australia"
-    },
-    {
-      "title": "Elon Musk’s stubborn spin on Grok’s sexualized images controversy",
-      "link": "https://www.theguardian.com/technology/2026/jan/12/elon-musk-grok-ai-images-california-tax-bill",
-      "summary": "Elon Musk's recent comments on Grok's AI image generation controversy highlight the ongoing debates surrounding AI technology's role in education and society. As tech leaders navigate ethical challenges, discussions also touch on proposed taxes aimed at funding educational and social programs, emphasizing the intersection of technology, education, and public policy.",
-      "source": "The Guardian Australia"
+      "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
+      "link": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
+      "summary": "A trio of former Google employees has launched Sparkli, an AI-driven learning app aimed at engaging children with modern educational concepts. The app focuses on essential skills like design, financial literacy, and entrepreneurship, addressing the gap in traditional education systems. By creating interactive learning experiences, Sparkli hopes to inspire the next generation of learners.",
+      "source": "TechCrunch"
     }
   ]
 }
