@@ -1,38 +1,32 @@
 {
-  "generatedAt": "2026-01-22T05:02:55.523Z",
+  "generatedAt": "2026-01-26T05:06:24.044Z",
   "topic": "quantum",
-  "weekOf": "2026-01-22",
-  "lead": "Exploring the latest advancements and applications in quantum technology and AI, from SpaceX's ambitions to innovative gaming narratives.",
+  "weekOf": "2026-01-26",
+  "lead": "Quantum computing is emerging as a significant threat to various sectors, including cryptocurrency and law enforcement, prompting organizations to adapt and innovate.",
   "stories": [
     {
-      "title": "Elon Musk is reportedly trying to take SpaceX public",
-      "link": "https://www.engadget.com/science/space/elon-musk-is-reportedly-trying-to-take-spacex-public-170337053.html?src=rss",
-      "summary": "Elon Musk is considering taking SpaceX public to fund ambitious projects, including building AI data centers in space. This move comes as competition heats up in the AI sector, with rivals like Google and OpenAI also exploring similar ventures. The challenges of establishing data centers in space include overcoming issues related to latency and radiation, but Musk's plans could revolutionize how AI infrastructure is managed.",
-      "source": "Engadget"
+      "title": "Coinbase Makes Preparations to Face Crypto’s Quantum Computing Threat",
+      "link": "https://gizmodo.com/coinbase-makes-preparations-to-face-cryptos-quantum-computing-threat-2000713591",
+      "summary": "As fears grow about quantum computing's potential to undermine blockchain security, Coinbase is taking proactive measures to safeguard its operations. The company is exploring advanced cryptographic techniques to counteract the vulnerabilities that quantum technology may exploit. This move reflects a broader industry trend as businesses prepare for the disruptive impact of quantum advancements.",
+      "source": "Gizmodo"
     },
     {
-      "title": "Small language models: Why specialized AI agents boost resilience and protect privacy",
-      "link": "https://www.cio.com/article/4119259/small-language-models-why-specialized-ai-agents-boost-resilience-and-protect-privacy.html",
-      "summary": "The recent AWS outage highlighted vulnerabilities in centralized AI infrastructures, prompting a shift towards specialized, on-device AI agents. This approach enhances resilience, privacy, and operational efficiency by distributing AI capabilities closer to users. As organizations move towards smaller, task-specific models, the architecture of AI is set to evolve significantly, ensuring better compliance and reduced risks associated with data handling.",
+      "title": "CBP Wants AI-Powered ‘Quantum Sensors’ for Finding Fentanyl in Cars",
+      "link": "https://www.wired.com/story/cbp-wants-ai-powered-quantum-sensors-for-finding-fentanyl-in-cars/",
+      "summary": "US Customs and Border Protection is collaborating with General Dynamics to develop AI-powered quantum sensors aimed at detecting fentanyl and other narcotics in vehicles. This innovative approach combines quantum technology with artificial intelligence to enhance drug detection capabilities at border checkpoints. The initiative represents a significant leap in using advanced technology to tackle pressing public safety issues.",
+      "source": "Wired"
+    },
+    {
+      "title": "Shining light on the dark side of emerging tech",
+      "link": "https://www.cio.com/article/4120742/shining-light-on-the-dark-side-of-emerging-tech.html",
+      "summary": "The emergence of AI and quantum technologies brings both opportunities and challenges, particularly in cybersecurity. As cybercriminals increasingly utilize AI for sophisticated attacks, organizations must bolster their defenses against evolving threats. The report emphasizes the need for comprehensive cybersecurity strategies that incorporate advanced technologies to mitigate risks effectively.",
       "source": "CIO"
     },
     {
       "title": "TR-49 review – inventive narrative deduction game steeped in the strangest of wartime secrets",
       "link": "https://www.theguardian.com/games/2026/jan/21/tr-49-review-inventive-narrative-deduction-game-steeped-in-the-strangest-of-wartime-secrets",
-      "summary": "The game TR-49 merges narrative deduction with themes of quantum computing and wartime secrets. Players engage with a fictional archive that reveals clues through a unique machine, reflecting on the historical significance of codebreaking and advanced technology. This innovative gameplay not only entertains but also educates players about the complexities of quantum theories and their implications.",
+      "summary": "The game TR-49 intertwines quantum computing concepts with a narrative set during a fictional wartime scenario. Players engage with a machine that processes esoteric texts, including those on quantum mechanics, to uncover secrets. This unique blend of gaming and quantum theory highlights the cultural fascination with quantum technology and its implications.",
       "source": "The Guardian"
-    },
-    {
-      "title": "Europe’s €307 million AI funding call",
-      "link": "https://thenextweb.com/news/europes-e307-million-ai-funding-call",
-      "summary": "The European Commission has announced a €307 million funding initiative aimed at fostering trustworthy AI and related technologies, including quantum computing. This strategic push is part of Horizon Europe, emphasizing the need for digital autonomy in Europe. While the funding amount may seem modest compared to global private sector investments, its focus on ethical AI development could have significant long-term impacts.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Sony is handing control of its Bravia TV business to China's TCL",
-      "link": "https://www.engadget.com/home/home-theater/sony-is-handing-control-of-its-bravia-tv-business-to-chinas-tcl-120957252.html?src=rss",
-      "summary": "Sony's decision to transfer control of its Bravia TV business to TCL marks a significant shift in the electronics landscape. This partnership aims to combine Sony's expertise in picture and audio technology with TCL's supply chain efficiencies. The move reflects ongoing challenges in the TV market and highlights the importance of innovation, including advancements in quantum dot technology.",
-      "source": "Engadget"
     }
   ]
 }
