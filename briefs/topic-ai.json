@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-01-22T05:02:54.843Z",
+  "generatedAt": "2026-01-26T05:06:24.207Z",
   "topic": "AI",
-  "weekOf": "2026-01-22",
-  "lead": "The landscape of AI is rapidly evolving, with significant discussions around its ethical implications, technological advancements, and its impact on various industries.",
+  "weekOf": "2026-01-26",
+  "lead": "AI is rapidly transforming various sectors, with significant advancements in collaboration, revenue orchestration, and personal assistant technologies. As companies adapt to these changes, the implications for job markets and ethical considerations are becoming increasingly important.",
   "stories": [
     {
-      "title": "Hundreds of creatives warn against an AI slop future",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/864951/human-artistry-campaign-ai-licensing-artists",
-      "summary": "A coalition of around 800 artists, writers, and musicians has launched a campaign titled 'Stealing Isn't Innovation,' protesting against AI companies for allegedly appropriating creative works without consent. Notable signatories include authors George Saunders and Jodi Picoult, along with actors and musicians. This movement highlights the growing concern over the ethical use of AI in creative fields and the potential dilution of human artistry.",
-      "source": "The Verge"
-    },
-    {
-      "title": "AI hasn't delivered the profits it was hyped for, says Deloitte",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/21/deloitte_enterprises_adopting_ai_revenue_lift/",
-      "summary": "Deloitte's latest report reveals that many businesses have not seen the expected financial returns from their AI investments. The findings suggest a gap between AI's potential and its current performance in generating revenue, prompting companies to reassess their strategies for integrating AI into their operations. This raises questions about the sustainability of AI hype in the business sector.",
-      "source": "The Register"
-    },
-    {
-      "title": "YouTube Will Soon Let Creators Make Shorts Using Their AI Likeness",
-      "link": "https://www.cnet.com/tech/services-and-software/youtube-will-soon-let-creators-make-shorts-using-their-ai-likeness/",
-      "summary": "YouTube is set to introduce a feature that allows creators to generate Shorts using AI representations of themselves. This move is part of a broader trend where platforms are integrating AI tools to enhance user creativity and engagement. YouTube's CEO emphasizes that AI will serve as a tool for expression rather than a replacement for human creativity.",
-      "source": "CNET"
-    },
-    {
-      "title": "Apple plans to make Siri an AI chatbot, report says",
-      "link": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
-      "summary": "Apple is reportedly transforming Siri into a more advanced AI chatbot, akin to ChatGPT. This evolution aims to enhance user interaction across Apple devices, making Siri more conversational and capable of handling complex queries. The anticipated changes reflect a significant shift in how voice assistants are expected to function in the future.",
+      "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
+      "link": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
+      "summary": "Sunny Sethi, a founder known for his innovations in firefighting, is now venturing into AI, aiming to harness its potential for substantial advancements. His new project focuses on developing AI technologies that can revolutionize industries and improve operational efficiencies. This shift highlights the growing trend of entrepreneurs leveraging AI to create new business models.",
       "source": "TechCrunch"
     },
     {
-      "title": "AI networking startup Upscale scores $200M to challenge Nvidia's NVSwitch",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/upscale_skyhammer_nvidia/",
-      "summary": "Upscale, an AI networking startup, has secured $200 million in funding to compete with Nvidia's NVSwitch technology. This investment underscores the increasing demand for advanced networking solutions in AI applications, as companies seek to optimize data processing and machine learning capabilities. Upscale's innovative approach could reshape the competitive landscape of AI networking.",
-      "source": "The Register"
-    },
-    {
-      "title": "OpenAI just unveiled its Google Translate competitor, and ChatGPT already wins in a big way",
-      "link": "https://www.zdnet.com/article/how-to-use-chatgpt-translate-vs-google-translate/",
-      "summary": "OpenAI has launched a new translation tool that competes directly with Google Translate, showcasing the capabilities of ChatGPT. Early reviews indicate that ChatGPT Translate outperforms its competitor in several key areas, highlighting the advancements in AI-driven language processing. This development could significantly impact how users approach translation tasks in the future.",
+      "title": "Nervous about the job market? 5 ways to stand out in the age of AI",
+      "link": "https://www.zdnet.com/article/ai-skills-jobseekers/",
+      "summary": "As AI technologies reshape the job landscape, job seekers are feeling the pressure to adapt. Experts recommend five key skills that can help individuals stand out in an AI-driven market, including data analysis, programming, and critical thinking. These skills are increasingly essential for navigating a workforce where AI plays a significant role.",
       "source": "ZDNet"
     },
     {
-      "title": "Future jobs in AI will come with a hardhat and boots, tech bigshots argue",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/22/future_ai_jobs_tech_bigshots/",
-      "summary": "Industry leaders predict that future jobs in AI will require hands-on skills, emphasizing the need for a workforce that can blend technical knowledge with practical application. This shift suggests that as AI technology evolves, so too will the nature of jobs created by it, moving beyond traditional roles to include more physically demanding positions.",
-      "source": "The Register"
+      "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
+      "link": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
+      "summary": "ChatGPT has begun sourcing information from Grokipedia, an AI-generated encyclopedia created by Elon Musk's xAI. This integration raises questions about the reliability and biases of AI-generated content, as well as the implications of using such sources for information retrieval. The development underscores the evolving relationship between AI and knowledge dissemination.",
+      "source": "TechCrunch"
     },
     {
-      "title": "eBay updates legalese to ban AI-powered shop-bots",
-      "link": "https://www.theregister.com/2026/01/22/ebay_updates_legalese_to_ban/",
-      "summary": "In a move to regulate the use of AI in online shopping, eBay has updated its policies to prohibit AI-powered shop-bots. This decision reflects growing concerns about the impact of AI on fair trading practices and consumer rights, as platforms seek to maintain a level playing field for all users.",
-      "source": "The Register"
+      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+      "link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+      "summary": "A new startup, Humans&, is focusing on enhancing AI's capabilities in coordination rather than just communication. Founded by alumni from major tech companies, the team aims to develop models that facilitate collaboration among AI systems, which could lead to more efficient problem-solving in various fields. This approach suggests a shift in how AI can be utilized beyond traditional applications.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple reportedly plans to reveal its Gemini-powered Siri in February",
+      "link": "https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html?src=rss",
+      "summary": "Apple is set to unveil a new version of Siri powered by Google's Gemini technology, aiming to enhance its functionality and user experience. This update is expected to bring Siri closer to AI chatbot capabilities, reflecting a broader trend in the tech industry towards more interactive and intelligent virtual assistants. The announcement is anticipated to generate significant interest among users.",
+      "source": "Engadget"
+    },
+    {
+      "title": "OpenAI Partners with Major Government Contractor to ‘Transform Federal Operations’",
+      "link": "https://gizmodo.com/openai-partners-with-major-government-contractor-to-transform-federal-operations-2000713751",
+      "summary": "OpenAI has partnered with Leidos, a major government contractor, to enhance federal operations through AI technologies. This collaboration aims to leverage AI for improving efficiency and decision-making in government processes. The partnership highlights the increasing integration of AI in public sector operations and its potential to transform traditional workflows.",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "AI needs to augment rather than replace humans or the workplace is doomed",
+      "link": "https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed",
+      "summary": "Experts argue that AI should be seen as a tool to augment human capabilities rather than replace them. The conversation around AI's role in the workplace emphasizes the need for technology to enhance human experiences and productivity. As AI continues to evolve, ensuring it complements rather than supplants human workers will be crucial for maintaining social acceptance.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "Sam Altman’s make-or-break year: can the OpenAI CEO cash in his bet on the future?",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/25/sam-altman-openai",
+      "summary": "Sam Altman, CEO of OpenAI, is at a pivotal juncture as he seeks to secure massive investments to fuel the company's ambitious AI projects. His vision includes leveraging AI to address global challenges and drive economic growth. The outcome of this year could significantly impact the future trajectory of AI development and its integration into various sectors.",
+      "source": "The Guardian"
     }
   ]
 }
