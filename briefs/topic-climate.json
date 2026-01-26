@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-01-22T05:02:54.779Z",
+  "generatedAt": "2026-01-26T05:06:24.845Z",
   "topic": "climate",
-  "weekOf": "2026-01-22",
-  "lead": "Recent developments in climate technology and policy highlight the intersection of innovation and environmental responsibility, from electric vehicles to real estate climate risk assessments.",
+  "weekOf": "2026-01-26",
+  "lead": "The intersection of technology and climate change is becoming increasingly prominent, with significant investments aimed at addressing environmental challenges and transitioning to sustainable energy solutions.",
   "stories": [
     {
-      "title": "Volvo’s EX60 Promises 400-mile Range in a More Competitive EV Climate",
-      "link": "https://gizmodo.com/volvos-ex60-promises-400-mile-range-in-a-more-competitive-ev-climate-2000712520",
-      "summary": "Volvo's new electric SUV, the EX60, aims to redefine the electric vehicle market with a promised range of 400 miles. Featuring advanced technology like HugInCore and Nvidia-powered infotainment, this vehicle is positioned to compete effectively in an increasingly crowded EV landscape. The EX60 reflects the automotive industry's shift towards sustainable transportation.",
-      "source": "Gizmodo"
+      "title": "Sam Altman’s make-or-break year: can the OpenAI CEO cash in his bet on the future?",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/25/sam-altman-openai",
+      "summary": "Sam Altman, CEO of OpenAI, envisions a future where advancements in AI could tackle climate change among other global challenges. However, his ambitious plans require massive investments, potentially leading to significant energy consumption. As OpenAI expands aggressively, the implications for environmental sustainability are becoming a critical concern.",
+      "source": "The Guardian"
     },
     {
-      "title": "Zillow removed climate risk scores. This climate expert is restoring them.",
-      "link": "https://arstechnica.com/science/2026/01/zillow-removed-climate-risk-scores-this-climate-expert-is-restoring-them/",
-      "summary": "In a controversial move, Zillow removed climate risk scores from its listings, prompting backlash from climate experts. A prominent climate researcher is now working to reinstate these scores to provide potential homebuyers with crucial information regarding climate-related risks. This initiative highlights the importance of transparency in real estate amid growing climate concerns.",
-      "source": "Ars Technica"
+      "title": "Sam Altman’s make-or-break year: can the OpenAI CEO cash in his bet on the future?",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/25/sam-altman-openai",
+      "summary": "Altman's vision for AI includes solving pressing issues like climate change, but the energy demands of his proposed datacenters could outstrip those of entire nations. This raises questions about the environmental impact of such technological advancements and whether the benefits will outweigh the costs.",
+      "source": "The Guardian Australia"
     },
     {
       "title": "Berlin’s Cloover secures over $1.2 Billion to build the “Shopify of Energy”",
       "link": "https://thenextweb.com/news/berlins-cloover-secures-over-1-2-billion-to-build-the-shopify-of-energy",
-      "summary": "Cloover, a Berlin-based climate fintech, has raised over $1.2 billion to develop a platform aimed at revolutionizing the energy sector. This funding includes significant equity and a substantial debt facility, which will be used to enhance their software and financing solutions for energy transition. Cloover's initiative represents a significant step towards integrating technology with sustainable energy practices.",
+      "summary": "Cloover, a Berlin-based climate fintech, has raised over $1.2 billion to develop its platform aimed at revolutionizing the energy sector. This funding will help accelerate the rollout of software and financing solutions that support the transition to renewable energy in Europe, marking a significant step towards sustainable energy practices.",
       "source": "The Next Web"
     }
   ]
