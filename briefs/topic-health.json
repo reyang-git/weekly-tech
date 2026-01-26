@@ -1,55 +1,49 @@
 {
-  "generatedAt": "2026-01-22T05:03:00.983Z",
+  "generatedAt": "2026-01-26T05:06:29.042Z",
   "topic": "health",
-  "weekOf": "2026-01-22",
-  "lead": "Exploring the intersection of technology and health, from AI in healthcare to mental health challenges.",
+  "weekOf": "2026-01-26",
+  "lead": "Exploring the latest developments in health, from exercise benefits to the impact of AI on medical information.",
   "stories": [
     {
-      "title": "Amazon is adding AI-powered assistant to One Medical",
-      "link": "https://www.engadget.com/ai/amazon-is-adding-ai-powered-assistant-to-one-medical-180803368.html?src=rss",
-      "summary": "Amazon's new AI-powered assistant, Health AI, aims to enhance patient care by providing personalized health guidance based on individual medical records. This tool can explain lab results, manage medications, and schedule appointments, while ensuring HIPAA-compliance for privacy. The introduction of AI in healthcare raises questions about the extent of its role and the implications for patient-provider relationships.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Best Indoor Bike Trainers to Push You Toward Your Health Goals in 2026",
-      "link": "https://www.cnet.com/health/fitness/best-indoor-bike-trainer/",
-      "summary": "Indoor bike trainers are becoming essential for fitness enthusiasts looking to maintain their health goals regardless of weather conditions. This guide reviews the best trainers available in 2026, highlighting their features and benefits for effective home workouts. With the rise of remote fitness solutions, these trainers cater to a growing demand for at-home exercise options.",
+      "title": "Does Walking Count as Exercise? Fitness Experts Weigh In",
+      "link": "https://www.cnet.com/health/fitness/does-walking-count-as-exercise/",
+      "summary": "Walking is often underestimated as a form of exercise, yet fitness experts affirm its numerous health benefits. Regular walking can improve cardiovascular health, aid in weight management, and enhance mental well-being. This article discusses how even moderate walking can contribute significantly to overall fitness and health.",
       "source": "CNET"
     },
     {
-      "title": "Surveillance and ICE Are Driving Patients Away From Medical Care, Report Warns",
-      "link": "https://www.wired.com/story/surveillance-and-ice-are-driving-patients-away-from-medical-care-report-warns/",
-      "summary": "A report reveals that surveillance and immigration enforcement are contributing to a health privacy crisis, deterring individuals from seeking necessary medical care. The findings highlight the erosion of trust in healthcare systems, particularly among vulnerable populations, and emphasize the need for protective measures to ensure access to care without fear.",
-      "source": "Wired"
+      "title": "Expert-Approved Continuous Glucose Monitors for Easy Tracking in 2026",
+      "link": "https://www.cnet.com/health/medical/best-continuous-glucose-monitors-according-to-experts/",
+      "summary": "Continuous glucose monitors (CGMs) are becoming essential tools for managing diabetes effectively. This article highlights expert-recommended CGMs for 2026, emphasizing their ease of use and the critical role they play in tracking glucose levels. With advancements in technology, these devices are making diabetes management more accessible and accurate.",
+      "source": "CNET"
     },
     {
-      "title": "Meta Seeks to Bar Mentions of Mental Health—and Zuckerberg’s Harvard Past—From Child Safety Trial",
-      "link": "https://www.wired.com/story/meta-child-safety-trial-ask-judge-bar-mental-health-harvard/",
-      "summary": "In an upcoming trial, Meta is attempting to exclude references to mental health and its CEO Mark Zuckerberg's past from proceedings. This legal maneuver reflects the company's ongoing struggle to manage its reputation amidst growing scrutiny over its impact on youth mental health and safety on social media platforms.",
-      "source": "Wired"
-    },
-    {
-      "title": "My friends in Italy are using AI therapists. But is that so bad, when a stigma surrounds mental health?",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/21/italy-using-ai-therapists-mental-health",
-      "summary": "As mental health services in Italy face significant challenges, many are turning to AI therapists for support. This article discusses the societal stigma surrounding mental health and the acceptance of AI as a viable alternative for those seeking help. The use of AI in therapy raises important questions about privacy, effectiveness, and the future of mental health care.",
+      "title": "How Google AI Overviews is Putting Public Health at Risk",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/24/how-the-confident-authority-of-google-ai-overviews-is-putting-public-health-at-risk",
+      "summary": "A recent study reveals that Google's AI Overviews often cite YouTube more than reputable medical sites for health queries, raising concerns about the reliability of information provided to users. Experts warn that this reliance on less credible sources could lead to misinformation and health risks for the public. The implications of AI in health information dissemination are significant and warrant scrutiny.",
       "source": "The Guardian"
     },
     {
-      "title": "AI initiatives without the risk: My guide to methodology-driven success",
-      "link": "https://www.cio.com/article/4119137/ai-initiatives-without-the-risk-my-guide-to-methodology-driven-success.html",
-      "summary": "The article emphasizes the importance of structured methodologies in implementing AI initiatives within healthcare settings. It argues that clear objectives and operational discipline are crucial for success, particularly in sensitive areas like patient care where data privacy and ethical considerations are paramount.",
-      "source": "CIO"
+      "title": "Can ChatGPT Health Do Better Than 'Dr. Google'?",
+      "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
+      "summary": "As more people turn to AI for medical advice, the effectiveness of platforms like ChatGPT Health is under examination. This article compares the traditional 'Dr. Google' approach with emerging AI technologies, discussing their potential to provide more accurate and personalized health information. The shift towards AI in healthcare raises questions about trust and reliability.",
+      "source": "MIT Technology Review"
     },
     {
-      "title": "Woman admits to threatening to kill former psychiatrist",
-      "link": "https://www.abc.net.au/news/2026-01-22/woman-who-assaulted-psychiatrist-healthcare-workers-remanded-vic/106256858",
-      "summary": "In a troubling case from Victoria, a woman with mental health issues has been remanded to jail after threatening her former psychiatrist. This incident underscores the risks faced by healthcare workers and the urgent need for protective measures in the mental health field, highlighting the intersection of mental illness and violence.",
-      "source": "ABC News"
+      "title": "My Analogue Month: Would Ditching My Smartphone Make Me Healthier?",
+      "link": "https://www.theguardian.com/technology/2026/jan/21/my-analogue-month-would-ditching-my-smartphone-make-me-healthier-happier-or-more-stressed",
+      "summary": "A personal experiment of living without a smartphone reveals insights into the impact of technology on mental health. The author reflects on the distractions and stressors of constant connectivity, suggesting that a break from digital devices may enhance mental well-being and awareness of the surrounding world. This narrative explores the balance between technology use and health.",
+      "source": "The Guardian Australia"
     },
     {
-      "title": "He called himself an ‘untouchable hacker god’. But who was behind the biggest crime Finland has ever known?",
-      "link": "https://www.theguardian.com/technology/2026/jan/17/vastaamo-hack-finland-therapy-notes",
-      "summary": "The Vastaamo hack exposed sensitive therapy notes of thousands of individuals, raising significant concerns about data privacy in mental health services. This breach not only affected the victims but also highlighted the vulnerabilities in the healthcare system regarding data protection and the ethical implications of such hacks.",
+      "title": "The Download: Chatbots for Health and US Fights Over AI Regulation",
+      "link": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
+      "summary": "This edition of The Download discusses the rise of AI chatbots in healthcare, addressing both their potential benefits and the regulatory challenges they face. As AI becomes more integrated into health services, the need for clear guidelines and ethical considerations is becoming increasingly urgent. The conversation highlights the intersection of technology and health policy.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "Wes Streeting Invites Expert to Discuss Social Media Ban for Under-16s",
+      "link": "https://www.theguardian.com/media/2026/jan/14/wes-streeting-asks-expert-jonathan-haidt-address-officials-social-media-ban-for-under-16s",
+      "summary": "UK Health Secretary Wes Streeting is advocating for a potential ban on social media for users under 16, inspired by a similar initiative in Australia. This move aims to address mental health concerns associated with social media use among young people. The discussion reflects growing awareness of the impact of digital environments on youth health.",
       "source": "The Guardian Australia"
     }
   ]
