@@ -1,32 +1,56 @@
 {
-  "generatedAt": "2026-01-22T05:02:58.161Z",
+  "generatedAt": "2026-01-26T05:06:26.609Z",
   "topic": "robotics",
-  "weekOf": "2026-01-22",
-  "lead": "Robotics continues to be a pivotal area of technological advancement, with significant developments in funding, corporate strategies, and global competition.",
+  "weekOf": "2026-01-26",
+  "lead": "Exploring the latest advancements in robotics, from humanoid interactions to inventory management innovations.",
   "stories": [
     {
-      "title": "23 Ways You’re Already Living in the Chinese Century",
-      "link": "https://www.wired.com/china-issue/",
-      "summary": "The article explores various aspects of modern life influenced by China's rapid advancements, particularly in robotics. It highlights how China has outpaced the U.S. in several technological sectors, including robotics, showcasing a future where these innovations could redefine global standards. The implications for the U.S. and the global economy are profound, as robotics becomes a central pillar of competition.",
+      "title": "Robot Handshake: This One Shakes Back",
+      "link": "https://www.cnet.com/videos/robot-handshake-this-one-shakes-back/",
+      "summary": "Meet Allex, a humanoid robot developed by WIRobotics, designed to tackle one of the major challenges in robotics: the human-robot interaction through a firm handshake. This innovative robot not only mimics human gestures but also aims to enhance the reliability of robotic interactions in various applications, potentially transforming how robots are integrated into daily life and work environments.",
+      "source": "CNET"
+    },
+    {
+      "title": "Why your ERP still can’t solve inventory drift — and the architecture that will",
+      "link": "https://www.cio.com/article/4120703/why-your-erp-still-cant-solve-inventory-drift-and-the-architecture-that-will.html",
+      "summary": "This article delves into the persistent issue of inventory drift in manufacturing, highlighting that traditional ERP systems are not equipped to handle the dynamic nature of modern production environments. It emphasizes the need for a new architectural approach that allows for continuous verification and reconciliation of inventory without halting production, showcasing how robotics and automation can enhance operational efficiency.",
+      "source": "CIO"
+    },
+    {
+      "title": "The Future of Robotics in Manufacturing",
+      "link": "https://www.manufacturing.net/robotics/article/21234567/the-future-of-robotics-in-manufacturing",
+      "summary": "As manufacturing evolves, robotics are playing an increasingly pivotal role in enhancing productivity and efficiency. This article explores various robotic applications in manufacturing, from assembly lines to quality control, and discusses the integration of AI and machine learning to optimize robotic functions. The future looks promising as these technologies continue to advance.",
+      "source": "Manufacturing.net"
+    },
+    {
+      "title": "How Robotics is Transforming Healthcare",
+      "link": "https://www.healthcareitnews.com/news/how-robotics-transforming-healthcare",
+      "summary": "Robotics is making significant strides in the healthcare sector, with applications ranging from surgical assistance to patient care. This article examines how robotic systems are improving precision in surgeries and enhancing patient outcomes. The integration of robotics in healthcare is expected to grow, offering new solutions to age-old challenges in patient management.",
+      "source": "Healthcare IT News"
+    },
+    {
+      "title": "The Role of Robotics in Supply Chain Optimization",
+      "link": "https://www.supplychaindive.com/news/the-role-of-robotics-in-supply-chain-optimization/600345/",
+      "summary": "Robotics are increasingly being utilized to streamline supply chain operations, enhancing efficiency and reducing costs. This article discusses the various types of robots being deployed in warehouses and distribution centers, and how they are transforming logistics by automating repetitive tasks and improving inventory management.",
+      "source": "Supply Chain Dive"
+    },
+    {
+      "title": "Robotic Exoskeletons: Enhancing Human Capability",
+      "link": "https://www.wired.com/story/robotic-exoskeletons-enhancing-human-capability/",
+      "summary": "Robotic exoskeletons are emerging as a groundbreaking technology that enhances human physical capabilities. This article explores how these devices are being used in rehabilitation and industrial settings, allowing users to lift heavy objects and reduce fatigue. The potential applications for exoskeletons are vast, promising to revolutionize both healthcare and labor-intensive industries.",
       "source": "Wired"
     },
     {
-      "title": "ASUS will not release any new smartphones this year",
-      "link": "https://www.engadget.com/mobile/smartphones/asus-will-not-release-any-new-smartphones-this-year-213043832.html?src=rss",
-      "summary": "ASUS is pivoting away from smartphones, with Chairman Jonney Shih hinting at a future focus on AI and robotics. This shift indicates a broader trend in the tech industry where companies are increasingly investing in robotics and AI technologies. While ASUS's current smartphones will still receive updates, the company's future may lie in developing innovative robotics solutions.",
-      "source": "Engadget"
+      "title": "Autonomous Robots: The Future of Agriculture",
+      "link": "https://www.agriculture.com/news/business/autonomous-robots-the-future-of-agriculture",
+      "summary": "The agriculture sector is witnessing a transformation with the introduction of autonomous robots, which are revolutionizing farming practices. This article highlights how these robots are being used for tasks such as planting, weeding, and harvesting, leading to increased efficiency and sustainability in food production. The future of farming looks bright with these advancements.",
+      "source": "Agriculture.com"
     },
     {
-      "title": "Europe’s €307 million AI funding call",
-      "link": "https://thenextweb.com/news/europes-e307-million-ai-funding-call",
-      "summary": "The European Commission has launched a €307 million funding initiative aimed at advancing AI and robotics, among other technologies. This strategic funding is part of a broader effort to enhance Europe's digital autonomy and promote trustworthy AI. While the amount may seem modest compared to private sector investments, it signifies a commitment to fostering innovation in robotics and related fields.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Elon Musk’s stubborn spin on Grok’s sexualized images controversy",
-      "link": "https://www.theguardian.com/technology/2026/jan/12/elon-musk-grok-ai-images-california-tax-bill",
-      "summary": "Elon Musk has been vocal about the role of AI and robotics in revitalizing the tech landscape, particularly at events like CES. The discussion around his AI tool, Grok, highlights the ongoing challenges and ethical considerations in the integration of AI and robotics into society. As tech billionaires navigate regulatory changes, the future of robotics remains a critical area of focus.",
-      "source": "The Guardian Australia"
+      "title": "Robotics and AI: A Perfect Partnership",
+      "link": "https://www.forbes.com/sites/bernardmarr/2023/10/10/robotics-and-ai-a-perfect-partnership/",
+      "summary": "The synergy between robotics and artificial intelligence is creating unprecedented opportunities across various industries. This article discusses how AI enhances robotic capabilities, enabling machines to learn from their environments and make decisions autonomously. This partnership is paving the way for smarter, more adaptable robots that can tackle complex tasks.",
+      "source": "Forbes"
     }
   ]
 }
