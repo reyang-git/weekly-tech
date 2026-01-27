@@ -1,49 +1,55 @@
 {
-  "generatedAt": "2026-01-26T05:06:29.042Z",
+  "generatedAt": "2026-01-27T02:26:58.632Z",
   "topic": "health",
-  "weekOf": "2026-01-26",
-  "lead": "Exploring the latest developments in health, from exercise benefits to the impact of AI on medical information.",
+  "weekOf": "2026-01-27",
+  "lead": "Exploring the intersection of technology and health, this brief highlights recent developments in healthcare cybersecurity, investment in health-focused ventures, and the implications of AI on public health.",
   "stories": [
     {
-      "title": "Does Walking Count as Exercise? Fitness Experts Weigh In",
-      "link": "https://www.cnet.com/health/fitness/does-walking-count-as-exercise/",
-      "summary": "Walking is often underestimated as a form of exercise, yet fitness experts affirm its numerous health benefits. Regular walking can improve cardiovascular health, aid in weight management, and enhance mental well-being. This article discusses how even moderate walking can contribute significantly to overall fitness and health.",
-      "source": "CNET"
+      "title": "Tackling the growing cyber threat to Australian healthcare providers",
+      "link": "https://www.itnews.com.au/feature/tackling-the-growing-cyber-threat-to-australian-healthcare-providers-622513?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Cyber attacks on healthcare systems are on the rise, posing significant risks to patient safety and the operational integrity of hospitals. As healthcare providers scramble to enhance their cybersecurity measures, the urgency to protect sensitive patient data and maintain clinical services becomes increasingly critical. This growing threat underscores the need for robust cybersecurity frameworks within the healthcare sector.",
+      "source": "IT News"
     },
     {
-      "title": "Expert-Approved Continuous Glucose Monitors for Easy Tracking in 2026",
-      "link": "https://www.cnet.com/health/medical/best-continuous-glucose-monitors-according-to-experts/",
-      "summary": "Continuous glucose monitors (CGMs) are becoming essential tools for managing diabetes effectively. This article highlights expert-recommended CGMs for 2026, emphasizing their ease of use and the critical role they play in tracking glucose levels. With advancements in technology, these devices are making diabetes management more accessible and accurate.",
-      "source": "CNET"
+      "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
+      "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
+      "summary": "Obvious Ventures has successfully raised $360 million for its fifth fund, focusing on investments that address human, economic, and planetary health. This fund aims to support innovative companies that can create sustainable solutions to pressing global challenges, highlighting the increasing recognition of health as a multifaceted issue intertwined with environmental and economic factors.",
+      "source": "TechCrunch"
     },
     {
-      "title": "How Google AI Overviews is Putting Public Health at Risk",
+      "title": "How the ‘confident authority’ of Google AI Overviews is putting public health at risk",
       "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/24/how-the-confident-authority-of-google-ai-overviews-is-putting-public-health-at-risk",
-      "summary": "A recent study reveals that Google's AI Overviews often cite YouTube more than reputable medical sites for health queries, raising concerns about the reliability of information provided to users. Experts warn that this reliance on less credible sources could lead to misinformation and health risks for the public. The implications of AI in health information dissemination are significant and warrant scrutiny.",
+      "summary": "Google's AI Overviews feature, which provides medical information directly in search results, has raised concerns among experts about the accuracy of its advice. Critics argue that the tool can lead users to misinformation, potentially causing serious health risks. As AI becomes more integrated into health information dissemination, the need for accurate and reliable sources is paramount.",
       "source": "The Guardian"
     },
     {
-      "title": "Can ChatGPT Health Do Better Than 'Dr. Google'?",
+      "title": "Can ChatGPT Health do better than 'Dr. Google'?",
       "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
-      "summary": "As more people turn to AI for medical advice, the effectiveness of platforms like ChatGPT Health is under examination. This article compares the traditional 'Dr. Google' approach with emerging AI technologies, discussing their potential to provide more accurate and personalized health information. The shift towards AI in healthcare raises questions about trust and reliability.",
+      "summary": "With the rise of AI in healthcare, the question arises whether AI-driven tools like ChatGPT Health can provide more reliable medical information compared to traditional online searches. This shift reflects a growing trend where users are increasingly turning to AI for health inquiries, raising questions about the effectiveness and safety of AI-generated health advice.",
       "source": "MIT Technology Review"
     },
     {
-      "title": "My Analogue Month: Would Ditching My Smartphone Make Me Healthier?",
-      "link": "https://www.theguardian.com/technology/2026/jan/21/my-analogue-month-would-ditching-my-smartphone-make-me-healthier-happier-or-more-stressed",
-      "summary": "A personal experiment of living without a smartphone reveals insights into the impact of technology on mental health. The author reflects on the distractions and stressors of constant connectivity, suggesting that a break from digital devices may enhance mental well-being and awareness of the surrounding world. This narrative explores the balance between technology use and health.",
-      "source": "The Guardian Australia"
+      "title": "Meta is temporarily pulling teens' access from its AI chatbot characters",
+      "link": "https://www.engadget.com/social-media/meta-is-temporarily-pulling-teens-access-from-its-ai-chatbot-characters-180626052.html?src=rss",
+      "summary": "In response to safety concerns, Meta has decided to temporarily restrict teens' access to its AI chatbot characters. This decision follows reports of inappropriate interactions, highlighting the ongoing challenges of ensuring the safety of young users in digital environments. The move reflects a broader industry trend to implement stricter controls on AI interactions with minors.",
+      "source": "Engadget"
     },
     {
-      "title": "The Download: Chatbots for Health and US Fights Over AI Regulation",
+      "title": "Sam Altman’s make-or-break year: can the OpenAI CEO cash in his bet on the future?",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/25/sam-altman-openai",
+      "summary": "OpenAI's CEO Sam Altman is pushing for significant investments to harness AI's potential in various sectors, including healthcare. His ambitious plans aim to leverage AI for solving critical issues like climate change and health crises, showcasing the transformative role AI could play in improving global health outcomes.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "The Download: chatbots for health, and US fights over AI regulation",
       "link": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
-      "summary": "This edition of The Download discusses the rise of AI chatbots in healthcare, addressing both their potential benefits and the regulatory challenges they face. As AI becomes more integrated into health services, the need for clear guidelines and ethical considerations is becoming increasingly urgent. The conversation highlights the intersection of technology and health policy.",
+      "summary": "As chatbots gain traction in healthcare, discussions around their regulation and efficacy are intensifying. This edition of The Download explores the evolving landscape of AI in health, examining how these technologies can enhance patient care while also addressing regulatory challenges that come with their deployment.",
       "source": "MIT Technology Review"
     },
     {
-      "title": "Wes Streeting Invites Expert to Discuss Social Media Ban for Under-16s",
-      "link": "https://www.theguardian.com/media/2026/jan/14/wes-streeting-asks-expert-jonathan-haidt-address-officials-social-media-ban-for-under-16s",
-      "summary": "UK Health Secretary Wes Streeting is advocating for a potential ban on social media for users under 16, inspired by a similar initiative in Australia. This move aims to address mental health concerns associated with social media use among young people. The discussion reflects growing awareness of the impact of digital environments on youth health.",
+      "title": "My analogue month: would ditching my smartphone make me healthier, happier – or more stressed?",
+      "link": "https://www.theguardian.com/technology/2026/jan/21/my-analogue-month-would-ditching-my-smartphone-make-me-healthier-happier-or-more-stressed",
+      "summary": "An experiment in going analogue raises questions about the impact of smartphones on mental health. The author reflects on how disconnecting from digital devices can lead to increased awareness of one's surroundings and emotional well-being, suggesting that a balance between technology use and personal health is essential.",
       "source": "The Guardian Australia"
     }
   ]
