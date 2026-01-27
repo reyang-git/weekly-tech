@@ -86,7 +86,10 @@ const collectItems = async (urls: string[]): Promise<FeedItem[]> => {
     'https://thenextweb.com/feed/': 'The Next Web',
     'https://www.zdnet.com/news/rss.xml': 'ZDNet',
     'https://www.pcmag.com/rss/all': 'PCMag',
-    'https://www.cnet.com/rss/all/': 'CNET'
+    'https://www.cnet.com/rss/all/': 'CNET',
+    'https://newsletter.letterofintent.com.au/feed': 'Letter of Intent',
+'https://feeds.smartcompany.com.au/smartcompanyallcontent': 'SmartCompany',
+'https://www.startupdaily.net/feed': 'Startup Daily'
   };
   
   for (const url of urls) {
