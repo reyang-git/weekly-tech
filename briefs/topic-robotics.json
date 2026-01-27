@@ -1,56 +1,7 @@
 {
-  "generatedAt": "2026-01-26T05:06:26.609Z",
+  "generatedAt": "2026-01-27T02:26:58.155Z",
   "topic": "robotics",
-  "weekOf": "2026-01-26",
-  "lead": "Exploring the latest advancements in robotics, from humanoid interactions to inventory management innovations.",
-  "stories": [
-    {
-      "title": "Robot Handshake: This One Shakes Back",
-      "link": "https://www.cnet.com/videos/robot-handshake-this-one-shakes-back/",
-      "summary": "Meet Allex, a humanoid robot developed by WIRobotics, designed to tackle one of the major challenges in robotics: the human-robot interaction through a firm handshake. This innovative robot not only mimics human gestures but also aims to enhance the reliability of robotic interactions in various applications, potentially transforming how robots are integrated into daily life and work environments.",
-      "source": "CNET"
-    },
-    {
-      "title": "Why your ERP still can’t solve inventory drift — and the architecture that will",
-      "link": "https://www.cio.com/article/4120703/why-your-erp-still-cant-solve-inventory-drift-and-the-architecture-that-will.html",
-      "summary": "This article delves into the persistent issue of inventory drift in manufacturing, highlighting that traditional ERP systems are not equipped to handle the dynamic nature of modern production environments. It emphasizes the need for a new architectural approach that allows for continuous verification and reconciliation of inventory without halting production, showcasing how robotics and automation can enhance operational efficiency.",
-      "source": "CIO"
-    },
-    {
-      "title": "The Future of Robotics in Manufacturing",
-      "link": "https://www.manufacturing.net/robotics/article/21234567/the-future-of-robotics-in-manufacturing",
-      "summary": "As manufacturing evolves, robotics are playing an increasingly pivotal role in enhancing productivity and efficiency. This article explores various robotic applications in manufacturing, from assembly lines to quality control, and discusses the integration of AI and machine learning to optimize robotic functions. The future looks promising as these technologies continue to advance.",
-      "source": "Manufacturing.net"
-    },
-    {
-      "title": "How Robotics is Transforming Healthcare",
-      "link": "https://www.healthcareitnews.com/news/how-robotics-transforming-healthcare",
-      "summary": "Robotics is making significant strides in the healthcare sector, with applications ranging from surgical assistance to patient care. This article examines how robotic systems are improving precision in surgeries and enhancing patient outcomes. The integration of robotics in healthcare is expected to grow, offering new solutions to age-old challenges in patient management.",
-      "source": "Healthcare IT News"
-    },
-    {
-      "title": "The Role of Robotics in Supply Chain Optimization",
-      "link": "https://www.supplychaindive.com/news/the-role-of-robotics-in-supply-chain-optimization/600345/",
-      "summary": "Robotics are increasingly being utilized to streamline supply chain operations, enhancing efficiency and reducing costs. This article discusses the various types of robots being deployed in warehouses and distribution centers, and how they are transforming logistics by automating repetitive tasks and improving inventory management.",
-      "source": "Supply Chain Dive"
-    },
-    {
-      "title": "Robotic Exoskeletons: Enhancing Human Capability",
-      "link": "https://www.wired.com/story/robotic-exoskeletons-enhancing-human-capability/",
-      "summary": "Robotic exoskeletons are emerging as a groundbreaking technology that enhances human physical capabilities. This article explores how these devices are being used in rehabilitation and industrial settings, allowing users to lift heavy objects and reduce fatigue. The potential applications for exoskeletons are vast, promising to revolutionize both healthcare and labor-intensive industries.",
-      "source": "Wired"
-    },
-    {
-      "title": "Autonomous Robots: The Future of Agriculture",
-      "link": "https://www.agriculture.com/news/business/autonomous-robots-the-future-of-agriculture",
-      "summary": "The agriculture sector is witnessing a transformation with the introduction of autonomous robots, which are revolutionizing farming practices. This article highlights how these robots are being used for tasks such as planting, weeding, and harvesting, leading to increased efficiency and sustainability in food production. The future of farming looks bright with these advancements.",
-      "source": "Agriculture.com"
-    },
-    {
-      "title": "Robotics and AI: A Perfect Partnership",
-      "link": "https://www.forbes.com/sites/bernardmarr/2023/10/10/robotics-and-ai-a-perfect-partnership/",
-      "summary": "The synergy between robotics and artificial intelligence is creating unprecedented opportunities across various industries. This article discusses how AI enhances robotic capabilities, enabling machines to learn from their environments and make decisions autonomously. This partnership is paving the way for smarter, more adaptable robots that can tackle complex tasks.",
-      "source": "Forbes"
-    }
-  ]
+  "weekOf": "2026-01-27",
+  "lead": "No recent articles found about robotics this week.",
+  "stories": []
 }
