@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-01-26T05:06:24.073Z",
+  "generatedAt": "2026-01-27T02:27:02.153Z",
   "topic": "education",
-  "weekOf": "2026-01-26",
-  "lead": "Innovative approaches to education are emerging, leveraging technology and AI to enhance learning experiences for children and adults alike.",
+  "weekOf": "2026-01-27",
+  "lead": "Recent developments in education highlight the ongoing challenges and innovations in the sector, from technology integration to policy changes regarding student behavior.",
   "stories": [
     {
-      "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
-      "link": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
-      "summary": "A trio of former Google employees has launched Sparkli, an AI-driven learning app aimed at engaging children with modern educational concepts. The app focuses on essential skills like design, financial literacy, and entrepreneurship, addressing the gap in traditional education systems. By creating interactive learning experiences, Sparkli hopes to inspire the next generation of learners.",
-      "source": "TechCrunch"
+      "title": "Google aims to take the sting out of scheduling meetings with a new Gemini feature",
+      "link": "https://www.engadget.com/ai/google-aims-to-take-the-sting-out-of-scheduling-meetings-with-a-new-gemini-feature-204853761.html?src=rss",
+      "summary": "Google's new Gemini feature for Google Calendar is set to streamline meeting scheduling by suggesting optimal times based on attendees' availability. This tool is particularly beneficial for educational institutions utilizing Google Workspace, allowing educators to coordinate meetings more efficiently. However, the feature is limited to paid users and requires access to participants' calendars, which could pose privacy concerns.",
+      "source": "Engadget"
+    },
+    {
+      "title": "The power of sound in a virtual world",
+      "link": "https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/",
+      "summary": "As virtual interactions become commonplace in education, the importance of sound quality is gaining recognition. This article discusses how audio clarity can enhance credibility and connection in online learning environments. Educators are encouraged to consider sound as a critical component of their virtual classrooms, alongside visual elements.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "Skilling mainframe developers for an AI-first future",
+      "link": "https://www.cio.com/article/4121590/skilling-mainframe-developers-for-an-ai-first-future.html",
+      "summary": "The demand for mainframe developers is evolving as AI integration becomes essential in enterprise environments. This article emphasizes the need for educational institutions to adapt their curricula to address the skills gap for current and future developers. With AI becoming a staple in business operations, a focus on comprehensive training is crucial for maintaining competitiveness.",
+      "source": "CIO"
+    },
+    {
+      "title": "Schools in England should be phone-free all day, education secretary says",
+      "link": "https://www.theguardian.com/education/2026/jan/26/education-secretary-mobile-phone-ban-england-schools-ofsted",
+      "summary": "The UK education secretary has announced a ban on mobile phones in schools, stating that students should not use them at any time during the school day. This policy aims to minimize distractions and enhance learning environments. Schools are urged to implement these guidelines consistently, with parental support being emphasized.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "The Guardian view on toddlers and screens: more reasons to be fearful of big tech | Editorial",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/22/the-guardian-view-on-toddlers-and-screens-more-reasons-to-be-fearful-of-big-tech",
+      "summary": "Concerns are rising about the impact of screen time on young children, with new government guidance expected to address these issues. The editorial highlights alarming statistics regarding toddlers' screen use and its correlation with developmental delays. It calls for a more proactive approach to managing technology exposure among the youngest learners.",
+      "source": "The Guardian Australia"
     }
   ]
 }
