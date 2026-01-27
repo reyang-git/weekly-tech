@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-01-26T05:06:24.207Z",
+  "generatedAt": "2026-01-27T02:27:00.164Z",
   "topic": "AI",
-  "weekOf": "2026-01-26",
-  "lead": "AI is rapidly transforming various sectors, with significant advancements in collaboration, revenue orchestration, and personal assistant technologies. As companies adapt to these changes, the implications for job markets and ethical considerations are becoming increasingly important.",
+  "weekOf": "2026-01-27",
+  "lead": "AI continues to evolve, influencing various sectors from personal assistants to legal tech, while raising ethical concerns and legal challenges.",
   "stories": [
     {
-      "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
-      "link": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
-      "summary": "Sunny Sethi, a founder known for his innovations in firefighting, is now venturing into AI, aiming to harness its potential for substantial advancements. His new project focuses on developing AI technologies that can revolutionize industries and improve operational efficiencies. This shift highlights the growing trend of entrepreneurs leveraging AI to create new business models.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Nervous about the job market? 5 ways to stand out in the age of AI",
-      "link": "https://www.zdnet.com/article/ai-skills-jobseekers/",
-      "summary": "As AI technologies reshape the job landscape, job seekers are feeling the pressure to adapt. Experts recommend five key skills that can help individuals stand out in an AI-driven market, including data analysis, programming, and critical thinking. These skills are increasingly essential for navigating a workforce where AI plays a significant role.",
+      "title": "Inside Google's plan to turn Gmail into a relationship-aware AI agent - and you're at the center",
+      "link": "https://www.zdnet.com/article/future-of-gmail-ai-interview-blake-barnes/",
+      "summary": "Google is enhancing Gmail with AI capabilities that will make it more relationship-aware. This initiative aims to position users at the center of their communications, allowing for smarter email management and improved interactions. The focus is on creating a more personalized experience that anticipates user needs.",
       "source": "ZDNet"
     },
     {
-      "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
-      "link": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
-      "summary": "ChatGPT has begun sourcing information from Grokipedia, an AI-generated encyclopedia created by Elon Musk's xAI. This integration raises questions about the reliability and biases of AI-generated content, as well as the implications of using such sources for information retrieval. The development underscores the evolving relationship between AI and knowledge dissemination.",
+      "title": "OpenAI spills technical details about how its AI coding agent works",
+      "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+      "summary": "OpenAI has provided an in-depth look at the workings of its AI coding agent, revealing the complexities behind its Codex agent loop. This transparency aims to demystify AI's coding capabilities and enhance user understanding of how AI can assist in programming tasks.",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Google's Gemini AI Will Now Generate Meeting Suggestions in Your Calendar. How It Works",
+      "link": "https://www.cnet.com/tech/services-and-software/googles-gemini-ai-will-now-generate-meeting-suggestions-in-your-calendar-how-it-works/",
+      "summary": "Google's Gemini AI is set to streamline scheduling by suggesting optimal meeting times based on users' calendars. This feature aims to reduce the hassle of finding suitable times for meetings, enhancing productivity for Google Workspace users.",
+      "source": "CNET"
+    },
+    {
+      "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
+      "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
+      "summary": "SpotDraft, an AI tool for contract management, has seen significant growth, processing over a million contracts annually. With Qualcomm's backing, the company aims to enhance its on-device capabilities, reflecting the increasing demand for AI in legal tech.",
       "source": "TechCrunch"
     },
     {
-      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
-      "link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-      "summary": "A new startup, Humans&, is focusing on enhancing AI's capabilities in coordination rather than just communication. Founded by alumni from major tech companies, the team aims to develop models that facilitate collaboration among AI systems, which could lead to more efficient problem-solving in various fields. This approach suggests a shift in how AI can be utilized beyond traditional applications.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Apple reportedly plans to reveal its Gemini-powered Siri in February",
-      "link": "https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html?src=rss",
-      "summary": "Apple is set to unveil a new version of Siri powered by Google's Gemini technology, aiming to enhance its functionality and user experience. This update is expected to bring Siri closer to AI chatbot capabilities, reflecting a broader trend in the tech industry towards more interactive and intelligent virtual assistants. The announcement is anticipated to generate significant interest among users.",
-      "source": "Engadget"
-    },
-    {
-      "title": "OpenAI Partners with Major Government Contractor to ‘Transform Federal Operations’",
-      "link": "https://gizmodo.com/openai-partners-with-major-government-contractor-to-transform-federal-operations-2000713751",
-      "summary": "OpenAI has partnered with Leidos, a major government contractor, to enhance federal operations through AI technologies. This collaboration aims to leverage AI for improving efficiency and decision-making in government processes. The partnership highlights the increasing integration of AI in public sector operations and its potential to transform traditional workflows.",
+      "title": "Anthropic CEO Worries Humanity May Not be ‘Mature’ Enough for Advanced AI",
+      "link": "https://gizmodo.com/anthropic-ceo-worries-humanity-may-not-be-mature-enough-for-advanced-ai-2000714187",
+      "summary": "The CEO of Anthropic has expressed concerns regarding humanity's readiness for advanced AI technologies. This statement highlights the ongoing debate about ethical considerations and the potential risks associated with AI development.",
       "source": "Gizmodo"
     },
     {
-      "title": "AI needs to augment rather than replace humans or the workplace is doomed",
-      "link": "https://www.theguardian.com/technology/2026/jan/25/ai-augment-rather-than-replace-workplace-doomed",
-      "summary": "Experts argue that AI should be seen as a tool to augment human capabilities rather than replace them. The conversation around AI's role in the workplace emphasizes the need for technology to enhance human experiences and productivity. As AI continues to evolve, ensuring it complements rather than supplants human workers will be crucial for maintaining social acceptance.",
-      "source": "The Guardian Australia"
+      "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
+      "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
+      "summary": "A group of YouTubers has filed a lawsuit against Snap, claiming that the company used their content without permission to train its AI models. This case underscores the legal challenges surrounding AI and copyright issues in the digital age.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Sam Altman’s make-or-break year: can the OpenAI CEO cash in his bet on the future?",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/25/sam-altman-openai",
-      "summary": "Sam Altman, CEO of OpenAI, is at a pivotal juncture as he seeks to secure massive investments to fuel the company's ambitious AI projects. His vision includes leveraging AI to address global challenges and drive economic growth. The outcome of this year could significantly impact the future trajectory of AI development and its integration into various sectors.",
-      "source": "The Guardian"
+      "title": "Google pays $68M to settle claims its voice assistant spied on users",
+      "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
+      "summary": "Google has agreed to a $68 million settlement related to allegations that its voice assistant unlawfully recorded users. This settlement highlights ongoing privacy concerns associated with AI technologies and their implications for user data security.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Wildly irresponsible: DOT's use of AI to draft safety rules sparks concerns",
+      "link": "https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/",
+      "summary": "The Department of Transportation's decision to utilize AI for drafting safety regulations has raised alarms among staffers, who warn that it could lead to serious safety risks. This situation reflects the critical need for human oversight in AI applications.",
+      "source": "Ars Technica"
     }
   ]
 }
