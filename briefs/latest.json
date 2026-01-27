@@ -1,74 +1,68 @@
 {
-  "generatedAt": "2026-01-25T22:42:33.166Z",
-  "weekOf": "2026-01-25",
-  "lead": "This week in tech highlights the intersection of AI, gaming, and ongoing debates surrounding technology's societal impact.",
+  "generatedAt": "2026-01-27T02:26:49.532Z",
+  "weekOf": "2026-01-27",
+  "lead": "This week in tech highlights significant advancements in AI, startup funding, and innovative products, alongside challenges faced by major platforms like TikTok.",
   "themes": [
-    "Artificial Intelligence",
-    "Gaming",
-    "Cryptocurrency",
-    "Technology Ethics",
-    "Software Updates"
+    "AI and Emerging Technologies",
+    "Startups and VC Deals",
+    "Innovation and New Product Launches",
+    "Australian Tech Ecosystem",
+    "Social Media Dynamics"
   ],
   "stories": [
     {
-      "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
-      "link": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
-      "summary": "Information from Grokipedia, an AI-generated encyclopedia created by Elon Musk's xAI, is starting to influence responses from ChatGPT. This development raises questions about the reliability and bias of AI sources, especially given Grokipedia's conservative leanings. The integration of such content into popular AI tools like ChatGPT could impact how users perceive information.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
-      "link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-      "summary": "A new startup, Humans&, founded by alumni from major tech firms, aims to develop AI models that enhance collaboration rather than just conversation. Their approach focuses on improving how AI can assist in coordinating tasks among teams, marking a shift towards practical applications of AI in workplace settings. This could redefine productivity tools and team dynamics.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "It Turns Out Crypto’s Stablecoin Adoption is Around 1% of Previous Estimates",
-      "link": "https://gizmodo.com/it-turns-out-cryptos-stablecoin-adoption-is-around-1-of-previous-estimates-2000713814",
-      "summary": "Recent analyses reveal that the actual adoption rate of stablecoins in cryptocurrency transactions is significantly lower than previously thought, at only about 1%. This discrepancy highlights the challenges facing the crypto market in achieving mainstream acceptance as a payment method. The findings suggest that while blockchain technology is prevalent, its use for everyday transactions remains limited.",
-      "source": "Gizmodo"
-    },
-    {
-      "title": "Science fiction writers, Comic-Con say goodbye to AI",
-      "link": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
-      "summary": "At a recent Comic-Con event, prominent science fiction writers expressed their concerns about generative AI, advocating for a return to human creativity in storytelling. This movement reflects a growing sentiment in the creative community that AI-generated content may dilute the uniqueness of artistic expression. The discussion highlights the ongoing tension between technology and traditional creative processes.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Microsoft releases second emergency Windows 11 update to fix Outlook crashes",
-      "link": "https://www.engadget.com/computing/microsoft-releases-second-emergency-windows-11-update-to-fix-outlook-crashes-192012812.html?src=rss",
-      "summary": "Microsoft has issued a second emergency update for Windows 11 to resolve critical issues causing Outlook to crash. This follows a previous update that led to multiple problems, including login failures and shutdown issues. The swift response indicates Microsoft's commitment to maintaining user trust and functionality amidst ongoing software challenges.",
-      "source": "Engadget"
-    },
-    {
-      "title": "‘Halo’ Actor Steve Downes Asks You Not to Remake His Voice with AI",
-      "link": "https://gizmodo.com/halo-actor-steve-downes-asks-you-not-to-remake-his-voice-with-ai-2000713343",
-      "summary": "Steve Downes, the voice behind Master Chief in the Halo franchise, has publicly requested that his voice not be recreated using AI for fan projects. This highlights the ethical considerations surrounding the use of AI in creative fields, particularly regarding consent and the preservation of artistic integrity. The conversation is part of a broader dialogue on the implications of AI in entertainment.",
-      "source": "Gizmodo"
-    },
-    {
-      "title": "Apple reportedly plans to reveal its Gemini-powered Siri in February",
-      "link": "https://www.engadget.com/ai/apple-reportedly-plans-to-reveal-its-gemini-powered-siri-in-february-174356923.html?src=rss",
-      "summary": "Apple is set to unveil a new version of Siri powered by Google's Gemini technology, aiming to enhance its AI capabilities. This new assistant is expected to behave more like an AI chatbot, potentially transforming user interaction with Apple devices. The announcement is anticipated to take place in February, with broader implications for AI integration in consumer technology.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Flight Cancellations Hit Record High As Winter Storm Rages On",
-      "link": "https://gizmodo.com/flight-cancellations-hit-record-high-as-winter-storm-rages-on-2000713792",
-      "summary": "Severe winter storms have led to unprecedented flight cancellations across North America, affecting thousands of travelers. The extreme weather conditions have not only disrupted air travel but also raised concerns about the resilience of transportation infrastructure during climate-related events. This situation underscores the need for improved preparedness in the face of natural disasters.",
-      "source": "Gizmodo"
-    },
-    {
-      "title": "Best Buy is selling last year's LG OLED TV for 50% off right now, and it's a top choice for me",
-      "link": "https://www.zdnet.com/article/best-buy-lg-b5-oled-tv-deal/",
-      "summary": "Best Buy is currently offering a significant discount on last year's LG OLED TV, making it an attractive option for consumers looking to upgrade their home entertainment systems. The sale reflects ongoing trends in the electronics market where older models are being sold at reduced prices as newer models are introduced. This could be a great opportunity for budget-conscious buyers.",
+      "title": "Inside Google's plan to turn Gmail into a relationship-aware AI agent",
+      "link": "https://www.zdnet.com/article/future-of-gmail-ai-interview-blake-barnes/",
+      "summary": "Google is enhancing Gmail with AI capabilities that aim to make the email experience more relationship-focused. The initiative involves integrating AI to better understand user interactions and preferences, positioning Gmail as a proactive assistant in managing communications. This development reflects a broader trend of integrating AI into everyday tools to improve user engagement.",
       "source": "ZDNet"
     },
     {
-      "title": "Creators and communities everywhere take a stand against ICE",
-      "link": "https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice",
-      "summary": "In light of recent events involving federal agents, various creators and communities have begun to voice their opposition to ICE. This movement reflects a growing trend of activism within social media, where even non-political accounts are engaging in discussions about social justice. The shift indicates a broader societal awareness and response to governmental actions.",
-      "source": "The Verge"
+      "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
+      "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
+      "summary": "SpotDraft, an AI-driven contract management startup, has received support from Qualcomm, leading to a significant increase in its valuation. The company processes over a million contracts annually, demonstrating robust growth in the legal tech space. This investment highlights the increasing interest in AI solutions that streamline business processes.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI chip startup Ricursive hits $4B valuation two months after launch",
+      "link": "https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/",
+      "summary": "Ricursive, an AI chip startup, has achieved a remarkable $4 billion valuation just two months post-launch, joining a wave of AI-focused companies receiving substantial funding. This rapid growth underscores the high demand for AI hardware solutions as industries increasingly adopt AI technologies. The startup's success reflects the vibrant investment landscape in the AI sector.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "South Korea’s Edenlux set for U.S. debut of eye-strain wellness device",
+      "link": "https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/",
+      "summary": "Edenlux is preparing to launch a new wellness device in the U.S. that aims to alleviate eye strain, a growing concern in our screen-dominated lives. The device is inspired by the founder's personal experiences and leverages wearable technology to promote eye health. This launch exemplifies how startups are innovating in health tech to address modern challenges.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "People are uninstalling TikTok and downloading an indie competitor",
+      "link": "https://www.engadget.com/social-media/people-are-uninstalling-tiktok-and-downloading-an-indie-competitor-233345222.html?src=rss",
+      "summary": "As TikTok faces significant technical issues following its ownership change, users are increasingly turning to a new indie app called UpScrolled. This shift highlights the vulnerabilities of established platforms amidst operational challenges. UpScrolled, created by an Australian developer, is seeing a surge in downloads, indicating a potential shift in user preferences.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Google's Gemini AI Will Now Generate Meeting Suggestions in Your Calendar",
+      "link": "https://www.cnet.com/tech/services-and-software/googles-gemini-ai-will-now-generate-meeting-suggestions-in-your-calendar-how-it-works/",
+      "summary": "Google's Gemini AI is set to enhance Google Calendar by generating meeting suggestions based on user availability and existing commitments. This feature aims to streamline scheduling and improve productivity for users. The integration of AI into calendar management reflects a growing trend towards smarter, more intuitive digital tools.",
+      "source": "CNET"
+    },
+    {
+      "title": "Meta to test premium subscriptions on Instagram, Facebook, and WhatsApp",
+      "link": "https://techcrunch.com/2026/01/26/meta-to-test-premium-subscriptions-on-instagram-facebook-and-whatsapp/",
+      "summary": "Meta is exploring premium subscription models across its platforms, including Instagram and WhatsApp, offering users enhanced features while keeping basic services free. This move could reshape the monetization strategies of social media platforms, as they seek new revenue streams amidst increasing competition and regulatory scrutiny.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI spills technical details about how its AI coding agent works",
+      "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+      "summary": "OpenAI has released detailed insights into the workings of its AI coding agent, Codex, providing transparency into its operations. This information is significant for developers and researchers interested in understanding AI capabilities and limitations. The disclosure aligns with ongoing discussions about the ethical implications of AI in coding and software development.",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "TikTok reports 'major infrastructure issue' causing app glitches, bugs",
+      "link": "https://www.zdnet.com/article/is-tiktok-down-feed-glitchy-broken/",
+      "summary": "TikTok is grappling with a major infrastructure issue that has led to widespread app glitches and user frustrations. The problems arose shortly after a change in ownership, raising concerns about the platform's stability. This situation underscores the challenges faced by tech companies during transitions and the impact on user experience.",
+      "source": "ZDNet"
     }
   ]
 }
