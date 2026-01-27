@@ -84,7 +84,10 @@ const collectItems = async (urls: string[]): Promise<FeedItem[]> => {
     'https://thenextweb.com/feed/': 'The Next Web',
     'https://www.zdnet.com/news/rss.xml': 'ZDNet',
     'https://www.pcmag.com/rss/all': 'PCMag',
-    'https://www.cnet.com/rss/all/': 'CNET'
+    'https://www.cnet.com/rss/all/': 'CNET',
+    'https://newsletter.letterofintent.com.au/feed': 'Letter of Intent',
+'https://feeds.smartcompany.com.au/smartcompanyallcontent': 'SmartCompany',
+'https://www.startupdaily.net/feed': 'Startup Daily'
   };
   
   for (const url of urls) {
@@ -150,14 +153,16 @@ const generateBrief = async (items: FeedItem[]): Promise<Brief> => {
       {
         role: "system",
         content:
-        "You are a helpful assistant that writes a concise weekly tech brief in JSON. " +
-"Return ONLY JSON with fields: lead (string), themes (array of 3-5 strings), " +
-"stories (array of 10 objects with title, link, summary, source). " +
-"Select the 10 most interesting and diverse stories from the provided items. " +
-"IMPORTANT: For each story, the source field MUST contain the exact publication name " +
-"listed as 'Source:' in the feed items (e.g., 'TechCrunch', 'The Verge', 'Wired'). " +
-"Do not use generic names like 'Latest news'. " +
-"Summaries should be 3-4 sentences and grounded in the provided items."
+          "You are a helpful assistant that writes a concise weekly tech brief in JSON focused on innovation and new developments. " +
+          "Prioritize stories about: startups and VC deals, innovation and new product launches, AI and emerging technologies, " +
+          "the Australian tech ecosystem, and novel use cases and applications of technology. " +
+          "Return ONLY JSON with fields: lead (string), themes (array of 3-5 strings), " +
+          "stories (array of 10 objects with title, link, summary, source). " +
+          "Select the 10 most interesting and diverse stories from the provided items that exemplify these focus areas. " +
+          "IMPORTANT: For each story, the source field MUST contain the exact publication name " +
+          "listed as 'Source:' in the feed items (e.g., 'TechCrunch', 'The Verge', 'Wired'). " +
+          "Do not use generic names like 'Latest news'. " +
+          "Summaries should be 3-4 sentences and grounded in the provided items."
       },
       {
         role: "user",
