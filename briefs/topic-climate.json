@@ -1,38 +1,20 @@
 {
-  "generatedAt": "2026-01-27T02:27:01.778Z",
+  "generatedAt": "2026-01-29T02:54:50.012Z",
   "topic": "climate",
-  "weekOf": "2026-01-27",
-  "lead": "Innovative solutions and funding are emerging to tackle climate challenges, from quantum computing to advanced weather forecasting.",
+  "weekOf": "2026-01-29",
+  "lead": "Recent advancements in climate technology and AI are shaping the future of weather forecasting and climate solutions.",
   "stories": [
-    {
-      "title": "VC firm 2150 raises €210M fund to solve cities’ climate challenges",
-      "link": "https://techcrunch.com/2026/01/26/vc-firm-2150-raises-e210m-fund-to-solve-cities-climate-challenges/",
-      "summary": "European venture fund 2150 has successfully raised €210 million to invest in climate tech startups aimed at reducing urban carbon footprints. This funding is part of a broader initiative to address climate challenges faced by cities, which are significant contributors to global emissions. The fund will support innovative technologies that can help cities become more sustainable and resilient.",
-      "source": "TechCrunch"
-    },
     {
       "title": "Rainbow Weather raises $5.5M to refine real-time weather forecasting",
       "link": "https://thenextweb.com/news/rainbow-weather-raises-5-5m-to-refine-real-time-weather-forecasting",
-      "summary": "Warsaw-based startup Rainbow Weather has secured $5.5 million in seed funding to enhance its hyperlocal weather forecasting capabilities. The company focuses on delivering minute-by-minute precipitation forecasts, which could significantly improve how individuals and businesses prepare for weather-related events. This advancement in weather technology aims to address the increasing unpredictability of climate patterns.",
+      "summary": "Rainbow Weather, a Warsaw-based climate tech startup, has secured $5.5 million in seed funding to enhance its real-time weather forecasting capabilities. The company focuses on hyperlocal, minute-by-minute weather updates, aiming to provide users with precise precipitation forecasts for the next few hours. This innovative approach is expected to fill a gap in the market for short-term weather predictions.",
       "source": "The Next Web"
-    },
-    {
-      "title": "Berlin’s Cloover secures over $1.2 Billion to build the 'Shopify of Energy'",
-      "link": "https://thenextweb.com/news/berlins-cloover-secures-over-1-2-billion-to-build-the-shopify-of-energy",
-      "summary": "Cloover, a Berlin-based climate fintech, has raised over $1.2 billion to develop a platform that simplifies energy transactions, likened to Shopify for energy. This funding will enhance its software and financing solutions, supporting the energy transition across Europe. The initiative aims to empower consumers and businesses to engage more effectively with renewable energy sources.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Davos: Waiting on quantum computing is not an option",
-      "link": "https://www.cio.com/article/4122273/davos-waiting-is-not-an-option-in-quantum-computing.html",
-      "summary": "At the World Economic Forum in Davos, experts discussed the urgent need for advancements in quantum computing, particularly its potential applications in climate modeling and carbon capture. The panel highlighted that while quantum sensors are already in use, significant challenges remain in developing fully functional quantum computers. The consensus was clear: immediate action is necessary to leverage quantum technology for climate solutions.",
-      "source": "CIO"
     },
     {
       "title": "Sam Altman’s make-or-break year: can the OpenAI CEO cash in his bet on the future?",
       "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/25/sam-altman-openai",
-      "summary": "OpenAI's CEO, Sam Altman, believes that advancements in AI could play a crucial role in solving climate change, among other global challenges. However, his ambitious plans for massive investments in data centers raise concerns about energy consumption. As OpenAI expands its influence across various sectors, the balance between technological advancement and environmental impact remains a critical discussion point.",
-      "source": "The Guardian"
+      "summary": "Sam Altman, CEO of OpenAI, believes that advancements in AI could significantly contribute to solving climate change and other global challenges. His vision includes a massive investment of $1 trillion into datacenters, which could have substantial energy demands. This ambitious expansion raises questions about the sustainability of such developments in the context of climate impact.",
+      "source": "The Guardian Australia"
     }
   ]
 }
