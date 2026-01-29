@@ -89,7 +89,9 @@ const collectItems = async (urls: string[]): Promise<FeedItem[]> => {
     'https://www.cnet.com/rss/all/': 'CNET',
     'https://newsletter.letterofintent.com.au/feed': 'Letter of Intent',
 'https://feeds.smartcompany.com.au/smartcompanyallcontent': 'SmartCompany',
-'https://www.startupdaily.net/feed': 'Startup Daily'
+'https://www.startupdaily.net/feed': 'Startup Daily',
+'https://mashable.com/feeds/rss/all': 'Mashable',
+'https://lifehacker.com/rss': 'Lifehacker'
   };
   
   for (const url of urls) {
