@@ -4,6 +4,9 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>Innovation Brief</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Inter:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./style.css" />
     <style>
       .topic-btn {
@@ -15,10 +18,13 @@
         cursor: pointer;
         font-size: 14px;
         transition: all 0.2s;
+        font-family: 'Inter', sans-serif;
+        font-weight: 500;
       }
       .topic-btn:hover {
         background: #f5f2ed;
         border-color: #7a9682;
+        transform: translateY(-1px);
       }
       .topic-btn.active {
         background: #5a7a65;
@@ -47,8 +53,7 @@
         </div>
       </section>
 
-      <section id="meta" class="card"></section>
-      <section id="themes" class="card"></section>
+      <section id="meta" class="card hero"></section>
       <section id="stories" class="grid"></section>
 
       <footer class="footer">

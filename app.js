@@ -1,120 +1,66 @@
-let currentTopic = 'weekly';
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Innovation Brief</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css" />
+    <style>
+      .topic-btn {
+        padding: 8px 16px;
+        background: #ffffff;
+        color: #5a7a65;
+        border: 1px solid #d4e0d8;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 14px;
+        transition: all 0.2s;
+        font-family: 'Inter', sans-serif;
+        font-weight: 500;
+      }
+      .topic-btn:hover {
+        background: #f5f2ed;
+        border-color: #7a9682;
+        transform: translateY(-1px);
+      }
+      .topic-btn.active {
+        background: #5a7a65;
+        color: white;
+        border-color: #5a7a65;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="container">
+      <header class="header">
+        <h1>Innovation Brief</h1>
+        <p class="sub">Weekly insights on startups, VC deals, emerging tech, and innovation in Australia and beyond.</p>
+      </header>
 
-async function loadWeeklyBrief() {
-  const metaEl = document.getElementById("meta");
-  const themesEl = document.getElementById("themes");
-  const storiesEl = document.getElementById("stories");
+      <section class="card">
+        <h2>Browse by Topic</h2>
+        <div style="display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px;">
+          <button class="topic-btn active" data-topic="weekly">All Topics</button>
+          <button class="topic-btn" data-topic="ai">AI</button>
+          <button class="topic-btn" data-topic="robotics">Robotics</button>
+          <button class="topic-btn" data-topic="quantum">Quantum</button>
+          <button class="topic-btn" data-topic="health">Health</button>
+          <button class="topic-btn" data-topic="climate">Climate</button>
+          <button class="topic-btn" data-topic="education">Education</button>
+        </div>
+      </section>
 
-  metaEl.innerHTML = "Loading latest brief…";
-  themesEl.style.display = "block";
+      <section id="meta" class="card hero"></section>
+      <section id="stories" class="grid"></section>
 
-  const res = await fetch("./briefs/latest.json", { cache: "no-store" });
-  const data = await res.json();
+      <footer class="footer">
+        <p>Updated weekly via GitHub Actions.</p>
+      </footer>
+    </main>
 
-  const date = new Date(data.generatedAt);
-
-  metaEl.innerHTML = `
-    <h2>Latest brief</h2>
-    <div class="kicker">Week of <strong>${data.weekOf}</strong> • Generated ${date.toUTCString()}</div>
-    <p>${data.lead || ""}</p>
-  `;
-
-  themesEl.innerHTML = `
-    <h2>Emerging themes</h2>
-    <ul>
-      ${(data.themes || []).map(t => `<li>${t}</li>`).join("")}
-    </ul>
-  `;
-
-  storiesEl.innerHTML = (data.stories || []).map(s => `
-    <article class="story">
-      <h2><a href="${s.link}" target="_blank" rel="noreferrer">${s.title}</a></h2>
-      ${s.source ? `<div class="kicker" style="margin-top: 4px; margin-bottom: 12px;">${s.source}</div>` : ""}
-      <p>${s.summary || ""}</p>
-    </article>
-  `).join("");
-}
-
-async function loadTopicBrief(topic) {
-  const metaEl = document.getElementById("meta");
-  const themesEl = document.getElementById("themes");
-  const storiesEl = document.getElementById("stories");
-
-  metaEl.innerHTML = `Loading ${topic} brief…`;
-  themesEl.style.display = "none";
-  
-  try {
-    const res = await fetch(`./briefs/topic-${topic}.json`, { cache: "no-store" });
-    
-    if (!res.ok) {
-      throw new Error("Topic brief not found");
-    }
-    
-    const data = await res.json();
-    const date = new Date(data.generatedAt);
-
-    metaEl.innerHTML = `
-      <h2>${data.topic.charAt(0).toUpperCase() + data.topic.slice(1)} Brief</h2>
-      <div class="kicker">Week of <strong>${data.weekOf}</strong> • Generated ${date.toUTCString()}</div>
-      <p>${data.lead || ""}</p>
-    `;
-
-    if (data.stories && data.stories.length > 0) {
-      storiesEl.innerHTML = data.stories.map(s => `
-        <article class="story">
-          <h2><a href="${s.link}" target="_blank" rel="noreferrer">${s.title}</a></h2>
-          ${s.source ? `<div class="kicker" style="margin-top: 4px; margin-bottom: 12px;">${s.source}</div>` : ""}
-          <p>${s.summary || ""}</p>
-        </article>
-      `).join("");
-    } else {
-      storiesEl.innerHTML = `
-        <article class="story">
-          <p>No articles found for this topic this week. Check back next week!</p>
-        </article>
-      `;
-    }
-
-  } catch (error) {
-    metaEl.innerHTML = `
-      <h2>${topic.charAt(0).toUpperCase() + topic.slice(1)} Brief</h2>
-      <p>This topic brief hasn't been generated yet. It will be available after the next weekly update.</p>
-    `;
-    storiesEl.innerHTML = "";
-  }
-}
-
-function setActiveTopic(topic) {
-  currentTopic = topic;
-  
-  // Update button states
-  document.querySelectorAll('.topic-btn').forEach(btn => {
-    if (btn.dataset.topic === topic) {
-      btn.classList.add('active');
-    } else {
-      btn.classList.remove('active');
-    }
-  });
-
-  // Load appropriate content
-  if (topic === 'weekly') {
-    loadWeeklyBrief();
-  } else {
-    loadTopicBrief(topic);
-  }
-}
-
-// Initialize
-document.addEventListener('DOMContentLoaded', () => {
-  loadWeeklyBrief().catch(err => {
-    document.getElementById("meta").innerHTML = "Failed to load brief.";
-    console.error(err);
-  });
-
-  // Topic button handlers
-  document.querySelectorAll('.topic-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      setActiveTopic(btn.dataset.topic);
-    });
-  });
-});
+    <script src="./app.js"></script>
+  </body>
+</html>
