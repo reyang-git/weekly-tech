@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-01-27T02:27:00.164Z",
+  "generatedAt": "2026-01-29T02:54:53.578Z",
   "topic": "AI",
-  "weekOf": "2026-01-27",
-  "lead": "AI continues to evolve, influencing various sectors from personal assistants to legal tech, while raising ethical concerns and legal challenges.",
+  "weekOf": "2026-01-29",
+  "lead": "AI continues to evolve rapidly, impacting various sectors from personal health insights to corporate strategies and regulatory frameworks.",
   "stories": [
     {
-      "title": "Inside Google's plan to turn Gmail into a relationship-aware AI agent - and you're at the center",
-      "link": "https://www.zdnet.com/article/future-of-gmail-ai-interview-blake-barnes/",
-      "summary": "Google is enhancing Gmail with AI capabilities that will make it more relationship-aware. This initiative aims to position users at the center of their communications, allowing for smarter email management and improved interactions. The focus is on creating a more personalized experience that anticipates user needs.",
+      "title": "I uploaded my Oura Ring data to this free web tool - the results surprised me in the best way",
+      "link": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-chatbot-ai/",
+      "summary": "The Simple Wearable Report utilizes AI to provide deeper insights from Oura Ring data, revealing surprising health metrics. Users can gain a better understanding of their sleep patterns and overall health through this innovative tool, showcasing how AI can enhance personal health tracking.",
       "source": "ZDNet"
     },
     {
-      "title": "OpenAI spills technical details about how its AI coding agent works",
-      "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
-      "summary": "OpenAI has provided an in-depth look at the workings of its AI coding agent, revealing the complexities behind its Codex agent loop. This transparency aims to demystify AI's coding capabilities and enhance user understanding of how AI can assist in programming tasks.",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Google's Gemini AI Will Now Generate Meeting Suggestions in Your Calendar. How It Works",
-      "link": "https://www.cnet.com/tech/services-and-software/googles-gemini-ai-will-now-generate-meeting-suggestions-in-your-calendar-how-it-works/",
-      "summary": "Google's Gemini AI is set to streamline scheduling by suggesting optimal meeting times based on users' calendars. This feature aims to reduce the hassle of finding suitable times for meetings, enhancing productivity for Google Workspace users.",
-      "source": "CNET"
-    },
-    {
-      "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
-      "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
-      "summary": "SpotDraft, an AI tool for contract management, has seen significant growth, processing over a million contracts annually. With Qualcomm's backing, the company aims to enhance its on-device capabilities, reflecting the increasing demand for AI in legal tech.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic CEO Worries Humanity May Not be ‘Mature’ Enough for Advanced AI",
-      "link": "https://gizmodo.com/anthropic-ceo-worries-humanity-may-not-be-mature-enough-for-advanced-ai-2000714187",
-      "summary": "The CEO of Anthropic has expressed concerns regarding humanity's readiness for advanced AI technologies. This statement highlights the ongoing debate about ethical considerations and the potential risks associated with AI development.",
+      "title": "‘AI That Understands You’: Mark Zuckerberg Plans to Deepen AI’s Presence in Our Online Lives",
+      "link": "https://gizmodo.com/ai-that-understands-you-mark-zuckerberg-plans-to-deepen-ais-presence-in-our-online-lives-2000715207",
+      "summary": "Mark Zuckerberg envisions a future where AI plays a central role in our online interactions, particularly through smart glasses. He believes that AI will create more immersive and interactive experiences, transforming how we engage with digital content.",
       "source": "Gizmodo"
     },
     {
-      "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
-      "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
-      "summary": "A group of YouTubers has filed a lawsuit against Snap, claiming that the company used their content without permission to train its AI models. This case underscores the legal challenges surrounding AI and copyright issues in the digital age.",
-      "source": "TechCrunch"
+      "title": "Microsoft investors sweat cloud giant's OpenAI exposure",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/01/29/microsoft_earnings_q2_2026/",
+      "summary": "Microsoft's financial results reveal significant exposure to OpenAI, raising concerns among investors. As AI technology continues to grow, Microsoft's integration of AI into its services is seen as both a risk and an opportunity for future revenue.",
+      "source": "The Register"
     },
     {
-      "title": "Google pays $68M to settle claims its voice assistant spied on users",
-      "link": "https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/",
-      "summary": "Google has agreed to a $68 million settlement related to allegations that its voice assistant unlawfully recorded users. This settlement highlights ongoing privacy concerns associated with AI technologies and their implications for user data security.",
-      "source": "TechCrunch"
+      "title": "South Korea’s ‘world-first’ AI laws face pushback amid bid to become leading tech power",
+      "link": "https://www.theguardian.com/world/2026/jan/29/south-korea-world-first-ai-regulation-laws",
+      "summary": "South Korea has introduced comprehensive AI regulations, aiming to set a global standard. However, the laws face criticism from tech startups and civil society groups, highlighting the challenges of balancing innovation with regulation in the AI landscape.",
+      "source": "The Guardian"
     },
     {
-      "title": "Wildly irresponsible: DOT's use of AI to draft safety rules sparks concerns",
-      "link": "https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/",
-      "summary": "The Department of Transportation's decision to utilize AI for drafting safety regulations has raised alarms among staffers, who warn that it could lead to serious safety risks. This situation reflects the critical need for human oversight in AI applications.",
-      "source": "Ars Technica"
+      "title": "Tesla is killing off its Model S and X cars to make robots",
+      "link": "https://www.engadget.com/transportation/evs/tesla-is-killing-off-its-model-s-and-x-cars-to-make-robots-010621101.html?src=rss",
+      "summary": "Elon Musk announced that Tesla will discontinue its Model S and X to repurpose production facilities for humanoid robots. This shift underscores Tesla's transition from an automotive company to a leader in AI and robotics, aiming to produce one million Optimus robots.",
+      "source": "Engadget"
+    },
+    {
+      "title": "To adopt AI quickly, or safely? Datacom says you don’t have to choose one over the other",
+      "link": "https://www.cio.com/article/4118907/to-adopt-ai-quickly-or-safely-datacom-says-you-dont-have-to-choose-one-over-the-other.html",
+      "summary": "Datacom emphasizes that Australian enterprises can adopt AI technologies without sacrificing safety. The company advocates for structured approaches to AI implementation, balancing speed with responsible practices to mitigate risks.",
+      "source": "CIO"
+    },
+    {
+      "title": "Google adds Gemini AI-powered ‘auto browse’ to Chrome",
+      "link": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse",
+      "summary": "Google's new Gemini AI feature in Chrome can perform multi-step tasks, enhancing user productivity. This development reflects the growing trend of integrating AI into everyday tools, making complex tasks simpler and more efficient.",
+      "source": "The Verge"
+    },
+    {
+      "title": "AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman, and other big names",
+      "link": "https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/",
+      "summary": "Outtake, an AI security startup, has secured $40 million in funding to enhance its identity fraud detection platform. The backing from prominent investors highlights the increasing importance of AI in cybersecurity and the demand for innovative solutions.",
+      "source": "TechCrunch"
     }
   ]
 }
