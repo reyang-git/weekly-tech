@@ -1,38 +1,56 @@
 {
-  "generatedAt": "2026-01-27T02:27:02.153Z",
+  "generatedAt": "2026-01-29T02:54:50.944Z",
   "topic": "education",
-  "weekOf": "2026-01-27",
-  "lead": "Recent developments in education highlight the ongoing challenges and innovations in the sector, from technology integration to policy changes regarding student behavior.",
+  "weekOf": "2026-01-29",
+  "lead": "Exploring the intersection of technology and education, this brief highlights recent developments in AI, digital tools, and their implications for learning and teaching in 2026.",
   "stories": [
     {
-      "title": "Google aims to take the sting out of scheduling meetings with a new Gemini feature",
-      "link": "https://www.engadget.com/ai/google-aims-to-take-the-sting-out-of-scheduling-meetings-with-a-new-gemini-feature-204853761.html?src=rss",
-      "summary": "Google's new Gemini feature for Google Calendar is set to streamline meeting scheduling by suggesting optimal times based on attendees' availability. This tool is particularly beneficial for educational institutions utilizing Google Workspace, allowing educators to coordinate meetings more efficiently. However, the feature is limited to paid users and requires access to participants' calendars, which could pose privacy concerns.",
+      "title": "OpenAI releases Prism, a Claude Code-like app for scientific research",
+      "link": "https://www.engadget.com/ai/openai-releases-prism-a-claude-code-like-app-for-scientific-research-180000454.html?src=rss",
+      "summary": "OpenAI has launched Prism, an app designed to enhance scientific research by integrating AI into the LaTeX editing process. Prism utilizes GPT-5.2 to assist researchers in formatting documents and automating bibliography creation, thereby streamlining tedious tasks. The app also features capabilities for generating lesson plans, making it a valuable tool for educators aiming to reduce administrative burdens.",
       "source": "Engadget"
     },
     {
-      "title": "The power of sound in a virtual world",
-      "link": "https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/",
-      "summary": "As virtual interactions become commonplace in education, the importance of sound quality is gaining recognition. This article discusses how audio clarity can enhance credibility and connection in online learning environments. Educators are encouraged to consider sound as a critical component of their virtual classrooms, alongside visual elements.",
-      "source": "MIT Technology Review"
+      "title": "School admin edtech Compass acquires Clipboard",
+      "link": "https://www.startupdaily.net/topic/business/school-admin-edtech-compass-acquires-clipboard/",
+      "summary": "Compass Education, a platform focused on school administration management, has acquired Clipboard, a competing startup. This acquisition is expected to enhance Compass's offerings in the educational technology space, providing schools with more comprehensive tools for managing administrative tasks. The move reflects a growing trend of consolidation in the edtech sector as companies seek to expand their capabilities.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Skilling mainframe developers for an AI-first future",
-      "link": "https://www.cio.com/article/4121590/skilling-mainframe-developers-for-an-ai-first-future.html",
-      "summary": "The demand for mainframe developers is evolving as AI integration becomes essential in enterprise environments. This article emphasizes the need for educational institutions to adapt their curricula to address the skills gap for current and future developers. With AI becoming a staple in business operations, a focus on comprehensive training is crucial for maintaining competitiveness.",
+      "title": "The Guardian view on toddlers and screens: more reasons to be fearful of big tech",
+      "link": "https://www.theguardian.com/commentisfree/2026/jan/22/the-guardian-view-on-toddlers-and-screens-more-reasons-to-be-fearful-of-big-tech",
+      "summary": "Concerns are rising about the impact of screen time on young children, with studies indicating that excessive use of smartphones and tablets correlates with developmental issues. The upcoming UK government guidance aims to address these concerns, as research shows that many toddlers are spending significant time on screens, potentially hindering their vocabulary and emotional development. This highlights the need for a balanced approach to technology in early childhood education.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "AI-Driven Strategy: Balancing Governance and Flexibility",
+      "link": "https://www.cio.com/article/4123837/reading-the-2026-it-landscape-insights-from-japans-leading-cios.html",
+      "summary": "As AI becomes integral to business operations, organizations are urged to adopt a balanced approach that emphasizes both governance and flexibility. CIOs are tasked with creating frameworks that allow employees to harness AI's potential while maintaining ethical standards and preventing burnout. Continuous education is highlighted as essential for fostering a productive work environment in this rapidly evolving landscape.",
       "source": "CIO"
     },
     {
-      "title": "Schools in England should be phone-free all day, education secretary says",
-      "link": "https://www.theguardian.com/education/2026/jan/26/education-secretary-mobile-phone-ban-england-schools-ofsted",
-      "summary": "The UK education secretary has announced a ban on mobile phones in schools, stating that students should not use them at any time during the school day. This policy aims to minimize distractions and enhance learning environments. Schools are urged to implement these guidelines consistently, with parental support being emphasized.",
-      "source": "The Guardian"
+      "title": "How enterprise CIOs can scale AI coding without losing control",
+      "link": "https://www.cio.com/article/4122916/how-enterprise-cios-can-scale-ai-coding-without-losing-control.html",
+      "summary": "The integration of AI coding assistants is transforming software development, but it also presents significant risks if not managed properly. Organizations are advised to implement guardrails to ensure that AI tools enhance productivity without compromising security or quality. This approach emphasizes the importance of human oversight and training as essential components of successful AI adoption in enterprise environments.",
+      "source": "CIO"
     },
     {
-      "title": "The Guardian view on toddlers and screens: more reasons to be fearful of big tech | Editorial",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/22/the-guardian-view-on-toddlers-and-screens-more-reasons-to-be-fearful-of-big-tech",
-      "summary": "Concerns are rising about the impact of screen time on young children, with new government guidance expected to address these issues. The editorial highlights alarming statistics regarding toddlers' screen use and its correlation with developmental delays. It calls for a more proactive approach to managing technology exposure among the youngest learners.",
-      "source": "The Guardian Australia"
+      "title": "Reading the 2026 IT Landscape: Insights from Japan’s Leading CIOs",
+      "link": "https://www.cio.com/article/4123837/reading-the-2026-it-landscape-insights-from-japans-leading-cios.html",
+      "summary": "Leading CIOs in Japan share insights on the future of IT, emphasizing the need for organizations to adapt to AI-driven business models. They highlight the importance of data readiness and the strategic use of AI agents to enhance productivity across various sectors. Continuous education and a focus on ethical AI deployment are crucial for maintaining competitive advantage in this evolving landscape.",
+      "source": "CIO"
+    },
+    {
+      "title": "To adopt AI quickly, or safely? Datacom says you don’t have to choose one over the other",
+      "link": "https://www.cio.com/article/4118907/to-adopt-ai-quickly-or-safely-datacom-says-you-dont-have-to-choose-one-over-the-other.html",
+      "summary": "Australian enterprises are cautiously approaching AI adoption, balancing the need for speed with safety and compliance. Datacom emphasizes the importance of a clear AI strategy to avoid pitfalls associated with rapid implementation. This structured approach aims to enhance productivity while minimizing risks, particularly in regulated sectors like education and healthcare.",
+      "source": "CIO"
+    },
+    {
+      "title": "Apple Creator Studio is now available for $13 per month: What's included and what it means for creators",
+      "link": "https://www.engadget.com/apps/apple-creator-studio-is-now-available-for-13-per-month-whats-included-and-what-it-means-for-creators-130000475.html?src=rss",
+      "summary": "Apple has launched the Creator Studio, a subscription service that bundles professional creative apps for educators and creators. Priced at $12.99 per month, it offers significant discounts for students and educators, making high-quality tools more accessible. This move reflects Apple's commitment to supporting creative education and enhancing learning experiences through technology.",
+      "source": "Engadget"
     }
   ]
 }
