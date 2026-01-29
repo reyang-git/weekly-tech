@@ -1,56 +1,50 @@
 {
-  "generatedAt": "2026-01-27T02:26:58.632Z",
+  "generatedAt": "2026-01-29T02:54:51.844Z",
   "topic": "health",
-  "weekOf": "2026-01-27",
-  "lead": "Exploring the intersection of technology and health, this brief highlights recent developments in healthcare cybersecurity, investment in health-focused ventures, and the implications of AI on public health.",
+  "weekOf": "2026-01-29",
+  "lead": "Exploring the intersection of technology and health, from AI in medical diagnostics to the impact of wearables on health monitoring.",
   "stories": [
+    {
+      "title": "Stroke Risk Could Be Flagged Early Using Apple Watch Technology, Studies Show",
+      "link": "https://www.cnet.com/tech/stroke-risk-could-be-flagged-early-using-apple-watch-technology-studies-show/",
+      "summary": "Recent studies indicate that wearable technology, particularly the Apple Watch, may play a crucial role in early detection of stroke risks. The integration of heart health monitoring features has shown promise in identifying potential issues before they escalate, suggesting that smartwatches could become vital tools in preventative healthcare. This development highlights the growing importance of technology in personal health management.",
+      "source": "CNET"
+    },
     {
       "title": "Tackling the growing cyber threat to Australian healthcare providers",
       "link": "https://www.itnews.com.au/feature/tackling-the-growing-cyber-threat-to-australian-healthcare-providers-622513?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Cyber attacks on healthcare systems are on the rise, posing significant risks to patient safety and the operational integrity of hospitals. As healthcare providers scramble to enhance their cybersecurity measures, the urgency to protect sensitive patient data and maintain clinical services becomes increasingly critical. This growing threat underscores the need for robust cybersecurity frameworks within the healthcare sector.",
+      "summary": "As cyber attacks on healthcare systems rise, Australian hospitals face increasing pressure to protect patient safety and maintain clinical services. The healthcare sector's vulnerability to cyber threats necessitates a robust cybersecurity strategy to safeguard sensitive patient data and ensure operational continuity. This situation underscores the critical intersection of technology and healthcare security.",
       "source": "IT News"
     },
     {
-      "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
-      "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
-      "summary": "Obvious Ventures has successfully raised $360 million for its fifth fund, focusing on investments that address human, economic, and planetary health. This fund aims to support innovative companies that can create sustainable solutions to pressing global challenges, highlighting the increasing recognition of health as a multifaceted issue intertwined with environmental and economic factors.",
-      "source": "TechCrunch"
+      "title": "8 Expert-Backed Benefits to Drinking Chia Seed Water",
+      "link": "https://www.cnet.com/health/nutrition/should-you-drink-water-with-chia-seeds-experts-share-8-health-benefits/",
+      "summary": "Experts outline several health benefits associated with drinking chia seed water, including improved hydration, digestive health, and weight management. Chia seeds are rich in omega-3 fatty acids, fiber, and antioxidants, making them a nutritious addition to one's diet. This article explores how simple dietary changes can enhance overall health and well-being.",
+      "source": "CNET"
     },
     {
-      "title": "How the ‘confident authority’ of Google AI Overviews is putting public health at risk",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/24/how-the-confident-authority-of-google-ai-overviews-is-putting-public-health-at-risk",
-      "summary": "Google's AI Overviews feature, which provides medical information directly in search results, has raised concerns among experts about the accuracy of its advice. Critics argue that the tool can lead users to misinformation, potentially causing serious health risks. As AI becomes more integrated into health information dissemination, the need for accurate and reliable sources is paramount.",
+      "title": "AI sealed the hood shut. Soon nobody will be able to fix code when it breaks",
+      "link": "https://www.cio.com/article/4122958/ai-sealed-the-hood-shut-soon-nobody-will-be-able-to-fix-code-when-it-breaks.html",
+      "summary": "The rise of AI in software development is raising concerns about the diminishing ability of engineers to understand and fix underlying code. As AI-generated code becomes more prevalent, the risk of unmanageable software systems increases, potentially impacting sectors like healthcare where software reliability is critical. This issue highlights the need for strong governance and oversight in AI applications, especially in sensitive areas like health.",
+      "source": "CIO"
+    },
+    {
+      "title": "South Korea’s ‘world-first’ AI laws face pushback amid bid to become leading tech power",
+      "link": "https://www.theguardian.com/world/2026/jan/29/south-korea-world-first-ai-regulation-laws",
+      "summary": "South Korea's ambitious AI regulations, aimed at ensuring safety and accountability in AI applications, have sparked debate among tech startups and civil society. The laws require rigorous risk assessments for high-impact AI systems, including those used in healthcare. This regulatory framework could set a precedent for global standards in AI governance, particularly in sectors where human lives are at stake.",
       "source": "The Guardian"
     },
     {
-      "title": "Can ChatGPT Health do better than 'Dr. Google'?",
-      "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
-      "summary": "With the rise of AI in healthcare, the question arises whether AI-driven tools like ChatGPT Health can provide more reliable medical information compared to traditional online searches. This shift reflects a growing trend where users are increasingly turning to AI for health inquiries, raising questions about the effectiveness and safety of AI-generated health advice.",
-      "source": "MIT Technology Review"
+      "title": "AI-Driven Strategy: Balancing Governance and Flexibility",
+      "link": "https://www.cio.com/article/4123837/reading-the-2026-it-landscape-insights-from-japans-leading-cios.html",
+      "summary": "As organizations increasingly adopt AI technologies, the need for a balanced approach to governance and flexibility becomes critical. This is especially true in healthcare, where ethical considerations and data management are paramount. The insights from CIOs emphasize the importance of creating frameworks that allow for responsible AI use while enhancing productivity and innovation.",
+      "source": "CIO"
     },
     {
-      "title": "Meta is temporarily pulling teens' access from its AI chatbot characters",
-      "link": "https://www.engadget.com/social-media/meta-is-temporarily-pulling-teens-access-from-its-ai-chatbot-characters-180626052.html?src=rss",
-      "summary": "In response to safety concerns, Meta has decided to temporarily restrict teens' access to its AI chatbot characters. This decision follows reports of inappropriate interactions, highlighting the ongoing challenges of ensuring the safety of young users in digital environments. The move reflects a broader industry trend to implement stricter controls on AI interactions with minors.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Sam Altman’s make-or-break year: can the OpenAI CEO cash in his bet on the future?",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jan/25/sam-altman-openai",
-      "summary": "OpenAI's CEO Sam Altman is pushing for significant investments to harness AI's potential in various sectors, including healthcare. His ambitious plans aim to leverage AI for solving critical issues like climate change and health crises, showcasing the transformative role AI could play in improving global health outcomes.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "The Download: chatbots for health, and US fights over AI regulation",
-      "link": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
-      "summary": "As chatbots gain traction in healthcare, discussions around their regulation and efficacy are intensifying. This edition of The Download explores the evolving landscape of AI in health, examining how these technologies can enhance patient care while also addressing regulatory challenges that come with their deployment.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "My analogue month: would ditching my smartphone make me healthier, happier – or more stressed?",
-      "link": "https://www.theguardian.com/technology/2026/jan/21/my-analogue-month-would-ditching-my-smartphone-make-me-healthier-happier-or-more-stressed",
-      "summary": "An experiment in going analogue raises questions about the impact of smartphones on mental health. The author reflects on how disconnecting from digital devices can lead to increased awareness of one's surroundings and emotional well-being, suggesting that a balance between technology use and personal health is essential.",
-      "source": "The Guardian Australia"
+      "title": "The Rise of Physical AI: When Robots Become Business Partners",
+      "link": "https://www.cio.com/article/4123837/reading-the-2026-it-landscape-insights-from-japans-leading-cios.html",
+      "summary": "The emergence of 'Physical AI' is poised to transform sectors including healthcare, where robots could assist in patient care and operational efficiency. This shift is driven by labor shortages and the need for enhanced productivity. As robots evolve into collaborative partners, their integration into healthcare settings presents both opportunities and challenges in maintaining quality care.",
+      "source": "CIO"
     }
   ]
 }
