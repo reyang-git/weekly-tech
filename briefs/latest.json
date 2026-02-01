@@ -1,74 +1,68 @@
 {
-  "generatedAt": "2026-01-29T03:20:56.223Z",
-  "weekOf": "2026-01-29",
-  "lead": "This week, the tech landscape showcases significant advancements in AI, innovative product launches, and notable shifts in the Australian tech ecosystem.",
+  "generatedAt": "2026-02-01T22:54:46.423Z",
+  "weekOf": "2026-02-01",
+  "lead": "This week in tech highlights significant innovations and developments, including AI advancements, startup activities, and notable product launches.",
   "themes": [
     "AI and Emerging Technologies",
+    "Startups and VC Deals",
     "Innovation and New Product Launches",
     "Australian Tech Ecosystem",
-    "Startups and VC Deals",
-    "Novel Use Cases of Technology"
+    "Novel Use Cases and Applications"
   ],
   "stories": [
     {
-      "title": "NASA Detects Most Powerful Eruption Ever on Jupiter’s Volcanic Moon Io",
-      "link": "https://gizmodo.com/nasa-detects-most-powerful-eruption-ever-on-jupiters-volcanic-moon-io-2000714963",
-      "summary": "NASA has reported the most powerful volcanic eruption ever detected on Jupiter's moon Io, with a hot spot larger than Lake Superior. The eruption emits six times the total energy of all the world's power plants, showcasing the immense geological activity on Io and providing insights into planetary processes.",
-      "source": "Gizmodo"
+      "title": "AI Goals for 2026: What Every Organisation Should Prioritise",
+      "link": "https://www.itnews.com.au/feature/ai-goals-for-2026-what-every-organisation-should-prioritise-623249?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "As organizations enter 2026, AI is evolving from isolated pilot projects to integral components of strategic planning. This shift emphasizes the need for businesses to prioritize AI integration across various functions, ensuring they leverage its full potential to enhance efficiency and innovation.",
+      "source": "IT News"
     },
     {
-      "title": "Google Agrees to Pay $135M in Huge Android Data-Harvesting Settlement",
-      "link": "https://www.cnet.com/tech/mobile/google-agrees-to-pay-135m-in-huge-android-data-harvesting-settlement/",
-      "summary": "In a significant settlement, Google has agreed to pay $135 million over allegations of data harvesting from Android users. This agreement aims to alter how Google manages its terms of service, although not all affected users will receive compensation. This case highlights ongoing concerns about user privacy and data management in tech.",
-      "source": "CNET"
+      "title": "VicWater backs more gov data-sharing to boost AI",
+      "link": "https://www.itnews.com.au/news/vicwater-backs-more-gov-data-sharing-to-boost-ai-623128?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "VicWater is advocating for increased government data-sharing to enhance AI applications within the Intelligent Water Networks program. This initiative aims to leverage data for better decision-making and operational efficiency in water management.",
+      "source": "IT News"
     },
     {
-      "title": "Tesla Kills Models S and X to Make Room for Robots",
-      "link": "https://www.engadget.com/transportation/evs/tesla-is-killing-off-its-model-s-and-x-cars-to-make-robots-010621101.html?src=rss",
-      "summary": "Tesla has announced the discontinuation of its Model S and X vehicles to repurpose production space for its Optimus humanoid robots. CEO Elon Musk emphasized a shift towards autonomy and robotics, marking a significant pivot in Tesla's strategy as it aims to manufacture one million robots in the future.",
+      "title": "Apple’s online store now lets you build a new Mac exactly the way you want",
+      "link": "https://www.engadget.com/computing/laptops/apples-online-store-now-lets-you-build-a-new-mac-exactly-the-way-you-want-190430251.html?src=rss",
+      "summary": "Apple has revamped its online store, allowing customers to customize their Mac purchases down to individual specifications. This update enhances user experience by providing more options for hardware configurations, indicating Apple's commitment to personalization in its product offerings.",
       "source": "Engadget"
     },
     {
-      "title": "AI That Understands You: Zuckerberg's Vision for AI in Daily Life",
-      "link": "https://gizmodo.com/ai-that-understands-you-mark-zuckerberg-plans-to-deepen-ais-presence-in-our-online-lives-2000715207",
-      "summary": "Mark Zuckerberg has outlined plans to deepen the integration of AI into everyday life, with a focus on creating AI that can understand users better. This vision includes advancements in AI-driven devices, potentially leading to more intuitive interactions and applications across various platforms.",
-      "source": "Gizmodo"
+      "title": "SpaceX seeks FCC nod for solar-powered satellite data centres",
+      "link": "https://www.itnews.com.au/news/spacex-seeks-fcc-nod-for-solar-powered-satellite-data-centres-623308?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "SpaceX is pursuing approval from the FCC to establish solar-powered satellite data centers aimed at supporting AI workloads. This initiative reflects a growing trend towards sustainable technology solutions in the tech industry.",
+      "source": "IT News"
     },
     {
-      "title": "Stroke Risk Could Be Flagged Early Using Apple Watch Technology, Studies Show",
-      "link": "https://www.cnet.com/tech/stroke-risk-could-be-flagged-early-using-apple-watch-technology-studies-show/",
-      "summary": "Recent studies indicate that Apple Watch technology could play a crucial role in early detection of stroke risks. This advancement highlights the growing importance of wearables in health monitoring and preventative care, potentially transforming how individuals manage their health.",
+      "title": "Nissan's A/NZ finance arm embarks on $35m digital transformation",
+      "link": "https://www.itnews.com.au/news/nissans-a-nz-finance-arm-embarks-on-35m-digital-transformation-623269?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Nissan's finance division in Australia and New Zealand is launching a $35 million digital transformation project, which includes replacing core systems and implementing AI technologies. This move aims to enhance operational efficiency and customer service.",
+      "source": "IT News"
+    },
+    {
+      "title": "Google Brings Genie 3's Interactive World-Building Prototype to AI Ultra Subscribers",
+      "link": "https://www.cnet.com/tech/services-and-software/google-brings-genie-3-world-building-experiment-to-ai-ultra-subscribers/",
+      "summary": "Google has introduced Genie 3, a prototype that allows users to create interactive, video game-like worlds using simple text prompts. This innovative tool showcases the potential of AI in creative applications and user-generated content.",
       "source": "CNET"
     },
     {
-      "title": "South Korea’s ‘world-first’ AI laws face pushback amid bid to become leading tech power",
-      "link": "https://www.theguardian.com/world/2026/jan/29/south-korea-world-first-ai-regulation-laws",
-      "summary": "South Korea has introduced comprehensive AI regulations aimed at becoming a global tech leader. However, the laws have faced criticism from startups and civil society groups, highlighting the challenges of balancing innovation with regulatory oversight in the rapidly evolving AI landscape.",
-      "source": "The Guardian"
+      "title": "Apple Leadership Is Quietly Getting AI-Pilled, Report Claims",
+      "link": "https://gizmodo.com/apple-leadership-is-quietly-getting-ai-pilled-report-claims-2000716353",
+      "summary": "Reports suggest that Apple’s leadership is increasingly focusing on AI integration within their products and services. This strategic pivot may indicate a forthcoming major push into AI-driven innovations as the tech giant seeks to remain competitive.",
+      "source": "Gizmodo"
     },
     {
-      "title": "Woolworths to fill digital gap on its board",
-      "link": "https://www.itnews.com.au/news/woolworths-to-fill-digital-gap-on-its-board-623248?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Woolworths is taking a significant step to enhance its digital capabilities by appointing a former Walmart and Google executive to its board. This move reflects the increasing importance of digital expertise in traditional retail and aims to strengthen Woolworths' competitive edge in the market.",
-      "source": "IT News"
+      "title": "AIエージェント時代の脅威モデル入門──「自律性」が増やす攻撃面をどう捉えるか",
+      "link": "https://www.cio.com/article/4125256/ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e6%99%82%e4%bb%a3%e3%81%ae%E8%84%85%e5%a8%81%e3%83%a2%e3%83%87%e3%83%ab%e5%85%a5%e9%96%80%e2%94%80%e2%94%80%e3%80%8c%e8%87%aa%e5%be%8b%e6%80%a7.html",
+      "summary": "This article discusses the evolving threat models associated with AI agents, highlighting their increased autonomy and the potential security risks they pose. It emphasizes the need for robust security measures to mitigate these risks as AI technology advances.",
+      "source": "CIO"
     },
     {
-      "title": "Meta burned $19 billion on VR last year, and 2026 won’t be any better",
-      "link": "https://techcrunch.com/2026/01/28/meta-burned-19-billion-on-vr-last-year-and-2026-wont-be-any-better/",
-      "summary": "Meta's VR division has reported substantial financial losses, with $19 billion burned in the previous year. As the company continues to invest heavily in virtual reality, questions arise about the sustainability of its strategy amidst growing competition and market challenges.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Services Australia to document 40 years of business rules in core ISIS system",
-      "link": "https://www.itnews.com.au/news/services-australia-to-document-40-years-of-business-rules-in-core-isis-system-623246?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Services Australia is undertaking a significant project to document 40 years of business rules in its core ISIS system. This initiative aims to ensure the reliability of aged pension payments and reflects a broader trend towards modernization and transparency in government systems.",
-      "source": "IT News"
-    },
-    {
-      "title": "The long-rumored ChromeOS and Android merger just got its strongest hint yet",
-      "link": "https://www.zdnet.com/article/google-aluminium-os-leaked-chromeos-android/",
-      "summary": "A leaked bug report has provided strong indications of a potential merger between ChromeOS and Android, dubbed 'Aluminium OS.' This development could lead to a unified operating system experience, enhancing functionality and user experience across devices.",
-      "source": "ZDNet"
+      "title": "Apex Legends won't be playable on Nintendo Switch after its next season",
+      "link": "https://www.engadget.com/gaming/nintendo/apex-legends-wont-be-playable-on-nintendo-switch-after-its-next-season-214153353.html?src=rss",
+      "summary": "Respawn Entertainment has announced that Apex Legends will cease to be playable on the original Nintendo Switch after Season 29, transitioning to the upcoming Switch 2. This decision reflects the game's evolution and the need for more powerful hardware to support future updates.",
+      "source": "Engadget"
     }
   ]
 }
