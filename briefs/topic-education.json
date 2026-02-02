@@ -1,56 +1,20 @@
 {
-  "generatedAt": "2026-01-29T03:06:24.704Z",
+  "generatedAt": "2026-02-02T06:13:46.521Z",
   "topic": "education",
-  "weekOf": "2026-01-29",
-  "lead": "Exploring the evolving landscape of education technology and its implications for learning and teaching.",
+  "weekOf": "2026-02-02",
+  "lead": "Exploring the intersection of technology and education, this brief highlights innovative tools and features that enhance learning and health awareness.",
   "stories": [
     {
-      "title": "OpenAI releases Prism, a Claude Code-like app for scientific research",
-      "link": "https://www.engadget.com/ai/openai-releases-prism-a-claude-code-like-app-for-scientific-research-180000454.html?src=rss",
-      "summary": "OpenAI has launched Prism, an innovative app aimed at enhancing scientific research through AI integration. The app builds on the capabilities of LaTeX, offering robust editing and an AI assistant to streamline the process of writing and formatting academic papers. Notably, Prism can also assist in generating lesson plans, showcasing its potential to alleviate tedious tasks for educators and researchers alike.",
+      "title": "How to turn on hypertension alerts on Apple Watch",
+      "link": "https://www.engadget.com/wearables/how-to-turn-on-hypertension-alerts-on-apple-watch-130000090.html?src=rss",
+      "summary": "Apple has introduced hypertension alerts on its latest Apple Watch models, designed to notify users of potential blood pressure issues based on health data trends. This feature analyzes heart rate and movement patterns over 30 days, aiming to raise awareness rather than diagnose conditions. Users can enable these alerts through the Health app, promoting proactive health management and discussions with healthcare professionals.",
       "source": "Engadget"
     },
     {
-      "title": "School admin edtech Compass acquires Clipboard",
-      "link": "https://www.startupdaily.net/topic/business/school-admin-edtech-compass-acquires-clipboard/",
-      "summary": "Compass Education, a school administration management platform, has acquired rival startup Clipboard, marking a significant consolidation in the edtech sector. This acquisition aims to enhance Compass's offerings and streamline administrative tasks for educational institutions, reflecting a growing trend towards integrating technology in school management.",
-      "source": "Startup Daily"
-    },
-    {
-      "title": "The Guardian view on toddlers and screens: more reasons to be fearful of big tech",
-      "link": "https://www.theguardian.com/commentisfree/2026/jan/22/the-guardian-view-on-toddlers-and-screens-more-reasons-to-be-fearful-of-big-tech",
-      "summary": "A recent editorial from The Guardian highlights growing concerns about the impact of screen time on toddlers. With a significant percentage of young children engaging with screens daily, studies indicate potential negative effects on vocabulary and emotional development. The article calls for urgent government guidelines to address these issues, emphasizing the need to balance technology use with healthy developmental practices.",
-      "source": "The Guardian Australia"
-    },
-    {
-      "title": "Reading the 2026 IT Landscape: Insights from Japan’s Leading CIOs",
-      "link": "https://www.cio.com/article/4123837/reading-the-2026-it-landscape-insights-from-japans-leading-cios.html",
-      "summary": "CIOs in Japan anticipate significant shifts in IT strategies by 2026, driven by advancements in AI and data management. The report emphasizes the importance of continuous education to adapt to these changes, suggesting that organizations must redefine their operational frameworks to incorporate AI effectively while maintaining governance and ethical standards.",
-      "source": "CIO"
-    },
-    {
-      "title": "To adopt AI quickly, or safely? Datacom says you don’t have to choose one over the other",
-      "link": "https://www.cio.com/article/4118907/to-adopt-ai-quickly-or-safely-datacom-says-you-dont-have-to-choose-one-over-the-other.html",
-      "summary": "Datacom advocates for a balanced approach to AI adoption, arguing that organizations can implement AI solutions swiftly while ensuring safety and compliance. The article outlines a structured methodology that helps organizations modernize legacy systems using AI, emphasizing the importance of clear strategies to avoid pitfalls commonly associated with rapid AI deployment.",
-      "source": "CIO"
-    },
-    {
-      "title": "How enterprise CIOs can scale AI coding without losing control",
-      "link": "https://www.cio.com/article/4122916/how-enterprise-cios-can-scale-ai-coding-without-losing-control.html",
-      "summary": "As AI coding tools become more prevalent, enterprise CIOs face the challenge of scaling their use responsibly. This article discusses the importance of establishing guardrails to ensure security and reliability in AI-assisted coding, advocating for a balanced approach that combines human oversight with AI capabilities to enhance productivity without compromising quality.",
-      "source": "CIO"
-    },
-    {
-      "title": "Apple Creator Studio is now available for $13 per month: What's included and what it means for creators",
-      "link": "https://www.engadget.com/apps/apple-creator-studio-is-now-available-for-13-per-month-whats-included-and-what-it-means-for-creators-130000475.html?src=rss",
-      "summary": "Apple has launched its Creator Studio subscription service, bundling professional creative apps for a monthly fee. This initiative aims to empower educators and students by providing access to powerful tools like Final Cut Pro and Logic Pro at a reduced cost for educational users, promoting creativity and innovation in learning environments.",
+      "title": "The best power banks and portable chargers for every device in 2026",
+      "link": "https://www.engadget.com/computing/accessories/best-power-bank-143048526.html?src=rss",
+      "summary": "In a comprehensive review, Engadget tested over 60 portable chargers to identify the best power banks for various devices. The guide covers essential features like capacity, charging speed, and design, helping users choose the right power bank for their needs. This information is crucial for students and professionals who rely on devices for learning and productivity, ensuring they stay powered throughout the day.",
       "source": "Engadget"
-    },
-    {
-      "title": "The AI Agent Revolution: Redefining Manufacturing and Office Work",
-      "link": "https://www.cio.com/article/4123837/reading-the-2026-it-landscape-insights-from-japans-leading-cios.html",
-      "summary": "As AI agents become integral to business operations, organizations are rethinking human-AI collaboration. This shift is expected to redefine roles across industries, from manufacturing to administration, highlighting the need for ongoing education and adaptation in workforce skills to leverage AI effectively.",
-      "source": "CIO"
     }
   ]
 }
