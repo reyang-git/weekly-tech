@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-01-29T03:06:25.239Z",
+  "generatedAt": "2026-02-02T06:13:43.196Z",
   "topic": "AI",
-  "weekOf": "2026-01-29",
-  "lead": "AI continues to shape various industries, from smart home technology to corporate strategies and regulations, as companies and governments navigate its complexities.",
+  "weekOf": "2026-02-02",
+  "lead": "AI is transforming industries and operational strategies, with organizations focusing on responsible implementation and effective governance.",
   "stories": [
     {
-      "title": "Mark Zuckerberg Plans to Deepen AI’s Presence in Our Online Lives",
-      "link": "https://gizmodo.com/ai-that-understands-you-mark-zuckerberg-plans-to-deepen-ais-presence-in-our-online-lives-2000715207",
-      "summary": "Zuckerberg envisions a future where AI plays a crucial role in enhancing user experiences online, particularly through smart glasses. He believes these devices will allow AI to interact seamlessly with users, providing real-time assistance and information. This vision aligns with Meta's shift towards integrating AI more deeply into its products and services.",
-      "source": "Gizmodo"
+      "title": "AI Goals for 2026: What Every Organisation Should Prioritise",
+      "link": "https://www.itnews.com.au/feature/ai-goals-for-2026-what-every-organisation-should-prioritise-623249?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "As organizations begin 2026, AI has evolved from isolated pilot projects to a core component of business strategy. Companies are encouraged to prioritize responsible AI practices, ensuring that technology aligns with their long-term goals and enhances operational efficiency. This shift reflects a broader recognition of AI's potential to drive innovation and competitive advantage.",
+      "source": "IT News"
     },
     {
-      "title": "South Korea’s ‘world-first’ AI laws face pushback amid bid to become leading tech power",
-      "link": "https://www.theguardian.com/world/2026/jan/29/south-korea-world-first-ai-regulation-laws",
-      "summary": "South Korea has introduced comprehensive AI regulations aimed at establishing itself as a leader in technology. However, the laws have faced criticism from both tech startups and civil society groups, with concerns that they may be too restrictive or not stringent enough. The legislation requires companies to label AI-generated content and conduct risk assessments for high-impact AI applications.",
-      "source": "The Guardian"
+      "title": "AIエージェント時代の脅威モデル入門──「自律性」が増やす攻撃面をどう捉えるか",
+      "link": "https://www.cio.com/article/4125256/ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e6%99%82%e4%bb%a3%e3%81%ae%e8%84%85%e5%a8%81%e3%83%a2%e3%83%87%e3%83%ab%e5%85%a5%e9%96%80%e2%94%80%e2%94%80%e3%80%8c%e8%87%aa%e5%be%8b%e6%80%a7.html",
+      "summary": "The rise of AI agents introduces new threat models that extend beyond traditional software vulnerabilities. These agents' autonomy and decision-making capabilities can amplify risks, including data breaches and unauthorized actions. Understanding these threats is crucial for organizations to develop robust security measures and ensure safe deployment of AI technologies.",
+      "source": "CIO"
     },
     {
-      "title": "Microsoft gained $7.6B from OpenAI last quarter",
-      "link": "https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/",
-      "summary": "Microsoft's investment in OpenAI is paying off significantly, with the tech giant reporting a $7.6 billion gain from its partnership in the last quarter. This financial success highlights the growing importance of AI in Microsoft's business strategy, as the company continues to integrate AI capabilities across its products and services.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Tesla is killing off its Model S and X cars to make robots",
-      "link": "https://www.engadget.com/transportation/evs/tesla-is-killing-off-its-model-s-and-x-cars-to-make-robots-010621101.html?src=rss",
-      "summary": "In a bold shift towards automation, Tesla plans to discontinue its Model S and X vehicles to refocus production on its Optimus humanoid robots. CEO Elon Musk stated that this move aligns with Tesla's future vision centered around autonomy and robotics, marking a significant pivot in the company's strategy.",
-      "source": "Engadget"
-    },
-    {
-      "title": "AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman, and other big names",
-      "link": "https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/",
-      "summary": "Outtake, an AI security startup, has successfully raised $40 million in funding from notable investors, including Satya Nadella and Bill Ackman. The company focuses on creating an agentic cybersecurity platform designed to help enterprises combat identity fraud, showcasing the increasing demand for AI-driven security solutions.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Google adds Gemini AI-powered ‘auto browse’ to Chrome",
-      "link": "https://www.theverge.com/news/869731/google-gemini-ai-chrome-auto-browse",
-      "summary": "Google has introduced a new feature in Chrome called 'auto browse,' powered by its Gemini AI. This capability allows users to automate multi-step tasks, such as scheduling appointments and managing subscriptions, further enhancing the browser's functionality and user experience through AI.",
-      "source": "The Verge"
-    },
-    {
-      "title": "ServiceNow inks another AI partnership, this time with Anthropic",
-      "link": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
-      "summary": "ServiceNow has announced a partnership with Anthropic, following its collaboration with OpenAI. This multi-model approach aims to enhance ServiceNow's AI capabilities, reflecting the growing trend of companies leveraging partnerships to bolster their AI offerings and improve service delivery.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "I uploaded my Oura Ring data to this free web tool - the results surprised me in the best way",
-      "link": "https://www.zdnet.com/article/oura-ring-simple-wearable-report-chatbot-ai/",
-      "summary": "A new web tool uses AI to analyze data from Oura Rings, providing users with deeper insights into their health metrics. This innovative application of AI demonstrates how personal health data can be leveraged to enhance individual wellness, showcasing the intersection of wearables and artificial intelligence.",
+      "title": "Why I'm recommending Google's Pixel Buds in 2026 (after years of passing on them)",
+      "link": "https://www.zdnet.com/article/google-pixel-buds-pro-2-review/",
+      "summary": "After years of skepticism, the latest iteration of Google's Pixel Buds has impressed with significant improvements in sound quality and features. This shift highlights how advancements in AI-driven technology can enhance everyday devices, making them more appealing to consumers. The integration of AI in audio technology is reshaping user experiences.",
       "source": "ZDNet"
+    },
+    {
+      "title": "AIエージェントの秘密情報管理とログ設計",
+      "link": "https://www.cio.com/article/4125260/%e3%83%87%e3%83%bc%e3%82%bf%e6%bc%8f%e3%81%88%e3%81%84%e3%81%af%e3%81%a9%e3%81%93%e3%81%a7%e8%b5%b7%e3%81%8d%e3%82%8b%ef%bc%9fai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e3%81%ae%e7%a7%98.html",
+      "summary": "Effective management of sensitive information in AI agents is critical to prevent data leaks. Organizations must map out potential leakage pathways, including inputs, memory, and logs. By establishing strict protocols and ensuring compliance with data protection standards, companies can mitigate risks associated with AI deployment.",
+      "source": "CIO"
+    },
+    {
+      "title": "Is Google's new $8 AI Plus plan worth it? How it compares to the $20 Pro subscription",
+      "link": "https://www.zdnet.com/article/google-ai-plus-debuts-should-you-switch-from-pro-plan/",
+      "summary": "Google's introduction of the AI Plus plan offers a more affordable option for users seeking enhanced features without the full cost of the Pro subscription. This move reflects the growing trend of companies making AI tools more accessible, allowing a wider audience to leverage advanced technology for personal and business use.",
+      "source": "ZDNet"
+    },
+    {
+      "title": "AI layoffs or ‘AI-washing’?",
+      "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+      "summary": "The recent wave of layoffs in tech companies raises questions about the authenticity of AI's role in these decisions. Many organizations may be using AI as a scapegoat for workforce reductions, highlighting the need for transparency in how AI is integrated into business strategies and its impact on employment.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "VicWater backs more gov data-sharing to boost AI",
+      "link": "https://www.itnews.com.au/news/vicwater-backs-more-gov-data-sharing-to-boost-ai-623128?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "VicWater's support for increased government data-sharing initiatives aims to enhance AI capabilities in the water sector. By leveraging shared data, organizations can improve decision-making processes and operational efficiency, showcasing the transformative potential of AI in public utilities.",
+      "source": "IT News"
+    },
+    {
+      "title": "If AI can’t yet pass ‘Humanity’s Last Exam’, where does that leave ambitions for it?",
+      "link": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/if-ai-cant-yet-pass-humanitys-last-exam-where-does-that-leave-ambitions-for-it/",
+      "summary": "The inability of AI to pass critical benchmarks raises fundamental questions about its future capabilities. As researchers continue to explore the limits of AI, the conversation shifts towards realistic expectations and the ethical implications of deploying AI in sensitive areas of society.",
+      "source": "Startup Daily"
     }
   ]
 }
