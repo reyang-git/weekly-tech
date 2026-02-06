@@ -1,7 +1,32 @@
 {
-  "generatedAt": "2026-02-02T06:13:47.327Z",
+  "generatedAt": "2026-02-06T02:05:47.060Z",
   "topic": "quantum",
-  "weekOf": "2026-02-02",
-  "lead": "No recent articles found about quantum this week.",
-  "stories": []
+  "weekOf": "2026-02-06",
+  "lead": "Recent advancements in quantum technology are reshaping industries, with significant investments and innovations emerging in quantum computing and sensing.",
+  "stories": [
+    {
+      "title": "QT Sense raises €4M to advance a quantum sensing platform",
+      "link": "https://thenextweb.com/news/qt-sense-raises-e4m-to-advance-a-quantum-sensing-platform",
+      "summary": "QT Sense, a biotech startup, has secured €4 million to enhance its Quantum Nuova platform, enabling real-time observation of cellular processes. This funding will facilitate research into biochemical activities related to diseases, supported by major investors including Cottonwood Technology Fund. The initiative aims to revolutionize traditional lab methods by leveraging quantum sensing technology.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Kembara closes €750M first close to fuel growth of European deep tech startups",
+      "link": "https://thenextweb.com/news/kembara-closes-e750m-first-close-to-fuel-growth-of-european-deep-tech-startups",
+      "summary": "Kembara Fund I, Europe's largest deep tech growth fund, has raised €750 million in its first closing, targeting a total of €1 billion. The fund will invest in breakthrough technologies, including quantum computing, as part of a broader initiative to strengthen local growth capital in Europe. This significant backing reflects the growing interest in deep tech sectors across the continent.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Racing to build utility-scale computer, quantum start-up earns $20m federal investment",
+      "link": "https://www.smh.com.au/technology/racing-to-build-utility-scale-computer-quantum-start-up-earns-20m-federal-investment-20260202-p5nyvz.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "Australian startup Diraq has received a $20 million federal investment to advance its utility-scale quantum computing ambitions. This funding aims to position Diraq as a leader in the quantum computing market, reflecting the Australian government's commitment to supporting innovative tech ventures that promise significant advancements in computational capabilities.",
+      "source": "Sydney Morning Herald"
+    },
+    {
+      "title": "NordVPN review 2025: Innovative features, a few missteps",
+      "link": "https://www.engadget.com/cybersecurity/vpn/nordvpn-review-2025-innovative-features-a-few-missteps-163000578.html?src=rss",
+      "summary": "NordVPN's latest review highlights its innovative features, including quantum-resistant encryption. While the service excels in speed and user experience, it faces criticism for some design inconsistencies. The introduction of post-quantum encryption demonstrates the company's proactive approach to future-proofing its security measures against potential quantum threats.",
+      "source": "Engadget"
+    }
+  ]
 }
