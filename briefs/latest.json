@@ -1,68 +1,74 @@
 {
-  "generatedAt": "2026-02-01T22:54:46.423Z",
-  "weekOf": "2026-02-01",
-  "lead": "This week in tech highlights significant innovations and developments, including AI advancements, startup activities, and notable product launches.",
+  "generatedAt": "2026-02-06T02:17:16.147Z",
+  "weekOf": "2026-02-06",
+  "lead": "This week in tech highlights major investments in AI, innovative product launches, and exciting developments in the Australian tech ecosystem.",
   "themes": [
-    "AI and Emerging Technologies",
-    "Startups and VC Deals",
-    "Innovation and New Product Launches",
-    "Australian Tech Ecosystem",
-    "Novel Use Cases and Applications"
+    "AI and emerging technologies",
+    "Startups and VC deals",
+    "Innovation and new product launches",
+    "Australian tech ecosystem",
+    "Novel use cases of technology"
   ],
   "stories": [
     {
-      "title": "AI Goals for 2026: What Every Organisation Should Prioritise",
-      "link": "https://www.itnews.com.au/feature/ai-goals-for-2026-what-every-organisation-should-prioritise-623249?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "As organizations enter 2026, AI is evolving from isolated pilot projects to integral components of strategic planning. This shift emphasizes the need for businesses to prioritize AI integration across various functions, ensuring they leverage its full potential to enhance efficiency and innovation.",
-      "source": "IT News"
+      "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
+      "link": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+      "summary": "Sapiom, a startup focused on enabling AI agents to make autonomous technology purchases, has secured $15 million in funding from Accel. This financial layer aims to streamline the authentication and micro-payment processes for AI agents, marking a significant step in the evolution of AI autonomy in tech procurement.",
+      "source": "TechCrunch"
     },
     {
-      "title": "VicWater backs more gov data-sharing to boost AI",
-      "link": "https://www.itnews.com.au/news/vicwater-backs-more-gov-data-sharing-to-boost-ai-623128?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "VicWater is advocating for increased government data-sharing to enhance AI applications within the Intelligent Water Networks program. This initiative aims to leverage data for better decision-making and operational efficiency in water management.",
-      "source": "IT News"
+      "title": "Amazon can't build AI capacity fast enough, throws another $200B at the problem",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/amazon_earnings_q4_2025/",
+      "summary": "Amazon is ramping up its investment in AI, committing an additional $200 billion to enhance its capabilities. This move comes as the demand for AI solutions continues to surge, highlighting the competitive landscape among tech giants to secure a leading position in AI development.",
+      "source": "The Register"
     },
     {
-      "title": "Apple’s online store now lets you build a new Mac exactly the way you want",
-      "link": "https://www.engadget.com/computing/laptops/apples-online-store-now-lets-you-build-a-new-mac-exactly-the-way-you-want-190430251.html?src=rss",
-      "summary": "Apple has revamped its online store, allowing customers to customize their Mac purchases down to individual specifications. This update enhances user experience by providing more options for hardware configurations, indicating Apple's commitment to personalization in its product offerings.",
+      "title": "Reddit looks to AI search as its next big opportunity",
+      "link": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
+      "summary": "Reddit is exploring the integration of AI into its search functionalities, aiming to merge traditional search with AI capabilities. During its recent earnings call, the company emphasized the potential of AI search as a significant market opportunity, despite not yet monetizing it.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "HBO is turning Baldur’s Gate into a TV show",
+      "link": "https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin",
+      "summary": "HBO is set to adapt the popular RPG Baldur's Gate 3 into a television series, with Craig Mazin as the showrunner. The adaptation will introduce new characters while incorporating existing ones from the game, promising to expand the narrative universe of the beloved franchise.",
+      "source": "The Verge"
+    },
+    {
+      "title": "AWS revenue continues to soar as cloud demand remains high",
+      "link": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
+      "summary": "Amazon Web Services (AWS) reported its highest revenue growth in over three years, driven by increasing demand for cloud services and AI integration. This growth underscores the pivotal role of cloud technology in supporting modern digital infrastructure and AI advancements.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "X's latest Community Notes experiment allows AI to write the first draft",
+      "link": "https://www.engadget.com/social-media/xs-latest-community-notes-experiment-allows-ai-to-write-the-first-draft-210605597.html?src=rss",
+      "summary": "X is testing a new feature in its Community Notes that allows AI to draft initial notes, which can then be refined by community feedback. This initiative aims to enhance the efficiency of content creation on the platform, showcasing a novel application of AI in social media.",
       "source": "Engadget"
     },
     {
-      "title": "SpaceX seeks FCC nod for solar-powered satellite data centres",
-      "link": "https://www.itnews.com.au/news/spacex-seeks-fcc-nod-for-solar-powered-satellite-data-centres-623308?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "SpaceX is pursuing approval from the FCC to establish solar-powered satellite data centers aimed at supporting AI workloads. This initiative reflects a growing trend towards sustainable technology solutions in the tech industry.",
-      "source": "IT News"
+      "title": "Podcast: Brian Collins, Tasmania’s new startup champion, Australian VC funding, Musk & the Epstein files",
+      "link": "https://www.startupdaily.net/podcasts/podcast-brian-collins-tasmanias-new-startup-champion-australian-vc-funding-musk-the-epstein-files/",
+      "summary": "In this episode, Brian Collins discusses the vibrant startup scene in Tasmania and the landscape of Australian venture capital funding. The podcast highlights the challenges and opportunities for local startups, providing insights into the region's tech ecosystem.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Nissan's A/NZ finance arm embarks on $35m digital transformation",
-      "link": "https://www.itnews.com.au/news/nissans-a-nz-finance-arm-embarks-on-35m-digital-transformation-623269?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Nissan's finance division in Australia and New Zealand is launching a $35 million digital transformation project, which includes replacing core systems and implementing AI technologies. This move aims to enhance operational efficiency and customer service.",
-      "source": "IT News"
+      "title": "AI companies want you to stop chatting with bots and start managing them",
+      "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+      "summary": "Emerging AI companies are shifting focus from user interaction with chatbots to the management of AI agents. This trend indicates a maturation in AI technology, where users are expected to oversee AI operations rather than merely engage with them.",
+      "source": "Ars Technica"
     },
     {
-      "title": "Google Brings Genie 3's Interactive World-Building Prototype to AI Ultra Subscribers",
-      "link": "https://www.cnet.com/tech/services-and-software/google-brings-genie-3-world-building-experiment-to-ai-ultra-subscribers/",
-      "summary": "Google has introduced Genie 3, a prototype that allows users to create interactive, video game-like worlds using simple text prompts. This innovative tool showcases the potential of AI in creative applications and user-generated content.",
+      "title": "Starlink Is Using Your Personal Data to Train AI. Here’s How to Opt Out",
+      "link": "https://www.cnet.com/home/internet/starlink-updates-privacy-policy-for-ai-training/",
+      "summary": "Starlink has updated its privacy policy to include the use of personal data for training AI tools. Users are provided with options to opt out, raising important discussions about data privacy and the ethical implications of AI development.",
       "source": "CNET"
     },
     {
-      "title": "Apple Leadership Is Quietly Getting AI-Pilled, Report Claims",
-      "link": "https://gizmodo.com/apple-leadership-is-quietly-getting-ai-pilled-report-claims-2000716353",
-      "summary": "Reports suggest that Apple’s leadership is increasingly focusing on AI integration within their products and services. This strategic pivot may indicate a forthcoming major push into AI-driven innovations as the tech giant seeks to remain competitive.",
-      "source": "Gizmodo"
-    },
-    {
-      "title": "AIエージェント時代の脅威モデル入門──「自律性」が増やす攻撃面をどう捉えるか",
-      "link": "https://www.cio.com/article/4125256/ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e6%99%82%e4%bb%a3%e3%81%ae%E8%84%85%e5%a8%81%e3%83%a2%e3%83%87%e3%83%ab%e5%85%a5%e9%96%80%e2%94%80%e2%94%80%e3%80%8c%e8%87%aa%e5%be%8b%e6%80%a7.html",
-      "summary": "This article discusses the evolving threat models associated with AI agents, highlighting their increased autonomy and the potential security risks they pose. It emphasizes the need for robust security measures to mitigate these risks as AI technology advances.",
-      "source": "CIO"
-    },
-    {
-      "title": "Apex Legends won't be playable on Nintendo Switch after its next season",
-      "link": "https://www.engadget.com/gaming/nintendo/apex-legends-wont-be-playable-on-nintendo-switch-after-its-next-season-214153353.html?src=rss",
-      "summary": "Respawn Entertainment has announced that Apex Legends will cease to be playable on the original Nintendo Switch after Season 29, transitioning to the upcoming Switch 2. This decision reflects the game's evolution and the need for more powerful hardware to support future updates.",
-      "source": "Engadget"
+      "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
+      "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
+      "summary": "Amazon and Google are leading the capital expenditure race in AI, with Amazon planning to invest $200 billion and Google not far behind. This competition highlights the strategic importance of AI technology in shaping the future of their respective business models.",
+      "source": "TechCrunch"
     }
   ]
 }
