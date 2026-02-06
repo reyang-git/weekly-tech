@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-02T06:13:43.196Z",
+  "generatedAt": "2026-02-06T02:05:52.399Z",
   "topic": "AI",
-  "weekOf": "2026-02-02",
-  "lead": "AI is transforming industries and operational strategies, with organizations focusing on responsible implementation and effective governance.",
+  "weekOf": "2026-02-06",
+  "lead": "AI continues to evolve and integrate into various sectors, from enterprise solutions to consumer applications, reshaping interactions and workflows.",
   "stories": [
     {
-      "title": "AI Goals for 2026: What Every Organisation Should Prioritise",
-      "link": "https://www.itnews.com.au/feature/ai-goals-for-2026-what-every-organisation-should-prioritise-623249?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "As organizations begin 2026, AI has evolved from isolated pilot projects to a core component of business strategy. Companies are encouraged to prioritize responsible AI practices, ensuring that technology aligns with their long-term goals and enhances operational efficiency. This shift reflects a broader recognition of AI's potential to drive innovation and competitive advantage.",
-      "source": "IT News"
-    },
-    {
-      "title": "AIエージェント時代の脅威モデル入門──「自律性」が増やす攻撃面をどう捉えるか",
-      "link": "https://www.cio.com/article/4125256/ai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e6%99%82%e4%bb%a3%e3%81%ae%e8%84%85%e5%a8%81%e3%83%a2%e3%83%87%e3%83%ab%e5%85%a5%e9%96%80%e2%94%80%e2%94%80%e3%80%8c%e8%87%aa%e5%be%8b%e6%80%a7.html",
-      "summary": "The rise of AI agents introduces new threat models that extend beyond traditional software vulnerabilities. These agents' autonomy and decision-making capabilities can amplify risks, including data breaches and unauthorized actions. Understanding these threats is crucial for organizations to develop robust security measures and ensure safe deployment of AI technologies.",
-      "source": "CIO"
-    },
-    {
-      "title": "Why I'm recommending Google's Pixel Buds in 2026 (after years of passing on them)",
-      "link": "https://www.zdnet.com/article/google-pixel-buds-pro-2-review/",
-      "summary": "After years of skepticism, the latest iteration of Google's Pixel Buds has impressed with significant improvements in sound quality and features. This shift highlights how advancements in AI-driven technology can enhance everyday devices, making them more appealing to consumers. The integration of AI in audio technology is reshaping user experiences.",
+      "title": "Which AI chatbots have ads? Comparing ChatGPT, Claude, Gemini, and more",
+      "link": "https://www.zdnet.com/article/which-ai-chatbots-are-ad-free/",
+      "summary": "A recent comparison of popular AI chatbots reveals which ones incorporate advertisements and their respective plans for future ad rollouts. The analysis covers ChatGPT, Claude, Gemini, and others, providing insights into how these platforms monetize their services and what users can expect moving forward.",
       "source": "ZDNet"
     },
     {
-      "title": "AIエージェントの秘密情報管理とログ設計",
-      "link": "https://www.cio.com/article/4125260/%e3%83%87%e3%83%bc%e3%82%bf%e6%bc%8f%e3%81%88%e3%81%84%e3%81%af%e3%81%a9%e3%81%93%e3%81%a7%e8%b5%b7%e3%81%8d%e3%82%8b%ef%bc%9fai%e3%82%a8%e3%83%bc%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%88%e3%81%ae%e7%a7%98.html",
-      "summary": "Effective management of sensitive information in AI agents is critical to prevent data leaks. Organizations must map out potential leakage pathways, including inputs, memory, and logs. By establishing strict protocols and ensuring compliance with data protection standards, companies can mitigate risks associated with AI deployment.",
-      "source": "CIO"
-    },
-    {
-      "title": "Is Google's new $8 AI Plus plan worth it? How it compares to the $20 Pro subscription",
-      "link": "https://www.zdnet.com/article/google-ai-plus-debuts-should-you-switch-from-pro-plan/",
-      "summary": "Google's introduction of the AI Plus plan offers a more affordable option for users seeking enhanced features without the full cost of the Pro subscription. This move reflects the growing trend of companies making AI tools more accessible, allowing a wider audience to leverage advanced technology for personal and business use.",
-      "source": "ZDNet"
-    },
-    {
-      "title": "AI layoffs or ‘AI-washing’?",
-      "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
-      "summary": "The recent wave of layoffs in tech companies raises questions about the authenticity of AI's role in these decisions. Many organizations may be using AI as a scapegoat for workforce reductions, highlighting the need for transparency in how AI is integrated into business strategies and its impact on employment.",
+      "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
+      "link": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
+      "summary": "Sapiom has secured $15 million in funding to develop a financial layer that enables AI agents to autonomously purchase necessary technology tools. This innovation aims to streamline operations and enhance the efficiency of AI agents in various sectors.",
       "source": "TechCrunch"
     },
     {
-      "title": "VicWater backs more gov data-sharing to boost AI",
-      "link": "https://www.itnews.com.au/news/vicwater-backs-more-gov-data-sharing-to-boost-ai-623128?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "VicWater's support for increased government data-sharing initiatives aims to enhance AI capabilities in the water sector. By leveraging shared data, organizations can improve decision-making processes and operational efficiency, showcasing the transformative potential of AI in public utilities.",
-      "source": "IT News"
+      "title": "Reddit looks to AI search as its next big opportunity",
+      "link": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
+      "summary": "Reddit is exploring the integration of AI search capabilities to enhance user experience and engagement. This move is part of a broader strategy to capitalize on the growing demand for AI-driven solutions in content discovery and community interaction.",
+      "source": "TechCrunch"
     },
     {
-      "title": "If AI can’t yet pass ‘Humanity’s Last Exam’, where does that leave ambitions for it?",
-      "link": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/if-ai-cant-yet-pass-humanitys-last-exam-where-does-that-leave-ambitions-for-it/",
-      "summary": "The inability of AI to pass critical benchmarks raises fundamental questions about its future capabilities. As researchers continue to explore the limits of AI, the conversation shifts towards realistic expectations and the ethical implications of deploying AI in sensitive areas of society.",
-      "source": "Startup Daily"
+      "title": "OpenAI launches a way for enterprises to build and manage AI agents",
+      "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
+      "summary": "OpenAI has introduced Frontier, a platform designed for enterprises to create and manage AI agents. This initiative aims to treat AI agents as human employees, enhancing operational efficiency and decision-making within organizations.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI companies want you to stop chatting with bots and start managing them",
+      "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+      "summary": "A shift in focus is emerging within the AI industry, encouraging users to transition from interacting with chatbots to managing AI agents. This paradigm shift highlights the potential for AI to take on more complex tasks and responsibilities.",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "How AI agents will redefine procurement in 2026",
+      "link": "https://www.cio.com/article/4126629/how-ai-agents-will-redefine-procurement-in-2026.html",
+      "summary": "AI agents are set to transform procurement processes by automating routine tasks and enhancing decision-making capabilities. This evolution reflects a broader trend of integrating AI into business operations to improve efficiency and resilience.",
+      "source": "CIO"
+    },
+    {
+      "title": "OpenAI's Frontier wants to manage your AI agents - it could upend enterprise software, too",
+      "link": "https://www.zdnet.com/article/openai-frontier-manage-enterprise-ai-agents-like-palantir/",
+      "summary": "OpenAI's Frontier platform offers a new approach to managing AI agents, potentially disrupting traditional enterprise software models. By emulating successful frameworks, Frontier aims to enhance the deployment and oversight of AI technologies in business.",
+      "source": "ZDNet"
+    },
+    {
+      "title": "AI-generated ads could dominate Super Bowl LX",
+      "link": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
+      "summary": "As Super Bowl LX approaches, AI-generated advertisements are expected to take center stage, showcasing the growing influence of AI in marketing. With companies like Anthropic and OpenAI participating, the event may highlight the capabilities of AI in creative advertising.",
+      "source": "The Verge"
     }
   ]
 }
