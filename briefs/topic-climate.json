@@ -1,7 +1,56 @@
 {
-  "generatedAt": "2026-02-02T06:13:48.237Z",
+  "generatedAt": "2026-02-06T02:05:51.147Z",
   "topic": "climate",
-  "weekOf": "2026-02-02",
-  "lead": "No recent articles found about climate this week.",
-  "stories": []
+  "weekOf": "2026-02-06",
+  "lead": "Exploring the intersection of climate change and leadership, particularly through the lens of emotional intelligence and the experiences of women in technology.",
+  "stories": [
+    {
+      "title": "Climate Change and Emotional Intelligence: A New Leadership Paradigm",
+      "link": "https://www.cio.com/article/4126714/women-and-working-parents-finding-a-way-to-turn-guilt-into-growth.html",
+      "summary": "This article discusses how emotional intelligence, particularly in the context of working mothers in tech, can influence leadership during climate crises. It highlights the importance of vulnerability and connection in fostering a supportive environment where leaders can navigate the complexities of ambition and caregiving. The author introduces the Guilt-to-Clarity Leadership Model, emphasizing how guilt can be transformed into a force for clarity and decision-making.",
+      "source": "CIO"
+    },
+    {
+      "title": "Women in Leadership: Navigating Guilt and Climate Responsibility",
+      "link": "https://www.cio.com/article/4126714/women-and-working-parents-finding-a-way-to-turn-guilt-into-growth.html",
+      "summary": "The piece explores the unique challenges faced by women leaders, particularly in technology, as they balance professional ambitions with personal responsibilities. It argues that the emotional labor of guilt can be reframed as a strength that enhances leadership capabilities, especially in addressing climate-related issues. The author shares personal anecdotes to illustrate how connection and psychological safety can empower leaders to tackle climate challenges effectively.",
+      "source": "CIO"
+    },
+    {
+      "title": "The Role of Emotional Leadership in Climate Action",
+      "link": "https://www.cio.com/article/4126714/women-and-working-parents-finding-a-way-to-turn-guilt-into-growth.html",
+      "summary": "This article posits that emotional leadership is crucial in driving climate action. It discusses how leaders who embrace vulnerability and foster psychological safety can inspire their teams to engage more deeply with climate issues. By sharing personal stories of navigating guilt and ambition, the author illustrates how emotional intelligence can lead to more effective climate strategies.",
+      "source": "CIO"
+    },
+    {
+      "title": "Building Trust Circles for Climate Leadership",
+      "link": "https://www.cio.com/article/4126714/women-and-working-parents-finding-a-way-to-turn-guilt-into-growth.html",
+      "summary": "The author emphasizes the importance of building a 'trust circle' among leaders to support climate initiatives. This network of mentors and peers can provide the necessary feedback and guidance to navigate the emotional complexities of leadership in the face of climate challenges. The article highlights how collaboration and connection are essential for sustainable leadership.",
+      "source": "CIO"
+    },
+    {
+      "title": "Navigating Climate Guilt: A Leadership Perspective",
+      "link": "https://www.cio.com/article/4126714/women-and-working-parents-finding-a-way-to-turn-guilt-into-growth.html",
+      "summary": "This story addresses the phenomenon of climate guilt among leaders, particularly women, and how it can impact decision-making. The author suggests that recognizing guilt as a signal of care can help leaders prioritize their actions effectively. By reframing guilt, leaders can foster a more compassionate approach to climate issues.",
+      "source": "CIO"
+    },
+    {
+      "title": "Empathy as a Tool for Climate Leadership",
+      "link": "https://www.cio.com/article/4126714/women-and-working-parents-finding-a-way-to-turn-guilt-into-growth.html",
+      "summary": "The article discusses how empathy plays a critical role in effective climate leadership. It argues that leaders who allow themselves to be vulnerable can create a culture of trust that encourages open dialogue about climate challenges. The author shares insights on how emotional expression can lead to stronger, more resilient teams.",
+      "source": "CIO"
+    },
+    {
+      "title": "The Intersection of Gender, Leadership, and Climate Change",
+      "link": "https://www.cio.com/article/4126714/women-and-working-parents-finding-a-way-to-turn-guilt-into-growth.html",
+      "summary": "This piece explores the intersection of gender and climate leadership, highlighting the unique challenges faced by women in tech. It discusses how societal expectations contribute to feelings of guilt and how these can be transformed into leadership strengths. The author advocates for a more inclusive approach to climate action that recognizes diverse leadership styles.",
+      "source": "CIO"
+    },
+    {
+      "title": "Leadership Models for a Sustainable Future",
+      "link": "https://www.cio.com/article/4126714/women-and-working-parents-finding-a-way-to-turn-guilt-into-growth.html",
+      "summary": "The author presents a new leadership model that integrates emotional intelligence with sustainability goals. By focusing on clarity over perfection, leaders can navigate the complexities of climate action more effectively. This model encourages leaders to embrace their humanity as a vital asset in driving meaningful change.",
+      "source": "CIO"
+    }
+  ]
 }
