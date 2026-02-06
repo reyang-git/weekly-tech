@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-02T06:13:43.377Z",
+  "generatedAt": "2026-02-06T02:05:50.377Z",
   "topic": "health",
-  "weekOf": "2026-02-02",
-  "lead": "Exploring the latest advancements and challenges in health technology and wellness in 2026.",
+  "weekOf": "2026-02-06",
+  "lead": "Recent developments in health technology and social media's impact on mental health are shaping the future of personal well-being.",
   "stories": [
     {
-      "title": "5 Best Multivitamins for Women Over 50 in 2026",
-      "link": "https://www.cnet.com/health/nutrition/best-vitamins-for-women-50-plus/",
-      "summary": "As women age, maintaining proper nutrition becomes increasingly important. This article highlights the top five multivitamins specifically formulated for women over 50, focusing on essential vitamins and minerals that support health and well-being. The recommendations are based on current research and user reviews, ensuring that older women can make informed choices about their nutritional supplements.",
+      "title": "Zuckerberg considered changing how Meta studies social issues after research got it in trouble",
+      "link": "https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research",
+      "summary": "In light of troubling findings about Instagram's impact on teen girls' mental health, Mark Zuckerberg has expressed the need for Meta to rethink its approach to studying social issues. This comes after a significant report highlighted the negative effects of social media on young users, prompting discussions within the company about the ethics of their research methodologies.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Fitbit Co-Founders Launch Luffu, AI-Powered Health Tracking for the Whole Family",
+      "link": "https://www.cnet.com/tech/fitbit-founders-launch-luffu-an-ai-based-healthcare-platform-for-tracking-your-familys-health/",
+      "summary": "The co-founders of Fitbit have introduced Luffu, a new AI-driven health tracking platform designed to consolidate health data for families. This innovative tool aims to provide a comprehensive view of each family member's health, making it easier to manage wellness collectively and proactively.",
       "source": "CNET"
     },
     {
-      "title": "Best Mental Health Apps of 2026",
-      "link": "https://www.cnet.com/health/mental/best-mental-health-apps/",
-      "summary": "In an era where mental health awareness is paramount, this article reviews the best mental health apps available in 2026. These apps offer a range of services from therapy sessions and meditation to wellness tracking, making mental health support more accessible than ever. The selection is based on user experience and effectiveness, providing valuable tools for maintaining mental wellness.",
-      "source": "CNET"
-    },
-    {
-      "title": "Stroke Risk Could Be Flagged Early Using Apple Watch, Studies Show",
-      "link": "https://www.cnet.com/tech/stroke-risk-could-be-flagged-early-using-apple-watch-technology-studies-show/",
-      "summary": "Recent studies suggest that Apple Watch technology can help identify early signs of stroke risk by monitoring heart health. The findings indicate that wearables could play a crucial role in preventative health care, allowing users to track their cardiovascular health more effectively. This advancement highlights the potential of smart devices in enhancing personal health monitoring.",
-      "source": "CNET"
-    },
-    {
-      "title": "How to turn on hypertension alerts on Apple Watch",
-      "link": "https://www.engadget.com/wearables/how-to-turn-on-hypertension-alerts-on-apple-watch-130000090.html?src=rss",
-      "summary": "The Apple Watch has introduced hypertension alerts, which notify users of potential elevated blood pressure trends based on collected health data. This feature aims to raise awareness among users who may not have been diagnosed with hypertension, encouraging proactive health management. The article details how to enable these alerts and their significance in monitoring cardiovascular health.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Having that high-deductible health plan might kill you, literally",
-      "link": "https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/",
-      "summary": "With the elimination of ACA tax credits, many individuals are turning to high-deductible health plans, which may pose serious risks to their health. This article discusses the implications of such plans, including the potential for delayed medical care due to high out-of-pocket costs. It emphasizes the need for a reevaluation of health insurance structures to ensure accessibility and safety.",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "What to know about the jury trials of Meta, Snap, TikTok and YouTube",
-      "link": "https://www.theguardian.com/media/2026/jan/31/what-to-know-trials-meta-snap-tiktok-youtube",
-      "summary": "Social media companies are facing legal scrutiny over claims that their platforms are harmful to young users' mental health. This landmark trial marks a significant moment in the ongoing debate about the impact of social media on mental wellness. The outcomes could reshape how platforms manage user engagement and content, potentially leading to stricter regulations.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Viome Full Body Intelligence Test Review: Little Clarity, Pricey Supplements",
-      "link": "https://www.wired.com/review/viome-full-body-intelligence-test/",
-      "summary": "Viome's Full Body Intelligence Test claims to provide insights into health based on microbiome analysis, but the review raises questions about its clarity and value. While the concept of personalized health insights is appealing, the article critiques the effectiveness and cost of the supplements recommended, urging consumers to approach such tests with caution.",
+      "title": "The Latest Apple Watch Is $100 Off",
+      "link": "https://www.wired.com/story/apple-watch-11-deal-226/",
+      "summary": "The latest Apple Watch is now available at a discounted price, featuring enhanced battery life and new health monitoring capabilities. This smartwatch continues to be a popular choice for users looking to track their fitness and health metrics, making it an essential accessory for health-conscious individuals.",
       "source": "Wired"
     },
     {
-      "title": "TrumpRx delayed as senators question if it's a giant scam with Big Pharma",
-      "link": "https://arstechnica.com/health/2026/01/trumprx-delayed-as-senators-question-if-its-a-giant-scam-with-big-pharma/",
-      "summary": "The rollout of TrumpRx, a proposed health initiative, is facing delays as scrutiny from senators raises concerns about its legitimacy and potential ties to pharmaceutical companies. This development highlights ongoing tensions in the health sector regarding transparency and accountability, especially in relation to drug pricing and access to medications.",
-      "source": "Ars Technica"
+      "title": "Why Are Some Women Training for Pregnancy Like It’s a Marathon?",
+      "link": "https://www.wired.com/story/pregnancy-zero-trimester-influencers/",
+      "summary": "A growing trend among influencers promotes the idea that a healthy pregnancy can be achieved through rigorous training and lifestyle choices. This phenomenon, dubbed 'zero trimester' training, raises questions about the pressures placed on expectant mothers and the societal expectations surrounding pregnancy and health.",
+      "source": "Wired"
+    },
+    {
+      "title": "Data breach at govtech giant Conduent balloons, affecting millions more Americans",
+      "link": "https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/",
+      "summary": "A significant data breach at Conduent has compromised the personal information of millions of Americans, including sensitive health data. This incident underscores the vulnerabilities in digital health records and the importance of robust cybersecurity measures in protecting personal health information.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims",
+      "link": "https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/",
+      "summary": "The Department of Health and Human Services is developing an AI tool aimed at analyzing vaccine injury claims. However, there are concerns that this initiative could be misused to support anti-vaccine narratives, highlighting the delicate balance between public health and misinformation.",
+      "source": "Wired"
+    },
+    {
+      "title": "Anthropic says it won't bring ads to Claude, unlike rival ChatGPT",
+      "link": "https://www.engadget.com/ai/anthropic-says-it-wont-bring-ads-to-claude-unlike-rival-chatgpt-171243642.html?src=rss",
+      "summary": "Anthropic has announced that its AI chatbot Claude will remain ad-free, contrasting with competitors like ChatGPT. This decision reflects a commitment to maintaining a supportive environment for users, particularly in sensitive contexts such as mental health discussions.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Overwatch will drop the '2' as Jetpack Cat and four other heroes arrive on February 10",
+      "link": "https://www.engadget.com/gaming/overwatch-will-drop-the-2-as-jetpack-cat-and-four-other-heroes-arrive-on-february-10-184500327.html?src=rss",
+      "summary": "Blizzard is set to release a major update for Overwatch, introducing new characters and a narrative arc that emphasizes community and teamwork. While primarily a gaming story, it reflects the growing intersection of digital engagement and mental well-being through social gaming experiences.",
+      "source": "Engadget"
     }
   ]
 }
