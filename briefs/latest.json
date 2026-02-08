@@ -1,74 +1,66 @@
 {
-  "generatedAt": "2026-02-06T02:17:16.147Z",
-  "weekOf": "2026-02-06",
-  "lead": "This week in tech highlights major investments in AI, innovative product launches, and exciting developments in the Australian tech ecosystem.",
+  "generatedAt": "2026-02-08T23:00:21.851Z",
+  "weekOf": "2026-02-08",
+  "lead": "This week in tech highlights significant developments in AI regulations, innovative product launches, and a notable shift in streaming services.",
   "themes": [
     "AI and emerging technologies",
-    "Startups and VC deals",
     "Innovation and new product launches",
-    "Australian tech ecosystem",
-    "Novel use cases of technology"
+    "Startups and VC deals"
   ],
   "stories": [
     {
-      "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
-      "link": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
-      "summary": "Sapiom, a startup focused on enabling AI agents to make autonomous technology purchases, has secured $15 million in funding from Accel. This financial layer aims to streamline the authentication and micro-payment processes for AI agents, marking a significant step in the evolution of AI autonomy in tech procurement.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Amazon can't build AI capacity fast enough, throws another $200B at the problem",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/06/amazon_earnings_q4_2025/",
-      "summary": "Amazon is ramping up its investment in AI, committing an additional $200 billion to enhance its capabilities. This move comes as the demand for AI solutions continues to surge, highlighting the competitive landscape among tech giants to secure a leading position in AI development.",
-      "source": "The Register"
-    },
-    {
-      "title": "Reddit looks to AI search as its next big opportunity",
-      "link": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
-      "summary": "Reddit is exploring the integration of AI into its search functionalities, aiming to merge traditional search with AI capabilities. During its recent earnings call, the company emphasized the potential of AI search as a significant market opportunity, despite not yet monetizing it.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "HBO is turning Baldur’s Gate into a TV show",
-      "link": "https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin",
-      "summary": "HBO is set to adapt the popular RPG Baldur's Gate 3 into a television series, with Craig Mazin as the showrunner. The adaptation will introduce new characters while incorporating existing ones from the game, promising to expand the narrative universe of the beloved franchise.",
+      "title": "New York is considering two bills to rein in the AI industry",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
+      "summary": "New York's state legislature is set to consider bills aimed at regulating AI-generated content. The proposed NY FAIR News Act would require disclaimers on AI-generated news and mandate human editorial oversight. Additionally, the bills propose a three-year pause on new data center construction, reflecting growing bipartisan concerns over AI's impact.",
       "source": "The Verge"
     },
     {
-      "title": "AWS revenue continues to soar as cloud demand remains high",
-      "link": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
-      "summary": "Amazon Web Services (AWS) reported its highest revenue growth in over three years, driven by increasing demand for cloud services and AI integration. This growth underscores the pivotal role of cloud technology in supporting modern digital infrastructure and AI advancements.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "X's latest Community Notes experiment allows AI to write the first draft",
-      "link": "https://www.engadget.com/social-media/xs-latest-community-notes-experiment-allows-ai-to-write-the-first-draft-210605597.html?src=rss",
-      "summary": "X is testing a new feature in its Community Notes that allows AI to draft initial notes, which can then be refined by community feedback. This initiative aims to enhance the efficiency of content creation on the platform, showcasing a novel application of AI in social media.",
+      "title": "AT&T's budget-friendly phone for kids was designed with parental controls in mind",
+      "link": "https://www.engadget.com/mobile/smartphones/atts-budget-friendly-phone-for-kids-was-designed-with-parental-controls-in-mind-202200139.html?src=rss",
+      "summary": "AT&T has launched the AmiGO Jr. Phone, a budget-friendly smartphone designed specifically for children. It features built-in parental controls, including live location tracking and screen time restrictions. This move positions AT&T as a key player in the market for kid-friendly devices, competing with existing products from other companies.",
       "source": "Engadget"
     },
     {
-      "title": "Podcast: Brian Collins, Tasmania’s new startup champion, Australian VC funding, Musk & the Epstein files",
-      "link": "https://www.startupdaily.net/podcasts/podcast-brian-collins-tasmanias-new-startup-champion-australian-vc-funding-musk-the-epstein-files/",
-      "summary": "In this episode, Brian Collins discusses the vibrant startup scene in Tasmania and the landscape of Australian venture capital funding. The podcast highlights the challenges and opportunities for local startups, providing insights into the region's tech ecosystem.",
-      "source": "Startup Daily"
-    },
-    {
-      "title": "AI companies want you to stop chatting with bots and start managing them",
-      "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
-      "summary": "Emerging AI companies are shifting focus from user interaction with chatbots to the management of AI agents. This trend indicates a maturation in AI technology, where users are expected to oversee AI operations rather than merely engage with them.",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Starlink Is Using Your Personal Data to Train AI. Here’s How to Opt Out",
-      "link": "https://www.cnet.com/home/internet/starlink-updates-privacy-policy-for-ai-training/",
-      "summary": "Starlink has updated its privacy policy to include the use of personal data for training AI tools. Users are provided with options to opt out, raising important discussions about data privacy and the ethical implications of AI development.",
-      "source": "CNET"
-    },
-    {
-      "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
-      "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
-      "summary": "Amazon and Google are leading the capital expenditure race in AI, with Amazon planning to invest $200 billion and Google not far behind. This competition highlights the strategic importance of AI technology in shaping the future of their respective business models.",
+      "title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
+      "link": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
+      "summary": "In a bold move, Crypto.com has acquired the AI.com domain for a staggering $70 million, setting a new record for domain purchases. This acquisition highlights the growing importance and potential of AI in the tech landscape, especially as the Super Bowl approaches, where visibility could drive significant traffic.",
       "source": "TechCrunch"
+    },
+    {
+      "title": "Apple's new iPads and MacBooks expected soon",
+      "link": "https://www.engadget.com/computing/we-may-see-apples-new-ipads-and-macbooks-in-only-a-matter-of-weeks-192953977.html?src=rss",
+      "summary": "Apple is reportedly preparing to unveil new iPads and MacBooks, including updates to the iPad Air and MacBook Pro models. The anticipated launch could introduce the new M5 Pro and M5 Max chips, alongside a low-cost MacBook aimed at emerging markets. This release is expected to enhance Apple's competitive edge in the tech market.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Steam now lets developers display the exact date of when their game leaves Early Access",
+      "link": "https://www.engadget.com/gaming/pc/steam-now-lets-developers-display-the-exact-date-of-when-their-game-leaves-early-access-190413701.html?src=rss",
+      "summary": "Steam has introduced a new feature allowing developers to specify the exact date their games will exit Early Access. This change aims to improve transparency for players and assist developers in managing expectations. The feature is optional, but it reflects Steam's commitment to enhancing the user experience within its platform.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
+      "link": "https://www.itnews.com.au/news/anthropic-buys-super-bowl-ads-to-slap-openai-for-selling-ads-in-chatgpt-623473?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "In a public spat, AI company Anthropic has purchased Super Bowl ads to criticize OpenAI for monetizing its ChatGPT platform through ads. This move highlights the competitive tensions within the AI industry as companies vie for ethical positioning and market share amidst growing scrutiny.",
+      "source": "IT News"
+    },
+    {
+      "title": "YouTube Music starts putting lyrics behind a paywall",
+      "link": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall",
+      "summary": "YouTube Music has begun limiting access to lyrics for free users, allowing only five songs per month before prompting a Premium subscription for full access. This change follows a testing phase and reflects a broader trend of streaming services monetizing additional features to boost subscription revenues.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Countries Across Europe Take Action to Ban Social Media for Minors",
+      "link": "https://gizmodo.com/countries-across-europe-take-action-to-ban-social-media-for-minors-2000719321",
+      "summary": "At least 15 European countries are considering bans on social media for minors, inspired by Australia's regulatory actions. This movement underscores the increasing global concern over the impact of social media on youth and the push for safer online environments.",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "The iPhone 17e will reportedly bring some key upgrades without raising the price",
+      "link": "https://www.engadget.com/mobile/smartphones/the-iphone-17e-will-reportedly-bring-some-key-upgrades-without-raising-the-price-174154577.html?src=rss",
+      "summary": "Apple's upcoming iPhone 17e is expected to retain its price while introducing significant upgrades, including the A19 chip and MagSafe charging. This strategy aims to appeal to budget-conscious consumers in emerging markets, reinforcing Apple's competitive stance against rivals like Google's Pixel.",
+      "source": "Engadget"
     }
   ]
 }
