@@ -1,26 +1,14 @@
 {
-  "generatedAt": "2026-02-06T02:05:46.890Z",
+  "generatedAt": "2026-02-09T06:16:06.208Z",
   "topic": "robotics",
-  "weekOf": "2026-02-06",
-  "lead": "Robotics is evolving rapidly with advancements in AI and digital twin technologies, significantly impacting industries and driving innovation in Europe.",
+  "weekOf": "2026-02-09",
+  "lead": "Robotics is gaining significant traction in Europe as funding increases for deep tech startups, including those focused on innovative robotic technologies.",
   "stories": [
-    {
-      "title": "Nvidia and Dassault Systèmes combine digital twins and AI in industry world models",
-      "link": "https://www.cio.com/article/4127939/nvidia-and-dassault-systemes-combine-digital-twins-and-ai-in-industry-world-models.html",
-      "summary": "Nvidia and Dassault Systèmes are collaborating to integrate AI with digital twin technology, creating a shared architecture for industrial applications. This partnership aims to enhance manufacturing processes by leveraging real-world AI and physics-validated models. The initiative is expected to transform how industries design and operate factories, making them more efficient and cost-effective.",
-      "source": "CIO"
-    },
     {
       "title": "Kembara closes €750M first close to fuel growth of European deep tech startups",
       "link": "https://thenextweb.com/news/kembara-closes-e750m-first-close-to-fuel-growth-of-european-deep-tech-startups",
-      "summary": "The Kembara Fund I has successfully closed its first fundraising round at €750 million, aiming to support European deep tech startups, including those in robotics. With a target of €1 billion, the fund is backed by significant investments from the European Investment Fund. This initiative highlights the growing emphasis on fostering innovation in advanced technologies across Europe.",
+      "summary": "Kembara Fund I has successfully closed its first fundraising round, amassing €750 million to support European deep tech startups, including those in the robotics sector. Managed by Mundi Ventures, the fund aims to reach a total of €1 billion, with significant backing from the European Investment Fund. This initiative is part of a broader effort to enhance local growth capital in Europe, particularly in cutting-edge fields like robotics.",
       "source": "The Next Web"
-    },
-    {
-      "title": "Robotics will break AI infrastructure: Here's what comes next",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/03/robotics-ai-infrastructure-next/",
-      "summary": "As robotics technology continues to advance, experts predict it will challenge existing AI infrastructure. The integration of robotics with AI is expected to lead to significant changes in how data is processed and utilized. This evolution poses both opportunities and challenges for industries relying on AI, necessitating a reevaluation of current systems to accommodate these innovations.",
-      "source": "The Register"
     }
   ]
 }
