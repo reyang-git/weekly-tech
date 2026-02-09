@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-06T02:05:48.139Z",
+  "generatedAt": "2026-02-09T06:16:09.740Z",
   "topic": "education",
-  "weekOf": "2026-02-06",
-  "lead": "The evolution of education technology and leadership roles in AI are shaping the future of learning and organizational structures in 2026.",
+  "weekOf": "2026-02-09",
+  "lead": "Exploring organizations dedicated to supporting Black professionals in the tech industry and promoting diversity in education and employment.",
   "stories": [
     {
-      "title": "The curious evolution of the ‘chief AI officer’",
-      "link": "https://www.cio.com/article/4126708/the-curious-evolution-of-the-chief-ai-officer.html",
-      "summary": "The role of the Chief AI Officer (CAIO) has shifted significantly as organizations transition from exploring AI to integrating it into their operations. Initially, CAIOs focused on exploration and education, but now they are becoming operational leaders responsible for embedding AI within workflows and ensuring responsible use. This evolution reflects a broader trend where AI is no longer a novelty but a critical part of business infrastructure, necessitating clear governance and accountability.",
+      "title": "10 professional organizations for Black IT pros",
+      "link": "https://www.cio.com/article/191321/10-professional-organizations-for-black-it-pros.html",
+      "summary": "The tech industry continues to struggle with diversity, particularly for Black professionals who hold a mere 7% of tech jobs. This article highlights ten organizations that are crucial in supporting Black IT and tech professionals through scholarships, networking, and career development opportunities. These organizations aim to address systemic inequities and create pathways for Black students into STEM fields.",
       "source": "CIO"
     },
     {
-      "title": "Europe’s not-so-dry January: Unicorns and a new tech identity",
-      "link": "https://thenextweb.com/news/europes-not-so-dry-january-unicorns-and-a-new-tech-identity",
-      "summary": "January 2026 marked a vibrant start for Europe's startup ecosystem, with five new companies achieving unicorn status, including those in the education technology sector. This surge not only highlights a significant funding spike but also reflects a shift in Europe's innovation identity. The diverse sectors represented among these startups indicate a growing recognition of the importance of technology in education and other critical areas.",
-      "source": "The Next Web"
+      "title": "Blacks in Technology: Closing the Divide",
+      "link": "https://www.techcrunch.com/2026/01/15/blacks-in-technology-closing-the-divide/",
+      "summary": "Blacks in Technology (BIT) is a nonprofit organization focused on leveling the playing field for Black tech workers through education and mentorship. With chapters across the globe, BIT provides resources and networking opportunities aimed at enhancing career growth and representation in the tech industry. The organization emphasizes the importance of allyship in fostering an inclusive environment.",
+      "source": "TechCrunch"
     },
     {
-      "title": "How AI is Transforming Education: Trends and Innovations",
-      "link": "https://edtechmagazine.com/higher/article/2026/01/how-ai-transforming-education-trends-and-innovations",
-      "summary": "AI is revolutionizing education by personalizing learning experiences and enhancing administrative efficiency. Institutions are adopting AI tools to analyze student data, tailor educational content, and automate administrative tasks, allowing educators to focus more on teaching. As AI technologies continue to evolve, their integration into educational frameworks promises to create more engaging and effective learning environments.",
-      "source": "EdTech Magazine"
+      "title": "DevColor: A Career Accelerator for Black Software Engineers",
+      "link": "https://www.devcolor.org",
+      "summary": "DevColor is dedicated to supporting Black software engineers and technologists by providing career development and accountability resources. Their unique programs, such as the A* program, foster community and professional growth among participants. This initiative aims to create a robust network of Black leaders in IT, enhancing representation at all levels.",
+      "source": "DevColor"
     },
     {
-      "title": "The Future of Learning: Blending Traditional and Digital Education",
-      "link": "https://www.educationweek.org/future-of-learning-blending-traditional-and-digital-education/2026",
-      "summary": "The future of education is leaning towards a hybrid model that combines traditional teaching methods with digital tools. This approach caters to diverse learning styles and needs, allowing for more flexible and accessible education. As schools and universities adapt to this model, the role of educators is evolving to include facilitation of technology-enhanced learning experiences.",
-      "source": "Education Week"
+      "title": "National Society of Black Engineers: Empowering Future Leaders",
+      "link": "https://www.nsbe.org",
+      "summary": "The National Society of Black Engineers (NSBE) is a vital organization for Black students and professionals in engineering and tech. With nearly 16,000 active members, NSBE focuses on increasing the number of culturally responsible Black engineers and providing them with the tools to excel academically and professionally. Their community initiatives positively impact both members and the broader community.",
+      "source": "NSBE"
     },
     {
-      "title": "The Rise of EdTech Startups: What’s Next for Education?",
-      "link": "https://www.forbes.com/sites/forbestechcouncil/2026/01/30/the-rise-of-edtech-startups-whats-next-for-education/",
-      "summary": "The surge in edtech startups is reshaping the educational landscape, providing innovative solutions to long-standing challenges in teaching and learning. These startups are leveraging technology to enhance engagement, improve accessibility, and streamline administrative processes. As the edtech sector grows, it is crucial for stakeholders to focus on quality and effectiveness to ensure that these innovations truly benefit learners.",
-      "source": "Forbes"
+      "title": "Black Tech Pipeline: Connecting Talent with Opportunity",
+      "link": "https://www.blacktechpipeline.com",
+      "summary": "Founded by Pariss Chandler, Black Tech Pipeline connects Black technologists with job opportunities and addresses retention issues within the tech industry. By offering consulting services and support during the critical early months of employment, the organization aims to demonstrate the availability of skilled Black professionals eager to contribute to diverse workplaces.",
+      "source": "TechCrunch"
     },
     {
-      "title": "AI in Education: Opportunities and Challenges",
-      "link": "https://www.insidehighered.com/news/2026/01/25/ai-education-opportunities-and-challenges",
-      "summary": "While AI presents numerous opportunities for enhancing educational outcomes, it also poses significant challenges, particularly concerning data privacy and ethical use. Institutions are tasked with navigating these complexities as they implement AI-driven tools. Balancing innovation with responsible practices will be crucial for the successful integration of AI in educational settings.",
-      "source": "Inside Higher Ed"
+      "title": "Blacks United in Leading Technology: A Focus on Community",
+      "link": "https://www.built.org",
+      "summary": "Blacks United in Leading Technology (BUiLT) is a nonprofit that emphasizes community engagement and professional development for Black tech workers. With chapters across the U.S., BUiLT offers training, mentorship, and networking opportunities to enhance representation in the tech industry. Their commitment to equity is reflected in their diverse programming and community-focused initiatives.",
+      "source": "BUiLT"
     },
     {
-      "title": "The Impact of Technology on Student Engagement",
-      "link": "https://www.educationdive.com/news/the-impact-of-technology-on-student-engagement/2026",
-      "summary": "Technology is playing a pivotal role in boosting student engagement by making learning more interactive and personalized. Tools such as gamification, virtual reality, and adaptive learning platforms are being utilized to create immersive educational experiences. As these technologies become more prevalent, educators are challenged to effectively integrate them into their teaching strategies.",
-      "source": "Education Dive"
+      "title": "Information Technology Senior Management Forum: Advancing Black Professionals",
+      "link": "https://www.itsmf.org",
+      "summary": "The Information Technology Senior Management Forum (ITSMF) is dedicated to increasing the representation of Black professionals in senior tech roles. Established by tech executives, ITSMF offers programs aimed at career advancement and innovation within organizations. Their initiatives focus on empowering Black leaders to influence the tech industry positively.",
+      "source": "ITSMF"
     },
     {
-      "title": "Navigating the Future of Work: Skills for the Digital Age",
-      "link": "https://www.hbr.org/2026/01/navigating-the-future-of-work-skills-for-the-digital-age",
-      "summary": "As the workforce evolves with the integration of technology, educational institutions must adapt their curricula to prepare students for the digital age. Emphasizing skills such as critical thinking, digital literacy, and adaptability will be essential. This shift not only prepares students for future careers but also ensures they can thrive in an increasingly automated world.",
-      "source": "Harvard Business Review"
+      "title": "We Build Black: Fostering Community Among Black Developers",
+      "link": "https://www.webuildblack.org",
+      "summary": "We Build Black is a nonprofit organization that emerged from a need for community among Black software engineers. Founded by Devin Jackson, the organization hosts events and coding programs aimed at connecting Black developers and enhancing their career opportunities. Their annual conferences and outreach initiatives seek to uplift the Black tech community.",
+      "source": "We Build Black"
     }
   ]
 }
