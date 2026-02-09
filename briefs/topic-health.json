@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-06T02:05:50.377Z",
+  "generatedAt": "2026-02-09T06:16:04.020Z",
   "topic": "health",
-  "weekOf": "2026-02-06",
-  "lead": "Recent developments in health technology and social media's impact on mental health are shaping the future of personal well-being.",
+  "weekOf": "2026-02-09",
+  "lead": "Exploring the intersection of technology and health, from AI-driven platforms to sleep tracking advancements.",
   "stories": [
     {
-      "title": "Zuckerberg considered changing how Meta studies social issues after research got it in trouble",
-      "link": "https://www.theverge.com/report/874176/meta-zuckerberg-new-mexico-email-teen-girls-research",
-      "summary": "In light of troubling findings about Instagram's impact on teen girls' mental health, Mark Zuckerberg has expressed the need for Meta to rethink its approach to studying social issues. This comes after a significant report highlighted the negative effects of social media on young users, prompting discussions within the company about the ethics of their research methodologies.",
-      "source": "The Verge"
+      "title": "South Australian startup Splose raises $46 million in another Series A",
+      "link": "https://www.startupdaily.net/topic/funding/south-australian-startup-splose-raises-46-million-in-another-series-a/",
+      "summary": "Splose, a South Australian startup, has successfully raised $46 million in a Series A funding round to enhance its AI-driven allied health platform. This funding will support the growth of their services aimed at improving health outcomes through innovative technology. The investment reflects a growing interest in health tech startups that leverage artificial intelligence to deliver better patient care.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Fitbit Co-Founders Launch Luffu, AI-Powered Health Tracking for the Whole Family",
-      "link": "https://www.cnet.com/tech/fitbit-founders-launch-luffu-an-ai-based-healthcare-platform-for-tracking-your-familys-health/",
-      "summary": "The co-founders of Fitbit have introduced Luffu, a new AI-driven health tracking platform designed to consolidate health data for families. This innovative tool aims to provide a comprehensive view of each family member's health, making it easier to manage wellness collectively and proactively.",
-      "source": "CNET"
+      "title": "How to track your sleep and view your sleep data in Apple Health",
+      "link": "https://www.engadget.com/mobile/smartphones/how-to-track-your-sleep-and-view-your-sleep-data-in-apple-health-130000023.html?src=rss",
+      "summary": "Apple Health has streamlined sleep tracking by integrating features that allow users to monitor their sleep patterns using an iPhone and Apple Watch. The setup process is user-friendly, enabling detailed analysis of sleep stages and trends over time. This functionality not only helps users understand their sleep quality but also promotes better sleep hygiene through consistent tracking and reminders.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Apple reportedly axed its planned AI health coach",
+      "link": "https://www.engadget.com/ai/apple-reportedly-axed-its-planned-ai-health-coach-133000941.html?src=rss",
+      "summary": "Apple has reportedly shelved its plans for an AI health coach that aimed to replicate a doctor's guidance. Following organizational changes, the company decided to focus on releasing individual features for its Health app instead. This decision reflects the competitive landscape of health tech, where many companies are already offering advanced health monitoring solutions.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Public Health Workers Are Quitting Over Assignments to Guantánamo",
+      "link": "https://www.wired.com/story/public-health-workers-are-quitting-over-assignments-to-guantanamo/",
+      "summary": "A growing number of public health workers are resigning in protest against being assigned to work in controversial ICE detention centers, including Guantánamo. This situation sheds light on the ethical dilemmas faced by healthcare professionals in politically charged environments. The resignations highlight the challenges within public health sectors, particularly regarding the treatment of vulnerable populations.",
+      "source": "Wired"
+    },
+    {
+      "title": "7 Steps to Better Financial Health You Can Take Right Now",
+      "link": "https://www.wired.com/story/your-annual-personal-finance-checklist/",
+      "summary": "As the year begins, it’s an opportune time to reassess personal finances. This guide outlines actionable steps individuals can take to improve their financial health, emphasizing the importance of budgeting and saving. By taking control of financial habits, one can enhance overall well-being, which is intrinsically linked to health.",
+      "source": "Wired"
     },
     {
       "title": "The Latest Apple Watch Is $100 Off",
       "link": "https://www.wired.com/story/apple-watch-11-deal-226/",
-      "summary": "The latest Apple Watch is now available at a discounted price, featuring enhanced battery life and new health monitoring capabilities. This smartwatch continues to be a popular choice for users looking to track their fitness and health metrics, making it an essential accessory for health-conscious individuals.",
+      "summary": "The Apple Watch Series 11 is currently available at a $100 discount, making it an appealing option for those interested in upgrading their health tracking devices. This model includes advanced health features such as enhanced sleep tracking and hypertension alerts, appealing to users focused on wellness.",
       "source": "Wired"
     },
     {
-      "title": "Why Are Some Women Training for Pregnancy Like It’s a Marathon?",
-      "link": "https://www.wired.com/story/pregnancy-zero-trimester-influencers/",
-      "summary": "A growing trend among influencers promotes the idea that a healthy pregnancy can be achieved through rigorous training and lifestyle choices. This phenomenon, dubbed 'zero trimester' training, raises questions about the pressures placed on expectant mothers and the societal expectations surrounding pregnancy and health.",
-      "source": "Wired"
-    },
-    {
-      "title": "Data breach at govtech giant Conduent balloons, affecting millions more Americans",
-      "link": "https://techcrunch.com/2026/02/05/data-breach-at-govtech-giant-conduent-balloons-affecting-millions-more-americans/",
-      "summary": "A significant data breach at Conduent has compromised the personal information of millions of Americans, including sensitive health data. This incident underscores the vulnerabilities in digital health records and the importance of robust cybersecurity measures in protecting personal health information.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "HHS Is Making an AI Tool to Create Hypotheses About Vaccine Injury Claims",
-      "link": "https://www.wired.com/story/hhs-is-making-an-ai-tool-to-create-hypotheses-about-vaccine-injury-claims/",
-      "summary": "The Department of Health and Human Services is developing an AI tool aimed at analyzing vaccine injury claims. However, there are concerns that this initiative could be misused to support anti-vaccine narratives, highlighting the delicate balance between public health and misinformation.",
-      "source": "Wired"
-    },
-    {
-      "title": "Anthropic says it won't bring ads to Claude, unlike rival ChatGPT",
-      "link": "https://www.engadget.com/ai/anthropic-says-it-wont-bring-ads-to-claude-unlike-rival-chatgpt-171243642.html?src=rss",
-      "summary": "Anthropic has announced that its AI chatbot Claude will remain ad-free, contrasting with competitors like ChatGPT. This decision reflects a commitment to maintaining a supportive environment for users, particularly in sensitive contexts such as mental health discussions.",
+      "title": "The Apple Watch Series 11 is down to a record-low price",
+      "link": "https://www.engadget.com/deals/the-apple-watch-series-11-is-down-to-a-record-low-price-151616743.html?src=rss",
+      "summary": "The Apple Watch Series 11 has hit a record-low price, making it an attractive buy for health-conscious consumers. With features like sleep scoring and health metrics, this smartwatch aims to support users in achieving their health goals. The discount comes at a time when many are looking to invest in their health and fitness.",
       "source": "Engadget"
     },
     {
-      "title": "Overwatch will drop the '2' as Jetpack Cat and four other heroes arrive on February 10",
-      "link": "https://www.engadget.com/gaming/overwatch-will-drop-the-2-as-jetpack-cat-and-four-other-heroes-arrive-on-february-10-184500327.html?src=rss",
-      "summary": "Blizzard is set to release a major update for Overwatch, introducing new characters and a narrative arc that emphasizes community and teamwork. While primarily a gaming story, it reflects the growing intersection of digital engagement and mental well-being through social gaming experiences.",
-      "source": "Engadget"
+      "title": "From ‘nerdy’ Gemini to ‘edgy’ Grok: how developers are shaping AI behaviours",
+      "link": "https://www.theguardian.com/technology/2026/feb/03/gemini-grok-chatgpt-claude-qwen-ai-chatbots-identity-crisis",
+      "summary": "The development of AI assistants is raising ethical questions about their behavior and the implications for users. As AI technologies evolve, the character and responses of these systems are being fine-tuned, which could significantly impact mental health and user interactions. The ongoing debate highlights the need for responsible AI development in health-related applications.",
+      "source": "The Guardian Australia"
     }
   ]
 }
