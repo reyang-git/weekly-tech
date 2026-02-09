@@ -1,31 +1,37 @@
 {
-  "generatedAt": "2026-02-06T02:05:47.060Z",
+  "generatedAt": "2026-02-09T06:16:06.789Z",
   "topic": "quantum",
-  "weekOf": "2026-02-06",
-  "lead": "Recent advancements in quantum technology are reshaping industries, with significant investments and innovations emerging in quantum computing and sensing.",
+  "weekOf": "2026-02-09",
+  "lead": "The quantum technology landscape is rapidly evolving, with significant investments and innovations aimed at harnessing its potential across various sectors, including healthcare, computing, and decision intelligence.",
   "stories": [
     {
       "title": "QT Sense raises €4M to advance a quantum sensing platform",
       "link": "https://thenextweb.com/news/qt-sense-raises-e4m-to-advance-a-quantum-sensing-platform",
-      "summary": "QT Sense, a biotech startup, has secured €4 million to enhance its Quantum Nuova platform, enabling real-time observation of cellular processes. This funding will facilitate research into biochemical activities related to diseases, supported by major investors including Cottonwood Technology Fund. The initiative aims to revolutionize traditional lab methods by leveraging quantum sensing technology.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Kembara closes €750M first close to fuel growth of European deep tech startups",
-      "link": "https://thenextweb.com/news/kembara-closes-e750m-first-close-to-fuel-growth-of-european-deep-tech-startups",
-      "summary": "Kembara Fund I, Europe's largest deep tech growth fund, has raised €750 million in its first closing, targeting a total of €1 billion. The fund will invest in breakthrough technologies, including quantum computing, as part of a broader initiative to strengthen local growth capital in Europe. This significant backing reflects the growing interest in deep tech sectors across the continent.",
+      "summary": "QT Sense, a biotech startup, has secured €4 million in funding to enhance its Quantum Nuova platform, which enables real-time observation of cellular processes. This technology aims to improve understanding of biochemical activities related to diseases. The funding includes significant investments from Cottonwood Technology Fund and support from cancer research initiatives, highlighting the intersection of quantum technology and healthcare.",
       "source": "The Next Web"
     },
     {
       "title": "Racing to build utility-scale computer, quantum start-up earns $20m federal investment",
       "link": "https://www.smh.com.au/technology/racing-to-build-utility-scale-computer-quantum-start-up-earns-20m-federal-investment-20260202-p5nyvz.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "Australian startup Diraq has received a $20 million federal investment to advance its utility-scale quantum computing ambitions. This funding aims to position Diraq as a leader in the quantum computing market, reflecting the Australian government's commitment to supporting innovative tech ventures that promise significant advancements in computational capabilities.",
+      "summary": "Diraq, an Australian quantum startup, has received a $20 million investment from the federal government to develop utility-scale quantum computing. This funding aims to position Diraq as a leader in the quantum computing space, reflecting the growing governmental support for quantum technologies as a strategic priority for innovation and economic growth.",
       "source": "Sydney Morning Herald"
+    },
+    {
+      "title": "Kembara closes €750M first close to fuel growth of European deep tech startups",
+      "link": "https://thenextweb.com/news/kembara-closes-e750m-first-close-to-fuel-growth-of-european-deep-tech-startups",
+      "summary": "The Kembara Fund I has successfully closed its first tranche at €750 million, focusing on deep tech startups in Europe, including those in quantum computing. This fund aims to reach a total of €1 billion, with significant backing from the European Investment Fund, underscoring the EU's commitment to advancing breakthrough technologies and fostering local innovation.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "The rise of GenAI in decision intelligence: Trends and tools for 2026 and beyond",
+      "link": "https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html",
+      "summary": "As generative AI continues to evolve, its integration with traditional data analytics is reshaping decision intelligence. By 2026, multimodal generative models are enabling organizations to synthesize diverse data types for enhanced decision-making. This trend reflects a broader technological shift towards more proactive and creative decision-making processes, potentially influenced by quantum advancements in data processing.",
+      "source": "CIO"
     },
     {
       "title": "NordVPN review 2025: Innovative features, a few missteps",
       "link": "https://www.engadget.com/cybersecurity/vpn/nordvpn-review-2025-innovative-features-a-few-missteps-163000578.html?src=rss",
-      "summary": "NordVPN's latest review highlights its innovative features, including quantum-resistant encryption. While the service excels in speed and user experience, it faces criticism for some design inconsistencies. The introduction of post-quantum encryption demonstrates the company's proactive approach to future-proofing its security measures against potential quantum threats.",
+      "summary": "NordVPN's latest review highlights its innovative features, including forward-looking quantum-resistant encryption. While the VPN service excels in speed and functionality, the review also points out areas for improvement, showcasing the ongoing evolution of cybersecurity measures in response to emerging quantum threats.",
       "source": "Engadget"
     }
   ]
