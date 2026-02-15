@@ -1,65 +1,67 @@
 {
-  "generatedAt": "2026-02-08T23:00:21.851Z",
-  "weekOf": "2026-02-08",
-  "lead": "This week in tech highlights significant developments in AI regulations, innovative product launches, and a notable shift in streaming services.",
+  "generatedAt": "2026-02-15T22:56:06.253Z",
+  "weekOf": "2026-02-15",
+  "lead": "This week in tech innovation: OpenAI welcomes a new talent, while the Pentagon grapples with AI usage policies amid rising tensions in the tech landscape.",
   "themes": [
+    "startups and VC deals",
     "AI and emerging technologies",
-    "Innovation and new product launches",
-    "Startups and VC deals"
+    "innovation and new product launches",
+    "Australian tech ecosystem",
+    "novel use cases of technology"
   ],
   "stories": [
     {
-      "title": "New York is considering two bills to rein in the AI industry",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
-      "summary": "New York's state legislature is set to consider bills aimed at regulating AI-generated content. The proposed NY FAIR News Act would require disclaimers on AI-generated news and mandate human editorial oversight. Additionally, the bills propose a three-year pause on new data center construction, reflecting growing bipartisan concerns over AI's impact.",
-      "source": "The Verge"
-    },
-    {
-      "title": "AT&T's budget-friendly phone for kids was designed with parental controls in mind",
-      "link": "https://www.engadget.com/mobile/smartphones/atts-budget-friendly-phone-for-kids-was-designed-with-parental-controls-in-mind-202200139.html?src=rss",
-      "summary": "AT&T has launched the AmiGO Jr. Phone, a budget-friendly smartphone designed specifically for children. It features built-in parental controls, including live location tracking and screen time restrictions. This move positions AT&T as a key player in the market for kid-friendly devices, competing with existing products from other companies.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
-      "link": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
-      "summary": "In a bold move, Crypto.com has acquired the AI.com domain for a staggering $70 million, setting a new record for domain purchases. This acquisition highlights the growing importance and potential of AI in the tech landscape, especially as the Super Bowl approaches, where visibility could drive significant traffic.",
+      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
+      "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+      "summary": "Peter Steinberger, the creator of OpenClaw, has joined OpenAI, where he will continue to support the project as it transitions to open source. This move reflects OpenAI's commitment to fostering innovation and collaboration in AI development.",
       "source": "TechCrunch"
     },
     {
-      "title": "Apple's new iPads and MacBooks expected soon",
-      "link": "https://www.engadget.com/computing/we-may-see-apples-new-ipads-and-macbooks-in-only-a-matter-of-weeks-192953977.html?src=rss",
-      "summary": "Apple is reportedly preparing to unveil new iPads and MacBooks, including updates to the iPad Air and MacBook Pro models. The anticipated launch could introduce the new M5 Pro and M5 Max chips, alongside a low-cost MacBook aimed at emerging markets. This release is expected to enhance Apple's competitive edge in the tech market.",
-      "source": "Engadget"
+      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+      "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+      "summary": "Tensions rise between Anthropic and the Pentagon over the use of Claude, an AI model, for potential mass surveillance and autonomous weapons. This debate highlights the ethical implications of AI in military applications.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Steam now lets developers display the exact date of when their game leaves Early Access",
-      "link": "https://www.engadget.com/gaming/pc/steam-now-lets-developers-display-the-exact-date-of-when-their-game-leaves-early-access-190413701.html?src=rss",
-      "summary": "Steam has introduced a new feature allowing developers to specify the exact date their games will exit Early Access. This change aims to improve transparency for players and assist developers in managing expectations. The feature is optional, but it reflects Steam's commitment to enhancing the user experience within its platform.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Anthropic buys Super Bowl ads to slap OpenAI for selling ads in ChatGPT",
-      "link": "https://www.itnews.com.au/news/anthropic-buys-super-bowl-ads-to-slap-openai-for-selling-ads-in-chatgpt-623473?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "In a public spat, AI company Anthropic has purchased Super Bowl ads to criticize OpenAI for monetizing its ChatGPT platform through ads. This move highlights the competitive tensions within the AI industry as companies vie for ethical positioning and market share amidst growing scrutiny.",
+      "title": "Woolworths splits infosec and physical security again",
+      "link": "https://www.itnews.com.au/news/woolworths-splits-infosec-and-physical-security-again-623532?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Woolworths has restructured its security operations, separating information security from physical security, signaling a strategic shift in how the Australian retail giant manages its security protocols.",
       "source": "IT News"
     },
     {
-      "title": "YouTube Music starts putting lyrics behind a paywall",
-      "link": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall",
-      "summary": "YouTube Music has begun limiting access to lyrics for free users, allowing only five songs per month before prompting a Premium subscription for full access. This change follows a testing phase and reflects a broader trend of streaming services monetizing additional features to boost subscription revenues.",
-      "source": "The Verge"
+      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+      "summary": "OpenAI's CEO Sam Altman revealed that India boasts the largest number of weekly active ChatGPT users globally, showcasing the rapid adoption of AI technologies in the region.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Countries Across Europe Take Action to Ban Social Media for Minors",
-      "link": "https://gizmodo.com/countries-across-europe-take-action-to-ban-social-media-for-minors-2000719321",
-      "summary": "At least 15 European countries are considering bans on social media for minors, inspired by Australia's regulatory actions. This movement underscores the increasing global concern over the impact of social media on youth and the push for safer online environments.",
-      "source": "Gizmodo"
+      "title": "Tesla CarPlay is coming but it's reportedly being held back by low iOS 26 adoption numbers",
+      "link": "https://www.engadget.com/transportation/evs/tesla-carplay-is-coming-but-its-reportedly-being-held-back-by-low-ios-26-adoption-numbers-173812736.html?src=rss",
+      "summary": "Tesla's anticipated integration of Apple CarPlay is facing delays due to low adoption rates of iOS 26. This situation underscores the challenges of tech compatibility in the evolving automotive landscape.",
+      "source": "Engadget"
     },
     {
-      "title": "The iPhone 17e will reportedly bring some key upgrades without raising the price",
-      "link": "https://www.engadget.com/mobile/smartphones/the-iphone-17e-will-reportedly-bring-some-key-upgrades-without-raising-the-price-174154577.html?src=rss",
-      "summary": "Apple's upcoming iPhone 17e is expected to retain its price while introducing significant upgrades, including the A19 chip and MagSafe charging. This strategy aims to appeal to budget-conscious consumers in emerging markets, reinforcing Apple's competitive stance against rivals like Google's Pixel.",
+      "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+      "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+      "summary": "Glean is pivoting from an enterprise search tool to a middleware layer for enterprise AI, highlighting the competitive landscape of AI solutions in business environments.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The official Pokémon pinball machine has an animatronic Pikachu and a Master Ball plunger",
+      "link": "https://www.engadget.com/gaming/nintendo/the-official-pokemon-pinball-machine-has-an-animatronic-pikachu-and-a-master-ball-plunger-204915013.html?src=rss",
+      "summary": "Stern Pinball has launched an official Pokémon pinball machine featuring an animatronic Pikachu and various nostalgic elements, blending gaming and technology for a unique entertainment experience.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Astronauts Are Now Allowed to Use the Latest Smartphones in Space",
+      "link": "https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/",
+      "summary": "NASA has approved the use of the latest smartphones for astronauts in upcoming missions, allowing them to capture images and communicate more effectively during space exploration.",
+      "source": "CNET"
+    },
+    {
+      "title": "Apple may be adding a splash of color to its upcoming budget-friendly MacBook",
+      "link": "https://www.engadget.com/computing/laptops/apple-may-be-adding-a-splash-of-color-to-its-upcoming-budget-friendly-macbook-192740002.html?src=rss",
+      "summary": "Apple is reportedly testing vibrant color options for its next budget-friendly MacBook, aimed at students and enterprise users, indicating a shift towards more personalized tech products.",
       "source": "Engadget"
     }
   ]
