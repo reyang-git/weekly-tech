@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-09T06:16:06.186Z",
+  "generatedAt": "2026-02-16T06:14:55.115Z",
   "topic": "AI",
-  "weekOf": "2026-02-09",
-  "lead": "The intersection of AI and various sectors is increasingly prominent, with discussions around governance, innovation, and ethical implications shaping the narrative.",
+  "weekOf": "2026-02-16",
+  "lead": "Recent developments in artificial intelligence highlight significant advancements, challenges, and industry dynamics as major players invest in AI technologies and infrastructure.",
   "stories": [
     {
-      "title": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
-      "summary": "A supposed leak of an OpenAI Super Bowl advertisement turned out to be a hoax, stemming from a frustrated employee's Reddit post. The ad featured a shiny orb and earbuds, hinting at OpenAI's first hardware device. This incident highlights the ongoing drama surrounding AI companies and their marketing strategies, especially in the high-stakes environment of Super Bowl advertising.",
-      "source": "The Verge"
-    },
-    {
-      "title": "Indian police commissioner wants ID cards for AI agents",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/09/asia_tech_news_roundup/",
-      "summary": "In a move to regulate AI's growing influence, an Indian police commissioner has proposed ID cards for AI agents. This initiative aims to enhance accountability and transparency in AI operations, reflecting a broader global concern about the ethical use of AI technologies. As AI systems become more integrated into society, such measures may become essential.",
+      "title": "OpenAI grabs OpenClaw creator Peter Steinberger to build personal agents",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/open_ai_grabs_openclaw/",
+      "summary": "Peter Steinberger, the founder of the popular AI agent OpenClaw, has joined OpenAI to enhance its capabilities in developing personal agents. Sam Altman, CEO of OpenAI, emphasized the importance of multi-agent interactions in future AI products, indicating a strategic shift towards more collaborative AI functionalities. Steinberger's expertise is expected to drive innovations in how AI agents can work together effectively.",
       "source": "The Register"
     },
     {
-      "title": "AI Predicted the 2026 Super Bowl Teams. Can It Pick the Winner?",
-      "link": "https://www.cnet.com/tech/services-and-software/i-tried-using-ai-to-predict-the-2026-super-bowl/",
-      "summary": "In an interesting experiment, various AI chatbots were utilized to predict the outcomes of the 2026 Super Bowl, including team performance and event statistics. This showcases the growing application of AI in entertainment and sports analytics, as well as its potential to influence fan engagement and betting markets.",
-      "source": "CNET"
+      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+      "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+      "summary": "C2i, an Indian startup, has secured $15 million in funding to develop solutions aimed at reducing power losses in AI data centers. As the demand for AI computing grows, the energy consumption of data centers has become a critical issue. C2i's innovative grid-to-GPU approach could help alleviate some of the energy constraints faced by the industry.",
+      "source": "TechCrunch"
     },
     {
-      "title": "New York is considering two bills to rein in the AI industry",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/875501/new-york-is-considering-two-bills-to-rein-in-the-ai-industry",
-      "summary": "New York's legislature is contemplating two bills aimed at regulating the AI industry, including mandatory labeling for AI-generated content. These proposals reflect increasing bipartisan concerns about the implications of AI technologies, emphasizing the need for oversight as AI continues to permeate various sectors.",
-      "source": "The Verge"
+      "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+      "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+      "summary": "Neysa, an Indian company focused on AI infrastructure, has received backing from Blackstone in a financing round that could reach $1.2 billion. This investment is part of India's broader strategy to establish a robust domestic AI ecosystem, aiming to deploy over 20,000 GPUs to meet the growing local demand for AI compute power.",
+      "source": "TechCrunch"
     },
     {
-      "title": "‘The burning questions shaping the games industry in 2026",
-      "link": "https://www.startupdaily.net/after-hours/gaming/the-burning-questions-shaping-the-games-industry-in-2026/",
-      "summary": "The gaming industry is grappling with significant questions regarding the role of AI in game development and player experience. As AI tools become more prevalent, developers face challenges in balancing innovation with ethical considerations, shaping the future of interactive entertainment.",
-      "source": "Startup Daily"
-    },
-    {
-      "title": "AI-generated ads could dominate Super Bowl LX",
-      "link": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
-      "summary": "This year's Super Bowl is set to feature a significant number of AI-generated advertisements, reflecting the technology's growing influence in marketing. Brands are leveraging AI to create engaging content, raising questions about authenticity and consumer trust in the age of digital advertising.",
-      "source": "The Verge"
-    },
-    {
-      "title": "CIOs warned of potential fallout from AI agent mishaps",
-      "link": "https://www.cio.com/article/4129184/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%82%ac%ea%b3%a0%eb%a1%9c-cio-%ed%95%b4%ec%9e%84-idc%ec%9d%98-%ea%b2%bd%ea%b3%a0%ea%b0%80-%ea%b3%bc%ec%9e%a5%ec%9d%b4-%ec%95%84%eb%8b%8c.html",
-      "summary": "IDC has issued a stark warning that inadequate governance of AI agents could lead to significant legal and operational challenges for companies. The report predicts that within four years, many organizations could face lawsuits and regulatory fines due to AI-related incidents, underscoring the urgent need for robust AI governance frameworks.",
+      "title": "To adopt AI quickly, or safely? Datacom says you don’t have to choose one over the other",
+      "link": "https://www.cio.com/article/4118907/to-adopt-ai-quickly-or-safely-datacom-says-you-dont-have-to-choose-one-over-the-other.html",
+      "summary": "Datacom emphasizes that organizations can adopt AI technologies rapidly without sacrificing safety. Despite a cautious approach to AI implementation in Australia, the company advocates for a structured methodology that allows businesses to modernize their systems while minimizing risks. This involves integrating AI agents into operations to enhance productivity and efficiency.",
       "source": "CIO"
     },
     {
-      "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-      "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-      "summary": "The Super Bowl LX is showcasing a range of advertisements utilizing AI technologies, with brands like Svedka and Anthropic leading the charge. This trend reflects a broader shift in marketing strategies, where AI is not just a tool for analysis but a creative partner in crafting compelling narratives.",
+      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+      "link": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+      "summary": "The introduction of Seedance 2.0, a new AI video generator, has sparked backlash from Hollywood, which claims it facilitates copyright infringement. The rapid advancement of AI in creative fields raises questions about intellectual property and the ethical implications of using AI-generated content, prompting calls for stricter regulations.",
       "source": "TechCrunch"
+    },
+    {
+      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+      "summary": "OpenAI's CEO Sam Altman reported that India boasts 100 million weekly active users of ChatGPT, highlighting the platform's immense popularity in the country. This statistic underscores the growing adoption of AI technologies in India, particularly among students and professionals seeking to leverage AI for various applications.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI can’t make good video game worlds yet, and it might never be able to",
+      "link": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
+      "summary": "Despite advancements in AI, creating compelling video game worlds remains a challenge. The Verge discusses the limitations of AI in generating immersive environments that resonate with players, suggesting that human creativity still plays a crucial role in game design. This raises important questions about the future of AI in creative industries.",
+      "source": "The Verge"
+    },
+    {
+      "title": "The AI Boom Needs a Truth Audit",
+      "link": "https://www.cnet.com/tech/services-and-software/stop-marketing-ai-start-telling-the-whole-truth/",
+      "summary": "A recent commentary emphasizes the need for transparency in AI marketing and development. As AI technologies proliferate, stakeholders are urged to provide honest assessments of their capabilities and limitations to avoid misleading the public. This call for a 'truth audit' reflects growing concerns about the ethical implications of AI.",
+      "source": "CNET"
     }
   ]
 }
