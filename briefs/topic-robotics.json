@@ -1,14 +1,20 @@
 {
-  "generatedAt": "2026-02-09T06:16:06.208Z",
+  "generatedAt": "2026-02-16T06:14:51.731Z",
   "topic": "robotics",
-  "weekOf": "2026-02-09",
-  "lead": "Robotics is gaining significant traction in Europe as funding increases for deep tech startups, including those focused on innovative robotic technologies.",
+  "weekOf": "2026-02-16",
+  "lead": "Recent advancements in robotics are being driven by significant funding rounds for innovative startups focusing on AI integration and agricultural automation.",
   "stories": [
     {
-      "title": "Kembara closes €750M first close to fuel growth of European deep tech startups",
-      "link": "https://thenextweb.com/news/kembara-closes-e750m-first-close-to-fuel-growth-of-european-deep-tech-startups",
-      "summary": "Kembara Fund I has successfully closed its first fundraising round, amassing €750 million to support European deep tech startups, including those in the robotics sector. Managed by Mundi Ventures, the fund aims to reach a total of €1 billion, with significant backing from the European Investment Fund. This initiative is part of a broader effort to enhance local growth capital in Europe, particularly in cutting-edge fields like robotics.",
+      "title": "Stanhope AI raises $8M to build adaptive AI for robotics and defence",
+      "link": "https://thenextweb.com/news/stanhope-ai-raises-8m-to-build-adaptive-ai-for-robotics-and-defence",
+      "summary": "London-based startup Stanhope AI has successfully raised €6.7 million ($8 million) in Seed funding to develop a new class of adaptive artificial intelligence aimed at enhancing autonomous systems in robotics and defence. The funding round was led by Frontline Ventures and includes contributions from notable investors such as Paladin Capital Group and the Auxxo Female Catalyst Fund. This initiative aims to revolutionize how robots interact with the physical world, potentially transforming various industries.",
       "source": "The Next Web"
+    },
+    {
+      "title": "Kiwi agtech robotics startup Agovor plants $3 million in pre-Seed",
+      "link": "https://www.startupdaily.net/topic/funding/kiwi-agtech-robotics-startup-agovor-plants-3-million-in-pre-seed/",
+      "summary": "Agovor, a New Zealand-based agtech robotics startup, has secured $3 million in pre-Seed funding to further develop its autonomous eTractors. This funding will enable the company to enhance its technology, which aims to reduce costs for growers while minimizing resource usage. The focus on agricultural robotics highlights the growing trend of automation in farming, promising to improve efficiency and sustainability in the sector.",
+      "source": "Startup Daily"
     }
   ]
 }
