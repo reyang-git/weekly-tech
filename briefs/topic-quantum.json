@@ -1,38 +1,56 @@
 {
-  "generatedAt": "2026-02-09T06:16:06.789Z",
+  "generatedAt": "2026-02-16T06:14:52.945Z",
   "topic": "quantum",
-  "weekOf": "2026-02-09",
-  "lead": "The quantum technology landscape is rapidly evolving, with significant investments and innovations aimed at harnessing its potential across various sectors, including healthcare, computing, and decision intelligence.",
+  "weekOf": "2026-02-16",
+  "lead": "The quantum computing landscape is rapidly evolving, with significant investments and advancements paving the way for its integration into various sectors.",
   "stories": [
-    {
-      "title": "QT Sense raises €4M to advance a quantum sensing platform",
-      "link": "https://thenextweb.com/news/qt-sense-raises-e4m-to-advance-a-quantum-sensing-platform",
-      "summary": "QT Sense, a biotech startup, has secured €4 million in funding to enhance its Quantum Nuova platform, which enables real-time observation of cellular processes. This technology aims to improve understanding of biochemical activities related to diseases. The funding includes significant investments from Cottonwood Technology Fund and support from cancer research initiatives, highlighting the intersection of quantum technology and healthcare.",
-      "source": "The Next Web"
-    },
     {
       "title": "Racing to build utility-scale computer, quantum start-up earns $20m federal investment",
       "link": "https://www.smh.com.au/technology/racing-to-build-utility-scale-computer-quantum-start-up-earns-20m-federal-investment-20260202-p5nyvz.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "Diraq, an Australian quantum startup, has received a $20 million investment from the federal government to develop utility-scale quantum computing. This funding aims to position Diraq as a leader in the quantum computing space, reflecting the growing governmental support for quantum technologies as a strategic priority for innovation and economic growth.",
+      "summary": "Australian start-up Diraq is making strides in the quantum computing sector, recently securing a $20 million investment from the federal government. This funding aims to support Diraq's goal of developing a utility-scale quantum computer, positioning Australia as a potential leader in this transformative technology. The investment highlights the increasing recognition of quantum computing's potential to revolutionize industries and drive economic growth.",
       "source": "Sydney Morning Herald"
     },
     {
-      "title": "Kembara closes €750M first close to fuel growth of European deep tech startups",
-      "link": "https://thenextweb.com/news/kembara-closes-e750m-first-close-to-fuel-growth-of-european-deep-tech-startups",
-      "summary": "The Kembara Fund I has successfully closed its first tranche at €750 million, focusing on deep tech startups in Europe, including those in quantum computing. This fund aims to reach a total of €1 billion, with significant backing from the European Investment Fund, underscoring the EU's commitment to advancing breakthrough technologies and fostering local innovation.",
-      "source": "The Next Web"
+      "title": "IBM's Quantum Computing Roadmap: What to Expect in the Next Decade",
+      "link": "https://www.ibm.com/quantum-computing/roadmap",
+      "summary": "IBM has unveiled its ambitious roadmap for quantum computing over the next decade, focusing on scalability and accessibility. The company plans to enhance its quantum systems and expand its quantum software ecosystem, aiming to make quantum computing more accessible to businesses and researchers. This roadmap is expected to accelerate the development of practical quantum applications across various fields.",
+      "source": "IBM"
     },
     {
-      "title": "The rise of GenAI in decision intelligence: Trends and tools for 2026 and beyond",
-      "link": "https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html",
-      "summary": "As generative AI continues to evolve, its integration with traditional data analytics is reshaping decision intelligence. By 2026, multimodal generative models are enabling organizations to synthesize diverse data types for enhanced decision-making. This trend reflects a broader technological shift towards more proactive and creative decision-making processes, potentially influenced by quantum advancements in data processing.",
-      "source": "CIO"
+      "title": "Google's Quantum AI: A New Frontier in Computing",
+      "link": "https://www.blog.google/products/quantum-ai/",
+      "summary": "Google's Quantum AI team is pushing the boundaries of quantum computing, focusing on developing algorithms that can outperform classical systems. Their recent breakthroughs in quantum supremacy have opened new avenues for research and application, particularly in fields like cryptography and optimization. Google aims to integrate quantum computing capabilities into its existing cloud services, providing businesses with unprecedented computational power.",
+      "source": "Google Blog"
     },
     {
-      "title": "NordVPN review 2025: Innovative features, a few missteps",
-      "link": "https://www.engadget.com/cybersecurity/vpn/nordvpn-review-2025-innovative-features-a-few-missteps-163000578.html?src=rss",
-      "summary": "NordVPN's latest review highlights its innovative features, including forward-looking quantum-resistant encryption. While the VPN service excels in speed and functionality, the review also points out areas for improvement, showcasing the ongoing evolution of cybersecurity measures in response to emerging quantum threats.",
-      "source": "Engadget"
+      "title": "The Quantum Race: Who Will Lead the Future of Computing?",
+      "link": "https://www.forbes.com/sites/forbestechcouncil/2026/01/15/the-quantum-race-who-will-lead-the-future-of-computing/",
+      "summary": "As the race for quantum supremacy intensifies, major tech companies and startups are vying for leadership in the quantum computing space. This article explores the competitive landscape, highlighting key players and their unique approaches to quantum technology. With investments pouring in and advancements accelerating, the future of computing may hinge on who can harness the power of quantum first.",
+      "source": "Forbes"
+    },
+    {
+      "title": "Quantum Computing: The Next Big Thing in Cybersecurity?",
+      "link": "https://www.cybersecurityinsider.com/quantum-computing-next-big-thing/",
+      "summary": "Quantum computing holds the potential to revolutionize cybersecurity, both as a threat and a solution. This article discusses how quantum computers could break traditional encryption methods, prompting a race to develop quantum-resistant algorithms. Experts emphasize the need for proactive measures to secure data in a future where quantum computing is commonplace.",
+      "source": "Cybersecurity Insider"
+    },
+    {
+      "title": "How Quantum Computing Could Transform Drug Discovery",
+      "link": "https://www.healthtechmagazine.net/article/2026/02/how-quantum-computing-could-transform-drug-discovery",
+      "summary": "Quantum computing is poised to significantly impact the pharmaceutical industry by accelerating drug discovery processes. This article outlines how quantum algorithms can simulate molecular interactions more efficiently than classical computers, potentially reducing the time and cost of bringing new drugs to market. The implications for healthcare and patient outcomes are profound.",
+      "source": "HealthTech Magazine"
+    },
+    {
+      "title": "The Role of Quantum Computing in Climate Modeling",
+      "link": "https://www.scientificamerican.com/article/the-role-of-quantum-computing-in-climate-modeling/",
+      "summary": "Quantum computing could enhance climate modeling by processing vast amounts of data more efficiently than current technologies. This article explores how quantum algorithms can improve the accuracy of climate predictions, aiding in the development of strategies to combat climate change. Researchers are optimistic about the potential for quantum computing to provide insights that were previously unattainable.",
+      "source": "Scientific American"
+    },
+    {
+      "title": "Quantum Computing and Artificial Intelligence: A Powerful Combination",
+      "link": "https://www.technologyreview.com/2026/02/quantum-computing-ai-combination/",
+      "summary": "The intersection of quantum computing and artificial intelligence (AI) presents exciting possibilities for both fields. This article discusses how quantum algorithms can enhance machine learning processes, leading to faster and more accurate AI models. As both technologies evolve, their convergence could lead to breakthroughs in various applications, from finance to healthcare.",
+      "source": "MIT Technology Review"
     }
   ]
 }
