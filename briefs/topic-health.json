@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-09T06:16:04.020Z",
+  "generatedAt": "2026-02-16T06:14:52.458Z",
   "topic": "health",
-  "weekOf": "2026-02-09",
-  "lead": "Exploring the intersection of technology and health, from AI-driven platforms to sleep tracking advancements.",
+  "weekOf": "2026-02-16",
+  "lead": "Exploring the intersection of technology and health, this brief highlights significant advancements and challenges in healthcare, AI integration, and mental health support.",
   "stories": [
     {
-      "title": "South Australian startup Splose raises $46 million in another Series A",
-      "link": "https://www.startupdaily.net/topic/funding/south-australian-startup-splose-raises-46-million-in-another-series-a/",
-      "summary": "Splose, a South Australian startup, has successfully raised $46 million in a Series A funding round to enhance its AI-driven allied health platform. This funding will support the growth of their services aimed at improving health outcomes through innovative technology. The investment reflects a growing interest in health tech startups that leverage artificial intelligence to deliver better patient care.",
-      "source": "Startup Daily"
+      "title": "NHS deal with AI firm Palantir called into question after officials’ concerns revealed",
+      "link": "https://www.theguardian.com/society/2026/feb/12/nhs-deal-with-ai-firm-palantir-called-into-question-after-officials-concerns-revealed",
+      "summary": "Concerns have emerged regarding the NHS's £330 million contract with Palantir, a US surveillance technology firm. Officials warn that Palantir's controversial reputation, linked to US immigration enforcement and military operations, could hinder the rollout of a crucial AI-enabled data platform aimed at connecting disparate health information across the NHS. The deal has sparked calls for reassessment amid fears it may undermine public trust in healthcare data management.",
+      "source": "The Guardian"
     },
     {
-      "title": "How to track your sleep and view your sleep data in Apple Health",
-      "link": "https://www.engadget.com/mobile/smartphones/how-to-track-your-sleep-and-view-your-sleep-data-in-apple-health-130000023.html?src=rss",
-      "summary": "Apple Health has streamlined sleep tracking by integrating features that allow users to monitor their sleep patterns using an iPhone and Apple Watch. The setup process is user-friendly, enabling detailed analysis of sleep stages and trends over time. This functionality not only helps users understand their sleep quality but also promotes better sleep hygiene through consistent tracking and reminders.",
+      "title": "US deputy health secretary: Vaccine guidelines are still subject to change",
+      "link": "https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/",
+      "summary": "Jim O’Neill, the US deputy health secretary, emphasizes the evolving nature of vaccine guidelines in response to emerging health data. His role underscores the importance of adaptability in public health policies, especially as new research and health challenges arise. This highlights the ongoing need for vigilance and responsiveness in health governance.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "AI chatbots filling mental healthcare gaps in Nigeria",
+      "link": "https://www.theguardian.com/global-development/2026/feb/12/nigeria-mental-health-ai-chatbots-psychiatry-therapy-depression-privacy",
+      "summary": "In Nigeria, where access to qualified therapists is limited, AI chatbots are increasingly being utilized to provide mental health support. These chatbots offer advice and therapy, addressing the urgent need for accessible mental healthcare. However, this trend raises questions about regulation and the effectiveness of AI in sensitive health contexts.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Apple Watch Series 11: A health-focused smartwatch",
+      "link": "https://www.engadget.com/deals/apple-presidents-day-sales-get-the-apple-watch-series-11-for-299-plus-more-deals-to-shop-this-weekend-151616206.html?src=rss",
+      "summary": "The Apple Watch Series 11 has been highlighted as a leading smartwatch, now available at a discounted price. It features advanced health metrics including hypertension alerts and sleep tracking, making it a valuable tool for health monitoring. This promotion reflects the growing consumer interest in wearable technology for health management.",
       "source": "Engadget"
     },
     {
-      "title": "Apple reportedly axed its planned AI health coach",
-      "link": "https://www.engadget.com/ai/apple-reportedly-axed-its-planned-ai-health-coach-133000941.html?src=rss",
-      "summary": "Apple has reportedly shelved its plans for an AI health coach that aimed to replicate a doctor's guidance. Following organizational changes, the company decided to focus on releasing individual features for its Health app instead. This decision reflects the competitive landscape of health tech, where many companies are already offering advanced health monitoring solutions.",
+      "title": "Datacom's framework for responsible AI in healthcare",
+      "link": "https://www.cio.com/article/4118907/to-adopt-ai-quickly-or-safely-datacom-says-you-dont-have-to-choose-one-over-the-other.html",
+      "summary": "Datacom emphasizes the importance of a structured approach to AI adoption in highly regulated sectors such as healthcare. Their methodology focuses on defining a clear AI vision, establishing a framework for responsible execution, and ensuring that AI implementations are aligned with organizational goals. This approach is crucial for mitigating risks associated with AI in sensitive environments.",
+      "source": "CIO"
+    },
+    {
+      "title": "RFK Jr. follows a carnivore diet. That doesn’t mean you should.",
+      "link": "https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/",
+      "summary": "Robert F. Kennedy Jr.'s endorsement of a carnivore diet has sparked debate over dietary guidelines. While he promotes the benefits of meat and whole-fat dairy, experts caution against adopting such restrictive diets without considering individual health needs. This highlights the ongoing discussions about nutrition and public health recommendations.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "Walking pads and under-desk treadmills: A solution for sedentary lifestyles",
+      "link": "https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
+      "summary": "As sedentary lifestyles become increasingly common, walking pads and under-desk treadmills are gaining popularity as practical solutions for integrating physical activity into daily routines. These devices aim to encourage movement during work hours, addressing health concerns related to prolonged sitting and promoting overall well-being.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Meta faces scrutiny over social media addiction claims",
+      "link": "https://www.engadget.com/social-media/meta-really-wants-you-to-believe-social-media-addiction-is-not-a-real-thing-130000257.html?src=rss",
+      "summary": "Meta is currently embroiled in legal battles regarding the mental health impacts of its platforms, with claims of facilitating addictive behaviors among users. The company's stance that social media addiction isn't clinically recognized has sparked significant debate, highlighting the need for further research into the psychological effects of social media usage.",
       "source": "Engadget"
-    },
-    {
-      "title": "Public Health Workers Are Quitting Over Assignments to Guantánamo",
-      "link": "https://www.wired.com/story/public-health-workers-are-quitting-over-assignments-to-guantanamo/",
-      "summary": "A growing number of public health workers are resigning in protest against being assigned to work in controversial ICE detention centers, including Guantánamo. This situation sheds light on the ethical dilemmas faced by healthcare professionals in politically charged environments. The resignations highlight the challenges within public health sectors, particularly regarding the treatment of vulnerable populations.",
-      "source": "Wired"
-    },
-    {
-      "title": "7 Steps to Better Financial Health You Can Take Right Now",
-      "link": "https://www.wired.com/story/your-annual-personal-finance-checklist/",
-      "summary": "As the year begins, it’s an opportune time to reassess personal finances. This guide outlines actionable steps individuals can take to improve their financial health, emphasizing the importance of budgeting and saving. By taking control of financial habits, one can enhance overall well-being, which is intrinsically linked to health.",
-      "source": "Wired"
-    },
-    {
-      "title": "The Latest Apple Watch Is $100 Off",
-      "link": "https://www.wired.com/story/apple-watch-11-deal-226/",
-      "summary": "The Apple Watch Series 11 is currently available at a $100 discount, making it an appealing option for those interested in upgrading their health tracking devices. This model includes advanced health features such as enhanced sleep tracking and hypertension alerts, appealing to users focused on wellness.",
-      "source": "Wired"
-    },
-    {
-      "title": "The Apple Watch Series 11 is down to a record-low price",
-      "link": "https://www.engadget.com/deals/the-apple-watch-series-11-is-down-to-a-record-low-price-151616743.html?src=rss",
-      "summary": "The Apple Watch Series 11 has hit a record-low price, making it an attractive buy for health-conscious consumers. With features like sleep scoring and health metrics, this smartwatch aims to support users in achieving their health goals. The discount comes at a time when many are looking to invest in their health and fitness.",
-      "source": "Engadget"
-    },
-    {
-      "title": "From ‘nerdy’ Gemini to ‘edgy’ Grok: how developers are shaping AI behaviours",
-      "link": "https://www.theguardian.com/technology/2026/feb/03/gemini-grok-chatgpt-claude-qwen-ai-chatbots-identity-crisis",
-      "summary": "The development of AI assistants is raising ethical questions about their behavior and the implications for users. As AI technologies evolve, the character and responses of these systems are being fine-tuned, which could significantly impact mental health and user interactions. The ongoing debate highlights the need for responsible AI development in health-related applications.",
-      "source": "The Guardian Australia"
     }
   ]
 }
