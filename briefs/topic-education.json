@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-09T06:16:09.740Z",
+  "generatedAt": "2026-02-16T06:14:51.777Z",
   "topic": "education",
-  "weekOf": "2026-02-09",
-  "lead": "Exploring organizations dedicated to supporting Black professionals in the tech industry and promoting diversity in education and employment.",
+  "weekOf": "2026-02-16",
+  "lead": "Exploring the intersection of technology and education, from AI adoption in schools to innovative online learning platforms.",
   "stories": [
     {
-      "title": "10 professional organizations for Black IT pros",
-      "link": "https://www.cio.com/article/191321/10-professional-organizations-for-black-it-pros.html",
-      "summary": "The tech industry continues to struggle with diversity, particularly for Black professionals who hold a mere 7% of tech jobs. This article highlights ten organizations that are crucial in supporting Black IT and tech professionals through scholarships, networking, and career development opportunities. These organizations aim to address systemic inequities and create pathways for Black students into STEM fields.",
+      "title": "To adopt AI quickly, or safely? Datacom says you don’t have to choose one over the other",
+      "link": "https://www.cio.com/article/4118907/to-adopt-ai-quickly-or-safely-datacom-says-you-dont-have-to-choose-one-over-the-other.html",
+      "summary": "Australian enterprises are cautiously approaching AI adoption, particularly in sectors like education. Datacom emphasizes the need for a structured AI strategy to avoid disjointed implementations. Their methodology focuses on responsible AI use, which can significantly enhance productivity and streamline operations in educational institutions.",
       "source": "CIO"
     },
     {
-      "title": "Blacks in Technology: Closing the Divide",
-      "link": "https://www.techcrunch.com/2026/01/15/blacks-in-technology-closing-the-divide/",
-      "summary": "Blacks in Technology (BIT) is a nonprofit organization focused on leveling the playing field for Black tech workers through education and mentorship. With chapters across the globe, BIT provides resources and networking opportunities aimed at enhancing career growth and representation in the tech industry. The organization emphasizes the importance of allyship in fostering an inclusive environment.",
-      "source": "TechCrunch"
+      "title": "MasterClass deal: It's the last day to get 50 percent off subscriptions",
+      "link": "https://www.engadget.com/deals/masterclass-deal-its-the-last-day-to-get-50-percent-off-subscriptions-130500234.html?src=rss",
+      "summary": "MasterClass is offering a 50% discount on annual memberships, making its extensive library of courses more accessible. With classes taught by industry leaders, this platform allows users to learn skills ranging from cooking to business strategy, catering to various interests and educational needs. The bite-sized lessons are designed for easy consumption, appealing to both casual learners and those seeking professional development.",
+      "source": "Engadget"
     },
     {
-      "title": "DevColor: A Career Accelerator for Black Software Engineers",
-      "link": "https://www.devcolor.org",
-      "summary": "DevColor is dedicated to supporting Black software engineers and technologists by providing career development and accountability resources. Their unique programs, such as the A* program, foster community and professional growth among participants. This initiative aims to create a robust network of Black leaders in IT, enhancing representation at all levels.",
-      "source": "DevColor"
+      "title": "The best power banks and portable chargers for every device in 2026",
+      "link": "https://www.engadget.com/computing/accessories/best-power-bank-143048526.html?src=rss",
+      "summary": "As education increasingly relies on portable devices, having reliable power sources is essential. This guide reviews the best power banks for different needs, ensuring students and educators can keep their devices charged during classes or study sessions. Understanding battery capacity and efficiency is crucial for selecting the right power bank for educational use.",
+      "source": "Engadget"
     },
     {
-      "title": "National Society of Black Engineers: Empowering Future Leaders",
-      "link": "https://www.nsbe.org",
-      "summary": "The National Society of Black Engineers (NSBE) is a vital organization for Black students and professionals in engineering and tech. With nearly 16,000 active members, NSBE focuses on increasing the number of culturally responsible Black engineers and providing them with the tools to excel academically and professionally. Their community initiatives positively impact both members and the broader community.",
-      "source": "NSBE"
+      "title": "AI in Education: Challenges and Opportunities",
+      "link": "https://www.edutopia.org/article/ai-education-challenges-opportunities",
+      "summary": "The integration of AI in education presents both challenges and opportunities. While AI can personalize learning experiences and automate administrative tasks, educators must navigate issues of equity and data privacy. The article explores how schools can leverage AI responsibly to enhance teaching and learning outcomes.",
+      "source": "Edutopia"
     },
     {
-      "title": "Black Tech Pipeline: Connecting Talent with Opportunity",
-      "link": "https://www.blacktechpipeline.com",
-      "summary": "Founded by Pariss Chandler, Black Tech Pipeline connects Black technologists with job opportunities and addresses retention issues within the tech industry. By offering consulting services and support during the critical early months of employment, the organization aims to demonstrate the availability of skilled Black professionals eager to contribute to diverse workplaces.",
-      "source": "TechCrunch"
+      "title": "The Future of Online Learning: Trends to Watch",
+      "link": "https://www.educationweek.org/teaching-learning/the-future-of-online-learning-trends-to-watch/2026/01",
+      "summary": "As online learning continues to evolve, several trends are shaping its future. From hybrid classroom models to increased use of interactive technology, the landscape of education is changing. This article discusses how these trends can improve student engagement and learning outcomes in various educational settings.",
+      "source": "Education Week"
     },
     {
-      "title": "Blacks United in Leading Technology: A Focus on Community",
-      "link": "https://www.built.org",
-      "summary": "Blacks United in Leading Technology (BUiLT) is a nonprofit that emphasizes community engagement and professional development for Black tech workers. With chapters across the U.S., BUiLT offers training, mentorship, and networking opportunities to enhance representation in the tech industry. Their commitment to equity is reflected in their diverse programming and community-focused initiatives.",
-      "source": "BUiLT"
+      "title": "EdTech Innovations: Transforming Classroom Learning",
+      "link": "https://www.forbes.com/sites/forbestechcouncil/2026/02/10/edtech-innovations-transforming-classroom-learning/",
+      "summary": "Innovative educational technologies are transforming traditional classroom environments. This article highlights various tools and platforms that enhance learning experiences, from virtual reality simulations to gamified learning applications. These innovations aim to make education more engaging and effective for students.",
+      "source": "Forbes"
     },
     {
-      "title": "Information Technology Senior Management Forum: Advancing Black Professionals",
-      "link": "https://www.itsmf.org",
-      "summary": "The Information Technology Senior Management Forum (ITSMF) is dedicated to increasing the representation of Black professionals in senior tech roles. Established by tech executives, ITSMF offers programs aimed at career advancement and innovation within organizations. Their initiatives focus on empowering Black leaders to influence the tech industry positively.",
-      "source": "ITSMF"
+      "title": "How Virtual Reality is Changing the Way We Learn",
+      "link": "https://www.wired.com/story/how-virtual-reality-is-changing-the-way-we-learn/",
+      "summary": "Virtual reality (VR) is emerging as a powerful tool in education, offering immersive learning experiences that traditional methods cannot match. This piece explores how VR can enhance understanding of complex subjects, improve retention, and engage students in ways that foster deeper learning.",
+      "source": "Wired"
     },
     {
-      "title": "We Build Black: Fostering Community Among Black Developers",
-      "link": "https://www.webuildblack.org",
-      "summary": "We Build Black is a nonprofit organization that emerged from a need for community among Black software engineers. Founded by Devin Jackson, the organization hosts events and coding programs aimed at connecting Black developers and enhancing their career opportunities. Their annual conferences and outreach initiatives seek to uplift the Black tech community.",
-      "source": "We Build Black"
+      "title": "The Role of Gamification in Education",
+      "link": "https://www.teachthought.com/learning/the-role-of-gamification-in-education/",
+      "summary": "Gamification is increasingly being used in educational settings to motivate students and enhance learning. This article discusses various strategies for incorporating game-like elements into lessons, which can lead to improved student engagement and achievement.",
+      "source": "TeachThought"
     }
   ]
 }
