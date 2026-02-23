@@ -1,68 +1,68 @@
 {
-  "generatedAt": "2026-02-15T22:56:06.253Z",
-  "weekOf": "2026-02-15",
-  "lead": "This week in tech innovation: OpenAI welcomes a new talent, while the Pentagon grapples with AI usage policies amid rising tensions in the tech landscape.",
+  "generatedAt": "2026-02-23T04:23:42.618Z",
+  "weekOf": "2026-02-23",
+  "lead": "This week in tech highlights innovative AI applications in dating, breakthroughs in 3D printing, and significant developments in the Australian tech landscape.",
   "themes": [
-    "startups and VC deals",
     "AI and emerging technologies",
-    "innovation and new product launches",
+    "Startups and VC deals",
+    "Innovation and new product launches",
     "Australian tech ecosystem",
-    "novel use cases of technology"
+    "Novel use cases of technology"
   ],
   "stories": [
     {
-      "title": "OpenClaw creator Peter Steinberger joins OpenAI",
-      "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
-      "summary": "Peter Steinberger, the creator of OpenClaw, has joined OpenAI, where he will continue to support the project as it transitions to open source. This move reflects OpenAI's commitment to fostering innovation and collaboration in AI development.",
-      "source": "TechCrunch"
+      "title": "Grindr tests AI match-making in Australia amid dating app fatigue and safety concerns",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/23/grindr-edge-ai-subscription",
+      "summary": "Grindr is experimenting with AI-driven match-making features in Australia as it faces user fatigue and safety concerns. The new subscription service, priced between $109.99 to $349, aims to enhance user experience by better connecting individuals based on their preferences. With 15 million active users globally, this move could redefine how dating apps operate.",
+      "source": "The Guardian Australia"
     },
     {
-      "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
-      "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
-      "summary": "Tensions rise between Anthropic and the Pentagon over the use of Claude, an AI model, for potential mass surveillance and autonomous weapons. This debate highlights the ethical implications of AI in military applications.",
-      "source": "TechCrunch"
+      "title": "It looks like Open Banking’s ‘breakout moment’ is finally here",
+      "link": "https://www.startupdaily.net/advice/opinion/open-banking-breakout-moment-australia/",
+      "summary": "Open Banking in Australia is reaching a critical point as major lenders embrace the shift, promising enhanced financial transparency and customer control. This transition is expected to foster competition among banks and improve services for consumers. The implications for fintech startups are significant, as they can leverage this new framework to innovate further.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Woolworths splits infosec and physical security again",
-      "link": "https://www.itnews.com.au/news/woolworths-splits-infosec-and-physical-security-again-623532?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Woolworths has restructured its security operations, separating information security from physical security, signaling a strategic shift in how the Australian retail giant manages its security protocols.",
-      "source": "IT News"
+      "title": "A Recent 3D Printing Breakthrough Brings Us One Step Closer to You Downloading a Car",
+      "link": "https://gizmodo.com/a-recent-3d-printing-breakthrough-brings-us-one-step-closer-to-you-downloading-a-car-2000725178",
+      "summary": "MIT researchers have achieved a breakthrough in 3D printing by successfully creating a working motor in just hours. This advancement could revolutionize manufacturing and personalization in various industries, including automotive, where the concept of 'downloading' a car becomes more feasible. The implications for production efficiency and customization are profound.",
+      "source": "Gizmodo"
     },
     {
-      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
-      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
-      "summary": "OpenAI's CEO Sam Altman revealed that India boasts the largest number of weekly active ChatGPT users globally, showcasing the rapid adoption of AI technologies in the region.",
-      "source": "TechCrunch"
+      "title": "Infosys chair says AI will clean up legacy systems – then make more of them",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/asia_tech_news_roundup/",
+      "summary": "The chair of Infosys has highlighted the dual role of AI in modernizing legacy systems while also creating new ones. This perspective underscores the ongoing need for businesses to adapt to technological advancements while managing the complexities of existing infrastructures. The conversation around AI's role in enterprise systems is becoming increasingly critical.",
+      "source": "The Register"
     },
     {
-      "title": "Tesla CarPlay is coming but it's reportedly being held back by low iOS 26 adoption numbers",
-      "link": "https://www.engadget.com/transportation/evs/tesla-carplay-is-coming-but-its-reportedly-being-held-back-by-low-ios-26-adoption-numbers-173812736.html?src=rss",
-      "summary": "Tesla's anticipated integration of Apple CarPlay is facing delays due to low adoption rates of iOS 26. This situation underscores the challenges of tech compatibility in the evolving automotive landscape.",
-      "source": "Engadget"
+      "title": "NASA Delays Launch of Artemis II Lunar Mission Once Again",
+      "link": "https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/",
+      "summary": "NASA has postponed the Artemis II lunar mission launch due to a helium flow issue in the SLS rocket. Originally scheduled for March 6, the new target is now April. This delay highlights the challenges faced in complex space missions and the importance of ensuring all systems are functioning correctly before launch.",
+      "source": "Wired"
     },
     {
-      "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
-      "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
-      "summary": "Glean is pivoting from an enterprise search tool to a middleware layer for enterprise AI, highlighting the competitive landscape of AI solutions in business environments.",
-      "source": "TechCrunch"
+      "title": "I did not expect this Samsung laptop to be my new favorite MacBook Pro alternative - but it is",
+      "link": "https://www.zdnet.com/article/samsung-galaxy-book6-ultra-review/",
+      "summary": "The Samsung Galaxy Book6 Ultra has emerged as a formidable competitor to the MacBook Pro, offering impressive multi-core performance and battery life. This laptop's design and capabilities make it a strong choice for professionals seeking a reliable and stylish device. Its success could influence future laptop designs and consumer preferences.",
+      "source": "ZDNet"
     },
     {
-      "title": "The official Pokémon pinball machine has an animatronic Pikachu and a Master Ball plunger",
-      "link": "https://www.engadget.com/gaming/nintendo/the-official-pokemon-pinball-machine-has-an-animatronic-pikachu-and-a-master-ball-plunger-204915013.html?src=rss",
-      "summary": "Stern Pinball has launched an official Pokémon pinball machine featuring an animatronic Pikachu and various nostalgic elements, blending gaming and technology for a unique entertainment experience.",
-      "source": "Engadget"
+      "title": "Your iPhone's USB-C port is surprisingly versatile - 14 features beyond charging",
+      "link": "https://www.zdnet.com/article/iphone-usb-c-port-uses-beyond-charging/",
+      "summary": "The USB-C port on the iPhone has proven to be more than just a charging interface, offering a variety of functionalities that enhance its utility. From data transfer to media connections, this versatility showcases how modern smartphones are evolving to meet diverse user needs. Understanding these features can help users maximize their device's capabilities.",
+      "source": "ZDNet"
     },
     {
-      "title": "Astronauts Are Now Allowed to Use the Latest Smartphones in Space",
-      "link": "https://www.cnet.com/tech/mobile/latest-smartphones-now-allowed-in-space-nasa-says/",
-      "summary": "NASA has approved the use of the latest smartphones for astronauts in upcoming missions, allowing them to capture images and communicate more effectively during space exploration.",
-      "source": "CNET"
+      "title": "Zuckerberg denies in a US court that Instagram targets kids – Meta documents suggest otherwise",
+      "link": "https://www.startupdaily.net/topic/social-media/zuckerberg-denies-in-a-us-court-that-instagram-targets-kids-meta-documents-suggest-otherwise/",
+      "summary": "Mark Zuckerberg faced scrutiny in court over claims that Instagram targets children, despite internal Meta documents indicating otherwise. This trial raises significant questions about social media ethics and the responsibility of tech companies in protecting younger users. The outcome could influence future regulations and company policies.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Apple may be adding a splash of color to its upcoming budget-friendly MacBook",
-      "link": "https://www.engadget.com/computing/laptops/apple-may-be-adding-a-splash-of-color-to-its-upcoming-budget-friendly-macbook-192740002.html?src=rss",
-      "summary": "Apple is reportedly testing vibrant color options for its next budget-friendly MacBook, aimed at students and enterprise users, indicating a shift towards more personalized tech products.",
-      "source": "Engadget"
+      "title": "How the X algorithm can make you more right-wing in just a few weeks",
+      "link": "https://www.startupdaily.net/topic/social-media/how-the-x-algorithm-can-make-you-more-right-wing-in-just-a-few-weeks/",
+      "summary": "A new study reveals that the algorithm used by X (formerly Twitter) can significantly influence users' political views in a short time. This finding underscores the power of social media algorithms in shaping public opinion and the potential consequences for democratic discourse. Understanding these dynamics is crucial for users and policymakers alike.",
+      "source": "Startup Daily"
     }
   ]
 }
