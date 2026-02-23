@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-16T06:14:52.458Z",
+  "generatedAt": "2026-02-23T04:34:58.992Z",
   "topic": "health",
-  "weekOf": "2026-02-16",
-  "lead": "Exploring the intersection of technology and health, this brief highlights significant advancements and challenges in healthcare, AI integration, and mental health support.",
+  "weekOf": "2026-02-23",
+  "lead": "Exploring the intersection of technology and health, from AI matchmaking to telehealth advancements.",
   "stories": [
     {
-      "title": "NHS deal with AI firm Palantir called into question after officials’ concerns revealed",
-      "link": "https://www.theguardian.com/society/2026/feb/12/nhs-deal-with-ai-firm-palantir-called-into-question-after-officials-concerns-revealed",
-      "summary": "Concerns have emerged regarding the NHS's £330 million contract with Palantir, a US surveillance technology firm. Officials warn that Palantir's controversial reputation, linked to US immigration enforcement and military operations, could hinder the rollout of a crucial AI-enabled data platform aimed at connecting disparate health information across the NHS. The deal has sparked calls for reassessment amid fears it may undermine public trust in healthcare data management.",
+      "title": "Grindr tests AI match-making in Australia amid dating app fatigue and safety concerns",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/23/grindr-edge-ai-subscription",
+      "summary": "Grindr is introducing AI-driven subscription features in Australia to tackle user fatigue and safety concerns in dating apps. The new features, which come at a high price, aim to enhance the matchmaking experience for its 15 million global users. This move highlights the growing reliance on AI in personal relationships and the challenges faced by dating platforms.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "The Best Smart Scales of 2026 for Measuring Body Fat, Muscle Mass and More",
+      "link": "https://www.cnet.com/health/fitness/best-smart-scales/",
+      "summary": "Smart scales are becoming essential tools for health tracking, providing insights into body composition metrics like fat and muscle mass. This article reviews the best options available in 2026, emphasizing the importance of monitoring health metrics in a tech-driven world. With user-friendly interfaces and connectivity features, these scales are ideal for anyone looking to maintain or improve their health.",
+      "source": "CNET"
+    },
+    {
+      "title": "5 Must-Have Healthy Foods to Keep Your Heart Pumping",
+      "link": "https://www.cnet.com/health/nutrition/heart-healthy-food-2026/",
+      "summary": "Maintaining heart health is crucial, and this article lists five essential foods to include in your diet. From leafy greens to nuts, these foods are not only nutritious but also support cardiovascular health. Incorporating these items into your grocery list can help promote a healthier lifestyle and prevent heart-related issues.",
+      "source": "CNET"
+    },
+    {
+      "title": "Mind launches inquiry into AI and mental health after Guardian investigation",
+      "link": "https://www.theguardian.com/technology/2026/feb/20/mind-inquiry-google-ai-overviews-mental-health-guardian-investigation",
+      "summary": "Following a Guardian investigation that revealed dangerous medical advice from Google's AI Overviews, the mental health charity Mind is launching an inquiry into AI's role in mental health. This year-long commission aims to evaluate the risks and necessary safeguards as AI becomes increasingly integrated into mental health support systems.",
       "source": "The Guardian"
     },
     {
-      "title": "US deputy health secretary: Vaccine guidelines are still subject to change",
-      "link": "https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/",
-      "summary": "Jim O’Neill, the US deputy health secretary, emphasizes the evolving nature of vaccine guidelines in response to emerging health data. His role underscores the importance of adaptability in public health policies, especially as new research and health challenges arise. This highlights the ongoing need for vigilance and responsiveness in health governance.",
-      "source": "MIT Technology Review"
+      "title": "Blackbird-backed telehealth startup Eucalyptus sells for $1.6 billion to US listed rival",
+      "link": "https://www.startupdaily.net/topic/business/blackbird-backed-telehealth-startup-eucalyptus-sells-for-1-6-billion-to-us-listed-rival/",
+      "summary": "Eucalyptus, a telehealth startup backed by Blackbird, has been acquired for $1.6 billion by Hims & Hers Health, expanding access to telehealth services globally. This acquisition reflects the growing trend of digital health solutions and the increasing demand for accessible healthcare options in the modern landscape.",
+      "source": "Startup Daily"
     },
     {
-      "title": "AI chatbots filling mental healthcare gaps in Nigeria",
-      "link": "https://www.theguardian.com/global-development/2026/feb/12/nigeria-mental-health-ai-chatbots-psychiatry-therapy-depression-privacy",
-      "summary": "In Nigeria, where access to qualified therapists is limited, AI chatbots are increasingly being utilized to provide mental health support. These chatbots offer advice and therapy, addressing the urgent need for accessible mental healthcare. However, this trend raises questions about regulation and the effectiveness of AI in sensitive health contexts.",
-      "source": "The Guardian"
+      "title": "Best Electric Toothbrush, Backed by Real-Life Testing (2026)",
+      "link": "https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/",
+      "summary": "Choosing the right electric toothbrush can significantly impact oral health. This article reviews the best electric toothbrushes of 2026 based on real-life testing, emphasizing features that promote healthier teeth and gums. With advancements in technology, these toothbrushes offer various benefits that can enhance daily dental hygiene routines.",
+      "source": "Wired"
     },
     {
-      "title": "Apple Watch Series 11: A health-focused smartwatch",
-      "link": "https://www.engadget.com/deals/apple-presidents-day-sales-get-the-apple-watch-series-11-for-299-plus-more-deals-to-shop-this-weekend-151616206.html?src=rss",
-      "summary": "The Apple Watch Series 11 has been highlighted as a leading smartwatch, now available at a discounted price. It features advanced health metrics including hypertension alerts and sleep tracking, making it a valuable tool for health monitoring. This promotion reflects the growing consumer interest in wearable technology for health management.",
-      "source": "Engadget"
+      "title": "America desperately needs new privacy laws",
+      "link": "https://www.theverge.com/column/882516/privacy-laws-america",
+      "summary": "The need for new privacy laws in America is becoming increasingly urgent, especially in health-related sectors. With the rise of digital health technologies, safeguarding personal health data is critical. This article discusses the historical context and the pressing need for comprehensive privacy regulations to protect citizens' rights.",
+      "source": "The Verge"
     },
     {
-      "title": "Datacom's framework for responsible AI in healthcare",
-      "link": "https://www.cio.com/article/4118907/to-adopt-ai-quickly-or-safely-datacom-says-you-dont-have-to-choose-one-over-the-other.html",
-      "summary": "Datacom emphasizes the importance of a structured approach to AI adoption in highly regulated sectors such as healthcare. Their methodology focuses on defining a clear AI vision, establishing a framework for responsible execution, and ensuring that AI implementations are aligned with organizational goals. This approach is crucial for mitigating risks associated with AI in sensitive environments.",
-      "source": "CIO"
-    },
-    {
-      "title": "RFK Jr. follows a carnivore diet. That doesn’t mean you should.",
-      "link": "https://www.technologyreview.com/2026/02/13/1132848/rfk-jr-carnivore-diet-maha-social-media/",
-      "summary": "Robert F. Kennedy Jr.'s endorsement of a carnivore diet has sparked debate over dietary guidelines. While he promotes the benefits of meat and whole-fat dairy, experts caution against adopting such restrictive diets without considering individual health needs. This highlights the ongoing discussions about nutrition and public health recommendations.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "Walking pads and under-desk treadmills: A solution for sedentary lifestyles",
-      "link": "https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
-      "summary": "As sedentary lifestyles become increasingly common, walking pads and under-desk treadmills are gaining popularity as practical solutions for integrating physical activity into daily routines. These devices aim to encourage movement during work hours, addressing health concerns related to prolonged sitting and promoting overall well-being.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Meta faces scrutiny over social media addiction claims",
-      "link": "https://www.engadget.com/social-media/meta-really-wants-you-to-believe-social-media-addiction-is-not-a-real-thing-130000257.html?src=rss",
-      "summary": "Meta is currently embroiled in legal battles regarding the mental health impacts of its platforms, with claims of facilitating addictive behaviors among users. The company's stance that social media addiction isn't clinically recognized has sparked significant debate, highlighting the need for further research into the psychological effects of social media usage.",
-      "source": "Engadget"
+      "title": "Healthcare security: Write login details on whiteboard, hope for the best",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/human_whiteboard_bork/",
+      "summary": "A troubling report highlights the lax security measures in healthcare, where sensitive login information is often written on whiteboards. This raises significant concerns about data protection in an industry that handles sensitive health information. The article calls for stronger security protocols to safeguard patient data.",
+      "source": "The Register"
     }
   ]
 }
