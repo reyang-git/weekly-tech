@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-16T06:14:55.115Z",
+  "generatedAt": "2026-02-23T04:34:55.279Z",
   "topic": "AI",
-  "weekOf": "2026-02-16",
-  "lead": "Recent developments in artificial intelligence highlight significant advancements, challenges, and industry dynamics as major players invest in AI technologies and infrastructure.",
+  "weekOf": "2026-02-23",
+  "lead": "AI continues to evolve, impacting various sectors from social media to personal relationships, while raising concerns about its implications on society and individual autonomy.",
   "stories": [
     {
-      "title": "OpenAI grabs OpenClaw creator Peter Steinberger to build personal agents",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/16/open_ai_grabs_openclaw/",
-      "summary": "Peter Steinberger, the founder of the popular AI agent OpenClaw, has joined OpenAI to enhance its capabilities in developing personal agents. Sam Altman, CEO of OpenAI, emphasized the importance of multi-agent interactions in future AI products, indicating a strategic shift towards more collaborative AI functionalities. Steinberger's expertise is expected to drive innovations in how AI agents can work together effectively.",
-      "source": "The Register"
+      "title": "If we’re serious about social cohesion, these big tech hate machines must be reined in",
+      "link": "https://www.smh.com.au/technology/if-we-re-serious-about-social-cohesion-these-big-tech-hate-machines-must-be-reined-in-20260223-p5o4iu.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "The Sydney Morning Herald discusses the divisive nature of social media algorithms, which are increasingly seen as harmful to social cohesion. The article argues for a need to regain control over these 'hate machines' that prioritize engagement over community well-being.",
+      "source": "Sydney Morning Herald"
     },
     {
-      "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
-      "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
-      "summary": "C2i, an Indian startup, has secured $15 million in funding to develop solutions aimed at reducing power losses in AI data centers. As the demand for AI computing grows, the energy consumption of data centers has become a critical issue. C2i's innovative grid-to-GPU approach could help alleviate some of the energy constraints faced by the industry.",
+      "title": "Grindr tests AI match-making in Australia amid dating app fatigue and safety concerns",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/23/grindr-edge-ai-subscription",
+      "summary": "Grindr is introducing AI-driven matchmaking features in Australia as it faces user fatigue and safety concerns. The new subscription service aims to enhance user experience by leveraging AI to provide better matches, although it comes with a hefty price tag.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "Can the creator economy stay afloat in a flood of AI slop?",
+      "link": "https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/",
+      "summary": "TechCrunch explores the challenges facing the creator economy amidst the rise of AI-generated content. The discussion centers on whether genuine creators can maintain visibility and success in an environment flooded with AI-generated material.",
       "source": "TechCrunch"
     },
     {
-      "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
-      "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
-      "summary": "Neysa, an Indian company focused on AI infrastructure, has received backing from Blackstone in a financing round that could reach $1.2 billion. This investment is part of India's broader strategy to establish a robust domestic AI ecosystem, aiming to deploy over 20,000 GPUs to meet the growing local demand for AI compute power.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "To adopt AI quickly, or safely? Datacom says you don’t have to choose one over the other",
-      "link": "https://www.cio.com/article/4118907/to-adopt-ai-quickly-or-safely-datacom-says-you-dont-have-to-choose-one-over-the-other.html",
-      "summary": "Datacom emphasizes that organizations can adopt AI technologies rapidly without sacrificing safety. Despite a cautious approach to AI implementation in Australia, the company advocates for a structured methodology that allows businesses to modernize their systems while minimizing risks. This involves integrating AI agents into operations to enhance productivity and efficiency.",
-      "source": "CIO"
-    },
-    {
-      "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-      "link": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-      "summary": "The introduction of Seedance 2.0, a new AI video generator, has sparked backlash from Hollywood, which claims it facilitates copyright infringement. The rapid advancement of AI in creative fields raises questions about intellectual property and the ethical implications of using AI-generated content, prompting calls for stricter regulations.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
-      "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
-      "summary": "OpenAI's CEO Sam Altman reported that India boasts 100 million weekly active users of ChatGPT, highlighting the platform's immense popularity in the country. This statistic underscores the growing adoption of AI technologies in India, particularly among students and professionals seeking to leverage AI for various applications.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "AI can’t make good video game worlds yet, and it might never be able to",
-      "link": "https://www.theverge.com/column/879524/ai-video-game-worlds-project-genie",
-      "summary": "Despite advancements in AI, creating compelling video game worlds remains a challenge. The Verge discusses the limitations of AI in generating immersive environments that resonate with players, suggesting that human creativity still plays a crucial role in game design. This raises important questions about the future of AI in creative industries.",
-      "source": "The Verge"
-    },
-    {
-      "title": "The AI Boom Needs a Truth Audit",
-      "link": "https://www.cnet.com/tech/services-and-software/stop-marketing-ai-start-telling-the-whole-truth/",
-      "summary": "A recent commentary emphasizes the need for transparency in AI marketing and development. As AI technologies proliferate, stakeholders are urged to provide honest assessments of their capabilities and limitations to avoid misleading the public. This call for a 'truth audit' reflects growing concerns about the ethical implications of AI.",
+      "title": "AI Slop Is Destroying the Internet. These Are the People Fighting to Save It",
+      "link": "https://www.cnet.com/tech/services-and-software/features/ai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it/",
+      "summary": "CNET highlights the efforts of various individuals and organizations working to combat the negative effects of low-quality AI-generated content on the internet. This movement aims to preserve the integrity and quality of online information.",
       "source": "CNET"
+    },
+    {
+      "title": "Sam Altman would like to remind you that humans use a lot of energy, too",
+      "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+      "summary": "OpenAI's CEO Sam Altman addresses concerns about the energy consumption of AI technologies by comparing it to human energy usage. His remarks aim to contextualize the environmental impact of AI within broader human activities.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "I’m worried my boyfriend’s use of AI is affecting his ability to think for himself",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/22/worried-boyfriend-ai-affecting-ability-think-for-himself-annalisa-barbieri",
+      "summary": "An article in The Guardian discusses the potential overdependence on AI tools, as experienced by a woman concerned about her boyfriend's reliance on chatbots. This raises questions about autonomy and critical thinking in the age of AI.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "How to Hide Google’s AI Overviews From Your Search Results",
+      "link": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
+      "summary": "Wired provides tips on how to avoid Google's AI-generated summaries in search results, reflecting growing user concerns over AI's influence on information access and the desire for more control over search experiences.",
+      "source": "Wired"
+    },
+    {
+      "title": "China’s brain-computer interface industry is racing ahead",
+      "link": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
+      "summary": "TechCrunch reports on China's rapid advancements in brain-computer interface technology, fueled by strong government support and investor interest, showcasing how AI is pushing the boundaries of human-computer interaction.",
+      "source": "TechCrunch"
     }
   ]
 }
