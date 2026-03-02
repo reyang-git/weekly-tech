@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-23T04:34:55.279Z",
+  "generatedAt": "2026-03-02T04:24:49.745Z",
   "topic": "AI",
-  "weekOf": "2026-02-23",
-  "lead": "AI continues to evolve, impacting various sectors from social media to personal relationships, while raising concerns about its implications on society and individual autonomy.",
+  "weekOf": "2026-03-02",
+  "lead": "The latest advancements in AI technology are shaping various industries, from wearables and sales platforms to innovative concepts showcased at MWC 2026.",
   "stories": [
     {
-      "title": "If we’re serious about social cohesion, these big tech hate machines must be reined in",
-      "link": "https://www.smh.com.au/technology/if-we-re-serious-about-social-cohesion-these-big-tech-hate-machines-must-be-reined-in-20260223-p5o4iu.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "The Sydney Morning Herald discusses the divisive nature of social media algorithms, which are increasingly seen as harmful to social cohesion. The article argues for a need to regain control over these 'hate machines' that prioritize engagement over community well-being.",
-      "source": "Sydney Morning Herald"
+      "title": "Where Humane Failed, Qualcomm Imagines the Future Is Filled With AI Pins",
+      "link": "https://gizmodo.com/where-humane-failed-qualcomm-imagines-the-future-is-filled-with-ai-pins-2000727781",
+      "summary": "Qualcomm is envisioning a future dominated by AI wearables, particularly AI pins that could integrate seamlessly into daily life. However, the challenge remains to create a gadget that justifies the complexity of AI integration. This concept reflects a growing trend in wearable technology that seeks to enhance user experience through AI.",
+      "source": "Gizmodo"
     },
     {
-      "title": "Grindr tests AI match-making in Australia amid dating app fatigue and safety concerns",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/23/grindr-edge-ai-subscription",
-      "summary": "Grindr is introducing AI-driven matchmaking features in Australia as it faces user fatigue and safety concerns. The new subscription service aims to enhance user experience by leveraging AI to provide better matches, although it comes with a hefty price tag.",
-      "source": "The Guardian Australia"
+      "title": "AI sales platform Firmable raises $14 million Series A for global push",
+      "link": "https://www.startupdaily.net/topic/funding/ai-sales-platform-firmable-raises-14-million-series-a-for-global-push/",
+      "summary": "Firmable, an AI-driven sales platform, has successfully raised $14 million in Series A funding. This capital will facilitate its expansion into global markets, highlighting the increasing reliance on AI technology in sales processes. The investment underscores the growing importance of AI in enhancing efficiency and effectiveness in business operations.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Can the creator economy stay afloat in a flood of AI slop?",
-      "link": "https://techcrunch.com/2026/02/22/can-the-creator-economy-stay-afloat-in-a-flood-of-ai-slop/",
-      "summary": "TechCrunch explores the challenges facing the creator economy amidst the rise of AI-generated content. The discussion centers on whether genuine creators can maintain visibility and success in an environment flooded with AI-generated material.",
+      "title": "Lenovo's robot concept can help you digitally sign documents (and maybe annoy coworkers)",
+      "link": "https://www.engadget.com/ai/lenovo-concept-robot-ai-workmate-mwc-2026-230159746.html?src=rss",
+      "summary": "At MWC 2026, Lenovo introduced its AI Workmate Concept, a desktop robot designed to assist with office tasks like document signing. The robot features voice commands and can project images onto surfaces, aiming to streamline collaboration in workplaces. However, its potential to create noise in office environments raises questions about its practicality.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Honor’s Robot Phone with Moving Camera Can Dance to Music",
+      "link": "https://techcrunch.com/2026/03/01/honor-says-its-robot-phone-with-moving-camera-can-dance-to-music/",
+      "summary": "Honor's innovative Robot Phone, showcased at MWC 2026, features a gimbal-stabilized camera that can move and respond to music. This smartphone is designed to integrate AI capabilities, allowing it to perform gestures and interact with users in a playful manner. The device represents a significant leap in merging AI with mobile technology.",
       "source": "TechCrunch"
     },
     {
-      "title": "AI Slop Is Destroying the Internet. These Are the People Fighting to Save It",
-      "link": "https://www.cnet.com/tech/services-and-software/features/ai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it/",
-      "summary": "CNET highlights the efforts of various individuals and organizations working to combat the negative effects of low-quality AI-generated content on the internet. This movement aims to preserve the integrity and quality of online information.",
+      "title": "I'm Enamored With Lenovo's Desktop AI Companions, and I Could Use Their Help",
+      "link": "https://www.cnet.com/tech/services-and-software/lenovo-magic-bay-tico-desktop-ai-companions/",
+      "summary": "Lenovo's new AI concepts, including the AI Workmate and AI Work Companion, aim to enhance productivity in office settings. These devices utilize AI to assist with tasks and manage workflows, reflecting a trend towards integrating AI into everyday work environments. Their design and functionality could redefine how we interact with technology at work.",
       "source": "CNET"
     },
     {
-      "title": "Sam Altman would like to remind you that humans use a lot of energy, too",
-      "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
-      "summary": "OpenAI's CEO Sam Altman addresses concerns about the energy consumption of AI technologies by comparing it to human energy usage. His remarks aim to contextualize the environmental impact of AI within broader human activities.",
-      "source": "TechCrunch"
+      "title": "Lenovo's Modular AI PC concept is a remixed dual-screen laptop with hot swappable ports",
+      "link": "https://www.engadget.com/computing/laptops/the-lenovo-modular-ai-pc-concept-is-a-remixed-dual-screen-laptop-with-hot-swappable-ports-230000158.html?src=rss",
+      "summary": "Lenovo's Modular AI PC concept at MWC 2026 features a dual-screen design with hot-swappable ports, showcasing the potential for flexible computing solutions. This innovative approach allows users to customize their setup based on their needs, emphasizing the role of AI in enhancing user experience and productivity.",
+      "source": "Engadget"
     },
     {
-      "title": "I’m worried my boyfriend’s use of AI is affecting his ability to think for himself",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/22/worried-boyfriend-ai-affecting-ability-think-for-himself-annalisa-barbieri",
-      "summary": "An article in The Guardian discusses the potential overdependence on AI tools, as experienced by a woman concerned about her boyfriend's reliance on chatbots. This raises questions about autonomy and critical thinking in the age of AI.",
-      "source": "The Guardian"
+      "title": "Everything announced at MWC 2026: Lenovo's wild foldable gaming handheld, Honor's Robot Phone, and more",
+      "link": "https://www.engadget.com/mobile/everything-announced-at-mwc-2026-lenovos-wild-foldable-gaming-handheld-honors-robot-phone-and-more-172442814.html?src=rss",
+      "summary": "MWC 2026 has unveiled a plethora of innovative devices, including Lenovo's foldable gaming handheld and Honor's Robot Phone. The event highlights the integration of AI across various tech segments, indicating a future where AI is deeply embedded in consumer electronics, enhancing functionality and user interaction.",
+      "source": "Engadget"
     },
     {
-      "title": "How to Hide Google’s AI Overviews From Your Search Results",
-      "link": "https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/",
-      "summary": "Wired provides tips on how to avoid Google's AI-generated summaries in search results, reflecting growing user concerns over AI's influence on information access and the desire for more control over search experiences.",
-      "source": "Wired"
-    },
-    {
-      "title": "China’s brain-computer interface industry is racing ahead",
-      "link": "https://techcrunch.com/2026/02/22/chinas-brain-computer-interface-industry-is-racing-ahead/",
-      "summary": "TechCrunch reports on China's rapid advancements in brain-computer interface technology, fueled by strong government support and investor interest, showcasing how AI is pushing the boundaries of human-computer interaction.",
-      "source": "TechCrunch"
+      "title": "Canva denies job losses as Leonardo.AI comes into the fold",
+      "link": "https://www.startupdaily.net/topic/business/canva-denies-job-losses-as-leonardo-ai-comes-into-the-fold/",
+      "summary": "Canva has integrated Leonardo.AI into its platform, assuring users that this merger will not result in job losses. This development reflects the ongoing trend of companies adopting AI technologies to enhance their services while addressing workforce concerns about automation.",
+      "source": "Startup Daily"
     }
   ]
 }
