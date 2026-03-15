@@ -1,68 +1,74 @@
 {
-  "generatedAt": "2026-02-23T04:23:42.618Z",
-  "weekOf": "2026-02-23",
-  "lead": "This week in tech highlights innovative AI applications in dating, breakthroughs in 3D printing, and significant developments in the Australian tech landscape.",
+  "generatedAt": "2026-03-15T22:18:27.718Z",
+  "weekOf": "2026-03-15",
+  "lead": "This week highlights significant developments in AI, startups, and the Australian tech ecosystem, with a focus on innovative product launches and strategic acquisitions.",
   "themes": [
     "AI and emerging technologies",
     "Startups and VC deals",
     "Innovation and new product launches",
     "Australian tech ecosystem",
-    "Novel use cases of technology"
+    "Novel use cases and applications of technology"
   ],
   "stories": [
     {
-      "title": "Grindr tests AI match-making in Australia amid dating app fatigue and safety concerns",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/23/grindr-edge-ai-subscription",
-      "summary": "Grindr is experimenting with AI-driven match-making features in Australia as it faces user fatigue and safety concerns. The new subscription service, priced between $109.99 to $349, aims to enhance user experience by better connecting individuals based on their preferences. With 15 million active users globally, this move could redefine how dating apps operate.",
-      "source": "The Guardian Australia"
+      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "summary": "ByteDance has decided to delay the global launch of its Seedance 2.0 video generator as it navigates potential legal challenges. The pause reflects the company's cautious approach to avoid further complications while ensuring compliance with regulations. This decision underscores the complexities tech companies face in the rapidly evolving landscape of content generation.",
+      "source": "TechCrunch"
     },
     {
-      "title": "It looks like Open Banking’s ‘breakout moment’ is finally here",
-      "link": "https://www.startupdaily.net/advice/opinion/open-banking-breakout-moment-australia/",
-      "summary": "Open Banking in Australia is reaching a critical point as major lenders embrace the shift, promising enhanced financial transparency and customer control. This transition is expected to foster competition among banks and improve services for consumers. The implications for fintech startups are significant, as they can leverage this new framework to innovate further.",
-      "source": "Startup Daily"
+      "title": "Griffith University takes control of its student recruitment",
+      "link": "https://www.itnews.com.au/news/griffith-university-takes-control-of-its-student-recruitment-624140?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Griffith University has implemented a new strategy to streamline its student recruitment process, enhancing visibility across its prospect pipeline. By integrating its marketing technology stack, the university aims to improve engagement with potential students and optimize recruitment efficiency. This initiative highlights the growing trend of educational institutions leveraging technology for operational improvements.",
+      "source": "IT News"
     },
     {
-      "title": "A Recent 3D Printing Breakthrough Brings Us One Step Closer to You Downloading a Car",
-      "link": "https://gizmodo.com/a-recent-3d-printing-breakthrough-brings-us-one-step-closer-to-you-downloading-a-car-2000725178",
-      "summary": "MIT researchers have achieved a breakthrough in 3D printing by successfully creating a working motor in just hours. This advancement could revolutionize manufacturing and personalization in various industries, including automotive, where the concept of 'downloading' a car becomes more feasible. The implications for production efficiency and customization are profound.",
+      "title": "Superloop's AI push continues with billing system project",
+      "link": "https://www.itnews.com.au/news/superloops-ai-push-continues-with-billing-system-project-624262?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Superloop is advancing its artificial intelligence initiatives by developing a new cloud-based billing system. This project is part of a broader strategy to enhance operational efficiency and customer experience through automation. The move reflects a growing trend among telecommunications companies to integrate AI into their core processes.",
+      "source": "IT News"
+    },
+    {
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+      "summary": "In a significant move within India's edtech landscape, Unacademy is set to be acquired by upGrad in a share-swap deal. This acquisition comes as the edtech sector faces challenges, with Unacademy’s valuation dropping sharply. The consolidation reflects a strategic response to market pressures and the need for sustainable growth in the education technology space.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Context engineering emerges as ‘next battleground’ for enterprise AI",
+      "link": "https://www.itnews.com.au/feature/context-engineering-emerges-as-next-battleground-for-enterprise-ai-624180?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Context engineering is being identified as a critical area for innovation in enterprise AI. Experts argue that the success of AI systems increasingly relies on understanding data context rather than just improving models. This shift highlights the evolving nature of AI applications in business and the importance of contextual awareness in driving effective AI solutions.",
+      "source": "IT News"
+    },
+    {
+      "title": "Anthropic is doubling Claude's usage limits during off-peak hours for the next two weeks",
+      "link": "https://www.engadget.com/ai/anthropic-is-doubling-claudes-usage-limits-during-off-peak-hours-for-the-next-two-weeks-163645928.html?src=rss",
+      "summary": "Anthropic is boosting the usage limits for its AI chatbot Claude during off-peak hours as part of a promotional strategy to increase user engagement. This initiative is designed to reward users and promote the platform amid competition with other AI services. The move reflects the company's efforts to enhance user experience and expand its user base.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+      "link": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "summary": "Rivian CEO RJ Scaringe has shared his insights on the future of robotics, suggesting that current approaches may be misguided. He emphasizes the need for a more thoughtful integration of robotics in various sectors, hinting at his new venture, Mind Robotics. This perspective could influence the direction of robotics development and application in the coming years.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "A lawyer specializing in AI-related psychosis cases has raised alarms about the potential for mass casualty incidents linked to AI technologies. This warning underscores the urgent need for regulatory frameworks and safeguards as AI systems become more pervasive in society. The discussion highlights the ethical implications and responsibilities of AI developers.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Aether OS is a computer in a browser built for the AT Protocol",
+      "link": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
+      "summary": "Aether OS is introducing a novel concept by providing a full desktop experience within a browser, seamlessly integrating with the AT Protocol. This innovative platform offers a suite of applications, ranging from text editing to video editing, all designed to enhance productivity and creativity. The project, currently in alpha, aims to redefine how users interact with digital tools.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Marvel Wants to Remind You ‘X-Men ’97’ Season 2 Is Really Close",
+      "link": "https://gizmodo.com/marvel-wants-to-remind-you-x-men-97-season-2-is-really-close-2000733562",
+      "summary": "Marvel is ramping up excitement for the upcoming season of 'X-Men '97', reminding fans of its imminent return. This strategic marketing move highlights the importance of nostalgia in engaging audiences and the potential for leveraging established franchises in contemporary media. The anticipation for the series reflects broader trends in entertainment and fandom.",
       "source": "Gizmodo"
-    },
-    {
-      "title": "Infosys chair says AI will clean up legacy systems – then make more of them",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/23/asia_tech_news_roundup/",
-      "summary": "The chair of Infosys has highlighted the dual role of AI in modernizing legacy systems while also creating new ones. This perspective underscores the ongoing need for businesses to adapt to technological advancements while managing the complexities of existing infrastructures. The conversation around AI's role in enterprise systems is becoming increasingly critical.",
-      "source": "The Register"
-    },
-    {
-      "title": "NASA Delays Launch of Artemis II Lunar Mission Once Again",
-      "link": "https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/",
-      "summary": "NASA has postponed the Artemis II lunar mission launch due to a helium flow issue in the SLS rocket. Originally scheduled for March 6, the new target is now April. This delay highlights the challenges faced in complex space missions and the importance of ensuring all systems are functioning correctly before launch.",
-      "source": "Wired"
-    },
-    {
-      "title": "I did not expect this Samsung laptop to be my new favorite MacBook Pro alternative - but it is",
-      "link": "https://www.zdnet.com/article/samsung-galaxy-book6-ultra-review/",
-      "summary": "The Samsung Galaxy Book6 Ultra has emerged as a formidable competitor to the MacBook Pro, offering impressive multi-core performance and battery life. This laptop's design and capabilities make it a strong choice for professionals seeking a reliable and stylish device. Its success could influence future laptop designs and consumer preferences.",
-      "source": "ZDNet"
-    },
-    {
-      "title": "Your iPhone's USB-C port is surprisingly versatile - 14 features beyond charging",
-      "link": "https://www.zdnet.com/article/iphone-usb-c-port-uses-beyond-charging/",
-      "summary": "The USB-C port on the iPhone has proven to be more than just a charging interface, offering a variety of functionalities that enhance its utility. From data transfer to media connections, this versatility showcases how modern smartphones are evolving to meet diverse user needs. Understanding these features can help users maximize their device's capabilities.",
-      "source": "ZDNet"
-    },
-    {
-      "title": "Zuckerberg denies in a US court that Instagram targets kids – Meta documents suggest otherwise",
-      "link": "https://www.startupdaily.net/topic/social-media/zuckerberg-denies-in-a-us-court-that-instagram-targets-kids-meta-documents-suggest-otherwise/",
-      "summary": "Mark Zuckerberg faced scrutiny in court over claims that Instagram targets children, despite internal Meta documents indicating otherwise. This trial raises significant questions about social media ethics and the responsibility of tech companies in protecting younger users. The outcome could influence future regulations and company policies.",
-      "source": "Startup Daily"
-    },
-    {
-      "title": "How the X algorithm can make you more right-wing in just a few weeks",
-      "link": "https://www.startupdaily.net/topic/social-media/how-the-x-algorithm-can-make-you-more-right-wing-in-just-a-few-weeks/",
-      "summary": "A new study reveals that the algorithm used by X (formerly Twitter) can significantly influence users' political views in a short time. This finding underscores the power of social media algorithms in shaping public opinion and the potential consequences for democratic discourse. Understanding these dynamics is crucial for users and policymakers alike.",
-      "source": "Startup Daily"
     }
   ]
 }
