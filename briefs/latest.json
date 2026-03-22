@@ -1,74 +1,68 @@
 {
-  "generatedAt": "2026-03-15T22:18:27.718Z",
-  "weekOf": "2026-03-15",
-  "lead": "This week highlights significant developments in AI, startups, and the Australian tech ecosystem, with a focus on innovative product launches and strategic acquisitions.",
+  "generatedAt": "2026-03-22T22:17:02.468Z",
+  "weekOf": "2026-03-22",
+  "lead": "This week in tech highlights significant advancements in AI, ambitious chip manufacturing plans from Elon Musk, and a notable upgrade in the Australian tech ecosystem.",
   "themes": [
-    "AI and emerging technologies",
-    "Startups and VC deals",
-    "Innovation and new product launches",
-    "Australian tech ecosystem",
-    "Novel use cases and applications of technology"
+    "Startups and VC Deals",
+    "Innovation and New Product Launches",
+    "AI and Emerging Technologies",
+    "Australian Tech Ecosystem",
+    "Novel Use Cases and Applications of Technology"
   ],
   "stories": [
     {
-      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
-      "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
-      "summary": "ByteDance has decided to delay the global launch of its Seedance 2.0 video generator as it navigates potential legal challenges. The pause reflects the company's cautious approach to avoid further complications while ensuring compliance with regulations. This decision underscores the complexities tech companies face in the rapidly evolving landscape of content generation.",
+      "title": "Elon Musk’s Latest Outlandish Plan Is a Giant Chip Factory In Texas",
+      "link": "https://gizmodo.com/elon-musks-latest-outlandish-plan-is-a-giant-chip-factory-in-texas-2000736620",
+      "summary": "Elon Musk has announced plans for a massive chip manufacturing facility in Texas, dubbed Terafab. This facility aims to produce chips for both terrestrial and space applications, addressing the growing demand from Tesla and SpaceX. The project is estimated to cost at least $20 billion, highlighting Musk's ambitious vision for the future of chip production.",
+      "source": "Gizmodo"
+    },
+    {
+      "title": "Yarra Valley Water betting on AI to predict asset failures",
+      "link": "https://www.itnews.com.au/news/yarra-valley-water-betting-on-ai-to-predict-asset-failures-624066?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Yarra Valley Water is leveraging AI technology to enhance its asset management by predicting potential failures. This innovative approach aims to improve operational efficiency and reduce costs, although the company faces challenges in hosting large language models. This initiative reflects a growing trend in the Australian tech ecosystem towards integrating AI in public utilities.",
+      "source": "IT News"
+    },
+    {
+      "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
+      "link": "https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/",
+      "summary": "Faraday Future, an electric vehicle startup, has successfully navigated a four-year investigation by the SEC, allowing it to refocus on its business objectives. This development is a significant relief for the beleaguered company as it prepares to launch its flagship vehicle. The resolution of this investigation may bolster investor confidence and pave the way for future funding.",
       "source": "TechCrunch"
     },
     {
-      "title": "Griffith University takes control of its student recruitment",
-      "link": "https://www.itnews.com.au/news/griffith-university-takes-control-of-its-student-recruitment-624140?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Griffith University has implemented a new strategy to streamline its student recruitment process, enhancing visibility across its prospect pipeline. By integrating its marketing technology stack, the university aims to improve engagement with potential students and optimize recruitment efficiency. This initiative highlights the growing trend of educational institutions leveraging technology for operational improvements.",
+      "title": "ATO to upgrade its IBM mainframe again in quiet $104.8m deal",
+      "link": "https://www.itnews.com.au/news/ato-to-upgrade-its-ibm-mainframe-again-in-quiet-1048m-deal-624493?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The Australian Taxation Office (ATO) has announced a $104.8 million deal to upgrade its IBM mainframe systems to the latest z17 generation. This upgrade is part of the ATO's ongoing efforts to enhance its IT infrastructure, ensuring better service delivery and data management capabilities as digital transformation accelerates.",
       "source": "IT News"
     },
     {
-      "title": "Superloop's AI push continues with billing system project",
-      "link": "https://www.itnews.com.au/news/superloops-ai-push-continues-with-billing-system-project-624262?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Superloop is advancing its artificial intelligence initiatives by developing a new cloud-based billing system. This project is part of a broader strategy to enhance operational efficiency and customer experience through automation. The move reflects a growing trend among telecommunications companies to integrate AI into their core processes.",
+      "title": "Pentagon to adopt Palantir AI as core US military system",
+      "link": "https://www.itnews.com.au/news/pentagon-to-adopt-palantir-aias-core-us-military-system-624496?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The Pentagon has decided to integrate Palantir's AI technology into its core military systems, marking a significant move towards enhancing data analytics and operational efficiency in defense operations. This adoption reflects a broader trend of utilizing advanced technologies in national security and military strategy.",
       "source": "IT News"
     },
     {
-      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
-      "link": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
-      "summary": "In a significant move within India's edtech landscape, Unacademy is set to be acquired by upGrad in a share-swap deal. This acquisition comes as the edtech sector faces challenges, with Unacademy’s valuation dropping sharply. The consolidation reflects a strategic response to market pressures and the need for sustainable growth in the education technology space.",
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "summary": "Cursor has acknowledged that its latest coding model is built upon the foundations of Moonshot AI's Kimi, raising questions about intellectual property and the ethical implications of utilizing existing AI frameworks. This admission highlights the complexities of AI development and the collaborative nature of innovation in the tech industry.",
       "source": "TechCrunch"
     },
     {
-      "title": "Context engineering emerges as ‘next battleground’ for enterprise AI",
-      "link": "https://www.itnews.com.au/feature/context-engineering-emerges-as-next-battleground-for-enterprise-ai-624180?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Context engineering is being identified as a critical area for innovation in enterprise AI. Experts argue that the success of AI systems increasingly relies on understanding data context rather than just improving models. This shift highlights the evolving nature of AI applications in business and the importance of contextual awareness in driving effective AI solutions.",
-      "source": "IT News"
-    },
-    {
-      "title": "Anthropic is doubling Claude's usage limits during off-peak hours for the next two weeks",
-      "link": "https://www.engadget.com/ai/anthropic-is-doubling-claudes-usage-limits-during-off-peak-hours-for-the-next-two-weeks-163645928.html?src=rss",
-      "summary": "Anthropic is boosting the usage limits for its AI chatbot Claude during off-peak hours as part of a promotional strategy to increase user engagement. This initiative is designed to reward users and promote the platform amid competition with other AI services. The move reflects the company's efforts to enhance user experience and expand its user base.",
+      "title": "Crimson Desert developer apologizes and promises to replace AI-generated art",
+      "link": "https://www.engadget.com/gaming/crimson-desert-developer-apologizes-and-promises-to-replace-ai-generated-art-183716439.html?src=rss",
+      "summary": "The developers of the game Crimson Desert have issued an apology for including AI-generated art in the final release. They have committed to conducting a comprehensive audit and replacing the AI-generated assets, showcasing the importance of transparency in the use of AI in creative industries.",
       "source": "Engadget"
     },
     {
-      "title": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
-      "link": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
-      "summary": "Rivian CEO RJ Scaringe has shared his insights on the future of robotics, suggesting that current approaches may be misguided. He emphasizes the need for a more thoughtful integration of robotics in various sectors, hinting at his new venture, Mind Robotics. This perspective could influence the direction of robotics development and application in the coming years.",
+      "title": "Today's NYT Connections Hints, Answers and Help for March 23, #1016",
+      "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-23-1016/",
+      "summary": "As puzzle enthusiasts tackle the latest NYT Connections game, hints and answers are provided to assist players. This reflects the growing intersection of gaming and technology, where digital puzzles and interactive entertainment continue to engage audiences across various platforms.",
+      "source": "CNET"
+    },
+    {
+      "title": "Do you want to build a robot snowman?",
+      "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "summary": "In a lighthearted exploration of robotics, a recent podcast episode discusses the potential of building a robot snowman, showcasing the playful side of technology. This concept reflects the broader trend of integrating robotics into everyday life and entertainment, sparking creativity and innovation.",
       "source": "TechCrunch"
-    },
-    {
-      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-      "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-      "summary": "A lawyer specializing in AI-related psychosis cases has raised alarms about the potential for mass casualty incidents linked to AI technologies. This warning underscores the urgent need for regulatory frameworks and safeguards as AI systems become more pervasive in society. The discussion highlights the ethical implications and responsibilities of AI developers.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Aether OS is a computer in a browser built for the AT Protocol",
-      "link": "https://www.theverge.com/tech/895083/aether-os-browser-at-protocol",
-      "summary": "Aether OS is introducing a novel concept by providing a full desktop experience within a browser, seamlessly integrating with the AT Protocol. This innovative platform offers a suite of applications, ranging from text editing to video editing, all designed to enhance productivity and creativity. The project, currently in alpha, aims to redefine how users interact with digital tools.",
-      "source": "The Verge"
-    },
-    {
-      "title": "Marvel Wants to Remind You ‘X-Men ’97’ Season 2 Is Really Close",
-      "link": "https://gizmodo.com/marvel-wants-to-remind-you-x-men-97-season-2-is-really-close-2000733562",
-      "summary": "Marvel is ramping up excitement for the upcoming season of 'X-Men '97', reminding fans of its imminent return. This strategic marketing move highlights the importance of nostalgia in engaging audiences and the potential for leveraging established franchises in contemporary media. The anticipation for the series reflects broader trends in entertainment and fandom.",
-      "source": "Gizmodo"
     }
   ]
 }
