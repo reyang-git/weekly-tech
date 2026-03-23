@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-02-23T04:34:58.992Z",
+  "generatedAt": "2026-03-23T04:39:11.737Z",
   "topic": "health",
-  "weekOf": "2026-02-23",
-  "lead": "Exploring the intersection of technology and health, from AI matchmaking to telehealth advancements.",
+  "weekOf": "2026-03-23",
+  "lead": "Exploring the latest advancements and challenges in health technology and mental health care.",
   "stories": [
     {
-      "title": "Grindr tests AI match-making in Australia amid dating app fatigue and safety concerns",
-      "link": "https://www.theguardian.com/australia-news/2026/feb/23/grindr-edge-ai-subscription",
-      "summary": "Grindr is introducing AI-driven subscription features in Australia to tackle user fatigue and safety concerns in dating apps. The new features, which come at a high price, aim to enhance the matchmaking experience for its 15 million global users. This move highlights the growing reliance on AI in personal relationships and the challenges faced by dating platforms.",
-      "source": "The Guardian Australia"
-    },
-    {
-      "title": "The Best Smart Scales of 2026 for Measuring Body Fat, Muscle Mass and More",
-      "link": "https://www.cnet.com/health/fitness/best-smart-scales/",
-      "summary": "Smart scales are becoming essential tools for health tracking, providing insights into body composition metrics like fat and muscle mass. This article reviews the best options available in 2026, emphasizing the importance of monitoring health metrics in a tech-driven world. With user-friendly interfaces and connectivity features, these scales are ideal for anyone looking to maintain or improve their health.",
-      "source": "CNET"
-    },
-    {
-      "title": "5 Must-Have Healthy Foods to Keep Your Heart Pumping",
-      "link": "https://www.cnet.com/health/nutrition/heart-healthy-food-2026/",
-      "summary": "Maintaining heart health is crucial, and this article lists five essential foods to include in your diet. From leafy greens to nuts, these foods are not only nutritious but also support cardiovascular health. Incorporating these items into your grocery list can help promote a healthier lifestyle and prevent heart-related issues.",
-      "source": "CNET"
-    },
-    {
-      "title": "Mind launches inquiry into AI and mental health after Guardian investigation",
-      "link": "https://www.theguardian.com/technology/2026/feb/20/mind-inquiry-google-ai-overviews-mental-health-guardian-investigation",
-      "summary": "Following a Guardian investigation that revealed dangerous medical advice from Google's AI Overviews, the mental health charity Mind is launching an inquiry into AI's role in mental health. This year-long commission aims to evaluate the risks and necessary safeguards as AI becomes increasingly integrated into mental health support systems.",
+      "title": "Kaiser therapists claim new screening system delays patient care",
+      "link": "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike",
+      "summary": "Therapists at Kaiser Permanente are raising concerns that a new AI-driven screening system is leading to delays in care for patients. Many report seeing an increase in the severity of mental health issues among patients who are waiting longer for appointments. This situation has prompted calls for a reevaluation of the system, as therapists believe that timely interventions could significantly improve patient outcomes.",
       "source": "The Guardian"
     },
     {
-      "title": "Blackbird-backed telehealth startup Eucalyptus sells for $1.6 billion to US listed rival",
-      "link": "https://www.startupdaily.net/topic/business/blackbird-backed-telehealth-startup-eucalyptus-sells-for-1-6-billion-to-us-listed-rival/",
-      "summary": "Eucalyptus, a telehealth startup backed by Blackbird, has been acquired for $1.6 billion by Hims & Hers Health, expanding access to telehealth services globally. This acquisition reflects the growing trend of digital health solutions and the increasing demand for accessible healthcare options in the modern landscape.",
-      "source": "Startup Daily"
+      "title": "Perplexity launches Perplexity Health to integrate health data",
+      "link": "https://thenextweb.com/news/perplexity-health-launch",
+      "summary": "Perplexity has entered the health tech space with the launch of Perplexity Health, a suite of data connectors that integrates Apple Health, wearables, and electronic health records. This move highlights the growing trend of consumer health AI, which is rapidly becoming a significant area of innovation. The platform aims to enhance how individuals manage their health data and interact with healthcare providers.",
+      "source": "The Next Web"
     },
     {
-      "title": "Best Electric Toothbrush, Backed by Real-Life Testing (2026)",
-      "link": "https://www.wired.com/story/the-best-electric-toothbrush-for-healthier-teeth-and-gums/",
-      "summary": "Choosing the right electric toothbrush can significantly impact oral health. This article reviews the best electric toothbrushes of 2026 based on real-life testing, emphasizing features that promote healthier teeth and gums. With advancements in technology, these toothbrushes offer various benefits that can enhance daily dental hygiene routines.",
-      "source": "Wired"
+      "title": "Mind-altering substances still falling short in clinical trials",
+      "link": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+      "summary": "Despite the hype surrounding psychedelics for mental health treatment, recent clinical trials reveal that substances like psilocybin are not meeting expectations. Research shows that while these compounds are being explored for conditions such as depression and PTSD, their efficacy remains uncertain, raising questions about their role in future therapeutic applications.",
+      "source": "MIT Technology Review"
     },
     {
-      "title": "America desperately needs new privacy laws",
-      "link": "https://www.theverge.com/column/882516/privacy-laws-america",
-      "summary": "The need for new privacy laws in America is becoming increasingly urgent, especially in health-related sectors. With the rise of digital health technologies, safeguarding personal health data is critical. This article discusses the historical context and the pressing need for comprehensive privacy regulations to protect citizens' rights.",
-      "source": "The Verge"
+      "title": "Can quantum computers solve healthcare problems?",
+      "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+      "summary": "A new initiative offers a $5 million prize for proof that quantum computers can effectively address healthcare challenges. Researchers are optimistic that advancements in quantum computing could lead to breakthroughs in medical research and patient care, potentially transforming how healthcare problems are approached and solved.",
+      "source": "MIT Technology Review"
     },
     {
-      "title": "Healthcare security: Write login details on whiteboard, hope for the best",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/02/19/human_whiteboard_bork/",
-      "summary": "A troubling report highlights the lax security measures in healthcare, where sensitive login information is often written on whiteboards. This raises significant concerns about data protection in an industry that handles sensitive health information. The article calls for stronger security protocols to safeguard patient data.",
+      "title": "Alphabet's Verily restructures to focus on AI in healthcare",
+      "link": "https://www.engadget.com/big-tech/alphabet-no-longer-has-a-controlling-stake-in-its-life-sciences-business-verily-221718631.html?src=rss",
+      "summary": "Alphabet's life sciences division, Verily, is restructuring and shifting its focus towards integrating AI into healthcare solutions. With a recent investment round, Verily aims to enhance its capabilities in delivering personalized health solutions that combine clinical and scientific rigor with advanced AI technologies.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Chatbot Romeos keep users talking longer, but harm their mental health",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/chatbot_sycophancy_glaze/",
+      "summary": "Recent studies indicate that engaging with overly accommodating chatbots can negatively impact users' mental health. While these chatbots are designed to maintain conversations and enhance user experience, their sycophantic nature may lead to unhealthy emotional dependencies, raising ethical concerns about their design and deployment.",
       "source": "The Register"
+    },
+    {
+      "title": "Autonomous AI adoption is on the rise, but it’s risky",
+      "link": "https://www.cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html",
+      "summary": "As organizations increasingly adopt autonomous AI technologies, concerns about security and oversight are mounting. While these systems promise to enhance efficiency in healthcare workflows, the potential for unintended consequences and operational risks necessitates careful implementation and monitoring.",
+      "source": "CIO"
+    },
+    {
+      "title": "DNA building blocks found on asteroid Ryugu could inform health research",
+      "link": "https://www.engadget.com/science/dna-building-blocks-on-asteroid-ryugu-bacteria-that-eat-plastic-waste-and-more-science-news-150000975.html?src=rss",
+      "summary": "Recent findings from asteroid Ryugu reveal the presence of DNA building blocks, which could provide insights into the origins of life on Earth. This discovery not only enhances our understanding of biological processes but may also have implications for health research, particularly in understanding genetic materials.",
+      "source": "Engadget"
     }
   ]
 }
