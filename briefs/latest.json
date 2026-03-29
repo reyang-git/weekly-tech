@@ -1,68 +1,74 @@
 {
-  "generatedAt": "2026-03-22T22:17:02.468Z",
-  "weekOf": "2026-03-22",
-  "lead": "This week in tech highlights significant advancements in AI, ambitious chip manufacturing plans from Elon Musk, and a notable upgrade in the Australian tech ecosystem.",
+  "generatedAt": "2026-03-29T22:21:40.449Z",
+  "weekOf": "2026-03-29",
+  "lead": "This week in tech highlights innovative AI developments, significant VC deals, and notable product launches shaping the landscape.",
   "themes": [
-    "Startups and VC Deals",
-    "Innovation and New Product Launches",
-    "AI and Emerging Technologies",
-    "Australian Tech Ecosystem",
-    "Novel Use Cases and Applications of Technology"
+    "AI and emerging technologies",
+    "Innovation and new product launches",
+    "Startups and VC deals",
+    "Australian tech ecosystem",
+    "Novel use cases of technology"
   ],
   "stories": [
     {
-      "title": "Elon Musk’s Latest Outlandish Plan Is a Giant Chip Factory In Texas",
-      "link": "https://gizmodo.com/elon-musks-latest-outlandish-plan-is-a-giant-chip-factory-in-texas-2000736620",
-      "summary": "Elon Musk has announced plans for a massive chip manufacturing facility in Texas, dubbed Terafab. This facility aims to produce chips for both terrestrial and space applications, addressing the growing demand from Tesla and SpaceX. The project is estimated to cost at least $20 billion, highlighting Musk's ambitious vision for the future of chip production.",
+      "title": "Bluesky’s new app is an AI for customizing your feed",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "summary": "Bluesky has launched Attie, an AI assistant that allows users to create personalized content feeds using natural language. This innovative tool was unveiled at the Atmosphere conference and is designed to enhance user experience by tailoring content to individual interests. The app is currently standalone but is expected to integrate with Bluesky's main platform in the future.",
+      "source": "The Verge"
+    },
+    {
+      "title": "NAB is co-designing a SIEM with Databricks",
+      "link": "https://www.itnews.com.au/news/nab-is-co-designing-a-siem-with-databricks-624651?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "National Australia Bank (NAB) is collaborating with Databricks to co-design a Security Information and Event Management (SIEM) system. This initiative aims to enhance cybersecurity measures within the bank, leveraging Databricks' expertise in data analytics and machine learning to improve threat detection and response.",
+      "source": "IT News"
+    },
+    {
+      "title": "Australian court fines Binance unit $10 million",
+      "link": "https://www.itnews.com.au/news/australian-court-fines-binance-unit-10-million-624653?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "In a significant ruling, an Australian court has imposed a $10 million fine on a Binance subsidiary for failures in client onboarding processes. This case highlights the increasing scrutiny on cryptocurrency exchanges in Australia and the importance of regulatory compliance in the rapidly evolving digital asset space.",
+      "source": "IT News"
+    },
+    {
+      "title": "Google Pixel 10a review: A budget smartphone without a camera bump",
+      "link": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
+      "summary": "The Google Pixel 10a has made waves with its flat design, eliminating the camera bump that has become standard in smartphones. While the device doesn't introduce many new features, it offers solid performance and is powered by Google's AI chip, making it a competitive option in the budget smartphone market.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
+      "link": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
+      "summary": "YouTube's CEO, Neal Mohan, expressed confidence that the platform's top creators will remain loyal to YouTube despite competition from other streaming services. He emphasized the unique community and monetization opportunities that YouTube provides, which are crucial for content creators' success.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple almost went broke – now it’s celebrating 50 years",
+      "link": "https://www.smh.com.au/technology/apple-almost-went-broke-now-it-s-celebrating-50-years-20260330-p5zjrf.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "As Apple celebrates its 50th anniversary, the company reflects on its tumultuous history, including a near bankruptcy in the late 1990s. This milestone highlights Apple's transformation into one of the world's most valuable companies, with a market capitalization exceeding $3.5 trillion.",
+      "source": "Sydney Morning Herald"
+    },
+    {
+      "title": "Bluesky Has a New App, and It’s All About AI",
+      "link": "https://gizmodo.com/bluesky-has-a-new-app-and-its-all-about-ai-2000739514",
+      "summary": "Bluesky has introduced a new AI-driven app that focuses on enhancing user engagement through personalized content feeds. This development marks a significant step in leveraging artificial intelligence to improve social media experiences, showcasing the potential for tailored content delivery.",
       "source": "Gizmodo"
     },
     {
-      "title": "Yarra Valley Water betting on AI to predict asset failures",
-      "link": "https://www.itnews.com.au/news/yarra-valley-water-betting-on-ai-to-predict-asset-failures-624066?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Yarra Valley Water is leveraging AI technology to enhance its asset management by predicting potential failures. This innovative approach aims to improve operational efficiency and reduce costs, although the company faces challenges in hosting large language models. This initiative reflects a growing trend in the Australian tech ecosystem towards integrating AI in public utilities.",
-      "source": "IT News"
-    },
-    {
-      "title": "The SEC drops its four-year-old investigation into EV startup Faraday Future",
-      "link": "https://techcrunch.com/2026/03/22/the-sec-drops-its-four-year-old-investigation-into-ev-startup-faraday-future/",
-      "summary": "Faraday Future, an electric vehicle startup, has successfully navigated a four-year investigation by the SEC, allowing it to refocus on its business objectives. This development is a significant relief for the beleaguered company as it prepares to launch its flagship vehicle. The resolution of this investigation may bolster investor confidence and pave the way for future funding.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "ATO to upgrade its IBM mainframe again in quiet $104.8m deal",
-      "link": "https://www.itnews.com.au/news/ato-to-upgrade-its-ibm-mainframe-again-in-quiet-1048m-deal-624493?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "The Australian Taxation Office (ATO) has announced a $104.8 million deal to upgrade its IBM mainframe systems to the latest z17 generation. This upgrade is part of the ATO's ongoing efforts to enhance its IT infrastructure, ensuring better service delivery and data management capabilities as digital transformation accelerates.",
-      "source": "IT News"
-    },
-    {
-      "title": "Pentagon to adopt Palantir AI as core US military system",
-      "link": "https://www.itnews.com.au/news/pentagon-to-adopt-palantir-aias-core-us-military-system-624496?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "The Pentagon has decided to integrate Palantir's AI technology into its core military systems, marking a significant move towards enhancing data analytics and operational efficiency in defense operations. This adoption reflects a broader trend of utilizing advanced technologies in national security and military strategy.",
-      "source": "IT News"
-    },
-    {
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-      "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-      "summary": "Cursor has acknowledged that its latest coding model is built upon the foundations of Moonshot AI's Kimi, raising questions about intellectual property and the ethical implications of utilizing existing AI frameworks. This admission highlights the complexities of AI development and the collaborative nature of innovation in the tech industry.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Crimson Desert developer apologizes and promises to replace AI-generated art",
-      "link": "https://www.engadget.com/gaming/crimson-desert-developer-apologizes-and-promises-to-replace-ai-generated-art-183716439.html?src=rss",
-      "summary": "The developers of the game Crimson Desert have issued an apology for including AI-generated art in the final release. They have committed to conducting a comprehensive audit and replacing the AI-generated assets, showcasing the importance of transparency in the use of AI in creative industries.",
+      "title": "Bethesda is shutting down The Elder Scrolls: Blades on June 30",
+      "link": "https://www.engadget.com/gaming/bethesda-is-shutting-down-the-elder-scrolls-blades-on-june-30-191016852.html?src=rss",
+      "summary": "Bethesda has announced the impending shutdown of The Elder Scrolls: Blades, a mobile spinoff that struggled to maintain its player base. The decision reflects the challenges faced by mobile games in sustaining long-term engagement, particularly those reliant on microtransactions.",
       "source": "Engadget"
     },
     {
-      "title": "Today's NYT Connections Hints, Answers and Help for March 23, #1016",
-      "link": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-and-help-for-march-23-1016/",
-      "summary": "As puzzle enthusiasts tackle the latest NYT Connections game, hints and answers are provided to assist players. This reflects the growing intersection of gaming and technology, where digital puzzles and interactive entertainment continue to engage audiences across various platforms.",
+      "title": "Trump Phone Reportedly Costs More, Looks Different, Isn't Made in America",
+      "link": "https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/",
+      "summary": "The Trump Phone T1 has been revealed with discrepancies in its pricing and manufacturing claims. Initial reports suggest that the device is not produced in America, raising questions about its branding and market positioning amidst growing competition in the smartphone sector.",
       "source": "CNET"
     },
     {
-      "title": "Do you want to build a robot snowman?",
-      "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-      "summary": "In a lighthearted exploration of robotics, a recent podcast episode discusses the potential of building a robot snowman, showcasing the playful side of technology. This concept reflects the broader trend of integrating robotics into everyday life and entertainment, sparking creativity and innovation.",
-      "source": "TechCrunch"
+      "title": "Red Rooms makes online poker as thrilling as its serial killer",
+      "link": "https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web",
+      "summary": "The film 'Red Rooms' successfully integrates technology into its narrative, offering a gripping thriller experience that resonates with contemporary themes of the dark web. The director's skillful tension-building enhances the viewing experience, showcasing how technology can be effectively woven into storytelling.",
+      "source": "The Verge"
     }
   ]
 }
