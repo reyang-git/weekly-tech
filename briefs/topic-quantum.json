@@ -1,56 +1,32 @@
 {
-  "generatedAt": "2026-02-16T06:14:52.945Z",
+  "generatedAt": "2026-03-30T05:09:26.992Z",
   "topic": "quantum",
-  "weekOf": "2026-02-16",
-  "lead": "The quantum computing landscape is rapidly evolving, with significant investments and advancements paving the way for its integration into various sectors.",
+  "weekOf": "2026-03-30",
+  "lead": "Recent advancements in quantum technology are pushing the boundaries of computing and energy storage, with researchers exploring the extreme conditions required for quantum computers and the development of innovative quantum batteries.",
   "stories": [
     {
-      "title": "Racing to build utility-scale computer, quantum start-up earns $20m federal investment",
-      "link": "https://www.smh.com.au/technology/racing-to-build-utility-scale-computer-quantum-start-up-earns-20m-federal-investment-20260202-p5nyvz.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "Australian start-up Diraq is making strides in the quantum computing sector, recently securing a $20 million investment from the federal government. This funding aims to support Diraq's goal of developing a utility-scale quantum computer, positioning Australia as a potential leader in this transformative technology. The investment highlights the increasing recognition of quantum computing's potential to revolutionize industries and drive economic growth.",
-      "source": "Sydney Morning Herald"
+      "title": "These Quantum Computers Won't Work Unless They're Colder Than Space",
+      "link": "https://www.cnet.com/videos/these-quantum-computers-wont-work-unless-theyre-colder-than-space/",
+      "summary": "Quantum computers have the potential to revolutionize industries by outperforming classical computers, but they require extreme cooling to function. This video explores the reasons behind the necessity for such low temperatures and the implications for quantum computing technology.",
+      "source": "CNET"
     },
     {
-      "title": "IBM's Quantum Computing Roadmap: What to Expect in the Next Decade",
-      "link": "https://www.ibm.com/quantum-computing/roadmap",
-      "summary": "IBM has unveiled its ambitious roadmap for quantum computing over the next decade, focusing on scalability and accessibility. The company plans to enhance its quantum systems and expand its quantum software ecosystem, aiming to make quantum computing more accessible to businesses and researchers. This roadmap is expected to accelerate the development of practical quantum applications across various fields.",
-      "source": "IBM"
+      "title": "Why Most Quantum Computers Need to Be Colder Than Space",
+      "link": "https://www.cnet.com/tech/computing/why-most-quantum-computers-need-to-be-colder-than-space/",
+      "summary": "The promise of quantum computing hinges on the ability to maintain temperatures lower than those found in space. This article delves into the science behind this cooling requirement and its impact on the future of quantum technology.",
+      "source": "CNET"
     },
     {
-      "title": "Google's Quantum AI: A New Frontier in Computing",
-      "link": "https://www.blog.google/products/quantum-ai/",
-      "summary": "Google's Quantum AI team is pushing the boundaries of quantum computing, focusing on developing algorithms that can outperform classical systems. Their recent breakthroughs in quantum supremacy have opened new avenues for research and application, particularly in fields like cryptography and optimization. Google aims to integrate quantum computing capabilities into its existing cloud services, providing businesses with unprecedented computational power.",
-      "source": "Google Blog"
+      "title": "Causality optional? Testing the 'indefinite causal order' superposition",
+      "link": "https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/",
+      "summary": "A groundbreaking quantum experiment challenges traditional notions of causality by testing the concept of indefinite causal order. This research could reshape our understanding of quantum mechanics and its implications for the nature of events.",
+      "source": "Ars Technica"
     },
     {
-      "title": "The Quantum Race: Who Will Lead the Future of Computing?",
-      "link": "https://www.forbes.com/sites/forbestechcouncil/2026/01/15/the-quantum-race-who-will-lead-the-future-of-computing/",
-      "summary": "As the race for quantum supremacy intensifies, major tech companies and startups are vying for leadership in the quantum computing space. This article explores the competitive landscape, highlighting key players and their unique approaches to quantum technology. With investments pouring in and advancements accelerating, the future of computing may hinge on who can harness the power of quantum first.",
-      "source": "Forbes"
-    },
-    {
-      "title": "Quantum Computing: The Next Big Thing in Cybersecurity?",
-      "link": "https://www.cybersecurityinsider.com/quantum-computing-next-big-thing/",
-      "summary": "Quantum computing holds the potential to revolutionize cybersecurity, both as a threat and a solution. This article discusses how quantum computers could break traditional encryption methods, prompting a race to develop quantum-resistant algorithms. Experts emphasize the need for proactive measures to secure data in a future where quantum computing is commonplace.",
-      "source": "Cybersecurity Insider"
-    },
-    {
-      "title": "How Quantum Computing Could Transform Drug Discovery",
-      "link": "https://www.healthtechmagazine.net/article/2026/02/how-quantum-computing-could-transform-drug-discovery",
-      "summary": "Quantum computing is poised to significantly impact the pharmaceutical industry by accelerating drug discovery processes. This article outlines how quantum algorithms can simulate molecular interactions more efficiently than classical computers, potentially reducing the time and cost of bringing new drugs to market. The implications for healthcare and patient outcomes are profound.",
-      "source": "HealthTech Magazine"
-    },
-    {
-      "title": "The Role of Quantum Computing in Climate Modeling",
-      "link": "https://www.scientificamerican.com/article/the-role-of-quantum-computing-in-climate-modeling/",
-      "summary": "Quantum computing could enhance climate modeling by processing vast amounts of data more efficiently than current technologies. This article explores how quantum algorithms can improve the accuracy of climate predictions, aiding in the development of strategies to combat climate change. Researchers are optimistic about the potential for quantum computing to provide insights that were previously unattainable.",
-      "source": "Scientific American"
-    },
-    {
-      "title": "Quantum Computing and Artificial Intelligence: A Powerful Combination",
-      "link": "https://www.technologyreview.com/2026/02/quantum-computing-ai-combination/",
-      "summary": "The intersection of quantum computing and artificial intelligence (AI) presents exciting possibilities for both fields. This article discusses how quantum algorithms can enhance machine learning processes, leading to faster and more accurate AI models. As both technologies evolve, their convergence could lead to breakthroughs in various applications, from finance to healthcare.",
-      "source": "MIT Technology Review"
+      "title": "Is this the world’s first quantum battery? Australian scientists say so",
+      "link": "https://www.theguardian.com/science/2026/mar/18/world-first-quantum-battery-australian-scientists-say",
+      "summary": "Australian researchers claim to have developed the world's first proof-of-concept quantum battery, which could lead to faster charging times and greater efficiency compared to traditional batteries. This innovation marks a significant step forward in energy storage technology.",
+      "source": "The Guardian Australia"
     }
   ]
 }
