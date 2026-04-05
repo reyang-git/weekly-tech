@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-03-29T22:21:40.449Z",
-  "weekOf": "2026-03-29",
-  "lead": "This week in tech highlights innovative AI developments, significant VC deals, and notable product launches shaping the landscape.",
+  "generatedAt": "2026-04-05T22:21:23.955Z",
+  "weekOf": "2026-04-05",
+  "lead": "This week in tech highlights significant advancements in AI, innovative startups, and notable developments in the Australian tech ecosystem.",
   "themes": [
     "AI and emerging technologies",
-    "Innovation and new product launches",
     "Startups and VC deals",
+    "Innovation and new product launches",
     "Australian tech ecosystem",
-    "Novel use cases of technology"
+    "Novel applications of technology"
   ],
   "stories": [
     {
-      "title": "Bluesky’s new app is an AI for customizing your feed",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
-      "summary": "Bluesky has launched Attie, an AI assistant that allows users to create personalized content feeds using natural language. This innovative tool was unveiled at the Atmosphere conference and is designed to enhance user experience by tailoring content to individual interests. The app is currently standalone but is expected to integrate with Bluesky's main platform in the future.",
-      "source": "The Verge"
+      "title": "AI-Powered Vibe Coding Surges in App Store",
+      "link": "https://thenextweb.com/news/vibe-coding-apple-app-store-surge-crackdown",
+      "summary": "AI-driven 'vibe coding' tools have led to an unprecedented 84% increase in new app submissions to Apple's App Store within a single quarter. This surge is straining Apple's review process, causing approval times to balloon significantly. The rise of these tools reflects a growing trend of non-coders creating applications, raising questions about quality control and app standards.",
+      "source": "The Next Web"
     },
     {
-      "title": "NAB is co-designing a SIEM with Databricks",
-      "link": "https://www.itnews.com.au/news/nab-is-co-designing-a-siem-with-databricks-624651?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "National Australia Bank (NAB) is collaborating with Databricks to co-design a Security Information and Event Management (SIEM) system. This initiative aims to enhance cybersecurity measures within the bank, leveraging Databricks' expertise in data analytics and machine learning to improve threat detection and response.",
-      "source": "IT News"
-    },
-    {
-      "title": "Australian court fines Binance unit $10 million",
-      "link": "https://www.itnews.com.au/news/australian-court-fines-binance-unit-10-million-624653?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "In a significant ruling, an Australian court has imposed a $10 million fine on a Binance subsidiary for failures in client onboarding processes. This case highlights the increasing scrutiny on cryptocurrency exchanges in Australia and the importance of regulatory compliance in the rapidly evolving digital asset space.",
-      "source": "IT News"
-    },
-    {
-      "title": "Google Pixel 10a review: A budget smartphone without a camera bump",
-      "link": "https://techcrunch.com/2026/03/29/google-pixel-10a-review-camera-bump-performance-ai-chip/",
-      "summary": "The Google Pixel 10a has made waves with its flat design, eliminating the camera bump that has become standard in smartphones. While the device doesn't introduce many new features, it offers solid performance and is powered by Google's AI chip, making it a competitive option in the budget smartphone market.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "YouTube CEO says the best YouTubers will ‘never leave their home’",
-      "link": "https://techcrunch.com/2026/03/29/youtube-ceo-says-the-best-youtubers-will-never-leave-their-home/",
-      "summary": "YouTube's CEO, Neal Mohan, expressed confidence that the platform's top creators will remain loyal to YouTube despite competition from other streaming services. He emphasized the unique community and monetization opportunities that YouTube provides, which are crucial for content creators' success.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Apple almost went broke – now it’s celebrating 50 years",
-      "link": "https://www.smh.com.au/technology/apple-almost-went-broke-now-it-s-celebrating-50-years-20260330-p5zjrf.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "As Apple celebrates its 50th anniversary, the company reflects on its tumultuous history, including a near bankruptcy in the late 1990s. This milestone highlights Apple's transformation into one of the world's most valuable companies, with a market capitalization exceeding $3.5 trillion.",
-      "source": "Sydney Morning Herald"
-    },
-    {
-      "title": "Bluesky Has a New App, and It’s All About AI",
-      "link": "https://gizmodo.com/bluesky-has-a-new-app-and-its-all-about-ai-2000739514",
-      "summary": "Bluesky has introduced a new AI-driven app that focuses on enhancing user engagement through personalized content feeds. This development marks a significant step in leveraging artificial intelligence to improve social media experiences, showcasing the potential for tailored content delivery.",
-      "source": "Gizmodo"
-    },
-    {
-      "title": "Bethesda is shutting down The Elder Scrolls: Blades on June 30",
-      "link": "https://www.engadget.com/gaming/bethesda-is-shutting-down-the-elder-scrolls-blades-on-june-30-191016852.html?src=rss",
-      "summary": "Bethesda has announced the impending shutdown of The Elder Scrolls: Blades, a mobile spinoff that struggled to maintain its player base. The decision reflects the challenges faced by mobile games in sustaining long-term engagement, particularly those reliant on microtransactions.",
+      "title": "Anthropic's Expansion Efforts Amid US Disputes",
+      "link": "https://www.engadget.com/ai/the-uk-government-reportedly-wants-anthropic-to-expand-its-presence-in-london-174201049.html?src=rss",
+      "summary": "The UK government is reportedly courting AI company Anthropic to expand its operations in London, following tensions with the US Department of Defense. This move aims to attract tech talent and investment to the UK amid ongoing disputes over AI regulations. Anthropic's CEO is expected to visit the UK soon, highlighting the strategic importance of AI development in the region.",
       "source": "Engadget"
     },
     {
-      "title": "Trump Phone Reportedly Costs More, Looks Different, Isn't Made in America",
-      "link": "https://www.cnet.com/tech/mobile/trump-phone-t1-first-look-report/",
-      "summary": "The Trump Phone T1 has been revealed with discrepancies in its pricing and manufacturing claims. Initial reports suggest that the device is not produced in America, raising questions about its branding and market positioning amidst growing competition in the smartphone sector.",
-      "source": "CNET"
+      "title": "Polymarket Faces Backlash Over Betting on Military Rescues",
+      "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
+      "summary": "Polymarket has removed betting options related to the rescue of an Air Force officer shot down over Iran after criticism from lawmakers. The situation raises ethical concerns about the implications of betting on sensitive military operations. This incident highlights the challenges of regulating online betting platforms and the responsibilities they hold.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Red Rooms makes online poker as thrilling as its serial killer",
-      "link": "https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web",
-      "summary": "The film 'Red Rooms' successfully integrates technology into its narrative, offering a gripping thriller experience that resonates with contemporary themes of the dark web. The director's skillful tension-building enhances the viewing experience, showcasing how technology can be effectively woven into storytelling.",
+      "title": "AI Chatbots Enable Non-Coders to Build Apps",
+      "link": "https://www.smh.com.au/technology/how-i-vibe-coded-a-web-tool-in-three-days-with-no-programming-experience-20260331-p5zk3z.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "A new trend of 'vibe coding' allows individuals without programming experience to create web tools using AI chatbots. This democratization of app development opens doors for innovation but also raises concerns about quality and security. The article discusses the author's personal experience in building an app in just three days, showcasing the potential and pitfalls of this technology.",
+      "source": "Sydney Morning Herald"
+    },
+    {
+      "title": "Samsung to Replace Messaging App with Google's",
+      "link": "https://www.engadget.com/mobile/smartphones/samsung-will-discontinue-its-messages-app-in-july-and-replace-it-with-googles-162204307.html?src=rss",
+      "summary": "Samsung has announced it will discontinue its own messaging app in favor of Google Messages by July. This transition aims to enhance user experience with features like RCS messaging, but users may miss out on some Samsung-specific customizations. The move reflects a broader trend of tech companies consolidating services to improve interoperability.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Netflix Ordered to Refund Italian Subscribers",
+      "link": "https://thenextweb.com/news/netflix-italy-price-hikes-refund",
+      "summary": "A court in Rome has ruled that Netflix's price hikes over the years violated Italian consumer laws, requiring the company to refund subscribers up to €500. This ruling could set a precedent for how streaming services handle pricing and consumer rights in the EU. Netflix must now navigate the legal implications while maintaining its subscriber base.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Suno's AI Music Platform Faces Copyright Challenges",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "summary": "Suno's AI music platform is under scrutiny for its inability to effectively filter copyrighted material. Users can easily manipulate the system to create AI-generated imitations of popular songs, raising significant copyright concerns. This situation underscores the ongoing challenges of regulating AI in creative fields.",
       "source": "The Verge"
+    },
+    {
+      "title": "SpaceX's Vision for Orbital Data Centers",
+      "link": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "summary": "TechCrunch's Equity podcast discusses Elon Musk's ambitious plans for orbital data centers and their potential to justify SpaceX's high valuation. The concept could revolutionize data storage and processing, but it also raises questions about feasibility and regulatory hurdles. This vision reflects the growing intersection of space technology and data management.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple's Crackdown on Vibe Coding Submissions",
+      "link": "https://thenextweb.com/news/vibe-coding-apple-app-store-surge-crackdown",
+      "summary": "In response to the surge in vibe coding, Apple is tightening its app submission guidelines to maintain quality. This crackdown aims to address the challenges posed by the influx of low-quality apps generated by AI tools. The move highlights the ongoing struggle between innovation and quality control in app development.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Kamen Rider Expands Its Global Reach",
+      "link": "https://gizmodo.com/kamen-rider-is-ready-to-take-on-the-world-2000742411",
+      "summary": "The Kamen Rider franchise is gearing up for a global expansion with new movies and shows, appealing to both long-time fans and newcomers. This initiative reflects a growing trend of Japanese media reaching international audiences, showcasing the power of nostalgia and cultural crossover in entertainment.",
+      "source": "Gizmodo"
     }
   ]
 }
