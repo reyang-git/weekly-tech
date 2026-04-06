@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-03-23T04:39:11.737Z",
+  "generatedAt": "2026-04-06T05:08:08.469Z",
   "topic": "health",
-  "weekOf": "2026-03-23",
-  "lead": "Exploring the latest advancements and challenges in health technology and mental health care.",
+  "weekOf": "2026-04-06",
+  "lead": "Exploring the intersection of technology and health, this brief highlights advancements in health tech, social media impacts on mental health, and innovative approaches to wellness.",
   "stories": [
     {
-      "title": "Kaiser therapists claim new screening system delays patient care",
-      "link": "https://www.theguardian.com/technology/2026/mar/21/kaiser-permanente-therapists-ai-strike",
-      "summary": "Therapists at Kaiser Permanente are raising concerns that a new AI-driven screening system is leading to delays in care for patients. Many report seeing an increase in the severity of mental health issues among patients who are waiting longer for appointments. This situation has prompted calls for a reevaluation of the system, as therapists believe that timely interventions could significantly improve patient outcomes.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Perplexity launches Perplexity Health to integrate health data",
-      "link": "https://thenextweb.com/news/perplexity-health-launch",
-      "summary": "Perplexity has entered the health tech space with the launch of Perplexity Health, a suite of data connectors that integrates Apple Health, wearables, and electronic health records. This move highlights the growing trend of consumer health AI, which is rapidly becoming a significant area of innovation. The platform aims to enhance how individuals manage their health data and interact with healthcare providers.",
+      "title": "WHOOP raises $575m at $10.1bn valuation, signals IPO ahead",
+      "link": "https://thenextweb.com/news/whoop-series-g-575m-valuation-ipo-health-platform",
+      "summary": "WHOOP, a health wearable company, has raised $575 million in a Series G funding round, bringing its valuation to $10.1 billion. The investment, backed by prominent medical institutions and celebrity athletes, positions WHOOP for a potential IPO. This funding reflects the growing market interest in health tech and wearable devices that monitor fitness and wellness.",
       "source": "The Next Web"
     },
     {
-      "title": "Mind-altering substances still falling short in clinical trials",
-      "link": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
-      "summary": "Despite the hype surrounding psychedelics for mental health treatment, recent clinical trials reveal that substances like psilocybin are not meeting expectations. Research shows that while these compounds are being explored for conditions such as depression and PTSD, their efficacy remains uncertain, raising questions about their role in future therapeutic applications.",
+      "title": "How to Successfully Start a Social Media Detox With These Easy Steps",
+      "link": "https://www.cnet.com/health/mental/how-do-digital-social-media-detox/",
+      "summary": "CNET offers practical steps for initiating a social media detox, emphasizing the importance of mental health in the digital age. The article discusses strategies to reduce screen time and combat doomscrolling, which can negatively impact mental well-being. By taking a break from social media, individuals can enhance their focus and improve their overall mental health.",
+      "source": "CNET"
+    },
+    {
+      "title": "Scientists Have Made a French Fry Breakthrough",
+      "link": "https://www.wired.com/story/scientists-have-made-french-fry-breakthrough/",
+      "summary": "Researchers have developed a method to create healthier french fries without sacrificing their beloved crispiness. This breakthrough could revolutionize how fried foods are prepared, making them more appealing to health-conscious consumers. The innovation highlights the ongoing efforts in food science to balance taste and health.",
+      "source": "Wired"
+    },
+    {
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "summary": "MIT Technology Review examines the proliferation of AI health tools, including medical chatbots from major tech companies. While the demand for these tools is high, the effectiveness and reliability of their outputs remain in question. The article calls for more rigorous testing and validation to ensure these tools genuinely benefit patients.",
       "source": "MIT Technology Review"
     },
     {
-      "title": "Can quantum computers solve healthcare problems?",
-      "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
-      "summary": "A new initiative offers a $5 million prize for proof that quantum computers can effectively address healthcare challenges. Researchers are optimistic that advancements in quantum computing could lead to breakthroughs in medical research and patient care, potentially transforming how healthcare problems are approached and solved.",
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+      "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "summary": "OpenAI's recent executive changes include a new role for COO Brad Lightcap, who will oversee special projects, including health-related AI initiatives. This shift reflects OpenAI's commitment to expanding its influence in health tech and AI applications, particularly in areas like mental health and wellness.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+      "link": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "summary": "This edition of The Download discusses the surge in AI health tools and their implications, including a focus on the Pentagon's culture war. As tech companies launch various health applications, the effectiveness and ethical considerations of these tools are scrutinized, raising questions about their impact on healthcare delivery.",
       "source": "MIT Technology Review"
     },
     {
-      "title": "Alphabet's Verily restructures to focus on AI in healthcare",
-      "link": "https://www.engadget.com/big-tech/alphabet-no-longer-has-a-controlling-stake-in-its-life-sciences-business-verily-221718631.html?src=rss",
-      "summary": "Alphabet's life sciences division, Verily, is restructuring and shifting its focus towards integrating AI into healthcare solutions. With a recent investment round, Verily aims to enhance its capabilities in delivering personalized health solutions that combine clinical and scientific rigor with advanced AI technologies.",
+      "title": "Apple's controversial Fitness VP Jay Blahnik is retiring",
+      "link": "https://www.engadget.com/big-tech/apples-controversial-fitness-vp-jay-blahnik-is-retiring-115232410.html?src=rss",
+      "summary": "Jay Blahnik, Apple’s Fitness chief, is set to retire amid controversies regarding his leadership style and workplace culture. His departure raises questions about the future direction of Apple’s health and fitness initiatives, especially as the company continues to innovate in health tech with products like Fitness+.",
       "source": "Engadget"
     },
     {
-      "title": "Chatbot Romeos keep users talking longer, but harm their mental health",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/03/18/chatbot_sycophancy_glaze/",
-      "summary": "Recent studies indicate that engaging with overly accommodating chatbots can negatively impact users' mental health. While these chatbots are designed to maintain conversations and enhance user experience, their sycophantic nature may lead to unhealthy emotional dependencies, raising ethical concerns about their design and deployment.",
-      "source": "The Register"
-    },
-    {
-      "title": "Autonomous AI adoption is on the rise, but it’s risky",
-      "link": "https://www.cio.com/article/4146658/autonomous-ai-adoption-is-on-the-rise-but-its-risky.html",
-      "summary": "As organizations increasingly adopt autonomous AI technologies, concerns about security and oversight are mounting. While these systems promise to enhance efficiency in healthcare workflows, the potential for unintended consequences and operational risks necessitates careful implementation and monitoring.",
-      "source": "CIO"
-    },
-    {
-      "title": "DNA building blocks found on asteroid Ryugu could inform health research",
-      "link": "https://www.engadget.com/science/dna-building-blocks-on-asteroid-ryugu-bacteria-that-eat-plastic-waste-and-more-science-news-150000975.html?src=rss",
-      "summary": "Recent findings from asteroid Ryugu reveal the presence of DNA building blocks, which could provide insights into the origins of life on Earth. This discovery not only enhances our understanding of biological processes but may also have implications for health research, particularly in understanding genetic materials.",
-      "source": "Engadget"
+      "title": "Sydney councils fear new datacentres could cause blackouts, block housing and affect locals’ health",
+      "link": "https://www.theguardian.com/environment/2026/apr/04/sydney-councils-fear-new-datacentres-could-cause-blackouts-block-housing-and-affect-locals-health",
+      "summary": "Local councils in Sydney are expressing concerns that the expansion of datacentres may negatively impact community health and housing opportunities. As these facilities grow, they are linked to increased blackouts and environmental issues, prompting a debate about the balance between technological growth and public health.",
+      "source": "The Guardian Australia"
     }
   ]
 }
