@@ -10,7 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        topic: ['AI', 'robotics', 'quantum', 'health', 'climate', 'education']
+        topic: ['AI', 'robotics', 'quantum', 'health', 'climate', 'education', 'portfolio']
+        include:
+          - topic: portfolio
+            search_terms: "Academy Xi,Coviu,FlyORO,Foremind,Future Super,GlamCorner,Goterra,Great Wrap,Like Family,Loop+,MoreGoodDays,Music Health,Perx Health,Seer Medical,Sendle,Swoop Aero,WORK 180,Who Gives a Crap,Switch Automation,Change Foods,Evrnu,Full Cycle,Ovum,Mindset Health"
     steps:
       - uses: actions/checkout@v4
       
@@ -24,6 +27,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           SEARCH_TOPIC: ${{ matrix.topic }}
+          SEARCH_TERMS: ${{ matrix.search_terms }}
         run: npm run build:topic
       
       - name: Commit and push

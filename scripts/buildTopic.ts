@@ -34,6 +34,12 @@ if (!key) throw new Error("OPENAI_API_KEY is not set");
 const topic = process.env.SEARCH_TOPIC;
 if (!topic) throw new Error("SEARCH_TOPIC is not set");
 
+// SEARCH_TERMS: optional comma-separated phrases for filtering (e.g. "Seer Medical,Sendle,Great Wrap")
+// If not set, falls back to splitting SEARCH_TOPIC by whitespace
+const searchTerms: string[] = process.env.SEARCH_TERMS
+  ? process.env.SEARCH_TERMS.split(",").map((t) => t.trim()).filter(Boolean)
+  : topic.toLowerCase().split(/\s+/);
+
 const outDir = path.join(process.cwd(), "briefs");
 const feedsPath = path.join(process.cwd(), "scripts", "feeds.json");
 const parser = new Parser();
@@ -117,17 +123,15 @@ const collectItems = async (urls: string[]): Promise<FeedItem[]> => {
   return items;
 };
 
-const filterByTopic = (items: FeedItem[], topic: string): FeedItem[] => {
-  const searchTerms = topic.toLowerCase().split(/\s+/);
-  
+const filterByTopic = (items: FeedItem[], terms: string[]): FeedItem[] => {
   return items.filter(item => {
     const text = [
       item.title,
       item.contentSnippet,
       item.content
     ].join(' ').toLowerCase();
-    
-    return searchTerms.some(term => text.includes(term));
+
+    return terms.some(term => text.includes(term.toLowerCase()));
   }).sort((a, b) => parseDateMs(b) - parseDateMs(a));
 };
 
@@ -201,7 +205,7 @@ const main = async () => {
   fs.mkdirSync(outDir, { recursive: true });
   const urls = readFeeds();
   const items = await collectItems(urls);
-  const filtered = filterByTopic(items, topic);
+  const filtered = filterByTopic(items, searchTerms);
   
   if (filtered.length === 0) {
     console.warn(`No feed items found related to topic: ${topic}`);
