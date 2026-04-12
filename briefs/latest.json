@@ -1,74 +1,73 @@
 {
-  "generatedAt": "2026-04-05T22:21:23.955Z",
-  "weekOf": "2026-04-05",
-  "lead": "This week in tech highlights significant advancements in AI, innovative startups, and notable developments in the Australian tech ecosystem.",
+  "generatedAt": "2026-04-12T22:24:46.145Z",
+  "weekOf": "2026-04-12",
+  "lead": "This week, innovation in AI and emerging technologies takes center stage with significant developments from major companies and startups alike, particularly in the Australian tech ecosystem.",
   "themes": [
-    "AI and emerging technologies",
-    "Startups and VC deals",
-    "Innovation and new product launches",
-    "Australian tech ecosystem",
-    "Novel applications of technology"
+    "AI and Emerging Technologies",
+    "Startups and VC Deals",
+    "Innovation and Product Launches",
+    "Australian Tech Ecosystem"
   ],
   "stories": [
     {
-      "title": "AI-Powered Vibe Coding Surges in App Store",
-      "link": "https://thenextweb.com/news/vibe-coding-apple-app-store-surge-crackdown",
-      "summary": "AI-driven 'vibe coding' tools have led to an unprecedented 84% increase in new app submissions to Apple's App Store within a single quarter. This surge is straining Apple's review process, causing approval times to balloon significantly. The rise of these tools reflects a growing trend of non-coders creating applications, raising questions about quality control and app standards.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Anthropic's Expansion Efforts Amid US Disputes",
-      "link": "https://www.engadget.com/ai/the-uk-government-reportedly-wants-anthropic-to-expand-its-presence-in-london-174201049.html?src=rss",
-      "summary": "The UK government is reportedly courting AI company Anthropic to expand its operations in London, following tensions with the US Department of Defense. This move aims to attract tech talent and investment to the UK amid ongoing disputes over AI regulations. Anthropic's CEO is expected to visit the UK soon, highlighting the strategic importance of AI development in the region.",
+      "title": "Apple reportedly testing out four different styles for its smart glasses",
+      "link": "https://www.engadget.com/wearables/apple-reportedly-testing-out-four-different-styles-for-its-smart-glasses-that-will-rival-meta-ray-bans-200550013.html?src=rss",
+      "summary": "Apple is reportedly exploring four distinct designs for its upcoming smart glasses, aiming to compete with Meta's Ray-Ban models. The designs range from classic rectangular frames to more modern oval shapes, with various colors being tested. The glasses are expected to integrate seamlessly with the Apple ecosystem, enhancing user experience with features like photo and video capture.",
       "source": "Engadget"
     },
     {
-      "title": "Polymarket Faces Backlash Over Betting on Military Rescues",
-      "link": "https://techcrunch.com/2026/04/05/polymarket-took-down-wagers-tied-to-rescue-of-downed-air-force-officer/",
-      "summary": "Polymarket has removed betting options related to the rescue of an Air Force officer shot down over Iran after criticism from lawmakers. The situation raises ethical concerns about the implications of betting on sensitive military operations. This incident highlights the challenges of regulating online betting platforms and the responsibilities they hold.",
+      "title": "Anthropic brings Claude into Microsoft Word, and legal contract review leads its use cases",
+      "link": "https://thenextweb.com/news/dario-amodei-london-united-kingdom",
+      "summary": "Anthropic has introduced a beta add-in that integrates its AI, Claude, directly into Microsoft Word. This feature allows users to see AI-generated edits as tracked changes, with a focus on legal contract review among its initial applications. This move marks a significant step in AI's integration into productivity tools, enhancing efficiency for users.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "OpenAI’s new $100 ChatGPT Pro plan targets Claude Max with five times the Codex access",
+      "link": "https://thenextweb.com/news/openais-new-100-chatgpt-pro-plan-targets-claude-max-with-five-times-the-codex-access",
+      "summary": "OpenAI has launched a new ChatGPT Pro plan priced at $100 per month, aimed at competing directly with Anthropic's Claude Max. This plan offers users five times more access to Codex, enhancing capabilities for developers and businesses. This strategic pricing and feature enhancement reflects the competitive landscape in AI services.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "NDIS Commission to have a new intelligent risk engine by August",
+      "link": "https://www.itnews.com.au/news/ndis-commission-to-have-a-new-intelligent-risk-engine-by-august-624929?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The NDIS Commission in Australia is set to implement a new intelligent risk engine by August, coinciding with ongoing budget scrutiny. This technology aims to enhance the management of risks associated with the National Disability Insurance Scheme, showcasing innovation in public sector technology.",
+      "source": "IT News"
+    },
+    {
+      "title": "The Netherlands becomes the first European country to approve Tesla’s FSD Supervised",
+      "link": "https://thenextweb.com/news/tesla-fsd-supervised-netherlands-europe",
+      "summary": "The Netherlands has become the first European country to approve Tesla's Full Self-Driving (Supervised) software. This approval follows extensive testing and marks a significant milestone in the adoption of autonomous vehicle technology in Europe, setting a precedent for other countries.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "X says it’s reducing payments to clickbait accounts",
+      "link": "https://techcrunch.com/2026/04/12/x-says-its-reducing-payments-to-clickbait-accounts/",
+      "summary": "X has announced a reduction in payments to accounts that excessively share clickbait content, aiming to improve the quality of information on its platform. This move reflects a broader trend in social media to prioritize meaningful engagement over sensationalism.",
       "source": "TechCrunch"
     },
     {
-      "title": "AI Chatbots Enable Non-Coders to Build Apps",
-      "link": "https://www.smh.com.au/technology/how-i-vibe-coded-a-web-tool-in-three-days-with-no-programming-experience-20260331-p5zk3z.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "A new trend of 'vibe coding' allows individuals without programming experience to create web tools using AI chatbots. This democratization of app development opens doors for innovation but also raises concerns about quality and security. The article discusses the author's personal experience in building an app in just three days, showcasing the potential and pitfalls of this technology.",
-      "source": "Sydney Morning Herald"
+      "title": "Apple reportedly testing AI Glasses in Several Frame Styles",
+      "link": "https://www.cnet.com/news/apple-reportedly-testing-ai-glasses-in-several-frame-styles/",
+      "summary": "In addition to its smart glasses, Apple is reportedly testing various styles for AI glasses that could enhance user interaction with augmented reality. The inclusion of advanced camera technology and integration with existing Apple services could position these glasses as a key player in the wearable tech market.",
+      "source": "CNET"
     },
     {
-      "title": "Samsung to Replace Messaging App with Google's",
-      "link": "https://www.engadget.com/mobile/smartphones/samsung-will-discontinue-its-messages-app-in-july-and-replace-it-with-googles-162204307.html?src=rss",
-      "summary": "Samsung has announced it will discontinue its own messaging app in favor of Google Messages by July. This transition aims to enhance user experience with features like RCS messaging, but users may miss out on some Samsung-specific customizations. The move reflects a broader trend of tech companies consolidating services to improve interoperability.",
+      "title": "OpenAI says Elon Musk is orchestrating a last-minute 'legal ambush' before trial",
+      "link": "https://www.engadget.com/ai/openai-says-elon-musk-is-orchestrating-a-last-minute-legal-ambush-before-trial-163248345.html?src=rss",
+      "summary": "OpenAI has accused Elon Musk of attempting to disrupt ongoing legal proceedings with last-minute changes to his lawsuit. This high-profile case highlights the tensions between Musk and OpenAI, particularly over the direction and governance of AI development.",
       "source": "Engadget"
     },
     {
-      "title": "Netflix Ordered to Refund Italian Subscribers",
-      "link": "https://thenextweb.com/news/netflix-italy-price-hikes-refund",
-      "summary": "A court in Rome has ruled that Netflix's price hikes over the years violated Italian consumer laws, requiring the company to refund subscribers up to €500. This ruling could set a precedent for how streaming services handle pricing and consumer rights in the EU. Netflix must now navigate the legal implications while maintaining its subscriber base.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Suno's AI Music Platform Faces Copyright Challenges",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-      "summary": "Suno's AI music platform is under scrutiny for its inability to effectively filter copyrighted material. Users can easily manipulate the system to create AI-generated imitations of popular songs, raising significant copyright concerns. This situation underscores the ongoing challenges of regulating AI in creative fields.",
+      "title": "Rockstar Games says hack will have ‘no impact’",
+      "link": "https://www.theverge.com/games/910815/rockstar-games-says-hack-will-have-no-impact",
+      "summary": "Rockstar Games has confirmed that a recent data breach affecting a third-party provider will not impact its operations or players. The company has stated that the compromised data was limited, emphasizing its commitment to security in the gaming industry.",
       "source": "The Verge"
     },
     {
-      "title": "SpaceX's Vision for Orbital Data Centers",
-      "link": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
-      "summary": "TechCrunch's Equity podcast discusses Elon Musk's ambitious plans for orbital data centers and their potential to justify SpaceX's high valuation. The concept could revolutionize data storage and processing, but it also raises questions about feasibility and regulatory hurdles. This vision reflects the growing intersection of space technology and data management.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Apple's Crackdown on Vibe Coding Submissions",
-      "link": "https://thenextweb.com/news/vibe-coding-apple-app-store-surge-crackdown",
-      "summary": "In response to the surge in vibe coding, Apple is tightening its app submission guidelines to maintain quality. This crackdown aims to address the challenges posed by the influx of low-quality apps generated by AI tools. The move highlights the ongoing struggle between innovation and quality control in app development.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Kamen Rider Expands Its Global Reach",
-      "link": "https://gizmodo.com/kamen-rider-is-ready-to-take-on-the-world-2000742411",
-      "summary": "The Kamen Rider franchise is gearing up for a global expansion with new movies and shows, appealing to both long-time fans and newcomers. This initiative reflects a growing trend of Japanese media reaching international audiences, showcasing the power of nostalgia and cultural crossover in entertainment.",
-      "source": "Gizmodo"
+      "title": "Today's Wordle Hints, Answer and Help for April 13, #1759",
+      "link": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-april-13-1759/",
+      "summary": "As the popularity of word games continues to rise, today's Wordle hints and answers provide a fun distraction for players. This ongoing engagement with puzzle games demonstrates the intersection of technology and entertainment in everyday life.",
+      "source": "CNET"
     }
   ]
 }
