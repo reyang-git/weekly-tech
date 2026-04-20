@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-04-13T05:25:20.804Z",
+  "generatedAt": "2026-04-20T05:23:54.732Z",
   "topic": "health",
-  "weekOf": "2026-04-13",
-  "lead": "Exploring the intersection of AI and health, this brief highlights the latest developments in health technology, legal implications, and emerging health-focused wearables.",
+  "weekOf": "2026-04-20",
+  "lead": "Exploring the intersection of technology and health, from mental wellness apps to the implications of AI in healthcare.",
   "stories": [
     {
-      "title": "Using AI for health questions? Here are 4 tips for the most accurate answers.",
-      "link": "https://mashable.com/article/ai-chatgpt-chatbot-claude-health-questions",
-      "summary": "As AI tools like ChatGPT and Claude gain popularity for health inquiries, users are advised to follow specific prompting techniques to ensure accurate responses. The article outlines four practical tips to enhance the reliability of AI-generated health information, emphasizing the importance of context and specificity in queries.",
-      "source": "Mashable"
+      "title": "This teenage entrepreneur is using AI to help people ‘vent’ for their mental health",
+      "link": "https://www.startupdaily.net/podcasts/startup-360-this-teenage-entrepreneur-is-using-ai-to-help-people-vent-for-their-mental-health/",
+      "summary": "A 17-year-old entrepreneur has developed an AI app called Venty, designed to allow users to express their feelings and manage their mental health in just five minutes. This innovative tool aims to provide a quick and effective way for individuals to vent and gain emotional clarity, showcasing the growing role of technology in mental wellness.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Health AI and the law: Could your chatbot doc testify against you?",
-      "link": "https://mashable.com/article/health-chatbots-ai-privilege-lawsuits",
-      "summary": "The legal landscape surrounding health-focused AI remains uncertain, particularly regarding user privacy and the potential for chatbots to be compelled to disclose user interactions in court. This article explores the implications of these legal challenges and the need for clearer regulations to protect users.",
-      "source": "Mashable"
+      "title": "Trump picks qualified, normal health leader to head CDC; experts still cautious",
+      "link": "https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/",
+      "summary": "The appointment of a new CDC leader has sparked cautious optimism among health experts, who acknowledge her qualifications but express concerns about navigating political pressures, particularly from anti-vaccine movements. This highlights the ongoing challenges in public health leadership amidst polarized views on health policies.",
+      "source": "Ars Technica"
     },
     {
-      "title": "AI can screen 15 million molecules in a day. It still can’t cure Alzheimer’s.",
-      "link": "https://thenextweb.com/news/ai-healthcare-drug-discovery-chatbots-reality",
-      "summary": "Despite the impressive capabilities of AI in drug discovery, significant challenges remain in developing effective treatments for complex diseases like Alzheimer's. This article discusses the gap between AI's potential and its current limitations in addressing major health issues.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
-      "link": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
-      "summary": "Onix is launching a platform that offers AI-generated health advice from digital replicas of wellness influencers. While this innovation aims to make expert advice more accessible, it raises questions about the value and reliability of AI in personal health management.",
-      "source": "Wired"
-    },
-    {
-      "title": "Google Is Changing How Gemini Handles a User’s Mental Health Crisis",
-      "link": "https://lifehacker.com/tech/google-just-announced-a-number-gemini-changes-focused-on-mental-health?utm_medium=RSS",
-      "summary": "Google's Gemini is set to implement significant changes in how it responds to users experiencing mental health crises. These updates aim to enhance user safety and provide more appropriate support, reflecting the growing recognition of mental health in tech applications.",
-      "source": "Lifehacker"
-    },
-    {
-      "title": "I walked 3,000 steps with my Apple Watch, Google Pixel, and Oura Ring - this tracker was most accurate",
-      "link": "https://www.zdnet.com/article/step-tracking-apple-google-oura-health-trackers-accuracy/",
-      "summary": "A comparative study of step-tracking accuracy among popular health devices reveals significant differences in performance. The findings highlight the importance of choosing the right wearable for fitness tracking, particularly for those focused on health metrics.",
+      "title": "Prolonged AI use can be hazardous to your health and work: 4 ways to stay safe",
+      "link": "https://www.zdnet.com/article/why-prolonged-ai-use-risks-your-health-4-ways-to-stay-safe/",
+      "summary": "As AI becomes more integrated into daily tasks, concerns about its impact on health and productivity are rising. This article outlines four strategies for mitigating risks associated with prolonged AI use, emphasizing the importance of maintaining a healthy work-life balance and being aware of potential mental health effects.",
       "source": "ZDNet"
     },
     {
-      "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
-      "link": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
-      "summary": "A user recounts their experience with Meta's AI health assistant, which requested sensitive health data but ultimately provided poor advice. This raises concerns about the reliability of AI in health contexts and the potential risks of sharing personal information.",
-      "source": "Wired"
+      "title": "Should You Supplement With Creatine?",
+      "link": "https://lifehacker.com/should-you-supplement-creatine?utm_medium=RSS",
+      "summary": "Creatine supplementation is gaining attention not only for its physical benefits but also for potential mental health advantages. This article discusses the effectiveness of creatine, debunking the myth of needing a 'loading' dose and highlighting its role in enhancing cognitive function alongside physical performance.",
+      "source": "Lifehacker"
     },
     {
-      "title": "Dutch healthcare software vendor goes dark after ransomware attack",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/04/08/chipsoft_ransomware/",
-      "summary": "A ransomware attack has left a Dutch healthcare software vendor incapacitated, highlighting the vulnerabilities of digital health systems. This incident underscores the critical need for robust cybersecurity measures in healthcare technology to protect sensitive patient data.",
-      "source": "The Register"
+      "title": "Seven Ways Gaining Muscle Benefits Your Health",
+      "link": "https://lifehacker.com/health/the-health-benefits-of-gaining-muscle?utm_medium=RSS",
+      "summary": "Building muscle offers numerous health benefits beyond aesthetics. This piece explores how increased muscle mass can improve metabolic health, enhance mood, and reduce the risk of chronic diseases, making strength training an essential component of a healthy lifestyle.",
+      "source": "Lifehacker"
+    },
+    {
+      "title": "How Meta’s victim-blaming failed to sway jurors in landmark social media addiction trial",
+      "link": "https://www.theguardian.com/technology/2026/mar/29/meta-loss-social-media-addiction-trial",
+      "summary": "Meta's defense strategy in a high-profile trial regarding social media addiction faced backlash as jurors rejected claims that the mental health issues of a young user were solely due to personal circumstances. This case underscores the ongoing debate about the responsibility of tech companies in addressing the mental health impacts of their platforms.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "The real impact on work: AI's role in reshaping jobs and industries",
+      "link": "https://www.cio.com/article/4159784/ai-market-whiplash-and-the-case-for-a-force-multiplier.html",
+      "summary": "The integration of AI in the workplace is prompting a significant shift in job roles rather than outright displacement. This article discusses how AI can enhance productivity and reshape workflows, emphasizing the need for organizations to strategically integrate AI while preserving human expertise.",
+      "source": "CIO"
+    },
+    {
+      "title": "The Morning After: Our verdict on the DJI Osmo Pocket 4",
+      "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111515383.html?src=rss",
+      "summary": "While primarily a tech review, the DJI Osmo Pocket 4's capabilities as a vlogging camera highlight the growing trend of technology being used for health and wellness content creation. This reflects how digital tools are being leveraged to promote mental health and well-being through creative expression.",
+      "source": "Engadget"
     }
   ]
 }
