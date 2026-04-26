@@ -1,68 +1,74 @@
 {
-  "generatedAt": "2026-04-19T22:26:00.534Z",
-  "weekOf": "2026-04-19",
-  "lead": "This week in tech highlights significant advancements in AI applications, innovative product launches, and the evolving landscape of the Australian tech ecosystem.",
+  "generatedAt": "2026-04-26T22:28:53.093Z",
+  "weekOf": "2026-04-26",
+  "lead": "This week's tech brief highlights innovative startups, significant VC deals, and the latest advancements in AI, alongside notable developments in the Australian tech ecosystem.",
   "themes": [
-    "AI and emerging technologies",
-    "Innovation and new product launches",
-    "Australian tech ecosystem",
-    "Startups and VC deals",
-    "Novel use cases of technology"
+    "Startups and VC Deals",
+    "AI and Emerging Technologies",
+    "Australian Tech Ecosystem",
+    "Innovation and New Product Launches",
+    "Novel Use Cases of Technology"
   ],
   "stories": [
     {
-      "title": "OpenAI’s existential questions",
-      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-      "summary": "In a recent episode of Equity, discussions centered on OpenAI's acquisitions aimed at addressing significant challenges the company faces. The conversation delves into the implications of these moves for the future of AI and the ethical considerations surrounding its development.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Tech expert tips Apple to launch folding smartphone",
-      "link": "https://www.smh.com.au/technology/tech-expert-trevor-long-tips-apple-to-launch-folding-smartphone-20260420-p5zp9m.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "Tech expert Trevor Long predicts that Apple is poised to introduce a foldable smartphone this year, marking a significant shift in the company's product lineup. This potential launch could redefine user experiences and set new standards in mobile technology.",
+      "title": "Meet the Melbourne-built robot now in dozens of aged care homes",
+      "link": "https://www.smh.com.au/technology/meet-the-melbourne-built-robot-now-in-dozens-of-aged-care-homes-20260424-p5zqtv.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "A new humanoid robot named Abi, created by a 26-year-old Melbourne inventor, is now assisting in aged care homes. Designed to communicate in 90 languages and engage with residents through storytelling and bubble-blowing, Abi aims to enhance the emotional well-being of the elderly, showcasing a novel application of robotics in healthcare.",
       "source": "Sydney Morning Herald"
     },
     {
-      "title": "The NSA is reportedly using Anthropic's new model Mythos",
-      "link": "https://www.engadget.com/ai/the-nsa-is-reportedly-using-anthropics-new-model-mythos-211502787.html?src=rss",
-      "summary": "Despite previous tensions, the NSA has begun utilizing Anthropic's Mythos Preview, a language model designed for computer security tasks. This development highlights the growing intersection of AI and national security, raising questions about the ethical implications of such technologies.",
-      "source": "Engadget"
+      "title": "Amazon’s new podcast strategy: Monetize everything",
+      "link": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
+      "summary": "Amazon is revamping its podcasting strategy to focus on monetization, reflecting a significant shift in how the company approaches audio content. This move could reshape the podcasting landscape, as Amazon seeks to leverage its vast resources to create a more profitable model for creators and advertisers alike.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Carsales follows customers into AI chat apps",
-      "link": "https://www.itnews.com.au/news/carsales-follows-customers-into-ai-chat-apps-625109?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Carsales is adapting to customer preferences by integrating AI chat applications into its services. This move reflects a broader trend in the Australian tech ecosystem where companies are leveraging AI to enhance user engagement and streamline operations.",
+      "title": "US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms",
+      "link": "https://www.itnews.com.au/news/us-state-dept-orders-global-warning-about-alleged-ai-thefts-by-deepseek-other-chinese-firms-625379?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The US State Department has issued a global warning regarding alleged AI technology thefts by Chinese firms, including DeepSeek. This announcement highlights ongoing concerns about intellectual property security in the AI sector and the geopolitical implications of emerging technologies.",
       "source": "IT News"
     },
     {
-      "title": "Blue Origin successfully reused its New Glenn rocket",
-      "link": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
-      "summary": "Blue Origin achieved a milestone by successfully reusing its New Glenn rocket, although the mission faced challenges with the satellite's deployment. This accomplishment underscores the importance of reusable technology in the aerospace sector.",
-      "source": "The Verge"
-    },
-    {
-      "title": "Humanoid robot beats human half-marathon world record",
-      "link": "https://thenextweb.com/news/humanoid-robot-half-marathon-beijing-world-record",
-      "summary": "In a remarkable display of technological advancement, a humanoid robot named Lightning completed a half-marathon in Beijing, surpassing the human world record. This event showcases the rapid progress in robotics and AI capabilities.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Tesla rolls out Robotaxi service to Dallas and Houston",
-      "link": "https://www.engadget.com/transportation/tesla-is-rolling-out-its-robotaxi-service-to-dallas-and-houston-160742941.html?src=rss",
-      "summary": "Tesla is expanding its Robotaxi service into Dallas and Houston, marking a significant step in its autonomous vehicle strategy. This expansion positions Tesla to compete directly with other autonomous ride-hailing services in these markets.",
+      "title": "Forced Windows updates can now be paused forever",
+      "link": "https://www.engadget.com/computing/forced-windows-updates-can-now-be-paused-forever-200338487.html?src=rss",
+      "summary": "Microsoft has introduced a feature allowing Windows 11 users to indefinitely pause updates, addressing user frustrations with forced updates. This change enhances user control over their devices, allowing them to manage updates according to their schedules, which is a significant improvement in user experience.",
       "source": "Engadget"
     },
     {
-      "title": "Google in talks to build custom AI inference chips",
-      "link": "https://thenextweb.com/news/google-marvell-ai-chips-inference-tpu-broadcom",
-      "summary": "Google is negotiating with Marvell Technology to develop new AI chips, diversifying its hardware partnerships. This initiative aims to enhance Google's capabilities in AI processing and reflects the growing demand for custom silicon in the tech industry.",
-      "source": "The Next Web"
+      "title": "An OpenAI-linked news outlet appears to be entirely AI-generated",
+      "link": "https://mashable.com/article/ai-generated-news-site-with-ties-to-openai",
+      "summary": "A new news outlet, reportedly funded by an OpenAI super PAC, has been revealed to be entirely AI-generated. This development raises questions about the future of journalism and the role of AI in content creation, as it blurs the lines between human and machine-generated news.",
+      "source": "Mashable"
     },
     {
-      "title": "Palantir posts mini-manifesto on inclusivity and culture",
-      "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-      "summary": "Palantir has stirred controversy by releasing a manifesto that critiques inclusivity and certain cultural dynamics. This bold statement has sparked discussions about the company's values and its role in the tech landscape.",
+      "title": "I ran the 20-minute Apple Watch calibration test - and my data got more accurate",
+      "link": "https://www.zdnet.com/article/how-to-calibrate-your-apple-watch/",
+      "summary": "A recent article details the benefits of calibrating the Apple Watch for improved accuracy in health data tracking. This simple process can enhance the device's performance during workouts, showcasing how users can leverage technology for better personal health insights.",
+      "source": "ZDNet"
+    },
+    {
+      "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+      "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "summary": "In a unique twist on real estate transactions, a property in the Bay Area is being offered for sale with the stipulation that buyers must possess equity in Anthropic, an AI startup. This reflects the increasing intersection of tech investments and traditional real estate markets.",
       "source": "TechCrunch"
+    },
+    {
+      "title": "Google’s new gradient icon design is coming to more apps",
+      "link": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
+      "summary": "Google is expanding its new gradient icon design across more of its applications, moving away from the traditional uniform circle design. This aesthetic shift not only modernizes the interface but also aligns with the integration of AI features across Google's services.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Creative Assembly drops first look at the Alien: Isolation sequel",
+      "link": "https://mashable.com/video/alien-isolation-2-teaser-trailer",
+      "summary": "Creative Assembly has unveiled the first look at the sequel to the popular game Alien: Isolation. This announcement has generated excitement among fans and highlights the ongoing innovation within the gaming industry, particularly in narrative-driven experiences.",
+      "source": "Mashable"
+    },
+    {
+      "title": "Canadian premier wants to ban social media and AI chatbots for kids in Manitoba",
+      "link": "https://www.engadget.com/social-media/canadian-premier-wants-to-ban-social-media-and-ai-chatbots-for-kids-in-manitoba-182120933.html?src=rss",
+      "summary": "The Premier of Manitoba has proposed a ban on social media and AI chatbots for children, aiming to protect youth from potential harms associated with these technologies. This initiative reflects a growing concern over the impact of digital engagement on younger generations.",
+      "source": "Engadget"
     }
   ]
 }
