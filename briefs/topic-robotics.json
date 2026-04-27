@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-04-20T05:23:58.820Z",
+  "generatedAt": "2026-04-27T05:37:15.794Z",
   "topic": "robotics",
-  "weekOf": "2026-04-20",
-  "lead": "No recent articles found about robotics this week.",
-  "stories": []
+  "weekOf": "2026-04-27",
+  "lead": "The robotics industry is witnessing significant developments, from smartphone manufacturers entering the humanoid robotics space to high-profile deals in military applications.",
+  "stories": [
+    {
+      "title": "Why This Phone Company Is Now a (Record-Breaking) Robot Company",
+      "link": "https://www.cnet.com/tech/computing/why-this-phone-company-is-now-a-record-breaking-robot-company/",
+      "summary": "Chinese smartphone manufacturer Honor has made a remarkable transition into humanoid robotics, recently achieving a record-breaking performance at a half-marathon in Beijing. This pivot signifies a growing trend where tech companies are diversifying into robotics, potentially reshaping the industry landscape. Honor's success highlights the capabilities of their humanoid robot, Flash, and raises questions about the future of consumer robotics.",
+      "source": "CNET"
+    },
+    {
+      "title": "From Record-Smashing Robot Runners to Consumer Robotics video",
+      "link": "https://www.cnet.com/videos/from-record-smashing-robot-runners-to-consumer-robotics/",
+      "summary": "In a recent video, CNET explores the impressive achievements of Flash, the humanoid robot developed by Honor, which has just set a new world record for the half-marathon. The discussion delves into the implications of this technological shift for the consumer robotics market and examines whether other companies might follow Honor's lead into humanoid robotics. The video captures the excitement surrounding advancements in this field.",
+      "source": "CNET"
+    },
+    {
+      "title": "Seth Meyers calls out Eric Trumps $24m Pentagon deal for his robot startup",
+      "link": "https://mashable.com/video/seth-meyers-eric-trump-pentagon-deal-robot-startup",
+      "summary": "Eric Trump's robotics startup has reportedly secured a $24 million contract with the Pentagon, a move that has drawn attention from various media outlets, including Seth Meyers. The deal highlights the increasing interest and investment in robotics for military applications, showcasing how the sector is evolving. Meyers' commentary adds a layer of public scrutiny to the intersection of politics and technology in the robotics industry.",
+      "source": "Mashable"
+    }
+  ]
 }
