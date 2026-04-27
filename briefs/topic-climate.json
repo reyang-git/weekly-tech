@@ -1,7 +1,38 @@
 {
-  "generatedAt": "2026-04-20T05:24:00.619Z",
+  "generatedAt": "2026-04-27T05:37:14.279Z",
   "topic": "climate",
-  "weekOf": "2026-04-20",
-  "lead": "No recent articles found about climate this week.",
-  "stories": []
+  "weekOf": "2026-04-27",
+  "lead": "The intersection of climate technology and policy is evolving rapidly, with significant implications for carbon emissions and energy consumption.",
+  "stories": [
+    {
+      "title": "The climate tech IPO window could finally be cracking open",
+      "link": "https://techcrunch.com/2026/04/25/the-climate-tech-ipo-window-could-finally-be-cracking-open/",
+      "summary": "The climate tech sector may be on the brink of a breakthrough as nuclear and geothermal startups prepare for IPOs. This moment could signal renewed investor interest in climate technology, which has faced challenges in securing funding. The success of these IPOs may pave the way for more climate-focused companies to enter the public market.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
+      "link": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+      "summary": "New data reveals that the UK government significantly underestimated the carbon emissions from AI data centers, raising concerns about their impact on the climate. The revised estimates suggest that these centers could emit up to 123 million tonnes of CO₂ over the next decade. This alarming figure highlights the urgent need for regulatory measures to address the environmental footprint of AI infrastructure.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Maine governor vetoes bill temporarily banning large data centers in the state",
+      "link": "https://www.engadget.com/ai/maine-governor-vetoes-bill-temporarily-banning-large-data-centers-in-the-state-210407936.html?src=rss",
+      "summary": "Governor Janet Mills of Maine has vetoed a bill that sought to impose a temporary ban on large data centers, which are known for their high energy consumption. While the governor expressed support for regulating data centers, her veto reflects the complex balance between technological growth and environmental concerns. This decision is part of a broader trend, as multiple states consider similar legislation.",
+      "source": "Engadget"
+    },
+    {
+      "title": "AI datacentres' carbon emissions underestimated in the UK",
+      "link": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+      "summary": "The UK’s underestimation of AI data centers' carbon emissions has sparked fears about their contribution to climate change. The new estimates indicate a potential for emissions comparable to that of millions of individuals, urging policymakers to reconsider the environmental implications of AI technology. This revelation calls for immediate action to mitigate the climate impact of rapidly expanding data infrastructure.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "2027 BMW i7 first look: A fantastically techy car for the 1 percent",
+      "link": "https://www.engadget.com/transportation/evs/2027-bmw-i7-first-look-a-fantastically-techy-car-for-the-1-percent-123000364.html?src=rss",
+      "summary": "The 2027 BMW i7 represents a significant step in luxury electric vehicles, featuring advanced technology and a focus on sustainability. With various electric and hybrid options, the i7 aims to appeal to environmentally conscious consumers who desire high-end features. This model showcases the automotive industry's shift towards greener alternatives while maintaining luxury standards.",
+      "source": "Engadget"
+    }
+  ]
 }
