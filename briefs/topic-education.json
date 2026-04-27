@@ -1,20 +1,32 @@
 {
-  "generatedAt": "2026-04-20T05:23:58.311Z",
+  "generatedAt": "2026-04-27T05:37:13.780Z",
   "topic": "education",
-  "weekOf": "2026-04-20",
-  "lead": "Recent developments in education technology reveal significant concerns regarding data privacy in school apps, alongside opportunities for students to access affordable technology.",
+  "weekOf": "2026-04-27",
+  "lead": "Exploring the intersection of technology and education, this brief highlights significant developments in educational tools, cybersecurity training, and innovative products aimed at students.",
   "stories": [
     {
-      "title": "Analysis of 200 education dept-endorsed school apps finds most are selling BS when it comes to the privacy of children’s data",
-      "link": "https://www.startupdaily.net/topic/data/analysis-of-200-education-dept-endorsed-school-apps-finds-most-are-selling-bs-when-it-comes-to-the-privacy-of-childrens-data/",
-      "summary": "A recent analysis of 200 school apps endorsed by education departments has uncovered alarming practices regarding children's data privacy. Many of these apps were found to be exploiting user data while failing to uphold their privacy promises. This raises serious concerns about the safety and security of children's information in educational technology.",
-      "source": "Startup Daily"
+      "title": "Delivering an impactful 15-minute board briefing",
+      "link": "https://www.cio.com/article/4163334/delivering-an-impactful-15-minute-board-briefing.html",
+      "summary": "In a world where cybersecurity is paramount, this article discusses how CIOs and CISOs can effectively communicate with boards in brief, actionable meetings. It emphasizes that briefings should focus on material risks, changes in the external environment, and the health of security programs. The goal is to foster governance rather than just education, ensuring that board members can make informed decisions quickly.",
+      "source": "CIO"
     },
     {
-      "title": "How to qualify for Apple's education discount - and get a $499 MacBook Neo for school",
-      "link": "https://www.zdnet.com/article/macbook-neo-499-educational-price-how-to/",
-      "summary": "Apple is offering significant discounts on its new MacBook Neo for students and educators, making it an attractive option for those in the education sector. For just $499, eligible individuals can purchase this budget-friendly laptop, which is ideal for school use. This initiative aims to support students and educators in accessing necessary technology at a lower cost.",
-      "source": "ZDNet"
+      "title": "The MacBook Neo is a glimpse into John Ternus's Apple",
+      "link": "https://www.engadget.com/computing/laptops/the-macbook-neo-is-a-glimpse-into-john-ternuss-apple-170000842.html?src=rss",
+      "summary": "Apple's new MacBook Neo, priced at $599 for general consumers and $499 for education customers, represents a strategic shift towards more affordable yet high-quality products. This laptop is designed to attract students and young users, providing a gateway into the Apple ecosystem. The leadership of John Ternus is highlighted as pivotal in this transformation, suggesting a future where Apple balances premium quality with accessibility.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Claude can now connect to lifestyle apps like Spotify, Instacart and AllTrails",
+      "link": "https://www.engadget.com/ai/claude-can-now-connect-to-lifestyle-apps-like-spotify-instacart-and-alltrails-225510552.html?src=rss",
+      "summary": "Anthropic's Claude AI chatbot is expanding its capabilities by integrating with various lifestyle apps, enhancing its utility in both professional and personal settings. This development could revolutionize how educational tools interact with everyday applications, making it easier for users to manage tasks and access information seamlessly. The dynamic integration aims to simplify user interactions, potentially benefiting students and educators alike.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Keeping cyber education engaging",
+      "link": "https://www.itnews.com.au/itnews-tv/keeping-cyber-education-engaging-625035?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "At the AISA and Hemisphere East Women in Cyber Security Summit, Chantelle Ralevska discussed strategies for making cyber education more engaging. The focus is on fostering interest and participation in cybersecurity, particularly among women, by utilizing innovative teaching methods and interactive content. This approach is crucial for developing a skilled workforce in an increasingly digital world.",
+      "source": "IT News"
     }
   ]
 }
