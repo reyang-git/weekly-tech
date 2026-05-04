@@ -1,32 +1,14 @@
 {
-  "generatedAt": "2026-03-30T05:09:26.992Z",
+  "generatedAt": "2026-05-04T05:46:20.213Z",
   "topic": "quantum",
-  "weekOf": "2026-03-30",
-  "lead": "Recent advancements in quantum technology are pushing the boundaries of computing and energy storage, with researchers exploring the extreme conditions required for quantum computers and the development of innovative quantum batteries.",
+  "weekOf": "2026-05-04",
+  "lead": "Fujitsu is set to phase out its mainframe business by 2035, paving the way for the rise of quantum AI supercomputers, which are expected to revolutionize computing capabilities.",
   "stories": [
     {
-      "title": "These Quantum Computers Won't Work Unless They're Colder Than Space",
-      "link": "https://www.cnet.com/videos/these-quantum-computers-wont-work-unless-theyre-colder-than-space/",
-      "summary": "Quantum computers have the potential to revolutionize industries by outperforming classical computers, but they require extreme cooling to function. This video explores the reasons behind the necessity for such low temperatures and the implications for quantum computing technology.",
-      "source": "CNET"
-    },
-    {
-      "title": "Why Most Quantum Computers Need to Be Colder Than Space",
-      "link": "https://www.cnet.com/tech/computing/why-most-quantum-computers-need-to-be-colder-than-space/",
-      "summary": "The promise of quantum computing hinges on the ability to maintain temperatures lower than those found in space. This article delves into the science behind this cooling requirement and its impact on the future of quantum technology.",
-      "source": "CNET"
-    },
-    {
-      "title": "Causality optional? Testing the 'indefinite causal order' superposition",
-      "link": "https://arstechnica.com/science/2026/03/getting-formal-about-quantum-mechanics-lack-of-causality/",
-      "summary": "A groundbreaking quantum experiment challenges traditional notions of causality by testing the concept of indefinite causal order. This research could reshape our understanding of quantum mechanics and its implications for the nature of events.",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Is this the world’s first quantum battery? Australian scientists say so",
-      "link": "https://www.theguardian.com/science/2026/mar/18/world-first-quantum-battery-australian-scientists-say",
-      "summary": "Australian researchers claim to have developed the world's first proof-of-concept quantum battery, which could lead to faster charging times and greater efficiency compared to traditional batteries. This innovation marks a significant step forward in energy storage technology.",
-      "source": "The Guardian Australia"
+      "title": "Fujitsu confirms mainframe biz to die in 2035, in time for quantum AI supercomputers to take over",
+      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/fujitsu_future_strategy/",
+      "summary": "Fujitsu has announced that it will discontinue its mainframe business by 2035, signaling a significant shift towards quantum AI supercomputers. This transition is anticipated to enhance computational power and efficiency, allowing for breakthroughs in various fields. The company aims to lead in the quantum computing space as traditional systems become obsolete.",
+      "source": "The Register"
     }
   ]
 }
