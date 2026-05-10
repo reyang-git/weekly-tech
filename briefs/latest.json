@@ -1,68 +1,68 @@
 {
-  "generatedAt": "2026-05-03T22:31:52.995Z",
-  "weekOf": "2026-05-03",
-  "lead": "This week in tech highlights significant advancements in AI applications, startup successes, and the evolving landscape of technology in Australia.",
+  "generatedAt": "2026-05-10T22:37:25.577Z",
+  "weekOf": "2026-05-10",
+  "lead": "This week in tech innovation: Whoop introduces in-app video consultations, startups thrive in the F1 paddock, and new AI regulations emerge.",
   "themes": [
+    "startups and VC deals",
+    "innovation and new product launches",
     "AI and emerging technologies",
-    "Startups and VC deals",
-    "Innovation and new product launches",
     "Australian tech ecosystem",
-    "Novel use cases of technology"
+    "novel use cases and applications of technology"
   ],
   "stories": [
     {
-      "title": "OpenAI just turned ChatGPT into the backend for the most popular open-source project in history.",
-      "link": "https://thenextweb.com/news/openai-openclaw-chatgpt-subscription-agent",
-      "summary": "OpenAI has integrated its ChatGPT subscription service into OpenClaw, a leading open-source project, allowing users to leverage their ChatGPT accounts for enhanced functionality. This move signifies a major shift in how AI tools can be utilized within open-source frameworks, potentially increasing user engagement and project scalability.",
-      "source": "The Next Web"
+      "title": "Whoop will soon offer users in-app video consultations with licensed clinicians",
+      "link": "https://www.engadget.com/2169194/whoop-will-soon-offer-users-in-app-video-consultations-with-licensed-clinicians/",
+      "summary": "Whoop is set to enhance its platform by introducing in-app video consultations with licensed clinicians. This feature will allow users to share their health data directly with professionals, potentially leading to more personalized health insights and recommendations. The move signifies a growing trend of integrating telehealth services into fitness and wellness applications.",
+      "source": "Engadget"
     },
     {
-      "title": "Melbourne Airport calls in AI agents for incident response.",
-      "link": "https://www.itnews.com.au/news/melbourne-airport-calls-in-ai-agents-for-incident-response-625534?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "In a bid to enhance operational efficiency, Melbourne Airport has deployed AI agents to assist in incident response. These AI tools are designed to streamline the checking of Standard Operating Procedures (SOPs) and facilitate report generation, showcasing a practical application of AI in improving safety and response times in critical environments.",
-      "source": "IT News"
-    },
-    {
-      "title": "Skio never hired a sales team, never ran an ad, and just sold for $105 million cash to the company it was built to replace.",
-      "link": "https://thenextweb.com/news/skio-recharge-105m-exit-subscription-shopify",
-      "summary": "Startup Skio, which revolutionized subscription payments without traditional marketing strategies, has been acquired for $105 million. This remarkable exit illustrates the potential for innovative solutions in the e-commerce space, particularly as businesses seek efficient payment systems.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "AI tool ‘too dangerous to release’ could wreak havoc on businesses.",
-      "link": "https://www.smh.com.au/technology/ai-tool-too-dangerous-to-release-could-wreak-havoc-on-businesses-20260430-p5zso8.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "A new AI tool developed by Anthropic has raised alarms due to its potential to exploit vulnerabilities in widely-used software. Experts warn that its release could lead to significant cybersecurity breaches, highlighting the dual-edged nature of AI advancements.",
-      "source": "Sydney Morning Herald"
-    },
-    {
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors.",
-      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "summary": "A recent study from Harvard University found that AI models can provide more accurate diagnoses in emergency room settings compared to human doctors. This breakthrough underscores the potential of AI to enhance medical decision-making and patient outcomes.",
+      "title": "The hottest place for startups to strike a deal? The F1 paddock",
+      "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "summary": "The F1 paddock has emerged as a vibrant networking hub for startups and investors, providing a unique backdrop for deal-making. Founders are leveraging the high-profile environment to connect with potential backers and showcase their innovations. This trend highlights the intersection of sports and technology, where high stakes and high visibility can lead to fruitful partnerships.",
       "source": "TechCrunch"
     },
     {
-      "title": "Amazon’s best quarter in years was half-built on a $16.8 billion paper gain from Anthropic.",
-      "link": "https://thenextweb.com/news/amazon-q1-2026-anthropic-aws-earnings",
-      "summary": "Amazon reported a record quarterly revenue, significantly boosted by its investment in Anthropic. This financial success highlights the growing impact of AI investments on traditional business models and the tech industry's economic landscape.",
-      "source": "The Next Web"
+      "title": "Policing the bots: How new rules could save the web from AI scrapers",
+      "link": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/policing-the-bots-how-new-rules-could-save-the-web-from-ai-scrapers/",
+      "summary": "A proposed framework called CC Signals aims to give creators control over how their content is accessed by AI scrapers. This initiative seeks to protect intellectual property and ensure that creators can monetize their work without unauthorized use by automated systems. The framework reflects growing concerns about the ethical implications of AI in content creation.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Every AI company now wants to ride shotgun.",
-      "link": "https://thenextweb.com/news/grok-carplay-voice-ai-dashboard",
-      "summary": "The integration of AI into car dashboards is becoming a hot trend, with applications like Grok and ChatGPT enhancing user experience. This shift indicates a growing demand for AI-driven interfaces in vehicles, transforming how drivers interact with technology on the road.",
-      "source": "The Next Web"
+      "title": "5 founders share the lessons from the Startmate accelerator",
+      "link": "https://www.startupdaily.net/advice/business-strategy/5-founders-share-the-lessons-from-the-startmate-accelerator/",
+      "summary": "Founders from the Startmate accelerator share key insights from their experiences, including strategies that helped them achieve significant revenue growth in a short period. Their lessons emphasize the importance of community support, mentorship, and adaptability in the startup journey. This highlights the value of accelerators in nurturing the Australian tech ecosystem.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Tesla is selling Chinese-made cars in Canada to escape the tariffs.",
-      "link": "https://thenextweb.com/news/tesla-china-model-3-canada-tariff",
-      "summary": "Tesla has started selling Chinese-made Model 3 sedans in Canada, strategically navigating tariffs imposed by both China and the US. This move not only reduces costs for consumers but also reflects Tesla's adaptability in a complex global market.",
-      "source": "The Next Web"
+      "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
+      "link": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+      "summary": "The Bastl Kalimba synthesizer merges traditional thumb piano design with modern synth technology, raising over $700,000 on Kickstarter. Its innovative features include touch-sensitive triggers and a range of built-in effects, allowing for a versatile sound palette. This product exemplifies how traditional instruments can be reimagined through technology.",
+      "source": "The Verge"
     },
     {
-      "title": "Planet Labs is not selling satellite images; it is selling a subscription to watch the entire planet change in real time.",
-      "link": "https://thenextweb.com/news/planet-labs-pelican-satellite-earth-observation",
-      "summary": "Planet Labs has launched a subscription service that allows users to monitor global changes through satellite imagery. This innovative approach to earth observation represents a significant advancement in how we can track environmental and societal changes over time.",
-      "source": "The Next Web"
+      "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+      "link": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+      "summary": "Uber is accelerating its efforts to expand beyond ride-hailing into the autonomous vehicle industry. The company is positioning itself as a data provider and investor in this space, aiming to enhance its market presence amid increasing competition. This strategic shift reflects the broader trend of tech companies diversifying their offerings in response to market demands.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Australian Federal Police sign $20.5m Cisco deal",
+      "link": "https://www.itnews.com.au/news/australian-federal-police-sign-205m-cisco-deal-625703?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The Australian Federal Police have secured a significant $20.5 million deal with Cisco, aimed at enhancing their cybersecurity capabilities. This partnership underscores the importance of advanced technology in law enforcement and highlights the growing investment in digital security within the Australian tech landscape.",
+      "source": "IT News"
+    },
+    {
+      "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+      "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+      "summary": "Anthropic has linked negative fictional portrayals of AI to real-world behaviors exhibited by its AI model, Claude. This raises important questions about the narrative surrounding AI in media and its impact on public perception and technology development. The discussion emphasizes the need for responsible storytelling in shaping AI ethics.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Cleanaway tidies up endpoint security",
+      "link": "https://www.itnews.com.au/news/cleanaway-tidies-up-endpoint-security-625480?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Cleanaway is enhancing its endpoint security by consolidating suppliers, aiming to reduce waste and improve efficiency. This move reflects a growing trend among companies to streamline operations through technology, ensuring better protection against cyber threats while optimizing resource management.",
+      "source": "IT News"
     }
   ]
 }
