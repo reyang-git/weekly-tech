@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-05-04T05:46:23.362Z",
+  "generatedAt": "2026-05-11T06:10:50.440Z",
   "topic": "climate",
-  "weekOf": "2026-05-04",
-  "lead": "No recent articles found about climate this week.",
-  "stories": []
+  "weekOf": "2026-05-11",
+  "lead": "Climate change is increasingly impacting public health, with rising pollen levels exacerbating allergy symptoms and other related health issues.",
+  "stories": [
+    {
+      "title": "How climate change makes your allergies worse",
+      "link": "https://arstechnica.com/science/2026/05/how-climate-change-makes-your-allergies-worse/",
+      "summary": "As climate change progresses, the severity and duration of pollen seasons are intensifying, leading to increased allergy symptoms for many individuals. This worsening of allergic reactions is compounded by other health hazards linked to climate change, such as respiratory issues. The article explores the connection between environmental changes and public health, emphasizing the need for awareness and adaptation strategies.",
+      "source": "Ars Technica"
+    }
+  ]
 }
