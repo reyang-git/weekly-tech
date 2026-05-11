@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-05-04T05:46:20.094Z",
+  "generatedAt": "2026-05-11T06:10:52.654Z",
   "topic": "robotics",
-  "weekOf": "2026-05-04",
-  "lead": "Meta is making significant strides in the robotics sector with its recent acquisition of Assured Robot Intelligence, a startup focused on humanoid AI technology.",
-  "stories": [
-    {
-      "title": "Meta acquires robotics AI startup as it makes the push into humanoid machines",
-      "link": "https://www.engadget.com/2162606/meta-acquires-assured-robot-intelligence-humanoid-ai/",
-      "summary": "In a strategic move to enhance its capabilities in humanoid robotics, Meta has acquired Assured Robot Intelligence. This acquisition will see the startup's team join Meta's Superintelligence Labs, aiming to develop advanced AI models for robots. This aligns with Meta's broader vision of integrating AI into various applications, particularly in humanoid forms.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "summary": "Meta's acquisition of Assured Robot Intelligence marks a significant step in its pursuit of humanoid AI technology. The startup specializes in creating AI models tailored for robotic applications, which will now be leveraged by Meta to enhance its product offerings. This move underscores Meta's commitment to leading in the robotics space as it integrates AI into humanoid machines.",
-      "source": "TechCrunch"
-    }
-  ]
+  "weekOf": "2026-05-11",
+  "lead": "No recent articles found about robotics this week.",
+  "stories": []
 }
