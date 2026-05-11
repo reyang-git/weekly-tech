@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-04-20T05:23:54.732Z",
+  "generatedAt": "2026-05-11T06:10:49.228Z",
   "topic": "health",
-  "weekOf": "2026-04-20",
-  "lead": "Exploring the intersection of technology and health, from mental wellness apps to the implications of AI in healthcare.",
+  "weekOf": "2026-05-11",
+  "lead": "Innovations in health technology are transforming how we access care and manage our health, from video consultations to AI-driven health coaching.",
   "stories": [
     {
-      "title": "This teenage entrepreneur is using AI to help people ‘vent’ for their mental health",
-      "link": "https://www.startupdaily.net/podcasts/startup-360-this-teenage-entrepreneur-is-using-ai-to-help-people-vent-for-their-mental-health/",
-      "summary": "A 17-year-old entrepreneur has developed an AI app called Venty, designed to allow users to express their feelings and manage their mental health in just five minutes. This innovative tool aims to provide a quick and effective way for individuals to vent and gain emotional clarity, showcasing the growing role of technology in mental wellness.",
-      "source": "Startup Daily"
+      "title": "Whoop will soon offer users in-app video consultations with licensed clinicians",
+      "link": "https://www.engadget.com/2169194/whoop-will-soon-offer-users-in-app-video-consultations-with-licensed-clinicians/",
+      "summary": "Whoop is set to enhance its fitness tracking app by integrating in-app video consultations with licensed clinicians. This feature will allow users to share their health data directly with healthcare professionals, enabling personalized advice and support. This move reflects a growing trend of blending technology with healthcare to improve patient outcomes.",
+      "source": "Engadget"
     },
     {
-      "title": "Trump picks qualified, normal health leader to head CDC; experts still cautious",
-      "link": "https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/",
-      "summary": "The appointment of a new CDC leader has sparked cautious optimism among health experts, who acknowledge her qualifications but express concerns about navigating political pressures, particularly from anti-vaccine movements. This highlights the ongoing challenges in public health leadership amidst polarized views on health policies.",
+      "title": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.",
+      "link": "https://thenextweb.com/news/whoop-doctors-fitbit-air-google-health-ai",
+      "summary": "In a competitive response to Google's introduction of a low-cost AI health coach, Whoop announced its plan to offer real-time consultations with licensed doctors. This juxtaposition highlights the ongoing debate in health tech about the effectiveness of AI versus human expertise in managing personal health.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "How climate change makes your allergies worse",
+      "link": "https://arstechnica.com/science/2026/05/how-climate-change-makes-your-allergies-worse/",
+      "summary": "Recent studies reveal that climate change is exacerbating allergy seasons, leading to increased pollen levels and longer exposure times. This environmental health issue underscores the interconnectedness of climate and public health, as rising temperatures and changing weather patterns contribute to worsening allergy symptoms for many individuals.",
       "source": "Ars Technica"
     },
     {
-      "title": "Prolonged AI use can be hazardous to your health and work: 4 ways to stay safe",
-      "link": "https://www.zdnet.com/article/why-prolonged-ai-use-risks-your-health-4-ways-to-stay-safe/",
-      "summary": "As AI becomes more integrated into daily tasks, concerns about its impact on health and productivity are rising. This article outlines four strategies for mitigating risks associated with prolonged AI use, emphasizing the importance of maintaining a healthy work-life balance and being aware of potential mental health effects.",
-      "source": "ZDNet"
-    },
-    {
-      "title": "Should You Supplement With Creatine?",
-      "link": "https://lifehacker.com/should-you-supplement-creatine?utm_medium=RSS",
-      "summary": "Creatine supplementation is gaining attention not only for its physical benefits but also for potential mental health advantages. This article discusses the effectiveness of creatine, debunking the myth of needing a 'loading' dose and highlighting its role in enhancing cognitive function alongside physical performance.",
-      "source": "Lifehacker"
-    },
-    {
-      "title": "Seven Ways Gaining Muscle Benefits Your Health",
-      "link": "https://lifehacker.com/health/the-health-benefits-of-gaining-muscle?utm_medium=RSS",
-      "summary": "Building muscle offers numerous health benefits beyond aesthetics. This piece explores how increased muscle mass can improve metabolic health, enhance mood, and reduce the risk of chronic diseases, making strength training an essential component of a healthy lifestyle.",
-      "source": "Lifehacker"
-    },
-    {
-      "title": "How Meta’s victim-blaming failed to sway jurors in landmark social media addiction trial",
-      "link": "https://www.theguardian.com/technology/2026/mar/29/meta-loss-social-media-addiction-trial",
-      "summary": "Meta's defense strategy in a high-profile trial regarding social media addiction faced backlash as jurors rejected claims that the mental health issues of a young user were solely due to personal circumstances. This case underscores the ongoing debate about the responsibility of tech companies in addressing the mental health impacts of their platforms.",
-      "source": "The Guardian Australia"
-    },
-    {
-      "title": "The real impact on work: AI's role in reshaping jobs and industries",
-      "link": "https://www.cio.com/article/4159784/ai-market-whiplash-and-the-case-for-a-force-multiplier.html",
-      "summary": "The integration of AI in the workplace is prompting a significant shift in job roles rather than outright displacement. This article discusses how AI can enhance productivity and reshape workflows, emphasizing the need for organizations to strategically integrate AI while preserving human expertise.",
+      "title": "Beyond prevention: Protecting patient care through cyber recovery",
+      "link": "https://www.cio.com/article/4168572/beyond-prevention-protecting-patient-care-through-cyber-recovery.html",
+      "summary": "As cyberattacks on healthcare systems become more prevalent, organizations are shifting their focus from prevention to recovery. This article discusses the importance of developing robust recovery strategies to ensure patient care continuity and data integrity in the face of potential disruptions caused by cyber threats.",
       "source": "CIO"
     },
     {
-      "title": "The Morning After: Our verdict on the DJI Osmo Pocket 4",
-      "link": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111515383.html?src=rss",
-      "summary": "While primarily a tech review, the DJI Osmo Pocket 4's capabilities as a vlogging camera highlight the growing trend of technology being used for health and wellness content creation. This reflects how digital tools are being leveraged to promote mental health and well-being through creative expression.",
-      "source": "Engadget"
+      "title": "Google Is Rebranding the Fitbit App to ‘Google Health’",
+      "link": "https://www.wired.com/story/google-is-rebranding-the-fitbit-app-to-google-health/",
+      "summary": "Google is rebranding its Fitbit app to Google Health, consolidating its health and fitness tracking services under one umbrella. This strategic move aims to streamline user experience and enhance integration across Google's health-related offerings, reflecting a broader trend of tech companies investing in health management tools.",
+      "source": "Wired"
+    },
+    {
+      "title": "What Is a Healthy Resting Heart Rate?",
+      "link": "https://lifehacker.com/health/what-is-a-good-resting-heart-rate?utm_medium=RSS",
+      "summary": "Understanding your resting heart rate can provide valuable insights into your fitness and overall health. This article explains how to measure your resting heart rate and what the numbers mean, emphasizing its importance as a simple yet effective health metric.",
+      "source": "Lifehacker"
+    },
+    {
+      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+      "link": "https://www.wired.com/gallery/the-best-cat-water-fountains/",
+      "summary": "Keeping pets hydrated is crucial for their health, and this guide reviews the best cat water fountains available in 2026. The right fountain not only encourages cats to drink more water but also contributes to their overall well-being, highlighting the importance of pet health in the broader health conversation.",
+      "source": "Wired"
+    },
+    {
+      "title": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
+      "link": "https://www.theregister.com/software/2026/05/05/nhs-to-close-source-github-repos-over-ai-security-concerns/5224392",
+      "summary": "The NHS plans to close-source numerous GitHub repositories due to rising concerns over AI and security. This decision reflects the ongoing challenges healthcare organizations face in balancing innovation with the need to protect sensitive data, particularly in an era of increasing cyber threats.",
+      "source": "The Register"
     }
   ]
 }
