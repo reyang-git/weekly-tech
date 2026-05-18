@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-11T06:10:50.440Z",
+  "generatedAt": "2026-05-18T06:35:31.940Z",
   "topic": "climate",
-  "weekOf": "2026-05-11",
-  "lead": "Climate change is increasingly impacting public health, with rising pollen levels exacerbating allergy symptoms and other related health issues.",
+  "weekOf": "2026-05-18",
+  "lead": "Recent discussions around climate change highlight the urgency of addressing environmental issues amidst technological advancements and societal challenges.",
   "stories": [
     {
-      "title": "How climate change makes your allergies worse",
-      "link": "https://arstechnica.com/science/2026/05/how-climate-change-makes-your-allergies-worse/",
-      "summary": "As climate change progresses, the severity and duration of pollen seasons are intensifying, leading to increased allergy symptoms for many individuals. This worsening of allergic reactions is compounded by other health hazards linked to climate change, such as respiratory issues. The article explores the connection between environmental changes and public health, emphasizing the need for awareness and adaptation strategies.",
-      "source": "Ars Technica"
+      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+      "summary": "During the University of Arizona's commencement ceremony, former Google CEO Eric Schmidt faced backlash from students as he spoke about AI. The students expressed their frustration, reflecting broader concerns about job security and climate change. Schmidt acknowledged the rationality of their fears, which include the deteriorating climate and political instability, emphasizing the need for a more responsible approach to technology.",
+      "source": "The Verge"
     }
   ]
 }
