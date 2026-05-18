@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-05-11T06:10:52.654Z",
+  "generatedAt": "2026-05-18T06:35:34.303Z",
   "topic": "robotics",
-  "weekOf": "2026-05-11",
-  "lead": "No recent articles found about robotics this week.",
-  "stories": []
+  "weekOf": "2026-05-18",
+  "lead": "Robotics is making significant strides in enhancing the quality of life, particularly for older adults, through innovative companion technologies.",
+  "stories": [
+    {
+      "title": "ElliQ is a surprisingly helpful companion robot for older adults",
+      "link": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+      "summary": "The ElliQ robot has emerged as a valuable companion for older adults, particularly those dealing with health challenges such as Parkinson's disease. A caregiver shares how ElliQ helped their mother regain engagement in crucial activities like exercising and socializing, which had declined due to medication issues. The robot's ability to prompt and encourage interaction showcases its potential in improving the quality of life for seniors.",
+      "source": "The Verge"
+    }
+  ]
 }
