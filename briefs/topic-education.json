@@ -1,20 +1,38 @@
 {
-  "generatedAt": "2026-05-11T06:10:46.363Z",
+  "generatedAt": "2026-05-18T06:35:31.331Z",
   "topic": "education",
-  "weekOf": "2026-05-11",
-  "lead": "Exploring the latest trends and challenges in education technology and its impact on learning environments.",
+  "weekOf": "2026-05-18",
+  "lead": "Recent cyberattacks on educational platforms highlight the vulnerabilities in digital education systems, while innovative learning apps gain traction among parents and educators.",
   "stories": [
     {
-      "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
-      "link": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
-      "summary": "A significant breach at Instructure, the company behind the Canvas learning management system, has left thousands of schools across the US unable to access their educational resources. The hackers, known as ShinyHunters, have raised concerns about cybersecurity in educational technology, highlighting vulnerabilities that could disrupt learning. This incident underscores the urgent need for enhanced security measures in digital education platforms.",
-      "source": "Wired"
+      "title": "Canvas hack: is it ever a good idea to pay a ransom, and what happens to the data?",
+      "link": "https://www.theguardian.com/technology/2026/may/17/canvas-hack-cyber-criminals-data-ransom-paid",
+      "summary": "The Canvas platform, widely used in education, suffered a significant ransomware attack resulting in the theft of data from hundreds of millions of students. After a week of disruptions, Instructure, the company behind Canvas, indicated that they may have paid a ransom, raising ethical questions about such decisions. Experts warn against paying ransoms, as it could encourage further attacks and does not guarantee data recovery.",
+      "source": "The Guardian"
     },
     {
-      "title": "Why you can’t build a startup ecosystem on panels and piss-ups",
-      "link": "https://www.startupdaily.net/advice/opinion/why-you-cant-build-a-startup-ecosystem-on-panels-and-piss-ups/",
-      "summary": "The article argues that Melbourne's startup ecosystem requires more than just networking events and discussions; it needs practical, hands-on tech education to foster growth. The author emphasizes the importance of creating a supportive environment for startups through educational initiatives that equip entrepreneurs with the necessary skills and knowledge. This approach could lead to a more sustainable and innovative business landscape.",
-      "source": "Startup Daily"
+      "title": "Ransom ‘paid’ to hackers who crippled online learning in Australia",
+      "link": "https://www.smh.com.au/technology/ransom-paid-to-hackers-who-crippled-online-learning-in-australia-20260513-p5zwbh.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "In Australia, a massive cyber breach affected over 120 educational institutions, including schools and universities. Reports suggest that a ransom was paid to the hackers, who initially compromised the online learning systems. This incident underscores the critical need for enhanced cybersecurity measures in educational environments.",
+      "source": "Sydney Morning Herald"
+    },
+    {
+      "title": "Save 76% on Pok Pok, the Montessori-inspired learning app for kids",
+      "link": "https://mashable.com/article/may-15-pok-pok-lifetime-subscription",
+      "summary": "Parents can now access a significant discount on Pok Pok, a Montessori-inspired educational app designed for children aged 2 to 8. The app offers a variety of calm, ad-free games and activities that promote learning through play. This initiative reflects a growing trend in digital education tools aimed at enhancing early childhood learning experiences.",
+      "source": "Mashable"
+    },
+    {
+      "title": "It Just Got Harder to Get Apple's Educational Discount",
+      "link": "https://lifehacker.com/tech/apple-education-discount-explained?utm_medium=RSS",
+      "summary": "Apple has updated its policies regarding educational discounts, now requiring proof of eligibility to access the Education Store. This change may impact students and educators looking to purchase Apple products at reduced prices, highlighting the importance of accessibility in educational technology.",
+      "source": "Lifehacker"
+    },
+    {
+      "title": "AI-driven layoffs aren’t making business sense",
+      "link": "https://www.cio.com/article/4171054/ai-driven-layoffs-arent-making-business-sense.html",
+      "summary": "A recent report indicates that layoffs following AI implementation do not correlate with expected returns on investment. Instead, companies that invest in upskilling their workforce see better results. This finding emphasizes the importance of education and training in adapting to technological advancements, particularly in the context of AI in various industries.",
+      "source": "CIO"
     }
   ]
 }
