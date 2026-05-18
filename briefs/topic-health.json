@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-05-11T06:10:49.228Z",
+  "generatedAt": "2026-05-18T06:35:32.082Z",
   "topic": "health",
-  "weekOf": "2026-05-11",
-  "lead": "Innovations in health technology are transforming how we access care and manage our health, from video consultations to AI-driven health coaching.",
+  "weekOf": "2026-05-18",
+  "lead": "Exploring the Intersection of Technology and Health: From AI in Healthcare to Mental Health Innovations",
   "stories": [
     {
-      "title": "Whoop will soon offer users in-app video consultations with licensed clinicians",
-      "link": "https://www.engadget.com/2169194/whoop-will-soon-offer-users-in-app-video-consultations-with-licensed-clinicians/",
-      "summary": "Whoop is set to enhance its fitness tracking app by integrating in-app video consultations with licensed clinicians. This feature will allow users to share their health data directly with healthcare professionals, enabling personalized advice and support. This move reflects a growing trend of blending technology with healthcare to improve patient outcomes.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Google built a 99 dollar AI health coach. Whoop responded with real doctors.",
-      "link": "https://thenextweb.com/news/whoop-doctors-fitbit-air-google-health-ai",
-      "summary": "In a competitive response to Google's introduction of a low-cost AI health coach, Whoop announced its plan to offer real-time consultations with licensed doctors. This juxtaposition highlights the ongoing debate in health tech about the effectiveness of AI versus human expertise in managing personal health.",
+      "title": "Dr. Jeffrey L. Brown on rethinking hormone health through advanced testing",
+      "link": "https://thenextweb.com/news/dr-jeffrey-brown-hormone-health-advanced-testing",
+      "summary": "Dr. Jeffrey L. Brown emphasizes the need for advanced testing in hormone health to address the gap in traditional healthcare approaches. His methodology focuses on identifying underlying imbalances rather than simply labeling symptoms, aiming to provide clearer insights into patients' health. This innovative perspective seeks to enhance patient outcomes and streamline hormone health management.",
       "source": "The Next Web"
     },
     {
-      "title": "How climate change makes your allergies worse",
-      "link": "https://arstechnica.com/science/2026/05/how-climate-change-makes-your-allergies-worse/",
-      "summary": "Recent studies reveal that climate change is exacerbating allergy seasons, leading to increased pollen levels and longer exposure times. This environmental health issue underscores the interconnectedness of climate and public health, as rising temperatures and changing weather patterns contribute to worsening allergy symptoms for many individuals.",
-      "source": "Ars Technica"
+      "title": "One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds",
+      "link": "https://www.theguardian.com/society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study",
+      "summary": "A concerning study reveals that one in seven people in the UK are opting for AI chatbots over traditional doctor visits for health advice. The trend is largely driven by long waiting lists in the NHS, raising alarms among healthcare professionals about the potential risks of relying on AI for medical guidance. This shift highlights the growing intersection of technology and health, and the need for careful regulation.",
+      "source": "The Guardian"
     },
     {
-      "title": "Beyond prevention: Protecting patient care through cyber recovery",
-      "link": "https://www.cio.com/article/4168572/beyond-prevention-protecting-patient-care-through-cyber-recovery.html",
-      "summary": "As cyberattacks on healthcare systems become more prevalent, organizations are shifting their focus from prevention to recovery. This article discusses the importance of developing robust recovery strategies to ensure patient care continuity and data integrity in the face of potential disruptions caused by cyber threats.",
-      "source": "CIO"
+      "title": "Ketamine, TMS, a fecal analysis: my year trying San Francisco’s most experimental depression treatments",
+      "link": "https://www.theguardian.com/society/2026/may/11/silicon-valley-depression-wellness-boom",
+      "summary": "Carly Schwartz shares her personal journey through experimental depression treatments in San Francisco, including ketamine therapy and other unconventional methods. Her experiences reflect the broader trend of seeking innovative solutions for mental health challenges, often in non-traditional settings. This exploration raises questions about the efficacy and safety of such treatments in the wellness industry.",
+      "source": "The Guardian"
     },
     {
-      "title": "Google Is Rebranding the Fitbit App to ‘Google Health’",
-      "link": "https://www.wired.com/story/google-is-rebranding-the-fitbit-app-to-google-health/",
-      "summary": "Google is rebranding its Fitbit app to Google Health, consolidating its health and fitness tracking services under one umbrella. This strategic move aims to streamline user experience and enhance integration across Google's health-related offerings, reflecting a broader trend of tech companies investing in health management tools.",
+      "title": "Companies Keep Slashing Employees’ Benefits for the Worst Reasons",
+      "link": "https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/",
+      "summary": "A troubling trend is emerging as companies reduce employee benefits, including healthcare and parental leave, often under the guise of cost-cutting. This shift demonstrates a lack of commitment to employee well-being and raises concerns about the long-term impact on health outcomes. The article emphasizes the importance of advocating for better workplace health benefits.",
       "source": "Wired"
     },
     {
-      "title": "What Is a Healthy Resting Heart Rate?",
-      "link": "https://lifehacker.com/health/what-is-a-good-resting-heart-rate?utm_medium=RSS",
-      "summary": "Understanding your resting heart rate can provide valuable insights into your fitness and overall health. This article explains how to measure your resting heart rate and what the numbers mean, emphasizing its importance as a simple yet effective health metric.",
-      "source": "Lifehacker"
+      "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
+      "link": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
+      "summary": "Manoush Zomorodi discusses the effects of technology on physical health in her new book, 'Body Electric'. She explores how constant connectivity can drain energy and creativity, linking the impact of tech on both mental and physical well-being. This conversation highlights the need for a balanced approach to technology use in our daily lives.",
+      "source": "The Verge"
     },
     {
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "link": "https://www.wired.com/gallery/the-best-cat-water-fountains/",
-      "summary": "Keeping pets hydrated is crucial for their health, and this guide reviews the best cat water fountains available in 2026. The right fountain not only encourages cats to drink more water but also contributes to their overall well-being, highlighting the importance of pet health in the broader health conversation.",
-      "source": "Wired"
+      "title": "The world is on track to miss its health targets",
+      "link": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
+      "summary": "The latest report from the World Health Organization indicates that global health targets set in 2015 are unlikely to be met. This alarming trend underscores the urgent need for renewed efforts and innovative strategies to address public health challenges worldwide. The report serves as a wake-up call for policymakers and health organizations.",
+      "source": "MIT Technology Review"
     },
     {
-      "title": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
-      "link": "https://www.theregister.com/software/2026/05/05/nhs-to-close-source-github-repos-over-ai-security-concerns/5224392",
-      "summary": "The NHS plans to close-source numerous GitHub repositories due to rising concerns over AI and security. This decision reflects the ongoing challenges healthcare organizations face in balancing innovation with the need to protect sensitive data, particularly in an era of increasing cyber threats.",
-      "source": "The Register"
+      "title": "Estia Health drives Zero Trust security overhaul",
+      "link": "https://www.itnews.com.au/news/estia-health-drives-zero-trust-security-overhaul-625478?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Estia Health is implementing a Zero Trust security model to manage risks associated with its aged care workforce. This move is crucial as it aims to protect sensitive health data and ensure compliance with increasing cybersecurity regulations. The initiative highlights the intersection of healthcare and technology in safeguarding patient information.",
+      "source": "IT News"
+    },
+    {
+      "title": "Snap, YouTube, and TikTok settle suit over harm to students",
+      "link": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
+      "summary": "In a landmark case, Snap, YouTube, and TikTok have settled a lawsuit claiming that social media addiction has adversely affected students' mental health and academic performance. The settlement underscores the growing recognition of social media's impact on youth well-being and the need for accountability in the tech industry.",
+      "source": "The Verge"
     }
   ]
 }
