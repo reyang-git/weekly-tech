@@ -1,14 +1,44 @@
 {
-  "generatedAt": "2026-05-04T05:46:20.213Z",
+  "generatedAt": "2026-05-25T06:50:01.285Z",
   "topic": "quantum",
-  "weekOf": "2026-05-04",
-  "lead": "Fujitsu is set to phase out its mainframe business by 2035, paving the way for the rise of quantum AI supercomputers, which are expected to revolutionize computing capabilities.",
+  "weekOf": "2026-05-25",
+  "lead": "Recent advancements and investments in quantum technology are reshaping the landscape of computing and cryptography, with significant backing from governments and private sectors.",
   "stories": [
     {
-      "title": "Fujitsu confirms mainframe biz to die in 2035, in time for quantum AI supercomputers to take over",
-      "link": "https://go.theregister.com/feed/www.theregister.com/2026/05/01/fujitsu_future_strategy/",
-      "summary": "Fujitsu has announced that it will discontinue its mainframe business by 2035, signaling a significant shift towards quantum AI supercomputers. This transition is anticipated to enhance computational power and efficiency, allowing for breakthroughs in various fields. The company aims to lead in the quantum computing space as traditional systems become obsolete.",
-      "source": "The Register"
+      "title": "Quantum ‘Jamming’ Could Help Unlock the Mysteries of Causality",
+      "link": "https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/",
+      "summary": "Researchers are exploring the concept of quantum jamming as a means to enhance secure communications in a post-quantum world. This investigation delves into the fundamental principles of causality, which could provide insights into how quantum systems interact and influence one another. The implications of this research could extend to various fields, including cryptography and information theory.",
+      "source": "Wired"
+    },
+    {
+      "title": "‘Huge validation’: Trump administration backs Aussie quantum tech",
+      "link": "https://www.smh.com.au/technology/huge-validation-trump-administration-backs-aussie-quantum-tech-20260522-p5zzoy.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "The Trump administration has shown strong support for Australian quantum technology firms, marking a significant endorsement for the sector. This backing is expected to bolster the growth of prominent companies in Australia, potentially leading to advancements in quantum computing and related technologies. The move reflects a broader strategy to enhance national capabilities in strategic technologies.",
+      "source": "Sydney Morning Herald"
+    },
+    {
+      "title": "US gov to buy into Diraq and PsiQuantum amid US$2 billion quantum cash splash",
+      "link": "https://www.startupdaily.net/topic/quantum-computing/diraq-and-psiquantum-chips-act-quantum-cash-splash/",
+      "summary": "The U.S. government is making a substantial investment in quantum technology, with plans to acquire equity stakes in companies like Diraq and PsiQuantum. This initiative is part of a larger $2 billion funding effort under the CHIPS Act, aimed at fostering innovation and leadership in quantum computing. The financial support is expected to accelerate research and development in this critical field.",
+      "source": "Startup Daily"
+    },
+    {
+      "title": "PsiQuantum to build computer at Moreton Bay",
+      "link": "https://www.itnews.com.au/news/psiquantum-to-build-computer-at-moreton-bay-626058?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "PsiQuantum has announced plans to construct a state-of-the-art quantum computer at Moreton Bay, shifting from its original site near Brisbane Airport. This $940 million project is backed by federal funding and aims to advance quantum computing capabilities in Australia. The new location is expected to enhance operational efficiency and support the company's ambitious technological goals.",
+      "source": "IT News"
+    },
+    {
+      "title": "US to invest in IBM, other quantum computing firms",
+      "link": "https://www.itnews.com.au/news/us-to-invest-in-ibm-other-quantum-computing-firms-626057?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The U.S. government is set to invest in major quantum computing firms, including IBM, as part of its strategy to lead in emerging technologies. This investment reflects a commitment to advancing quantum research and development, which is seen as pivotal for future technological advancements. The initiative aims to secure the U.S.'s position in the global quantum race.",
+      "source": "IT News"
+    },
+    {
+      "title": "Brisbane Airport out, Moreton Bay in: PsiQuantum picks new site for its $940m quantum computer build",
+      "link": "https://www.startupdaily.net/topic/quantum-computing/psiquantum-moves-940m-quantum-build-brisbane-airport-moreton-bay/",
+      "summary": "PsiQuantum's decision to relocate its $940 million quantum computer project from Brisbane Airport to Moreton Bay marks a significant shift in its operational strategy. The new site, previously an old paper mill, is set to host groundbreaking activities starting in June. This move is anticipated to enhance the project's viability and contribute to the local economy.",
+      "source": "Startup Daily"
     }
   ]
 }
