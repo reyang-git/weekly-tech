@@ -1,56 +1,44 @@
 {
-  "generatedAt": "2026-05-18T06:35:32.082Z",
+  "generatedAt": "2026-05-25T06:50:00.690Z",
   "topic": "health",
-  "weekOf": "2026-05-18",
-  "lead": "Exploring the Intersection of Technology and Health: From AI in Healthcare to Mental Health Innovations",
+  "weekOf": "2026-05-25",
+  "lead": "Exploring the intersection of health, technology, and safety in today's digital landscape.",
   "stories": [
     {
-      "title": "Dr. Jeffrey L. Brown on rethinking hormone health through advanced testing",
-      "link": "https://thenextweb.com/news/dr-jeffrey-brown-hormone-health-advanced-testing",
-      "summary": "Dr. Jeffrey L. Brown emphasizes the need for advanced testing in hormone health to address the gap in traditional healthcare approaches. His methodology focuses on identifying underlying imbalances rather than simply labeling symptoms, aiming to provide clearer insights into patients' health. This innovative perspective seeks to enhance patient outcomes and streamline hormone health management.",
-      "source": "The Next Web"
+      "title": "Myst and Riven Remakes: Indie Games Addressing Mental Health",
+      "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
+      "summary": "Among the latest indie games highlighted is a puzzle platformer that draws inspiration from mental health challenges, showcasing how gaming can turn failures into progress. This innovative approach not only entertains but also promotes awareness of mental health issues, reflecting a growing trend in the gaming industry to tackle serious themes.",
+      "source": "Engadget"
     },
     {
-      "title": "One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds",
-      "link": "https://www.theguardian.com/society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study",
-      "summary": "A concerning study reveals that one in seven people in the UK are opting for AI chatbots over traditional doctor visits for health advice. The trend is largely driven by long waiting lists in the NHS, raising alarms among healthcare professionals about the potential risks of relying on AI for medical guidance. This shift highlights the growing intersection of technology and health, and the need for careful regulation.",
+      "title": "Online Child Safety Campaigners Call for US Inquiry into Roblox",
+      "link": "https://www.theguardian.com/games/2026/may/20/online-child-safety-campaigners-call-for-us-inquiry-into-roblox",
+      "summary": "Campaigners, including mental health advocates, are urging an investigation into Roblox, citing concerns that its design conflicts with children's developmental needs. The platform, popular among younger audiences, is under scrutiny for its potential negative impact on mental health, highlighting the need for better online safety measures.",
       "source": "The Guardian"
     },
     {
-      "title": "Ketamine, TMS, a fecal analysis: my year trying San Francisco’s most experimental depression treatments",
-      "link": "https://www.theguardian.com/society/2026/may/11/silicon-valley-depression-wellness-boom",
-      "summary": "Carly Schwartz shares her personal journey through experimental depression treatments in San Francisco, including ketamine therapy and other unconventional methods. Her experiences reflect the broader trend of seeking innovative solutions for mental health challenges, often in non-traditional settings. This exploration raises questions about the efficacy and safety of such treatments in the wellness industry.",
-      "source": "The Guardian"
+      "title": "The New 'Google Health' App Is Replacing the Fitbit App Starting Today",
+      "link": "https://lifehacker.com/health/google-health-app-is-replacing-the-fitbit-app-starting?utm_medium=RSS",
+      "summary": "Google is launching a new health app to replace the Fitbit app, featuring an improved AI coach designed to assist users in managing their health. This transition reflects the ongoing evolution of health technology, aiming to provide better user experiences and personalized health insights.",
+      "source": "Lifehacker"
     },
     {
-      "title": "Companies Keep Slashing Employees’ Benefits for the Worst Reasons",
-      "link": "https://www.wired.com/story/companies-keep-slashing-employees-benefits-for-the-worst-reasons/",
-      "summary": "A troubling trend is emerging as companies reduce employee benefits, including healthcare and parental leave, often under the guise of cost-cutting. This shift demonstrates a lack of commitment to employee well-being and raises concerns about the long-term impact on health outcomes. The article emphasizes the importance of advocating for better workplace health benefits.",
-      "source": "Wired"
+      "title": "How to Actually Start Eating Healthy",
+      "link": "https://lifehacker.com/how-to-start-eating-healthy?utm_medium=RSS",
+      "summary": "Eating healthy can be daunting, but this guide offers practical steps to improve dietary habits. It emphasizes that there is no one-size-fits-all diet, encouraging individuals to find what works best for them while promoting overall well-being and health.",
+      "source": "Lifehacker"
     },
     {
-      "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
-      "link": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
-      "summary": "Manoush Zomorodi discusses the effects of technology on physical health in her new book, 'Body Electric'. She explores how constant connectivity can drain energy and creativity, linking the impact of tech on both mental and physical well-being. This conversation highlights the need for a balanced approach to technology use in our daily lives.",
-      "source": "The Verge"
+      "title": "NHS to Close-Source Hundreds of GitHub Repos Over AI, Security Concerns",
+      "link": "https://www.theregister.com/software/2026/05/05/nhs-to-close-source-github-repos-over-ai-security-concerns/5224392",
+      "summary": "The NHS is taking significant steps to enhance security by closing source access to hundreds of GitHub repositories. This decision is driven by concerns over AI and security, indicating a broader trend of healthcare organizations prioritizing data protection in an increasingly digital environment.",
+      "source": "The Register"
     },
     {
-      "title": "The world is on track to miss its health targets",
-      "link": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
-      "summary": "The latest report from the World Health Organization indicates that global health targets set in 2015 are unlikely to be met. This alarming trend underscores the urgent need for renewed efforts and innovative strategies to address public health challenges worldwide. The report serves as a wake-up call for policymakers and health organizations.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "Estia Health drives Zero Trust security overhaul",
-      "link": "https://www.itnews.com.au/news/estia-health-drives-zero-trust-security-overhaul-625478?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Estia Health is implementing a Zero Trust security model to manage risks associated with its aged care workforce. This move is crucial as it aims to protect sensitive health data and ensure compliance with increasing cybersecurity regulations. The initiative highlights the intersection of healthcare and technology in safeguarding patient information.",
-      "source": "IT News"
-    },
-    {
-      "title": "Snap, YouTube, and TikTok settle suit over harm to students",
-      "link": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
-      "summary": "In a landmark case, Snap, YouTube, and TikTok have settled a lawsuit claiming that social media addiction has adversely affected students' mental health and academic performance. The settlement underscores the growing recognition of social media's impact on youth well-being and the need for accountability in the tech industry.",
-      "source": "The Verge"
+      "title": "Forget the AI Job Apocalypse: AI’s Real Threat is Worker Control and Surveillance",
+      "link": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
+      "summary": "A new perspective on AI in the workplace highlights the risks of surveillance and control over job roles rather than just job loss. This shift in focus raises important questions about mental health and worker autonomy in environments increasingly shaped by AI technologies.",
+      "source": "The Guardian Australia"
     }
   ]
 }
