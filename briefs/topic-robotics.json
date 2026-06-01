@@ -1,14 +1,20 @@
 {
-  "generatedAt": "2026-05-18T06:35:34.303Z",
+  "generatedAt": "2026-06-01T07:27:01.542Z",
   "topic": "robotics",
-  "weekOf": "2026-05-18",
-  "lead": "Robotics is making significant strides in enhancing the quality of life, particularly for older adults, through innovative companion technologies.",
+  "weekOf": "2026-06-01",
+  "lead": "Robotics is on the brink of a transformative era, akin to the rise of chatbots, with significant advancements and investments paving the way for their integration into everyday life.",
   "stories": [
     {
-      "title": "ElliQ is a surprisingly helpful companion robot for older adults",
-      "link": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
-      "summary": "The ElliQ robot has emerged as a valuable companion for older adults, particularly those dealing with health challenges such as Parkinson's disease. A caregiver shares how ElliQ helped their mother regain engagement in crucial activities like exercising and socializing, which had declined due to medication issues. The robot's ability to prompt and encourage interaction showcases its potential in improving the quality of life for seniors.",
-      "source": "The Verge"
+      "title": "Are robots nearing their ChatGPT moment?",
+      "link": "https://www.theguardian.com/science/audio/2026/may/28/are-robots-nearing-their-chatgpt-moment-podcast",
+      "summary": "In a recent podcast, experts discuss the rapid advancements in robotics, highlighted by a robot named Lightning that recently set a record at Beijing's half marathon. This milestone raises questions about the potential for robots to become commonplace in our daily lives, similar to chatbots. With China leading the charge and investing heavily in robotics, the conversation explores what is needed for robots to take on more household and workforce tasks.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Are robots nearing their ChatGPT moment?",
+      "link": "https://www.theguardian.com/science/audio/2026/may/28/are-robots-nearing-their-chatgpt-moment-podcast",
+      "summary": "The Guardian Australia features a podcast discussing the implications of recent robotic achievements, including a robot that outperformed human marathon runners. The episode delves into China's ambitious plans for robotics investment and examines how these developments could lead to robots becoming integral to various sectors, including domestic chores and agriculture.",
+      "source": "The Guardian Australia"
     }
   ]
 }
