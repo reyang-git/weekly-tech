@@ -1,62 +1,56 @@
 {
-  "generatedAt": "2026-05-25T06:50:03.247Z",
+  "generatedAt": "2026-06-01T07:27:01.577Z",
   "topic": "AI",
-  "weekOf": "2026-05-25",
-  "lead": "AI continues to shape industries and society, raising questions about governance, environmental impact, and security.",
+  "weekOf": "2026-06-01",
+  "lead": "AI technology continues to evolve rapidly, impacting various sectors from cloud computing to fashion, while raising critical discussions around ethics and governance.",
   "stories": [
     {
-      "title": "From test case to control tower: How DXC and ServiceNow are governing enterprise AI at scale",
-      "link": "https://www.itnews.com.au/feature/from-test-case-to-control-tower-how-dxc-and-servicenow-are-governing-enterprise-ai-at-scale-626034?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "As AI technologies become integral to business operations, the governance of these systems is emerging as a critical challenge. DXC and ServiceNow are at the forefront, developing frameworks that ensure AI is used responsibly and effectively across enterprises. This shift is essential as organizations grapple with the complexities of AI decision-making.",
-      "source": "IT News"
+      "title": "Build Club launches a free virtual AI school, Campus",
+      "link": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/build-club-launches-a-free-virtual-ai-school-campus/",
+      "summary": "Build Club has introduced Campus, a free virtual AI school aimed at enhancing AI skills among learners. This initiative focuses on providing resources for individuals to learn, build, and get certified in AI technologies, reflecting a growing trend towards democratizing AI education.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Scotland’s ‘green datacentres’ policy ignores emissions impact of AI, analysis shows",
-      "link": "https://www.theguardian.com/uk-news/2026/may/25/scotland-policy-green-datacentres-emissions-impact-ai-analysis",
-      "summary": "A recent analysis reveals that Scotland's initiative to promote green datacentres may overlook the significant carbon emissions associated with AI technologies. The policy, aimed at attracting AI investments, could inadvertently lead to increased environmental impact, highlighting the need for a more comprehensive approach to sustainability in tech.",
-      "source": "The Guardian"
+      "title": "Nvidia RTX Spark May Light a Fire for Windows on Arm",
+      "link": "https://www.cnet.com/tech/computing/nvidia-rtx-spark-may-light-a-fire-for-windows-on-arm/",
+      "summary": "Nvidia's new SoC, the RTX Spark, promises exceptional performance for gaming and generative AI applications on Windows devices. This chip is expected to significantly enhance the capabilities of Windows on Arm, marking a pivotal moment for the platform.",
+      "source": "CNET"
     },
     {
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "summary": "As AI technology evolves, so do the security challenges associated with it. Major players like Google are actively working to address these vulnerabilities in real time. The ongoing adjustments reflect the broader industry's struggle to keep pace with the rapid advancements in AI capabilities.",
+      "title": "Making sense of the debate over AI psychosis",
+      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "summary": "The latest episode of Equity delves into the controversial topic of 'AI psychosis,' discussing whether tech CEOs are particularly susceptible to this phenomenon. The conversation highlights the psychological implications of rapid AI advancements and their impact on leadership.",
       "source": "TechCrunch"
     },
     {
-      "title": "AI washing: firms are scrambling to rebrand themselves as tech-focused",
-      "link": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
-      "summary": "In a bid to capitalize on the AI hype, many companies are rebranding themselves as AI specialists, even when their technologies do not involve advanced AI. This trend, termed 'AI washing', raises concerns about authenticity and the potential for misleading consumers and investors.",
+      "title": "How AI is changing online shopping",
+      "link": "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
+      "summary": "AI-generated models are transforming the fashion industry, as seen in a recent experiment by an Australian e-commerce retailer. This approach not only enhances marketing strategies but also raises questions about authenticity and consumer trust in AI-generated imagery.",
       "source": "The Guardian"
     },
     {
-      "title": "McKinsey built a free AI tool so candidates stop paying $500/hour interview coaches",
-      "link": "https://thenextweb.com/news/mckinsey-ai-interview-practice-tool-lilli-consulting",
-      "summary": "McKinsey has launched a free AI tool designed to help job candidates practice for interviews without the hefty price tag of traditional coaching services. This initiative aims to democratize access to interview preparation, leveling the playing field for candidates from diverse backgrounds.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "The AI security gap nobody wants to admit is already here",
-      "link": "https://thenextweb.com/news/ai-security-gap-claude-code-leak",
-      "summary": "The accidental public release of Anthropic's Claude Code has exposed significant vulnerabilities in AI security protocols. This incident highlights the urgent need for robust security measures as AI technologies become more prevalent and integrated into various sectors.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "AI's new cottage industry: Lawyers defending students accused of cheating",
-      "link": "https://mashable.com/life/ai-cheating-accusation-lawyer",
-      "summary": "With the rise of AI tools, accusations of cheating among students have surged, leading to a new niche for legal professionals. Lawyers are now stepping in to defend students facing allegations of AI-assisted academic dishonesty, underscoring the complex intersection of technology and education.",
+      "title": "Wix cuts 1,000 employees in latest AI-fueled layoff",
+      "link": "https://mashable.com/tech/wix-cuts-1000-employees-in-latest-ai-fueled-layoff",
+      "summary": "Wix has announced a significant layoff affecting 20% of its workforce, attributing the decision to the increasing integration of AI technologies. This move highlights the ongoing trend of companies restructuring in response to automation and AI advancements.",
       "source": "Mashable"
     },
     {
-      "title": "Hackers are learning to exploit chatbot ‘personalities’",
-      "link": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "summary": "As AI chatbots become more sophisticated, hackers are finding new ways to exploit their vulnerabilities. This trend raises alarms about the security of AI systems and the potential for misuse, emphasizing the need for ongoing improvements in AI safety and ethics.",
-      "source": "The Verge"
+      "title": "China just told its tech giants to stop fighting on price and start investing in AI",
+      "link": "https://thenextweb.com/news/china-platform-regulation-ai-investment-qiushi-signal",
+      "summary": "China's Communist Party has shifted its focus towards encouraging major tech companies to invest in AI rather than engage in price wars. This strategic pivot aims to foster innovation and ensure sustainable growth in the AI sector.",
+      "source": "The Next Web"
     },
     {
-      "title": "You can snag a 2TB Corsair SSD for 60% off at Best Buy - and it gets my approval",
-      "link": "https://www.zdnet.com/article/best-buy-corsair-ssd-deal-memorial-day-2026/",
-      "summary": "In the realm of AI and data management, storage solutions are critical. Best Buy is offering significant discounts on high-capacity SSDs, which are essential for handling the large datasets AI applications require. This deal highlights the importance of robust storage in the AI landscape.",
-      "source": "ZDNet"
+      "title": "SoftBank overtakes Toyota as Japan’s most valuable company on the AI rally",
+      "link": "https://thenextweb.com/news/softbank-overtakes-toyota-japan-most-valuable-company",
+      "summary": "SoftBank has surpassed Toyota to become Japan's most valuable company, driven by its substantial investments in AI, particularly its stake in OpenAI. This shift underscores the financial market's growing confidence in AI technologies.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Team Global Express has the logistics for AI use in place",
+      "link": "https://www.itnews.com.au/news/team-global-express-has-the-logistics-for-ai-use-in-place-626143?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Team Global Express has successfully integrated AI agents into its logistics operations, marking a significant step towards automating and optimizing supply chain processes. This development demonstrates the practical applications of AI in enhancing operational efficiency.",
+      "source": "IT News"
     }
   ]
 }
