@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-05-25T06:50:02.268Z",
+  "generatedAt": "2026-06-01T07:27:02.931Z",
   "topic": "education",
-  "weekOf": "2026-05-25",
-  "lead": "Recent developments in education highlight challenges regarding access to resources and security breaches impacting institutions worldwide.",
+  "weekOf": "2026-06-01",
+  "lead": "Exploring the intersection of education and technology, recent stories highlight the evolving landscape of learning, the impact of AI, and the challenges faced by educational institutions.",
   "stories": [
     {
-      "title": "It Just Got Harder to Get Apple's Educational Discount",
-      "link": "https://lifehacker.com/tech/apple-education-discount-explained?utm_medium=RSS",
-      "summary": "Apple has tightened its educational discount policy, now requiring proof of eligibility for students and educators to access the Education Store. This change aims to ensure that discounts are used appropriately but may complicate the purchasing process for many. As educational institutions increasingly rely on technology, this shift could impact affordability for students.",
-      "source": "Lifehacker"
+      "title": "CMMI Certifications: A Complete Guide",
+      "link": "https://www.cio.com/article/222324/cmmi-certifications-guide.html",
+      "summary": "The Capability Maturity Model Integration (CMMI) offers a framework for organizations to enhance their processes and improve product and service development. With the latest update focusing on AI integration and agile methodologies, CMMI certifications are becoming increasingly relevant for professionals aiming to advance their careers in tech-driven environments. This guide details various CMMI certifications, their prerequisites, and the training courses available.",
+      "source": "CIO"
     },
     {
-      "title": "Ransom ‘paid’ to hackers who crippled online learning in Australia",
+      "title": "US Students on Why They Booed Their Pro-AI Graduation Speakers",
+      "link": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
+      "summary": "Graduates from Middle Tennessee State University expressed their concerns about AI during a commencement speech, booing a speaker who touted AI's potential. Many students feel that AI poses a threat to their future job prospects, revealing a growing disconnect between educational institutions and the realities graduates face in the workforce. This incident underscores the need for a more nuanced discussion about the role of AI in education and employment.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "Ransom ‘Paid’ to Hackers Who Crippled Online Learning in Australia",
       "link": "https://www.smh.com.au/technology/ransom-paid-to-hackers-who-crippled-online-learning-in-australia-20260513-p5zwbh.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "In a significant breach affecting over 120 educational institutions in Australia, hackers disrupted online learning platforms, leading to a ransom payment. The incident is noted as one of the largest in the education sector, raising concerns about cybersecurity in schools and universities. The aftermath includes questions about data security and the resilience of educational systems against cyber threats.",
+      "summary": "A significant cyberattack has impacted over 120 educational institutions in Australia, leading to a ransom payment to hackers who compromised online learning systems. This breach highlights the vulnerabilities in educational technology infrastructure, raising concerns about data security and the continuity of learning in digital environments. The incident serves as a wake-up call for schools and universities to bolster their cybersecurity measures.",
       "source": "Sydney Morning Herald"
     }
   ]
