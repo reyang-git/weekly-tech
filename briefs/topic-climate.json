@@ -1,14 +1,38 @@
 {
-  "generatedAt": "2026-05-18T06:35:31.940Z",
+  "generatedAt": "2026-06-01T07:27:00.590Z",
   "topic": "climate",
-  "weekOf": "2026-05-18",
-  "lead": "Recent discussions around climate change highlight the urgency of addressing environmental issues amidst technological advancements and societal challenges.",
+  "weekOf": "2026-06-01",
+  "lead": "Recent developments in climate technology and corporate responses to climate change highlight the ongoing challenges and opportunities in addressing environmental issues.",
   "stories": [
     {
-      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-      "summary": "During the University of Arizona's commencement ceremony, former Google CEO Eric Schmidt faced backlash from students as he spoke about AI. The students expressed their frustration, reflecting broader concerns about job security and climate change. Schmidt acknowledged the rationality of their fears, which include the deteriorating climate and political instability, emphasizing the need for a more responsible approach to technology.",
-      "source": "The Verge"
+      "title": "Climate tech companies are going public. What’s next?",
+      "link": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "summary": "A surge of climate tech companies is making headlines as they go public, marking a significant trend in the energy sector. Notably, Solv Energy, a solar and battery company, achieved a $6 billion valuation after its IPO in February. Following this, X-energy, which specializes in small modular nuclear reactors, also went public, indicating a growing investor interest in sustainable energy solutions.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "summary": "This edition of The Download discusses the recent trend of climate tech companies going public, alongside the return of the AI Hype Index. The public offerings of companies like Solv Energy and X-energy reflect a broader shift towards investment in technologies aimed at combating climate change. This trend highlights the intersection of climate action and technological innovation.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "Revealed: the internal BHP memo that slammed the brakes on world’s biggest miner’s climate push",
+      "link": "https://www.theguardian.com/world/ng-interactive/2026/may/25/bhp-files-internal-memo-revealed",
+      "summary": "An internal memo from BHP, the world's largest miner, has surfaced, revealing a significant retreat from its previous commitment to climate change mitigation. The document describes climate change as an 'existential' threat but indicates a backtrack on decarbonization efforts across its mining operations. This raises concerns about corporate accountability in the face of climate challenges.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "The best fans to keep you cool in 2026 – tried and tested",
+      "link": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
+      "summary": "As climate change leads to increasingly frequent heatwaves, finding effective cooling solutions becomes essential. This guide reviews the best fans available in 2026, emphasizing energy efficiency as an alternative to high-energy-consuming air conditioning systems. By opting for fans, consumers can reduce their carbon footprint while staying comfortable during extreme heat.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
+      "link": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+      "summary": "Pope Leo XIV's recent teaching on artificial intelligence highlights its potential environmental impacts, including exploitation of resources. Anthropic co-founder Chris Olah's presence at the Vatican during this announcement raises questions about the sincerity of corporate engagement with ethical concerns. Critics fear this may lead to superficial discussions rather than substantive action on climate issues.",
+      "source": "The Guardian"
     }
   ]
 }
