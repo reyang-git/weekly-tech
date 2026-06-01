@@ -1,44 +1,50 @@
 {
-  "generatedAt": "2026-05-25T06:50:00.690Z",
+  "generatedAt": "2026-06-01T07:27:01.254Z",
   "topic": "health",
-  "weekOf": "2026-05-25",
-  "lead": "Exploring the intersection of health, technology, and safety in today's digital landscape.",
+  "weekOf": "2026-06-01",
+  "lead": "Recent advancements in health technology highlight the intersection of wearable devices, AI, and ongoing public health challenges.",
   "stories": [
     {
-      "title": "Myst and Riven Remakes: Indie Games Addressing Mental Health",
-      "link": "https://www.engadget.com/2179711/myst-riven-remakes-the-return-of-bubsy-and-other-new-indie-games-worth-checking-out/",
-      "summary": "Among the latest indie games highlighted is a puzzle platformer that draws inspiration from mental health challenges, showcasing how gaming can turn failures into progress. This innovative approach not only entertains but also promotes awareness of mental health issues, reflecting a growing trend in the gaming industry to tackle serious themes.",
-      "source": "Engadget"
+      "title": "Fitbit Air reviews: Is it time for a fitness tracker upgrade?",
+      "link": "https://mashable.com/tech/google-fitbit-air-review-roundup",
+      "summary": "Fitbit has launched a new screenless health tracker, the Fitbit Air, which aims to compete in the crowded fitness tracker market. Reviews suggest that while it offers a minimalist design, its functionality may not meet the expectations set by competitors. The device's performance in tracking health metrics will be crucial for its acceptance among tech-savvy fitness enthusiasts.",
+      "source": "Mashable"
     },
     {
-      "title": "Online Child Safety Campaigners Call for US Inquiry into Roblox",
-      "link": "https://www.theguardian.com/games/2026/may/20/online-child-safety-campaigners-call-for-us-inquiry-into-roblox",
-      "summary": "Campaigners, including mental health advocates, are urging an investigation into Roblox, citing concerns that its design conflicts with children's developmental needs. The platform, popular among younger audiences, is under scrutiny for its potential negative impact on mental health, highlighting the need for better online safety measures.",
-      "source": "The Guardian"
+      "title": "The deadly Ebola outbreak is proving difficult to control",
+      "link": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+      "summary": "A recent Ebola outbreak in the Democratic Republic of the Congo has raised alarms as health-care workers succumb to an unknown virus. Rapid response teams have identified the Bundibugyo virus as the culprit, complicating containment efforts. This situation underscores the ongoing challenges in managing infectious diseases and the need for robust health systems.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach",
+      "link": "https://www.wired.com/story/oura-ring-5/",
+      "summary": "The Oura Ring 5 has been unveiled, boasting a slimmer design and enhanced durability. A significant feature is its integration of AI-powered health coaching, providing users with personalized insights and proactive health monitoring. This advancement marks a notable shift in how wearables can influence personal health management.",
+      "source": "Wired"
+    },
+    {
+      "title": "The Oura Ring 5 Is Official, and Starts Shipping Next Week",
+      "link": "https://lifehacker.com/health/the-oura-ring-5-starts-shipping-next-week?utm_medium=RSS",
+      "summary": "Oura's latest ring, the Ring 5, is set to ship soon, featuring a thinner profile and new health functionalities. The accompanying app will introduce several innovative health features, enhancing user engagement. This release reflects a growing trend in wearables focusing on user experience and health insights.",
+      "source": "Lifehacker"
     },
     {
       "title": "The New 'Google Health' App Is Replacing the Fitbit App Starting Today",
       "link": "https://lifehacker.com/health/google-health-app-is-replacing-the-fitbit-app-starting?utm_medium=RSS",
-      "summary": "Google is launching a new health app to replace the Fitbit app, featuring an improved AI coach designed to assist users in managing their health. This transition reflects the ongoing evolution of health technology, aiming to provide better user experiences and personalized health insights.",
+      "summary": "Google Health is taking over the Fitbit app, promising improved AI coaching capabilities. While the transition aims to enhance user experience, early feedback suggests that the app still has room for improvement. This change represents a strategic shift in how health data is managed and utilized by users.",
       "source": "Lifehacker"
     },
     {
-      "title": "How to Actually Start Eating Healthy",
-      "link": "https://lifehacker.com/how-to-start-eating-healthy?utm_medium=RSS",
-      "summary": "Eating healthy can be daunting, but this guide offers practical steps to improve dietary habits. It emphasizes that there is no one-size-fits-all diet, encouraging individuals to find what works best for them while promoting overall well-being and health.",
-      "source": "Lifehacker"
-    },
-    {
-      "title": "NHS to Close-Source Hundreds of GitHub Repos Over AI, Security Concerns",
+      "title": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
       "link": "https://www.theregister.com/software/2026/05/05/nhs-to-close-source-github-repos-over-ai-security-concerns/5224392",
-      "summary": "The NHS is taking significant steps to enhance security by closing source access to hundreds of GitHub repositories. This decision is driven by concerns over AI and security, indicating a broader trend of healthcare organizations prioritizing data protection in an increasingly digital environment.",
+      "summary": "The NHS has announced plans to close-source numerous GitHub repositories due to concerns over AI and security. This decision reflects the growing apprehensions about data privacy and the implications of AI in healthcare. The move raises questions about transparency and collaboration in health technology development.",
       "source": "The Register"
     },
     {
-      "title": "Forget the AI Job Apocalypse: AI’s Real Threat is Worker Control and Surveillance",
-      "link": "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
-      "summary": "A new perspective on AI in the workplace highlights the risks of surveillance and control over job roles rather than just job loss. This shift in focus raises important questions about mental health and worker autonomy in environments increasingly shaped by AI technologies.",
-      "source": "The Guardian Australia"
+      "title": "Keet: Tether’s P2P communication app built to survive internet shutdowns",
+      "link": "https://www.cio.com/article/4175793/keet-tethers-p2p-communication-app-built-to-survive-internet-shutdowns.html",
+      "summary": "Tether's Keet application offers a decentralized communication platform designed to function without traditional internet infrastructure. This innovation is particularly relevant in regions facing censorship and communication challenges. Keet's architecture promotes privacy and resilience, making it a significant tool for secure health communication.",
+      "source": "CIO"
     }
   ]
 }
