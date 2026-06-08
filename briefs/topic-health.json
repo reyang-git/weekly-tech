@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-06-01T07:27:01.254Z",
+  "generatedAt": "2026-06-08T07:10:37.210Z",
   "topic": "health",
-  "weekOf": "2026-06-01",
-  "lead": "Recent advancements in health technology highlight the intersection of wearable devices, AI, and ongoing public health challenges.",
+  "weekOf": "2026-06-08",
+  "lead": "Exploring the intersection of technology and health, recent developments highlight both the benefits and challenges of digital health tools and infrastructure.",
   "stories": [
     {
-      "title": "Fitbit Air reviews: Is it time for a fitness tracker upgrade?",
-      "link": "https://mashable.com/tech/google-fitbit-air-review-roundup",
-      "summary": "Fitbit has launched a new screenless health tracker, the Fitbit Air, which aims to compete in the crowded fitness tracker market. Reviews suggest that while it offers a minimalist design, its functionality may not meet the expectations set by competitors. The device's performance in tracking health metrics will be crucial for its acceptance among tech-savvy fitness enthusiasts.",
+      "title": "I tried Google’s new health app. It can’t replace a real trainer",
+      "link": "https://www.smh.com.au/technology/i-tried-google-s-new-health-app-it-can-t-replace-a-real-trainer-20260604-p6040c.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "Google's new health app, touted as a personal coach, offers insights into heart health, sleep, and exercise. However, users find that it lacks the personalized touch and motivation that a real trainer provides. The app's AI capabilities are impressive, but they may not be enough to replace human interaction in fitness training.",
+      "source": "Sydney Morning Herald"
+    },
+    {
+      "title": "Samsung Health app gets big refresh ahead of Galaxy Watch 9 release",
+      "link": "https://mashable.com/life/samsung-health-app-update-galaxy-watch-9",
+      "summary": "As Samsung prepares for the Galaxy Watch 9 launch, the Samsung Health app has received a significant update. This refresh aims to enhance user experience and integrate more comprehensive health tracking features, positioning Samsung's ecosystem as a strong competitor in the wearable health technology market.",
       "source": "Mashable"
     },
     {
-      "title": "The deadly Ebola outbreak is proving difficult to control",
-      "link": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
-      "summary": "A recent Ebola outbreak in the Democratic Republic of the Congo has raised alarms as health-care workers succumb to an unknown virus. Rapid response teams have identified the Bundibugyo virus as the culprit, complicating containment efforts. This situation underscores the ongoing challenges in managing infectious diseases and the need for robust health systems.",
+      "title": "The Apple Watch needs a better Siri more than the iPhone right now",
+      "link": "https://www.zdnet.com/article/the-apple-watch-needs-a-better-siri-more-than-the-iphone-right-now/",
+      "summary": "The Apple Watch's health features could be significantly improved with a more capable Siri. As Apple continues to expand its health suite, a better voice assistant could enhance user interaction and streamline health monitoring tasks, making the device more effective for health-conscious consumers.",
+      "source": "ZDNet"
+    },
+    {
+      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI 'coach'",
+      "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
+      "summary": "The Fitbit Air is praised for its minimalist design and reliable fitness tracking capabilities. However, users find that the AI 'coach' can be overly chatty and may detract from the user experience. This raises questions about the balance between AI assistance and user autonomy in health wearables.",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Rehumanizing global health care with agentic AI",
+      "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "summary": "The global health care system is facing unprecedented challenges due to underinvestment and increasing demand. The article discusses the potential of agentic AI to improve care delivery and address issues like staff burnout and fragmented access. By rehumanizing interactions, AI could play a vital role in enhancing patient care.",
       "source": "MIT Technology Review"
-    },
-    {
-      "title": "Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach",
-      "link": "https://www.wired.com/story/oura-ring-5/",
-      "summary": "The Oura Ring 5 has been unveiled, boasting a slimmer design and enhanced durability. A significant feature is its integration of AI-powered health coaching, providing users with personalized insights and proactive health monitoring. This advancement marks a notable shift in how wearables can influence personal health management.",
-      "source": "Wired"
-    },
-    {
-      "title": "The Oura Ring 5 Is Official, and Starts Shipping Next Week",
-      "link": "https://lifehacker.com/health/the-oura-ring-5-starts-shipping-next-week?utm_medium=RSS",
-      "summary": "Oura's latest ring, the Ring 5, is set to ship soon, featuring a thinner profile and new health functionalities. The accompanying app will introduce several innovative health features, enhancing user engagement. This release reflects a growing trend in wearables focusing on user experience and health insights.",
-      "source": "Lifehacker"
-    },
-    {
-      "title": "The New 'Google Health' App Is Replacing the Fitbit App Starting Today",
-      "link": "https://lifehacker.com/health/google-health-app-is-replacing-the-fitbit-app-starting?utm_medium=RSS",
-      "summary": "Google Health is taking over the Fitbit app, promising improved AI coaching capabilities. While the transition aims to enhance user experience, early feedback suggests that the app still has room for improvement. This change represents a strategic shift in how health data is managed and utilized by users.",
-      "source": "Lifehacker"
     },
     {
       "title": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
       "link": "https://www.theregister.com/software/2026/05/05/nhs-to-close-source-github-repos-over-ai-security-concerns/5224392",
-      "summary": "The NHS has announced plans to close-source numerous GitHub repositories due to concerns over AI and security. This decision reflects the growing apprehensions about data privacy and the implications of AI in healthcare. The move raises questions about transparency and collaboration in health technology development.",
+      "summary": "The NHS plans to close-source numerous GitHub repositories due to concerns over AI and security. This decision highlights the tension between open-source collaboration and the need for secure, compliant health data management, particularly as AI technologies become more integrated into healthcare systems.",
       "source": "The Register"
     },
     {
-      "title": "Keet: Tether’s P2P communication app built to survive internet shutdowns",
-      "link": "https://www.cio.com/article/4175793/keet-tethers-p2p-communication-app-built-to-survive-internet-shutdowns.html",
-      "summary": "Tether's Keet application offers a decentralized communication platform designed to function without traditional internet infrastructure. This innovation is particularly relevant in regions facing censorship and communication challenges. Keet's architecture promotes privacy and resilience, making it a significant tool for secure health communication.",
-      "source": "CIO"
+      "title": "Suit filed against controversial planned Stratos datacenter project in Utah",
+      "link": "https://www.theguardian.com/us-news/2026/jun/06/stratos-datacenter-utah-suit",
+      "summary": "Residents in Utah have filed a lawsuit against the Stratos datacenter project, citing health concerns and lack of public input. The project, backed by celebrity investor Kevin O’Leary, has faced criticism for its potential negative impact on community health and well-being, raising questions about the intersection of technology and public health.",
+      "source": "The Guardian"
     }
   ]
 }
