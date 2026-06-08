@@ -1,38 +1,32 @@
 {
-  "generatedAt": "2026-06-01T07:27:00.590Z",
+  "generatedAt": "2026-06-08T07:10:37.386Z",
   "topic": "climate",
-  "weekOf": "2026-06-01",
-  "lead": "Recent developments in climate technology and corporate responses to climate change highlight the ongoing challenges and opportunities in addressing environmental issues.",
+  "weekOf": "2026-06-08",
+  "lead": "The intersection of economic growth and climate concerns is becoming increasingly critical, particularly in Australia, where the data centre boom poses significant risks to both the environment and power prices.",
   "stories": [
     {
-      "title": "Climate tech companies are going public. What’s next?",
-      "link": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
-      "summary": "A surge of climate tech companies is making headlines as they go public, marking a significant trend in the energy sector. Notably, Solv Energy, a solar and battery company, achieved a $6 billion valuation after its IPO in February. Following this, X-energy, which specializes in small modular nuclear reactors, also went public, indicating a growing investor interest in sustainable energy solutions.",
-      "source": "MIT Technology Review"
+      "title": "Australia’s GDP figures are meaningless when the boom in datacentres means destroying jobs and the climate",
+      "link": "https://www.theguardian.com/business/grogonomics/2026/jun/04/australia-datacentres-destroying-jobs-climate-economy-gdp",
+      "summary": "Australia's recent GDP growth has been largely driven by investments in datacentres, raising alarms about the environmental impact. This growth could lead to increased power prices and a reliance on polluting energy sources, undermining the country's climate goals. Critics argue that focusing on economic metrics without considering their environmental costs is misguided.",
+      "source": "The Guardian Australia"
     },
     {
-      "title": "The Download: climate tech goes public and the AI Hype Index returns",
-      "link": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
-      "summary": "This edition of The Download discusses the recent trend of climate tech companies going public, alongside the return of the AI Hype Index. The public offerings of companies like Solv Energy and X-energy reflect a broader shift towards investment in technologies aimed at combating climate change. This trend highlights the intersection of climate action and technological innovation.",
-      "source": "MIT Technology Review"
+      "title": "Data centre boom could send power prices 26 per cent higher: Climate group",
+      "link": "https://www.smh.com.au/technology/data-centre-boom-could-send-power-prices-26-per-cent-higher-climate-group-20260602-p6030x.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "A new report warns that the rapid expansion of datacentres in Victoria and NSW could lead to a 26% increase in household power prices. This surge in demand is expected to burden consumers with a more expensive and environmentally damaging energy grid. The implications of this growth highlight the urgent need for sustainable energy solutions.",
+      "source": "Sydney Morning Herald"
     },
     {
-      "title": "Revealed: the internal BHP memo that slammed the brakes on world’s biggest miner’s climate push",
-      "link": "https://www.theguardian.com/world/ng-interactive/2026/may/25/bhp-files-internal-memo-revealed",
-      "summary": "An internal memo from BHP, the world's largest miner, has surfaced, revealing a significant retreat from its previous commitment to climate change mitigation. The document describes climate change as an 'existential' threat but indicates a backtrack on decarbonization efforts across its mining operations. This raises concerns about corporate accountability in the face of climate challenges.",
+      "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
+      "link": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+      "summary": "The partnership between AI firm Anthropic and the Vatican has raised concerns about the potential for superficial discourse on the environmental and social impacts of AI. Pope Leo XIV's warnings about AI's threats to humanity, including its environmental implications, underscore the need for deeper scrutiny of technological advancements in light of climate change.",
       "source": "The Guardian Australia"
     },
     {
       "title": "The best fans to keep you cool in 2026 – tried and tested",
       "link": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
-      "summary": "As climate change leads to increasingly frequent heatwaves, finding effective cooling solutions becomes essential. This guide reviews the best fans available in 2026, emphasizing energy efficiency as an alternative to high-energy-consuming air conditioning systems. By opting for fans, consumers can reduce their carbon footprint while staying comfortable during extreme heat.",
+      "summary": "As global temperatures rise, finding alternatives to energy-intensive air conditioning becomes crucial. This article reviews various fans that can help keep spaces cool without the heavy electricity usage associated with air conditioning. Opting for fans not only saves money but also reduces carbon emissions, aligning with climate-conscious choices.",
       "source": "The Guardian Australia"
-    },
-    {
-      "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
-      "link": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
-      "summary": "Pope Leo XIV's recent teaching on artificial intelligence highlights its potential environmental impacts, including exploitation of resources. Anthropic co-founder Chris Olah's presence at the Vatican during this announcement raises questions about the sincerity of corporate engagement with ethical concerns. Critics fear this may lead to superficial discussions rather than substantive action on climate issues.",
-      "source": "The Guardian"
     }
   ]
 }
