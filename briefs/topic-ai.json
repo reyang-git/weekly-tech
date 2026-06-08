@@ -1,56 +1,50 @@
 {
-  "generatedAt": "2026-06-01T07:27:01.577Z",
+  "generatedAt": "2026-06-08T07:10:37.617Z",
   "topic": "AI",
-  "weekOf": "2026-06-01",
-  "lead": "AI technology continues to evolve rapidly, impacting various sectors from cloud computing to fashion, while raising critical discussions around ethics and governance.",
+  "weekOf": "2026-06-08",
+  "lead": "The rise of AI technology is reshaping industries, but also giving rise to new challenges and ethical concerns.",
   "stories": [
     {
-      "title": "Build Club launches a free virtual AI school, Campus",
-      "link": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/build-club-launches-a-free-virtual-ai-school-campus/",
-      "summary": "Build Club has introduced Campus, a free virtual AI school aimed at enhancing AI skills among learners. This initiative focuses on providing resources for individuals to learn, build, and get certified in AI technologies, reflecting a growing trend towards democratizing AI education.",
-      "source": "Startup Daily"
-    },
-    {
-      "title": "Nvidia RTX Spark May Light a Fire for Windows on Arm",
-      "link": "https://www.cnet.com/tech/computing/nvidia-rtx-spark-may-light-a-fire-for-windows-on-arm/",
-      "summary": "Nvidia's new SoC, the RTX Spark, promises exceptional performance for gaming and generative AI applications on Windows devices. This chip is expected to significantly enhance the capabilities of Windows on Arm, marking a pivotal moment for the platform.",
-      "source": "CNET"
-    },
-    {
-      "title": "Making sense of the debate over AI psychosis",
-      "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "summary": "The latest episode of Equity delves into the controversial topic of 'AI psychosis,' discussing whether tech CEOs are particularly susceptible to this phenomenon. The conversation highlights the psychological implications of rapid AI advancements and their impact on leadership.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "How AI is changing online shopping",
-      "link": "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
-      "summary": "AI-generated models are transforming the fashion industry, as seen in a recent experiment by an Australian e-commerce retailer. This approach not only enhances marketing strategies but also raises questions about authenticity and consumer trust in AI-generated imagery.",
+      "title": "Aviva detects record £230m in bogus insurance claims as use of AI rises",
+      "link": "https://www.theguardian.com/business/2026/jun/08/aviva-ai-bogus-insurance-claims-rocket",
+      "summary": "Aviva has reported a record £230 million in fraudulent insurance claims, with many scammers leveraging AI to fabricate accident scenes and documents. The insurer identified over 18,400 suspect claims in 2025, marking a significant increase in AI's role in insurance fraud. This trend highlights the dual-edged nature of AI technology, which can be used for both beneficial and malicious purposes.",
       "source": "The Guardian"
     },
     {
-      "title": "Wix cuts 1,000 employees in latest AI-fueled layoff",
-      "link": "https://mashable.com/tech/wix-cuts-1000-employees-in-latest-ai-fueled-layoff",
-      "summary": "Wix has announced a significant layoff affecting 20% of its workforce, attributing the decision to the increasing integration of AI technologies. This move highlights the ongoing trend of companies restructuring in response to automation and AI advancements.",
-      "source": "Mashable"
+      "title": "AI 시대 직장인의 혼란",
+      "link": "https://www.cio.com/article/4182079/%ed%95%98%eb%a3%a8%eb%a5%bc-%eb%b2%8c%ec%97%88%eb%8b%a4-%eb%b0%a9%ed%96%a5%ec%9d%84-%ec%9e%83%ec%97%88%eb%8b%a4-ai-%ec%8b%9c%eb%8c%80-%ec%a7%81%ec%9e%a5%ec%9d%b8%ec%9d%98-%ed%98%bc%eb%9e%80.html",
+      "summary": "A report from the Boston Consulting Group reveals that while many employees save time using AI, they struggle to reinvest that time into productive tasks. The findings indicate a disconnect in organizations, where AI tools are provided without clear guidance on their strategic application. This highlights the need for companies to rethink how they integrate AI into workflows to maximize its potential benefits.",
+      "source": "CIO"
     },
     {
-      "title": "China just told its tech giants to stop fighting on price and start investing in AI",
-      "link": "https://thenextweb.com/news/china-platform-regulation-ai-investment-qiushi-signal",
-      "summary": "China's Communist Party has shifted its focus towards encouraging major tech companies to invest in AI rather than engage in price wars. This strategic pivot aims to foster innovation and ensure sustainable growth in the AI sector.",
+      "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
+      "link": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
+      "summary": "The AI boom is characterized by rapid spending and increasing consumer adoption, yet concerns are rising about the sustainability of this growth. Companies like SpaceX and Anthropic are seeking significant valuations, reflecting the competitive landscape in AI development. The article provides insights into the current state of the AI market and the challenges it faces moving forward.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "“앤트로픽 AI 서비스, 지나치게 비싸” MS AI 수장 비판",
+      "link": "https://www.cio.com/article/4182075/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%a7%80%eb%82%98%ec%b9%98%ea%b2%8c-%eb%b9%84%ec%8b%b8-ms-ai-%ec%88%98%ec%9e%a5-%eb%b9%84%ed%8c%90.html",
+      "summary": "Microsoft's AI chief Mustafa Suleyman criticized competitors like Anthropic for their high service costs, emphasizing the need for more affordable AI solutions. This critique comes amidst growing concerns about the ROI of AI investments across various industries. The competitive pricing of AI services is becoming increasingly important as companies seek to justify their AI expenditures.",
+      "source": "CIO"
+    },
+    {
+      "title": "‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism",
+      "link": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
+      "summary": "The rapid advancement of AI technology has sparked a troubling rise in anti-tech extremism, with incidents of violence linked to anti-AI sentiments. Recent events include attacks on AI companies and individuals associated with the technology, raising alarms about the societal implications of AI's growth. This backlash reflects a broader concern regarding the ethical and social ramifications of AI advancements.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "UK plans to buy AI chips from British firms to stop them leaving for the US",
+      "link": "https://thenextweb.com/news/china-evs-too-heavy-weight-diet-regulations",
+      "summary": "In a bid to retain AI technology within the country, the UK government plans to purchase AI chips directly from domestic firms. This initiative aims to support local technology companies and prevent them from relocating to the US, highlighting the strategic importance of AI in national policy. The move underscores the growing recognition of AI as a critical component of economic and technological competitiveness.",
       "source": "The Next Web"
     },
     {
-      "title": "SoftBank overtakes Toyota as Japan’s most valuable company on the AI rally",
-      "link": "https://thenextweb.com/news/softbank-overtakes-toyota-japan-most-valuable-company",
-      "summary": "SoftBank has surpassed Toyota to become Japan's most valuable company, driven by its substantial investments in AI, particularly its stake in OpenAI. This shift underscores the financial market's growing confidence in AI technologies.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Team Global Express has the logistics for AI use in place",
-      "link": "https://www.itnews.com.au/news/team-global-express-has-the-logistics-for-ai-use-in-place-626143?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Team Global Express has successfully integrated AI agents into its logistics operations, marking a significant step towards automating and optimizing supply chain processes. This development demonstrates the practical applications of AI in enhancing operational efficiency.",
-      "source": "IT News"
+      "title": "OpenAI reportedly has a major ChatGPT overhaul in store",
+      "link": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
+      "summary": "OpenAI is reportedly preparing a significant overhaul of its ChatGPT product, indicating ongoing developments in AI conversational technologies. This update is expected to enhance user experience and functionality, reflecting the company's commitment to maintaining its competitive edge in the rapidly evolving AI landscape. The anticipated changes may address user feedback and improve overall performance.",
+      "source": "Engadget"
     }
   ]
 }
