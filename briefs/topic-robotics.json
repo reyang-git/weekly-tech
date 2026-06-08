@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-01T07:27:01.542Z",
+  "generatedAt": "2026-06-08T07:10:37.528Z",
   "topic": "robotics",
-  "weekOf": "2026-06-01",
-  "lead": "Robotics is on the brink of a transformative era, akin to the rise of chatbots, with significant advancements and investments paving the way for their integration into everyday life.",
+  "weekOf": "2026-06-08",
+  "lead": "Recent developments in robotics highlight both innovative startups and legal challenges in the industry.",
   "stories": [
     {
-      "title": "Are robots nearing their ChatGPT moment?",
-      "link": "https://www.theguardian.com/science/audio/2026/may/28/are-robots-nearing-their-chatgpt-moment-podcast",
-      "summary": "In a recent podcast, experts discuss the rapid advancements in robotics, highlighted by a robot named Lightning that recently set a record at Beijing's half marathon. This milestone raises questions about the potential for robots to become commonplace in our daily lives, similar to chatbots. With China leading the charge and investing heavily in robotics, the conversation explores what is needed for robots to take on more household and workforce tasks.",
-      "source": "The Guardian"
+      "title": "Kyle Vogt’s Bot Company is being sued for turning an Airbnb into a robot lab",
+      "link": "https://thenextweb.com/news/bot-company-airbnb-robot-testing-lawsuit",
+      "summary": "A lawsuit has emerged against The Bot Company, a robotics startup founded by Kyle Vogt, for allegedly using an Airbnb property in San Francisco as a covert robot testing lab. The host claims that the company misrepresented its intentions, booking the property under false pretenses. This case raises questions about the ethical use of private spaces for technological experimentation.",
+      "source": "The Next Web"
     },
     {
-      "title": "Are robots nearing their ChatGPT moment?",
-      "link": "https://www.theguardian.com/science/audio/2026/may/28/are-robots-nearing-their-chatgpt-moment-podcast",
-      "summary": "The Guardian Australia features a podcast discussing the implications of recent robotic achievements, including a robot that outperformed human marathon runners. The episode delves into China's ambitious plans for robotics investment and examines how these developments could lead to robots becoming integral to various sectors, including domestic chores and agriculture.",
-      "source": "The Guardian Australia"
+      "title": "Antler backs AI robotics recycling startup Oscorp Energy in $1.3 million pre-Seed",
+      "link": "https://www.startupdaily.net/topic/funding/antler-backs-ai-robotics-recycling-startup-oscorp-energy-in-1-3-million-pre-seed/",
+      "summary": "Oscorp Energy has secured $1.3 million in pre-seed funding from Antler to develop AI-driven robotic systems aimed at recycling lithium-ion batteries. The startup focuses on enhancing waste management processes by integrating advanced vision technology to identify and extract batteries from waste streams. This innovation could significantly impact the recycling industry and promote sustainability.",
+      "source": "Startup Daily"
     }
   ]
 }
