@@ -1,32 +1,20 @@
 {
-  "generatedAt": "2026-06-08T07:10:37.386Z",
+  "generatedAt": "2026-06-15T07:42:27.525Z",
   "topic": "climate",
-  "weekOf": "2026-06-08",
-  "lead": "The intersection of economic growth and climate concerns is becoming increasingly critical, particularly in Australia, where the data centre boom poses significant risks to both the environment and power prices.",
+  "weekOf": "2026-06-15",
+  "lead": "The ongoing discourse around climate change is increasingly intersecting with politics and technology, highlighting the complexities of environmental impact and economic implications.",
   "stories": [
     {
-      "title": "Australia’s GDP figures are meaningless when the boom in datacentres means destroying jobs and the climate",
-      "link": "https://www.theguardian.com/business/grogonomics/2026/jun/04/australia-datacentres-destroying-jobs-climate-economy-gdp",
-      "summary": "Australia's recent GDP growth has been largely driven by investments in datacentres, raising alarms about the environmental impact. This growth could lead to increased power prices and a reliance on polluting energy sources, undermining the country's climate goals. Critics argue that focusing on economic metrics without considering their environmental costs is misguided.",
-      "source": "The Guardian Australia"
+      "title": "Have politics finally come for the National Academies of Science?",
+      "link": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
+      "summary": "A new report on climate attribution from the National Academies of Science is stirring concerns about political influence over scientific findings. This development raises questions about the integrity of climate science and the potential for political agendas to shape critical environmental research. The implications of this report could affect public policy and funding for climate initiatives.",
+      "source": "Ars Technica"
     },
     {
       "title": "Data centre boom could send power prices 26 per cent higher: Climate group",
       "link": "https://www.smh.com.au/technology/data-centre-boom-could-send-power-prices-26-per-cent-higher-climate-group-20260602-p6030x.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "A new report warns that the rapid expansion of datacentres in Victoria and NSW could lead to a 26% increase in household power prices. This surge in demand is expected to burden consumers with a more expensive and environmentally damaging energy grid. The implications of this growth highlight the urgent need for sustainable energy solutions.",
+      "summary": "As Australia invests heavily in data centres, a climate group warns that this boom could lead to a 26% increase in power prices for households. The report highlights the environmental costs associated with expanding digital infrastructure, suggesting that a shift towards a more energy-intensive grid could exacerbate climate issues. This situation underscores the need for sustainable practices in technology development.",
       "source": "Sydney Morning Herald"
-    },
-    {
-      "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
-      "link": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
-      "summary": "The partnership between AI firm Anthropic and the Vatican has raised concerns about the potential for superficial discourse on the environmental and social impacts of AI. Pope Leo XIV's warnings about AI's threats to humanity, including its environmental implications, underscore the need for deeper scrutiny of technological advancements in light of climate change.",
-      "source": "The Guardian Australia"
-    },
-    {
-      "title": "The best fans to keep you cool in 2026 – tried and tested",
-      "link": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
-      "summary": "As global temperatures rise, finding alternatives to energy-intensive air conditioning becomes crucial. This article reviews various fans that can help keep spaces cool without the heavy electricity usage associated with air conditioning. Opting for fans not only saves money but also reduces carbon emissions, aligning with climate-conscious choices.",
-      "source": "The Guardian Australia"
     }
   ]
 }
