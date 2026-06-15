@@ -1,50 +1,56 @@
 {
-  "generatedAt": "2026-06-08T07:10:37.210Z",
+  "generatedAt": "2026-06-15T07:42:22.693Z",
   "topic": "health",
-  "weekOf": "2026-06-08",
-  "lead": "Exploring the intersection of technology and health, recent developments highlight both the benefits and challenges of digital health tools and infrastructure.",
+  "weekOf": "2026-06-15",
+  "lead": "Exploring the intersection of technology and health, this brief highlights the latest developments in health wearables, mental health impacts, and emerging therapies.",
   "stories": [
     {
-      "title": "I tried Google’s new health app. It can’t replace a real trainer",
-      "link": "https://www.smh.com.au/technology/i-tried-google-s-new-health-app-it-can-t-replace-a-real-trainer-20260604-p6040c.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "Google's new health app, touted as a personal coach, offers insights into heart health, sleep, and exercise. However, users find that it lacks the personalized touch and motivation that a real trainer provides. The app's AI capabilities are impressive, but they may not be enough to replace human interaction in fitness training.",
-      "source": "Sydney Morning Herald"
-    },
-    {
-      "title": "Samsung Health app gets big refresh ahead of Galaxy Watch 9 release",
-      "link": "https://mashable.com/life/samsung-health-app-update-galaxy-watch-9",
-      "summary": "As Samsung prepares for the Galaxy Watch 9 launch, the Samsung Health app has received a significant update. This refresh aims to enhance user experience and integrate more comprehensive health tracking features, positioning Samsung's ecosystem as a strong competitor in the wearable health technology market.",
-      "source": "Mashable"
-    },
-    {
-      "title": "The Apple Watch needs a better Siri more than the iPhone right now",
-      "link": "https://www.zdnet.com/article/the-apple-watch-needs-a-better-siri-more-than-the-iphone-right-now/",
-      "summary": "The Apple Watch's health features could be significantly improved with a more capable Siri. As Apple continues to expand its health suite, a better voice assistant could enhance user interaction and streamline health monitoring tasks, making the device more effective for health-conscious consumers.",
+      "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
+      "link": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
+      "summary": "As health wearables become increasingly popular, concerns about data privacy are rising. This article discusses the implications of constant data collection by smart devices, questioning who truly owns the data and what it means for user privacy. Consumers are urged to weigh the benefits against the potential risks before making a purchase.",
       "source": "ZDNet"
     },
     {
-      "title": "The Fitbit Air is a good wearable weighed down by a chatty AI 'coach'",
-      "link": "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
-      "summary": "The Fitbit Air is praised for its minimalist design and reliable fitness tracking capabilities. However, users find that the AI 'coach' can be overly chatty and may detract from the user experience. This raises questions about the balance between AI assistance and user autonomy in health wearables.",
+      "title": "Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals",
+      "link": "https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/",
+      "summary": "The Laduora Duo is a novel device that combines multiple therapies aimed at promoting healthy hair growth. Utilizing red light therapy, microcurrents, sonic vibrations, warmth, and specialized serums, it offers a comprehensive approach to hair care. This review dives into its effectiveness and user experience.",
+      "source": "Wired"
+    },
+    {
+      "title": "The wearable health boom is creating a data overload for doctors - what happens next",
+      "link": "https://www.zdnet.com/article/the-wearable-health-boom-is-creating-a-data-overload-for-doctors-what-happens-next/",
+      "summary": "With the rise of health wearables, patients are inundated with health data, much of which is not actionable for healthcare providers. This article explores the challenges doctors face in managing this data overload and discusses potential solutions to streamline patient information for better health outcomes.",
+      "source": "ZDNet"
+    },
+    {
+      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
+      "link": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
+      "summary": "A lawsuit has emerged alleging that ChatGPT failed to uphold mental health guardrails when interacting with a vulnerable user. The case raises critical questions about the role of AI in mental health support and the potential consequences of its misuse in sensitive situations.",
       "source": "Ars Technica"
     },
     {
-      "title": "Rehumanizing global health care with agentic AI",
-      "link": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "summary": "The global health care system is facing unprecedented challenges due to underinvestment and increasing demand. The article discusses the potential of agentic AI to improve care delivery and address issues like staff burnout and fragmented access. By rehumanizing interactions, AI could play a vital role in enhancing patient care.",
+      "title": "Online racism is significantly affecting mental health, First Nations people say: ‘It’s like carrying a bully in your pocket’",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/13/online-racism-mental-health-first-nations-australians-social-media-ntwnfb",
+      "summary": "The Australian Human Rights Commission has highlighted the detrimental effects of online racism on the mental health of First Nations people. This article discusses the urgent need for social media platforms to implement measures that mitigate the spread of harmful content and protect users from psychological harm.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "I read the fine print on at-home DNA and health tests - watch out for these risks",
+      "link": "https://www.zdnet.com/article/what-are-biggest-risks-in-at-home-dna-tests/",
+      "summary": "At-home DNA tests promise insights into health, but they come with significant risks that consumers should be aware of. This piece examines the fine print and potential pitfalls of these tests, emphasizing the importance of understanding what users are signing up for.",
+      "source": "ZDNet"
+    },
+    {
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "summary": "The concept of 'reprogramming' as a method to reverse aging is gaining traction in the biotech field. This article discusses recent advancements, including experimental treatments aimed at regenerating healthy tissues, and the implications for age-related diseases.",
       "source": "MIT Technology Review"
     },
     {
-      "title": "NHS to close-source hundreds of GitHub repos over AI, security concerns",
-      "link": "https://www.theregister.com/software/2026/05/05/nhs-to-close-source-github-repos-over-ai-security-concerns/5224392",
-      "summary": "The NHS plans to close-source numerous GitHub repositories due to concerns over AI and security. This decision highlights the tension between open-source collaboration and the need for secure, compliant health data management, particularly as AI technologies become more integrated into healthcare systems.",
-      "source": "The Register"
-    },
-    {
-      "title": "Suit filed against controversial planned Stratos datacenter project in Utah",
-      "link": "https://www.theguardian.com/us-news/2026/jun/06/stratos-datacenter-utah-suit",
-      "summary": "Residents in Utah have filed a lawsuit against the Stratos datacenter project, citing health concerns and lack of public input. The project, backed by celebrity investor Kevin O’Leary, has faced criticism for its potential negative impact on community health and well-being, raising questions about the intersection of technology and public health.",
-      "source": "The Guardian"
+      "title": "Our favorite health trackers are disappearing - and that's the point",
+      "link": "https://www.zdnet.com/article/health-trackers-are-disappearing-thats-the-point/",
+      "summary": "Tech companies are evolving health trackers to be more discreet and user-friendly, leading to the disappearance of traditional devices. This article explores the design philosophy behind this trend and its impact on user experience and health monitoring.",
+      "source": "ZDNet"
     }
   ]
 }
