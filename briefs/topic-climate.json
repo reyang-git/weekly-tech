@@ -1,20 +1,56 @@
 {
-  "generatedAt": "2026-06-15T07:42:27.525Z",
+  "generatedAt": "2026-06-22T08:33:20.821Z",
   "topic": "climate",
-  "weekOf": "2026-06-15",
-  "lead": "The ongoing discourse around climate change is increasingly intersecting with politics and technology, highlighting the complexities of environmental impact and economic implications.",
+  "weekOf": "2026-06-22",
+  "lead": "Climate change remains a pressing global issue, with various sectors grappling with its implications and potential solutions, from data centers to geoengineering efforts.",
   "stories": [
     {
-      "title": "Have politics finally come for the National Academies of Science?",
-      "link": "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
-      "summary": "A new report on climate attribution from the National Academies of Science is stirring concerns about political influence over scientific findings. This development raises questions about the integrity of climate science and the potential for political agendas to shape critical environmental research. The implications of this report could affect public policy and funding for climate initiatives.",
-      "source": "Ars Technica"
+      "title": "Thirsty and power hungry: Australia is in the middle of a datacentre boom – but are they good for the economy?",
+      "link": "https://www.theguardian.com/technology/2026/jun/22/australia-ai-datacentre-boom-environmental-impacts-climate-how-sustainable-is-it-artificial-intelligence",
+      "summary": "Australia is experiencing a significant boom in data centers, driven by the demand for AI and digital services. However, this growth raises concerns about its environmental impact, as these facilities require substantial water and energy resources. Critics argue that while these centers contribute to the economy, they may also lead to higher energy prices and environmental degradation.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Can we electrify the world? Ambition moves from nerdish backwater to centre stage",
+      "link": "https://www.theguardian.com/environment/2026/jun/20/electrification-takes-centre-stage-bonn-climate-talks",
+      "summary": "Electrification is emerging as a critical strategy in the fight against climate change, particularly as global energy demands soar. Recent discussions at the pre-Cop31 climate talks highlighted the importance of transitioning from fossil fuels to electric solutions across various sectors. This shift could significantly reduce energy costs and carbon emissions, making it a focal point for future climate initiatives.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Your next data center could soon be in space. Here’s why you should care",
+      "link": "https://www.cio.com/article/4186890/your-next-data-center-could-soon-be-in-space-heres-why-you-should-care.html",
+      "summary": "The concept of space-based data centers is gaining traction as a potential solution to the environmental challenges posed by terrestrial facilities. These orbital centers could leverage abundant solar energy and natural cooling, addressing power and cooling constraints faced on Earth. While still in the conceptual stage, this innovation could redefine infrastructure planning and climate resilience.",
+      "source": "CIO"
+    },
+    {
+      "title": "Geoengineering still faces major practical challenges",
+      "link": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+      "summary": "Solar geoengineering is often viewed as a potential emergency measure to combat climate change, but significant challenges remain. The complexities of implementing such technologies raise questions about their efficacy and safety. As discussions around geoengineering evolve, understanding its practical implications is crucial for future climate strategies.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "Apocalypse when? ‘Earth’s Black Box’ to be installed in remote Tasmanian airfield",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/18/earth-black-box-climate-apocalypse-tasmania-australia",
+      "summary": "The 'Earth's Black Box' project aims to record humanity's actions leading to climate catastrophe, serving as a testament to our environmental failures. Set to be installed in Tasmania, this steel structure symbolizes the urgent need for accountability in climate actions. Its creators hope it will provoke reflection on our collective impact on the planet.",
+      "source": "The Guardian Australia"
     },
     {
       "title": "Data centre boom could send power prices 26 per cent higher: Climate group",
       "link": "https://www.smh.com.au/technology/data-centre-boom-could-send-power-prices-26-per-cent-higher-climate-group-20260602-p6030x.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "As Australia invests heavily in data centres, a climate group warns that this boom could lead to a 26% increase in power prices for households. The report highlights the environmental costs associated with expanding digital infrastructure, suggesting that a shift towards a more energy-intensive grid could exacerbate climate issues. This situation underscores the need for sustainable practices in technology development.",
+      "summary": "A report warns that the rapid expansion of data centers in Australia could lead to a 26% increase in power prices for households. As the demand for digital infrastructure grows, so does the strain on the energy grid, raising concerns about sustainability and the long-term economic implications of this trend.",
       "source": "Sydney Morning Herald"
+    },
+    {
+      "title": "As senators consider a startup carve-out for Budget tax reform, The Greens should keep climate tech in mind",
+      "link": "https://www.startupdaily.net/topic/politics-news-analysis/as-senators-consider-a-startup-carve-out-for-budget-tax-reform-the-greens-should-keep-climate-tech-in-mind/",
+      "summary": "Amid budget discussions, there's a push for tax incentives aimed at climate tech startups in Australia. Advocates argue that such measures could safeguard public investments and foster innovation in sustainable technologies. This initiative highlights the intersection of policy and climate action in driving forward the green economy.",
+      "source": "Startup Daily"
+    },
+    {
+      "title": "The Download: a reality check for geoengineering and the science of interoception",
+      "link": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+      "summary": "Recent discussions on geoengineering have provided a reality check on its feasibility and ethical implications. As the climate crisis intensifies, the idea of manipulating the climate system is becoming more mainstream, yet experts caution against oversimplifying its potential benefits and risks. Understanding the science behind these technologies is essential for informed decision-making.",
+      "source": "MIT Technology Review"
     }
   ]
 }
