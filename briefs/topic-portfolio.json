@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-06-15T07:42:21.036Z",
+  "generatedAt": "2026-06-22T08:33:18.987Z",
   "topic": "portfolio",
-  "weekOf": "2026-06-15",
-  "lead": "No recent articles found about portfolio this week.",
-  "stories": []
+  "weekOf": "2026-06-22",
+  "lead": "The recent collapse of Goterra highlights significant issues within Australia's startup ecosystem, particularly the lack of support for scaleups.",
+  "stories": [
+    {
+      "title": "The Missing Middle in action: what Goterra’s collapse reveals about the cost of abandoning scaleups",
+      "link": "https://www.startupdaily.net/advice/opinion/the-missing-middle-in-action-what-goterras-collapse-reveals-about-the-cost-of-abandoning-scaleups/",
+      "summary": "Goterra’s recent failure has shed light on the critical gap in funding for scaleups in Australia. While the early-stage startup scene is thriving, there is a concerning lack of strategic support for companies looking to grow beyond initial funding. This situation raises questions about the sustainability of the startup ecosystem and the need for a more robust framework to nurture businesses through their growth phases.",
+      "source": "Startup Daily"
+    }
+  ]
 }
