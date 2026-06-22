@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-06-08T07:10:37.617Z",
+  "generatedAt": "2026-06-22T08:33:19.336Z",
   "topic": "AI",
-  "weekOf": "2026-06-08",
-  "lead": "The rise of AI technology is reshaping industries, but also giving rise to new challenges and ethical concerns.",
+  "weekOf": "2026-06-22",
+  "lead": "The landscape of AI continues to evolve, with companies integrating AI into various sectors, addressing ethical concerns, and navigating public perception amidst growing skepticism.",
   "stories": [
     {
-      "title": "Aviva detects record £230m in bogus insurance claims as use of AI rises",
-      "link": "https://www.theguardian.com/business/2026/jun/08/aviva-ai-bogus-insurance-claims-rocket",
-      "summary": "Aviva has reported a record £230 million in fraudulent insurance claims, with many scammers leveraging AI to fabricate accident scenes and documents. The insurer identified over 18,400 suspect claims in 2025, marking a significant increase in AI's role in insurance fraud. This trend highlights the dual-edged nature of AI technology, which can be used for both beneficial and malicious purposes.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "AI 시대 직장인의 혼란",
-      "link": "https://www.cio.com/article/4182079/%ed%95%98%eb%a3%a8%eb%a5%bc-%eb%b2%8c%ec%97%88%eb%8b%a4-%eb%b0%a9%ed%96%a5%ec%9d%84-%ec%9e%83%ec%97%88%eb%8b%a4-ai-%ec%8b%9c%eb%8c%80-%ec%a7%81%ec%9e%a5%ec%9d%b8%ec%9d%98-%ed%98%bc%eb%9e%80.html",
-      "summary": "A report from the Boston Consulting Group reveals that while many employees save time using AI, they struggle to reinvest that time into productive tasks. The findings indicate a disconnect in organizations, where AI tools are provided without clear guidance on their strategic application. This highlights the need for companies to rethink how they integrate AI into workflows to maximize its potential benefits.",
-      "source": "CIO"
-    },
-    {
-      "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
-      "link": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
-      "summary": "The AI boom is characterized by rapid spending and increasing consumer adoption, yet concerns are rising about the sustainability of this growth. Companies like SpaceX and Anthropic are seeking significant valuations, reflecting the competitive landscape in AI development. The article provides insights into the current state of the AI market and the challenges it faces moving forward.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "“앤트로픽 AI 서비스, 지나치게 비싸” MS AI 수장 비판",
-      "link": "https://www.cio.com/article/4182075/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%a7%80%eb%82%98%ec%b9%98%ea%b2%8c-%eb%b9%84%ec%8b%b8-ms-ai-%ec%88%98%ec%9e%a5-%eb%b9%84%ed%8c%90.html",
-      "summary": "Microsoft's AI chief Mustafa Suleyman criticized competitors like Anthropic for their high service costs, emphasizing the need for more affordable AI solutions. This critique comes amidst growing concerns about the ROI of AI investments across various industries. The competitive pricing of AI services is becoming increasingly important as companies seek to justify their AI expenditures.",
-      "source": "CIO"
-    },
-    {
-      "title": "‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism",
-      "link": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
-      "summary": "The rapid advancement of AI technology has sparked a troubling rise in anti-tech extremism, with incidents of violence linked to anti-AI sentiments. Recent events include attacks on AI companies and individuals associated with the technology, raising alarms about the societal implications of AI's growth. This backlash reflects a broader concern regarding the ethical and social ramifications of AI advancements.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "UK plans to buy AI chips from British firms to stop them leaving for the US",
-      "link": "https://thenextweb.com/news/china-evs-too-heavy-weight-diet-regulations",
-      "summary": "In a bid to retain AI technology within the country, the UK government plans to purchase AI chips directly from domestic firms. This initiative aims to support local technology companies and prevent them from relocating to the US, highlighting the strategic importance of AI in national policy. The move underscores the growing recognition of AI as a critical component of economic and technological competitiveness.",
+      "title": "WeChat begins testing Xiaowei as Tencent eyes a Q3 AI rollout",
+      "link": "https://thenextweb.com/news/tencent-tests-wechat-ai-assistant-xiaowei",
+      "summary": "Tencent is integrating its AI assistant, Xiaowei, into WeChat, aiming to enhance user experience without requiring separate downloads for a chatbot. This move reflects a strategic approach to leverage the app's multifunctionality, allowing users to engage with AI seamlessly while messaging, shopping, and more.",
       "source": "The Next Web"
     },
     {
-      "title": "OpenAI reportedly has a major ChatGPT overhaul in store",
-      "link": "https://www.engadget.com/2189038/openai-reportedly-has-a-major-chatgpt-overhaul-in-store/",
-      "summary": "OpenAI is reportedly preparing a significant overhaul of its ChatGPT product, indicating ongoing developments in AI conversational technologies. This update is expected to enhance user experience and functionality, reflecting the company's commitment to maintaining its competitive edge in the rapidly evolving AI landscape. The anticipated changes may address user feedback and improve overall performance.",
-      "source": "Engadget"
+      "title": "NAB builds integrated ops hub for threat intelligence",
+      "link": "https://www.itnews.com.au/news/nab-builds-integrated-ops-hub-for-threat-intelligence-626825?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The National Australia Bank (NAB) is establishing an integrated operations hub focused on threat intelligence. This initiative aims to improve collaboration among tech, cyber, and fraud teams, enhancing the bank's ability to respond to security threats using AI-driven insights.",
+      "source": "IT News"
+    },
+    {
+      "title": "AI 도입 넘어 비용 관리로…오픈AI, 사용량 분석·예산 설정 기능 공개",
+      "link": "https://www.cio.com/article/4187583/ai-%eb%8f%84%ec%9e%85-%eb%84%98%ec%96%b4-%eb%b9%84%ec%9a%a9-%ea%b4%80%eb%a6%ac%eb%a1%9c%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%eb%b6%84%ec%84%9d%c2%b7%ec%98%88%ec%82%b0-%ec%84%a4.html",
+      "summary": "OpenAI has introduced new features for its ChatGPT Enterprise that allow businesses to monitor AI usage and set budgets. This shift highlights a growing focus on managing AI costs and ensuring that investments translate into tangible business outcomes.",
+      "source": "CIO"
+    },
+    {
+      "title": "“AI가 탈락 결정에 영향 줬다면 책임” 워크데이 소송이 바꿀 채용 AI 규제 지형",
+      "link": "https://www.cio.com/article/4187561/ai%ea%b0%80-%ed%83%88%eb%9d%bd-%ea%b2%b0%ec%a0%95%ec%97%90-%ec%98%81%ed%96%a5-%ec%a4%ac%eb%8b%a4%eb%a9%b4-%ec%b1%85%ec%9e%84-%ec%9b%8c%ed%81%ac%eb%8d%b0%ec%9d%b4-%ec%86%8c%ec%86%a1%ec%9d%b4.html",
+      "summary": "A recent court ruling regarding Workday's AI hiring tools has significant implications for AI regulations in recruitment. The court determined that companies could be held accountable for biases in AI-driven hiring processes, emphasizing the need for transparency and fairness in AI applications.",
+      "source": "CIO"
+    },
+    {
+      "title": "London’s Isometric lands $40M to certify the industrial economy with AI",
+      "link": "https://thenextweb.com/news/sometric-40m-series-a-ai-certification",
+      "summary": "Isometric has secured $40 million in funding to enhance its AI-driven certification processes for the industrial economy. This investment aims to streamline verification and compliance, showcasing AI's role in improving operational efficiency in industrial sectors.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Brands using AI-generated influencers to promote products on social media",
+      "link": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
+      "summary": "An investigation reveals that brands are increasingly employing AI-generated influencers for marketing on social media, raising ethical concerns about transparency. This trend highlights the growing intersection of AI and marketing, prompting calls for clearer guidelines on the use of AI in consumer engagement.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "AI 도입 넘어 비용 관리로…오픈AI, 사용량 분석·예산 설정 기능 공개",
+      "link": "https://www.cio.com/article/4187583/ai-%eb%8f%84%ec%9e%85-%eb%84%98%ec%96%b4-%eb%b9%84%ec%9a%a9-%ea%b4%80%eb%a6%ac%eb%a1%9c%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%eb%b6%84%ec%84%9d%c2%b7%ec%98%88%ec%82%b0-%ec%84%a4.html",
+      "summary": "OpenAI has introduced new features for its ChatGPT Enterprise that allow businesses to monitor AI usage and set budgets. This shift highlights a growing focus on managing AI costs and ensuring that investments translate into tangible business outcomes.",
+      "source": "CIO"
     }
   ]
 }
