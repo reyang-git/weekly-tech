@@ -1,56 +1,38 @@
 {
-  "generatedAt": "2026-06-15T07:42:22.693Z",
+  "generatedAt": "2026-06-22T08:33:19.853Z",
   "topic": "health",
-  "weekOf": "2026-06-15",
-  "lead": "Exploring the intersection of technology and health, this brief highlights the latest developments in health wearables, mental health impacts, and emerging therapies.",
+  "weekOf": "2026-06-22",
+  "lead": "Recent developments in health technology and policy highlight the evolving landscape of healthcare, emphasizing the importance of real-world evidence, mental health impacts, and the integration of new health applications.",
   "stories": [
     {
-      "title": "Before you buy a smartwatch or smart ring, consider what you're giving up",
-      "link": "https://www.zdnet.com/article/before-buying-a-smartwatch-or-smart-ring-consider-these-risks/",
-      "summary": "As health wearables become increasingly popular, concerns about data privacy are rising. This article discusses the implications of constant data collection by smart devices, questioning who truly owns the data and what it means for user privacy. Consumers are urged to weigh the benefits against the potential risks before making a purchase.",
-      "source": "ZDNet"
+      "title": "Why the FDA’s new real-world evidence guidance ends the era of structured-data-only submissions",
+      "link": "https://www.cio.com/article/4186893/why-the-fdas-new-real-world-evidence-guidance-ends-the-era-of-structured-data-only-submissions.html",
+      "summary": "The FDA's new guidance on real-world evidence marks a significant shift in regulatory submissions for medical devices, emphasizing the need for accurate and reliable data. It highlights the limitations of structured data in capturing critical clinical information, particularly in areas like social determinants of health and family history. This change necessitates a comprehensive approach to data collection and analysis, integrating unstructured data to ensure regulatory submissions reflect true patient outcomes.",
+      "source": "CIO"
     },
     {
-      "title": "Laduora Duo 4-in-1 Red Light Therapy Scalp and Hair Care Device Review: Custom Goals",
-      "link": "https://www.wired.com/review/laduora-duo-4-in-1-pod-based-scalp-and-hair-care-device/",
-      "summary": "The Laduora Duo is a novel device that combines multiple therapies aimed at promoting healthy hair growth. Utilizing red light therapy, microcurrents, sonic vibrations, warmth, and specialized serums, it offers a comprehensive approach to hair care. This review dives into its effectiveness and user experience.",
-      "source": "Wired"
+      "title": "You Can Now Use Your HSA/FSA Funds to Buy a Fitbit Air",
+      "link": "https://lifehacker.com/health/use-hsa-fsa-funds-to-buy-a-google-fitbit-air?utm_medium=RSS",
+      "summary": "Health savings accounts (HSA) and flexible spending accounts (FSA) can now be used to purchase the new Fitbit Air, making fitness tracking more accessible. This change allows consumers to leverage pre-tax dollars for health-related purchases, promoting a proactive approach to personal health management. The integration of fitness technology into health financing reflects a growing trend towards preventative health measures.",
+      "source": "Lifehacker"
     },
     {
-      "title": "The wearable health boom is creating a data overload for doctors - what happens next",
-      "link": "https://www.zdnet.com/article/the-wearable-health-boom-is-creating-a-data-overload-for-doctors-what-happens-next/",
-      "summary": "With the rise of health wearables, patients are inundated with health data, much of which is not actionable for healthcare providers. This article explores the challenges doctors face in managing this data overload and discusses potential solutions to streamline patient information for better health outcomes.",
-      "source": "ZDNet"
-    },
-    {
-      "title": "Lawsuit: ChatGPT validated suicidal woman's distrust of crisis lines",
-      "link": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
-      "summary": "A lawsuit has emerged alleging that ChatGPT failed to uphold mental health guardrails when interacting with a vulnerable user. The case raises critical questions about the role of AI in mental health support and the potential consequences of its misuse in sensitive situations.",
-      "source": "Ars Technica"
+      "title": "‘We could make a lot of money’: The health app saying no to peptides",
+      "link": "https://www.smh.com.au/technology/we-could-make-a-lot-of-money-the-health-app-saying-no-to-peptides-20260616-p60759.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "Everlab, a health app valued at nearly $500 million, is focusing on preventative health while rejecting the use of peptides, despite their popularity. Backed by a prominent cricketer, the app aims to mainstream preventative health strategies, although the scientific backing for such approaches is still developing. This highlights the tension between emerging health trends and established medical practices.",
+      "source": "Sydney Morning Herald"
     },
     {
       "title": "Online racism is significantly affecting mental health, First Nations people say: ‘It’s like carrying a bully in your pocket’",
       "link": "https://www.theguardian.com/australia-news/2026/jun/13/online-racism-mental-health-first-nations-australians-social-media-ntwnfb",
-      "summary": "The Australian Human Rights Commission has highlighted the detrimental effects of online racism on the mental health of First Nations people. This article discusses the urgent need for social media platforms to implement measures that mitigate the spread of harmful content and protect users from psychological harm.",
+      "summary": "The Australian Human Rights Commission has called for a digital duty of care to combat the negative mental health impacts of online racism on First Nations people. Social media algorithms are criticized for promoting racist content, exacerbating mental health challenges within these communities. This issue underscores the urgent need for responsible digital practices to protect vulnerable populations.",
       "source": "The Guardian Australia"
     },
     {
-      "title": "I read the fine print on at-home DNA and health tests - watch out for these risks",
-      "link": "https://www.zdnet.com/article/what-are-biggest-risks-in-at-home-dna-tests/",
-      "summary": "At-home DNA tests promise insights into health, but they come with significant risks that consumers should be aware of. This piece examines the fine print and potential pitfalls of these tests, emphasizing the importance of understanding what users are signing up for.",
-      "source": "ZDNet"
-    },
-    {
-      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "link": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
-      "summary": "The concept of 'reprogramming' as a method to reverse aging is gaining traction in the biotech field. This article discusses recent advancements, including experimental treatments aimed at regenerating healthy tissues, and the implications for age-related diseases.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "Our favorite health trackers are disappearing - and that's the point",
-      "link": "https://www.zdnet.com/article/health-trackers-are-disappearing-thats-the-point/",
-      "summary": "Tech companies are evolving health trackers to be more discreet and user-friendly, leading to the disappearance of traditional devices. This article explores the design philosophy behind this trend and its impact on user experience and health monitoring.",
-      "source": "ZDNet"
+      "title": "I tried Google’s new health app. It can’t replace a real trainer",
+      "link": "https://www.smh.com.au/technology/i-tried-google-s-new-health-app-it-can-t-replace-a-real-trainer-20260604-p6040c.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "A recent trial of Google's new health app reveals its limitations in providing personalized training compared to human trainers. While the app offers insights into heart health, sleep, and exercise, it lacks the nuanced guidance that a real trainer can provide. This highlights the ongoing challenge of integrating technology into personalized health and fitness regimens.",
+      "source": "Sydney Morning Herald"
     }
   ]
 }
