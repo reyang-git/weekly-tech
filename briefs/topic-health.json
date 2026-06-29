@@ -1,38 +1,56 @@
 {
-  "generatedAt": "2026-06-22T08:33:19.853Z",
+  "generatedAt": "2026-06-29T07:10:22.108Z",
   "topic": "health",
-  "weekOf": "2026-06-22",
-  "lead": "Recent developments in health technology and policy highlight the evolving landscape of healthcare, emphasizing the importance of real-world evidence, mental health impacts, and the integration of new health applications.",
+  "weekOf": "2026-06-29",
+  "lead": "Recent innovations and studies in health technology highlight the intersection of mental health, child development, and patient privacy, revealing both advancements and challenges in the field.",
   "stories": [
     {
-      "title": "Why the FDA’s new real-world evidence guidance ends the era of structured-data-only submissions",
-      "link": "https://www.cio.com/article/4186893/why-the-fdas-new-real-world-evidence-guidance-ends-the-era-of-structured-data-only-submissions.html",
-      "summary": "The FDA's new guidance on real-world evidence marks a significant shift in regulatory submissions for medical devices, emphasizing the need for accurate and reliable data. It highlights the limitations of structured data in capturing critical clinical information, particularly in areas like social determinants of health and family history. This change necessitates a comprehensive approach to data collection and analysis, integrating unstructured data to ensure regulatory submissions reflect true patient outcomes.",
-      "source": "CIO"
+      "title": "Researchers built an AI therapist that reads your smartwatch and earbuds to detect distress before you ask for help",
+      "link": "https://thenextweb.com/news/ubimytherapist-ai-smartwatch-mental-health-proactive",
+      "summary": "A team at the University of Ottawa is developing UbiMyTherapist, an AI assistant designed to proactively detect emotional distress through data from smartwatches and earbuds. This innovative approach aims to address the limitations of traditional mental health chatbots, which require users to initiate contact. By interpreting emotional cues, the AI could provide timely support to individuals who may struggle to articulate their feelings.",
+      "source": "The Next Web"
     },
     {
-      "title": "You Can Now Use Your HSA/FSA Funds to Buy a Fitbit Air",
-      "link": "https://lifehacker.com/health/use-hsa-fsa-funds-to-buy-a-google-fitbit-air?utm_medium=RSS",
-      "summary": "Health savings accounts (HSA) and flexible spending accounts (FSA) can now be used to purchase the new Fitbit Air, making fitness tracking more accessible. This change allows consumers to leverage pre-tax dollars for health-related purchases, promoting a proactive approach to personal health management. The integration of fitness technology into health financing reflects a growing trend towards preventative health measures.",
+      "title": "Screen time can damage under-twos’ development, landmark study suggests",
+      "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
+      "summary": "A groundbreaking study has revealed that screen time for children under two years old may lead to significant long-term developmental issues. Researchers are urging for immediate investigations into the risks associated with early exposure to digital devices, highlighting potential consequences for health and quality of life in toddlers. The findings call for a reevaluation of screen time guidelines for young children.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Health firms tracked patients’ searches without consent, watchdog finds",
+      "link": "https://www.smh.com.au/technology/health-firms-tracked-patients-searches-without-consent-watchdog-finds-20260622-p60927.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "An investigation has uncovered that health websites were tracking patients' online searches without their consent, feeding this data to social media platforms for targeted advertising. The privacy commissioner has deemed this practice unlawful, raising serious concerns about patient privacy and data security in the health sector. This incident underscores the need for stricter regulations regarding data handling in healthcare.",
+      "source": "Sydney Morning Herald"
+    },
+    {
+      "title": "Jessica McCabe built How to ADHD by solving her own biggest problem",
+      "link": "https://mashable.com/life/jessica-mccabe-how-to-adhd-interview-creator-playbook",
+      "summary": "Mental health advocate Jessica McCabe shares her journey in creating the YouTube channel How to ADHD, aimed at helping others navigate life with ADHD. Through her personal experiences, she has developed a community that provides support and resources for individuals facing similar challenges. McCabe's work highlights the importance of sharing personal stories to foster understanding and connection among those with mental health conditions.",
+      "source": "Mashable"
+    },
+    {
+      "title": "The US Is About to Deport an Immigrant to the Center of the Ebola Crisis",
+      "link": "https://www.wired.com/story/the-us-is-about-to-deport-an-immigrant-to-the-center-of-the-ebola-crisis/",
+      "summary": "A troubling case has emerged involving the deportation of a 78-year-old immigrant whose health has deteriorated while in detention. The individual is being sent back to a region currently facing an Ebola crisis, raising ethical concerns about the treatment of vulnerable populations in immigration policies. This situation highlights the intersection of health, human rights, and immigration law.",
+      "source": "Wired"
+    },
+    {
+      "title": "Save 30% on RingConn’s Gen 2 and Enjoy Health Data Without the Subscription Fees",
+      "link": "https://lifehacker.com/ad/tech/save-30-on-ringconns-gen-2-and-enjoy-health-data-without-the-subscription?utm_medium=RSS",
+      "summary": "The RingConn Gen 2 smart ring is now available at a discounted price, offering users a way to track their health data without ongoing subscription fees. This device is designed to be lightweight and comfortable, making it an appealing option for those interested in wearable health technology. The promotion highlights the growing trend of affordable health monitoring solutions in the consumer market.",
       "source": "Lifehacker"
     },
     {
-      "title": "‘We could make a lot of money’: The health app saying no to peptides",
-      "link": "https://www.smh.com.au/technology/we-could-make-a-lot-of-money-the-health-app-saying-no-to-peptides-20260616-p60759.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "Everlab, a health app valued at nearly $500 million, is focusing on preventative health while rejecting the use of peptides, despite their popularity. Backed by a prominent cricketer, the app aims to mainstream preventative health strategies, although the scientific backing for such approaches is still developing. This highlights the tension between emerging health trends and established medical practices.",
-      "source": "Sydney Morning Herald"
+      "title": "OAIC sweep unearths health sites' covert user tracking",
+      "link": "https://www.itnews.com.au/news/oaic-sweep-unearths-health-sites-covert-user-tracking-626881?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "A recent sweep by the Office of the Australian Information Commissioner has revealed that several health websites were covertly tracking users through JavaScript pixels. This practice raises significant privacy concerns, as sensitive health information was being transmitted to overseas advertising platforms without user consent. The findings call for greater transparency and accountability in how health data is managed online.",
+      "source": "IT News"
     },
     {
-      "title": "Online racism is significantly affecting mental health, First Nations people say: ‘It’s like carrying a bully in your pocket’",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/13/online-racism-mental-health-first-nations-australians-social-media-ntwnfb",
-      "summary": "The Australian Human Rights Commission has called for a digital duty of care to combat the negative mental health impacts of online racism on First Nations people. Social media algorithms are criticized for promoting racist content, exacerbating mental health challenges within these communities. This issue underscores the urgent need for responsible digital practices to protect vulnerable populations.",
-      "source": "The Guardian Australia"
-    },
-    {
-      "title": "I tried Google’s new health app. It can’t replace a real trainer",
-      "link": "https://www.smh.com.au/technology/i-tried-google-s-new-health-app-it-can-t-replace-a-real-trainer-20260604-p6040c.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "A recent trial of Google's new health app reveals its limitations in providing personalized training compared to human trainers. While the app offers insights into heart health, sleep, and exercise, it lacks the nuanced guidance that a real trainer can provide. This highlights the ongoing challenge of integrating technology into personalized health and fitness regimens.",
-      "source": "Sydney Morning Herald"
+      "title": "The Meaning of 'Brain Health' Depends on Who You Ask",
+      "link": "https://lifehacker.com/health/what-does-brain-health-actually-mean?utm_medium=RSS",
+      "summary": "The concept of 'brain health' varies widely depending on individual perspectives and expert opinions. This article explores the complexities surrounding brain health, emphasizing the need for a nuanced understanding of mental wellness. It highlights how different definitions can influence approaches to mental health care and the importance of tailored strategies for individuals seeking to improve their cognitive well-being.",
+      "source": "Lifehacker"
     }
   ]
 }
