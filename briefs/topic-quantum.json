@@ -1,14 +1,20 @@
 {
-  "generatedAt": "2026-06-22T08:33:18.562Z",
+  "generatedAt": "2026-07-06T06:50:00.621Z",
   "topic": "quantum",
-  "weekOf": "2026-06-22",
-  "lead": "The field of quantum computing is rapidly evolving, with exciting advancements in quantum error correction and hardware development expected in the coming years.",
+  "weekOf": "2026-07-06",
+  "lead": "The quantum landscape is evolving, with significant implications for both technology and commerce. From quantum computing's potential economic impact to advancements in quantum-dot technology in consumer electronics, the field is gaining attention across various sectors.",
   "stories": [
     {
-      "title": "Sooner than expected? Useful quantum error correction promised for 2028",
-      "link": "https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/",
-      "summary": "Amazon's Quera team has announced promising developments in quantum error correction, suggesting that useful applications could emerge by 2028. This advancement could significantly enhance the reliability of quantum computers, making them more viable for practical use. The progress reflects a broader trend where classical computing continues to integrate with quantum technologies.",
-      "source": "Ars Technica"
+      "title": "Organisations should look beyond AI and start thinking about the quantum economy",
+      "link": "https://www.startupdaily.net/advice/business-strategy/organisations-should-look-beyond-ai-to-quantum-computing/",
+      "summary": "As the tech world remains captivated by artificial intelligence, Dr. Simon Ruffell argues that businesses should pivot their focus towards the burgeoning quantum economy. He highlights how quantum computing is poised to become a pivotal commercial opportunity, potentially reshaping industries and driving innovation. Companies that invest in understanding and leveraging quantum technologies may gain a competitive edge in the future.",
+      "source": "Startup Daily"
+    },
+    {
+      "title": "Vizio accidentally made the best dumb TV on the market",
+      "link": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
+      "summary": "Vizio's new 65-inch Mini LED Quantum TV has emerged as a surprising contender in the market, offering advanced quantum-dot technology at an affordable price. This TV not only delivers superior brightness and color accuracy but has also been dubbed the best 'dumb TV' due to its simplicity and effectiveness. The product marks a significant comeback for Vizio, especially after its acquisition by Walmart, showcasing the potential of quantum technology in consumer electronics.",
+      "source": "The Verge"
     }
   ]
 }
