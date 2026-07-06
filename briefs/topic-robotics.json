@@ -1,20 +1,26 @@
 {
-  "generatedAt": "2026-06-08T07:10:37.528Z",
+  "generatedAt": "2026-07-06T06:50:00.722Z",
   "topic": "robotics",
-  "weekOf": "2026-06-08",
-  "lead": "Recent developments in robotics highlight both innovative startups and legal challenges in the industry.",
+  "weekOf": "2026-07-06",
+  "lead": "The field of robotics is advancing rapidly, with significant developments in humanoid robots and dextrous manipulation technologies. As companies explore new frontiers, the challenges of creating robots that can mimic human capabilities remain at the forefront.",
   "stories": [
     {
-      "title": "Kyle Vogt’s Bot Company is being sued for turning an Airbnb into a robot lab",
-      "link": "https://thenextweb.com/news/bot-company-airbnb-robot-testing-lawsuit",
-      "summary": "A lawsuit has emerged against The Bot Company, a robotics startup founded by Kyle Vogt, for allegedly using an Airbnb property in San Francisco as a covert robot testing lab. The host claims that the company misrepresented its intentions, booking the property under false pretenses. This case raises questions about the ethical use of private spaces for technological experimentation.",
-      "source": "The Next Web"
+      "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
+      "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
+      "summary": "Agility Robotics is preparing to go public through a SPAC, focusing on execution rather than just market hype. The CEO emphasizes that while the company is making strides in humanoid robotics, consumers shouldn't expect to see robots in their homes in the near future. This approach contrasts with many startups chasing high valuations without a clear path to practical applications.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Antler backs AI robotics recycling startup Oscorp Energy in $1.3 million pre-Seed",
-      "link": "https://www.startupdaily.net/topic/funding/antler-backs-ai-robotics-recycling-startup-oscorp-energy-in-1-3-million-pre-seed/",
-      "summary": "Oscorp Energy has secured $1.3 million in pre-seed funding from Antler to develop AI-driven robotic systems aimed at recycling lithium-ion batteries. The startup focuses on enhancing waste management processes by integrating advanced vision technology to identify and extract batteries from waste streams. This innovation could significantly impact the recycling industry and promote sustainability.",
-      "source": "Startup Daily"
+      "title": "China wants to solve the hardest problem in robotics – making hands",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+      "summary": "Chinese companies are racing to develop dextrous robotic hands, a crucial step in advancing humanoid robots from mere novelties to practical tools. Human hands are incredibly complex, and replicating their functionality has been a longstanding challenge in robotics. With advancements in AI, the industry is optimistic about overcoming this hurdle, potentially transforming how robots interact with the world.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "China wants to solve the hardest problem in robotics – making hands",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+      "summary": "The quest for creating dextrous robotic hands is intensifying in China, where companies are focusing on developing 'embodied AI'. This technology aims to enable robots to perform intricate tasks that require fine motor skills, which have historically been difficult for machines. The potential applications of such advancements could revolutionize industries that rely on manual dexterity.",
+      "source": "The Guardian Australia"
     }
   ]
 }
