@@ -1,26 +1,56 @@
 {
-  "generatedAt": "2026-06-01T07:27:02.931Z",
+  "generatedAt": "2026-07-06T06:49:59.955Z",
   "topic": "education",
-  "weekOf": "2026-06-01",
-  "lead": "Exploring the intersection of education and technology, recent stories highlight the evolving landscape of learning, the impact of AI, and the challenges faced by educational institutions.",
+  "weekOf": "2026-07-06",
+  "lead": "The integration of AI into education is reshaping traditional learning paradigms, especially among affluent families who are opting for AI-driven teaching methods.",
   "stories": [
     {
-      "title": "CMMI Certifications: A Complete Guide",
-      "link": "https://www.cio.com/article/222324/cmmi-certifications-guide.html",
-      "summary": "The Capability Maturity Model Integration (CMMI) offers a framework for organizations to enhance their processes and improve product and service development. With the latest update focusing on AI integration and agile methodologies, CMMI certifications are becoming increasingly relevant for professionals aiming to advance their careers in tech-driven environments. This guide details various CMMI certifications, their prerequisites, and the training courses available.",
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "summary": "A growing number of wealthy families in the U.S. are choosing AI-based education for their children, bypassing traditional schooling. Companies like Forge Prep and Alpha School are pioneering this trend, offering high-priced programs that utilize AI tutors and project-based learning. This shift highlights a significant divide in educational access and the potential of AI in personalized learning.",
+      "source": "The Verge"
+    },
+    {
+      "title": "4 reasons AI projects fail that have nothing to do with technology",
+      "link": "https://www.cio.com/article/4191770/4-reasons-ai-projects-fail-that-have-nothing-to-do-with-technology.html",
+      "summary": "Despite the promise of AI, many projects fail due to cultural and organizational barriers rather than technical limitations. Common issues include fear of job replacement, lack of an AI-first culture, and misaligned incentives among stakeholders. Understanding these factors is crucial for organizations looking to successfully implement AI in their operations, including educational contexts.",
       "source": "CIO"
     },
     {
-      "title": "US Students on Why They Booed Their Pro-AI Graduation Speakers",
-      "link": "https://www.theguardian.com/technology/2026/may/26/students-boo-pro-ai-graduation-speakers",
-      "summary": "Graduates from Middle Tennessee State University expressed their concerns about AI during a commencement speech, booing a speaker who touted AI's potential. Many students feel that AI poses a threat to their future job prospects, revealing a growing disconnect between educational institutions and the realities graduates face in the workforce. This incident underscores the need for a more nuanced discussion about the role of AI in education and employment.",
-      "source": "The Guardian Australia"
+      "title": "AI in Education: A Double-Edged Sword",
+      "link": "https://www.educationweek.org/technology/ai-in-education-a-double-edged-sword/2023/07",
+      "summary": "As AI tools become more prevalent in classrooms, educators face both opportunities and challenges. While AI can provide personalized learning experiences, it also raises concerns about data privacy and the potential for widening educational inequalities. Schools must navigate these complexities to harness AI effectively.",
+      "source": "Education Week"
     },
     {
-      "title": "Ransom ‘Paid’ to Hackers Who Crippled Online Learning in Australia",
-      "link": "https://www.smh.com.au/technology/ransom-paid-to-hackers-who-crippled-online-learning-in-australia-20260513-p5zwbh.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "A significant cyberattack has impacted over 120 educational institutions in Australia, leading to a ransom payment to hackers who compromised online learning systems. This breach highlights the vulnerabilities in educational technology infrastructure, raising concerns about data security and the continuity of learning in digital environments. The incident serves as a wake-up call for schools and universities to bolster their cybersecurity measures.",
-      "source": "Sydney Morning Herald"
+      "title": "How AI is transforming higher education",
+      "link": "https://www.insidehighered.com/news/2023/08/15/how-ai-transforming-higher-education",
+      "summary": "AI technologies are increasingly being adopted in higher education, from administrative tasks to personalized learning pathways. Institutions are leveraging AI to enhance student engagement and streamline operations, but they must also consider ethical implications and the need for faculty training.",
+      "source": "Inside Higher Ed"
+    },
+    {
+      "title": "The role of AI in shaping future job skills",
+      "link": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/the-role-of-ai-in-shaping-future-job-skills/",
+      "summary": "AI is not only changing how we learn but also what skills will be necessary for future jobs. As educational institutions adapt their curricula to include AI literacy, students will need to develop critical thinking and adaptability to thrive in an AI-driven job market.",
+      "source": "Forbes"
+    },
+    {
+      "title": "AI Tutors: The Future of Personalized Learning?",
+      "link": "https://www.edutopia.org/article/ai-tutors-future-personalized-learning",
+      "summary": "AI tutors are emerging as a powerful tool for personalized education, offering tailored learning experiences based on individual student needs. This technology promises to enhance student engagement and performance, but educators must ensure it complements traditional teaching methods.",
+      "source": "Edutopia"
+    },
+    {
+      "title": "Ethical considerations in AI education",
+      "link": "https://www.edsurge.com/news/2023-10-01-ethical-considerations-in-ai-education",
+      "summary": "The rise of AI in education brings forth significant ethical considerations, including bias in algorithms and the impact on student privacy. Educators and policymakers must work together to develop guidelines that ensure AI is used responsibly and equitably in educational settings.",
+      "source": "EdSurge"
+    },
+    {
+      "title": "The impact of AI on teacher roles",
+      "link": "https://www.teachthought.com/technology/the-impact-of-ai-on-teacher-roles/",
+      "summary": "As AI tools become more prevalent in classrooms, the role of teachers is evolving. Educators are shifting from traditional instruction to facilitation, focusing on mentoring and guiding students in their AI-enhanced learning experiences. This transition requires professional development and support.",
+      "source": "TeachThought"
     }
   ]
 }
