@@ -1,50 +1,56 @@
 {
-  "generatedAt": "2026-06-22T08:33:19.336Z",
+  "generatedAt": "2026-07-13T05:50:29.027Z",
   "topic": "AI",
-  "weekOf": "2026-06-22",
-  "lead": "The landscape of AI continues to evolve, with companies integrating AI into various sectors, addressing ethical concerns, and navigating public perception amidst growing skepticism.",
+  "weekOf": "2026-07-13",
+  "lead": "AI continues to influence various sectors, from music to application security, raising questions about its implications and future.",
   "stories": [
     {
-      "title": "WeChat begins testing Xiaowei as Tencent eyes a Q3 AI rollout",
-      "link": "https://thenextweb.com/news/tencent-tests-wechat-ai-assistant-xiaowei",
-      "summary": "Tencent is integrating its AI assistant, Xiaowei, into WeChat, aiming to enhance user experience without requiring separate downloads for a chatbot. This move reflects a strategic approach to leverage the app's multifunctionality, allowing users to engage with AI seamlessly while messaging, shopping, and more.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "NAB builds integrated ops hub for threat intelligence",
-      "link": "https://www.itnews.com.au/news/nab-builds-integrated-ops-hub-for-threat-intelligence-626825?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "The National Australia Bank (NAB) is establishing an integrated operations hub focused on threat intelligence. This initiative aims to improve collaboration among tech, cyber, and fraud teams, enhancing the bank's ability to respond to security threats using AI-driven insights.",
-      "source": "IT News"
-    },
-    {
-      "title": "AI 도입 넘어 비용 관리로…오픈AI, 사용량 분석·예산 설정 기능 공개",
-      "link": "https://www.cio.com/article/4187583/ai-%eb%8f%84%ec%9e%85-%eb%84%98%ec%96%b4-%eb%b9%84%ec%9a%a9-%ea%b4%80%eb%a6%ac%eb%a1%9c%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%eb%b6%84%ec%84%9d%c2%b7%ec%98%88%ec%82%b0-%ec%84%a4.html",
-      "summary": "OpenAI has introduced new features for its ChatGPT Enterprise that allow businesses to monitor AI usage and set budgets. This shift highlights a growing focus on managing AI costs and ensuring that investments translate into tangible business outcomes.",
-      "source": "CIO"
-    },
-    {
-      "title": "“AI가 탈락 결정에 영향 줬다면 책임” 워크데이 소송이 바꿀 채용 AI 규제 지형",
-      "link": "https://www.cio.com/article/4187561/ai%ea%b0%80-%ed%83%88%eb%9d%bd-%ea%b2%b0%ec%a0%95%ec%97%90-%ec%98%81%ed%96%a5-%ec%a4%ac%eb%8b%a4%eb%a9%b4-%ec%b1%85%ec%9e%84-%ec%9b%8c%ed%81%ac%eb%8d%b0%ec%9d%b4-%ec%86%8c%ec%86%a1%ec%9d%b4.html",
-      "summary": "A recent court ruling regarding Workday's AI hiring tools has significant implications for AI regulations in recruitment. The court determined that companies could be held accountable for biases in AI-driven hiring processes, emphasizing the need for transparency and fairness in AI applications.",
-      "source": "CIO"
-    },
-    {
-      "title": "London’s Isometric lands $40M to certify the industrial economy with AI",
-      "link": "https://thenextweb.com/news/sometric-40m-series-a-ai-certification",
-      "summary": "Isometric has secured $40 million in funding to enhance its AI-driven certification processes for the industrial economy. This investment aims to streamline verification and compliance, showcasing AI's role in improving operational efficiency in industrial sectors.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Brands using AI-generated influencers to promote products on social media",
-      "link": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
-      "summary": "An investigation reveals that brands are increasingly employing AI-generated influencers for marketing on social media, raising ethical concerns about transparency. This trend highlights the growing intersection of AI and marketing, prompting calls for clearer guidelines on the use of AI in consumer engagement.",
+      "title": "Is the most popular song played on Australian radio stations the product of generative AI?",
+      "link": "https://www.theguardian.com/music/2026/jul/13/josh-fawaz-like-a-prayer-song-is-it-ai-radio",
+      "summary": "Josh Fawaz’s cover of Madonna’s 'Like a Prayer' has sparked debate over the use of generative AI in music production. The song's rapid rise to popularity has led some experts to question whether it was created by human effort or AI assistance. This controversy highlights the complexities and ethical considerations surrounding AI's role in creative industries.",
       "source": "The Guardian"
     },
     {
-      "title": "AI 도입 넘어 비용 관리로…오픈AI, 사용량 분석·예산 설정 기능 공개",
-      "link": "https://www.cio.com/article/4187583/ai-%eb%8f%84%ec%9e%85-%eb%84%98%ec%96%b4-%eb%b9%84%ec%9a%a9-%ea%b4%80%eb%a6%ac%eb%a1%9c%ec%98%a4%ed%94%88ai-%ec%82%ac%ec%9a%a9%eb%9f%89-%eb%b6%84%ec%84%9d%c2%b7%ec%98%88%ec%82%b0-%ec%84%a4.html",
-      "summary": "OpenAI has introduced new features for its ChatGPT Enterprise that allow businesses to monitor AI usage and set budgets. This shift highlights a growing focus on managing AI costs and ensuring that investments translate into tangible business outcomes.",
-      "source": "CIO"
+      "title": "Christopher Nolan says people ‘disdain’ AI and the idea it will replace humans is ‘nonsense’",
+      "link": "https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence",
+      "summary": "Renowned director Christopher Nolan has defended the role of human creativity in filmmaking amidst rising concerns about AI's impact on the industry. He argues that while AI can assist, it cannot replace the unique vision and artistry of human filmmakers. Nolan’s remarks come as he promotes his latest film, 'The Odyssey'.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "AI is accelerating software development, creating new challenges for application security",
+      "link": "https://www.itnews.com.au/state-of-security-2026/state-of-security-2026-application-security-625804?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The integration of AI in software development is transforming application security, presenting both opportunities and challenges. As AI tools streamline coding processes, they also introduce new vulnerabilities that security teams must address. This evolving landscape necessitates a proactive approach to safeguarding applications against AI-related threats.",
+      "source": "IT News"
+    },
+    {
+      "title": "How Monash University is tackling the AI-driven app security gap",
+      "link": "https://www.itnews.com.au/news/how-monash-university-is-tackling-the-ai-driven-app-security-gap-625805?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Monash University is taking steps to address the security gaps that arise from AI's influence on application development. By focusing on human connection and collaboration, the university aims to enhance security measures in an increasingly AI-driven environment. This initiative underscores the importance of integrating human oversight in technological advancements.",
+      "source": "IT News"
+    },
+    {
+      "title": "AI has triggered the biggest gas-plant building boom in history, and a quiet fight to stop it",
+      "link": "https://thenextweb.com/news/ai-data-centres-gas-plants-clean-energy-fight",
+      "summary": "The AI boom has inadvertently led to a surge in the construction of natural gas power plants, raising environmental concerns. This unprecedented building spree is driven by the energy demands of AI data centers, prompting activists and communities to push back against the expansion. The situation highlights the complex relationship between technological advancement and environmental sustainability.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Most Americans now say the public should own half of the big AI companies",
+      "link": "https://thenextweb.com/news/most-americans-now-say-the-public-should-own-half-of-the-big-ai-companies",
+      "summary": "A recent survey reveals that nearly 70% of Americans support the idea of transferring half the stock of major AI companies to a public sovereign wealth fund. This shift in public opinion reflects growing concerns about the concentration of power within the AI sector and the need for broader accountability and ownership.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Darren Aronofsky's '1776' AI Video Series Is Unhinged, and I Can't Look Away",
+      "link": "https://www.cnet.com/tech/services-and-software/darren-aronofsky-on-this-day-1776-ai-series-midseason-review/",
+      "summary": "Darren Aronofsky's latest project, an AI-driven video series titled 'On This Day...1776', explores historical events through a modern lens. The series showcases the potential of generative AI in storytelling, while also raising questions about the implications of using AI in creative narratives. Critics have noted its unique and often bizarre approach to historical storytelling.",
+      "source": "CNET"
+    },
+    {
+      "title": "The fight against AI data centers is just beginning",
+      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "summary": "Communities are increasingly opposing the construction of AI data centers due to their environmental impact and energy consumption. The article discusses the historical context of these protests and the growing awareness of the consequences of AI infrastructure on local ecosystems and power grids. Activists are mobilizing to challenge the expansion of these facilities.",
+      "source": "The Verge"
     }
   ]
 }
