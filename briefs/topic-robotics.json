@@ -1,25 +1,19 @@
 {
-  "generatedAt": "2026-07-06T06:50:00.722Z",
+  "generatedAt": "2026-07-13T05:50:27.310Z",
   "topic": "robotics",
-  "weekOf": "2026-07-06",
-  "lead": "The field of robotics is advancing rapidly, with significant developments in humanoid robots and dextrous manipulation technologies. As companies explore new frontiers, the challenges of creating robots that can mimic human capabilities remain at the forefront.",
+  "weekOf": "2026-07-13",
+  "lead": "Robotics is advancing rapidly, with innovations focused on enhancing human interaction and solving complex challenges like dexterous manipulation.",
   "stories": [
     {
-      "title": "This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon",
-      "link": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/",
-      "summary": "Agility Robotics is preparing to go public through a SPAC, focusing on execution rather than just market hype. The CEO emphasizes that while the company is making strides in humanoid robotics, consumers shouldn't expect to see robots in their homes in the near future. This approach contrasts with many startups chasing high valuations without a clear path to practical applications.",
-      "source": "TechCrunch"
+      "title": "Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction",
+      "link": "https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/",
+      "summary": "Researchers are exploring the potential of lighter-than-air robots that can engage in emotional connections with humans. These floating companions are designed to enhance safety and friendliness in human-robot interactions. The project aims to redefine how robots can integrate into social settings, making them more approachable and effective in various environments.",
+      "source": "CNET"
     },
     {
       "title": "China wants to solve the hardest problem in robotics – making hands",
       "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
-      "summary": "Chinese companies are racing to develop dextrous robotic hands, a crucial step in advancing humanoid robots from mere novelties to practical tools. Human hands are incredibly complex, and replicating their functionality has been a longstanding challenge in robotics. With advancements in AI, the industry is optimistic about overcoming this hurdle, potentially transforming how robots interact with the world.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "China wants to solve the hardest problem in robotics – making hands",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
-      "summary": "The quest for creating dextrous robotic hands is intensifying in China, where companies are focusing on developing 'embodied AI'. This technology aims to enable robots to perform intricate tasks that require fine motor skills, which have historically been difficult for machines. The potential applications of such advancements could revolutionize industries that rely on manual dexterity.",
+      "summary": "China is at the forefront of developing dextrous robotic hands, a significant challenge in the field of robotics. These hands aim to replicate the complex functionality of human hands, which are essential for performing intricate tasks. The race to create 'embodied AI' is heating up, with various companies striving to overcome this final frontier in humanoid robotics.",
       "source": "The Guardian Australia"
     }
   ]
