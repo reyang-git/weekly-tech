@@ -1,56 +1,38 @@
 {
-  "generatedAt": "2026-06-22T08:33:20.821Z",
+  "generatedAt": "2026-07-13T05:50:27.510Z",
   "topic": "climate",
-  "weekOf": "2026-06-22",
-  "lead": "Climate change remains a pressing global issue, with various sectors grappling with its implications and potential solutions, from data centers to geoengineering efforts.",
+  "weekOf": "2026-07-13",
+  "lead": "Recent developments highlight the intersection of climate change with technology, fisheries, and historical exploration.",
   "stories": [
     {
-      "title": "Thirsty and power hungry: Australia is in the middle of a datacentre boom – but are they good for the economy?",
-      "link": "https://www.theguardian.com/technology/2026/jun/22/australia-ai-datacentre-boom-environmental-impacts-climate-how-sustainable-is-it-artificial-intelligence",
-      "summary": "Australia is experiencing a significant boom in data centers, driven by the demand for AI and digital services. However, this growth raises concerns about its environmental impact, as these facilities require substantial water and energy resources. Critics argue that while these centers contribute to the economy, they may also lead to higher energy prices and environmental degradation.",
+      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+      "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+      "summary": "New research sheds light on the reasons behind the Polynesian voyages to the east after a long period of stagnation. The study suggests that climate changes may have played a crucial role in motivating these long-distance sea travels. This historical context enriches our understanding of how ancient cultures adapted to environmental shifts.",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
+      "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+      "summary": "A report reveals that the carbon emissions from major tech companies like Microsoft, Amazon, and Google have surged, now accounting for nearly a third of France's total emissions. This increase is primarily attributed to the rapid construction of datacentres. Despite this rise, the companies maintain their commitment to achieving net-zero emissions.",
       "source": "The Guardian"
     },
     {
-      "title": "Can we electrify the world? Ambition moves from nerdish backwater to centre stage",
-      "link": "https://www.theguardian.com/environment/2026/jun/20/electrification-takes-centre-stage-bonn-climate-talks",
-      "summary": "Electrification is emerging as a critical strategy in the fight against climate change, particularly as global energy demands soar. Recent discussions at the pre-Cop31 climate talks highlighted the importance of transitioning from fossil fuels to electric solutions across various sectors. This shift could significantly reduce energy costs and carbon emissions, making it a focal point for future climate initiatives.",
-      "source": "The Guardian"
+      "title": "El Niño Is Already Wreaking Havoc on Pacific Fisheries",
+      "link": "https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/",
+      "summary": "The current El Niño phenomenon is causing significant disruptions in Pacific fisheries, with some areas facing severe challenges while others benefit from the warm waters. This situation highlights the complex impacts of climate change on marine ecosystems and the fishing industry. Stakeholders are urged to adapt to these shifting conditions to sustain their livelihoods.",
+      "source": "Wired"
     },
     {
-      "title": "Your next data center could soon be in space. Here’s why you should care",
-      "link": "https://www.cio.com/article/4186890/your-next-data-center-could-soon-be-in-space-heres-why-you-should-care.html",
-      "summary": "The concept of space-based data centers is gaining traction as a potential solution to the environmental challenges posed by terrestrial facilities. These orbital centers could leverage abundant solar energy and natural cooling, addressing power and cooling constraints faced on Earth. While still in the conceptual stage, this innovation could redefine infrastructure planning and climate resilience.",
-      "source": "CIO"
-    },
-    {
-      "title": "Geoengineering still faces major practical challenges",
-      "link": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
-      "summary": "Solar geoengineering is often viewed as a potential emergency measure to combat climate change, but significant challenges remain. The complexities of implementing such technologies raise questions about their efficacy and safety. As discussions around geoengineering evolve, understanding its practical implications is crucial for future climate strategies.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "Apocalypse when? ‘Earth’s Black Box’ to be installed in remote Tasmanian airfield",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/18/earth-black-box-climate-apocalypse-tasmania-australia",
-      "summary": "The 'Earth's Black Box' project aims to record humanity's actions leading to climate catastrophe, serving as a testament to our environmental failures. Set to be installed in Tasmania, this steel structure symbolizes the urgent need for accountability in climate actions. Its creators hope it will provoke reflection on our collective impact on the planet.",
+      "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
+      "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+      "summary": "The environmental impact of large tech firms is under scrutiny as their datacentres contribute significantly to global carbon emissions. In the last fiscal year, emissions rose sharply, prompting calls for more sustainable practices. The companies are facing pressure to balance growth with their sustainability goals.",
       "source": "The Guardian Australia"
     },
     {
-      "title": "Data centre boom could send power prices 26 per cent higher: Climate group",
-      "link": "https://www.smh.com.au/technology/data-centre-boom-could-send-power-prices-26-per-cent-higher-climate-group-20260602-p6030x.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "A report warns that the rapid expansion of data centers in Australia could lead to a 26% increase in power prices for households. As the demand for digital infrastructure grows, so does the strain on the energy grid, raising concerns about sustainability and the long-term economic implications of this trend.",
-      "source": "Sydney Morning Herald"
-    },
-    {
-      "title": "As senators consider a startup carve-out for Budget tax reform, The Greens should keep climate tech in mind",
-      "link": "https://www.startupdaily.net/topic/politics-news-analysis/as-senators-consider-a-startup-carve-out-for-budget-tax-reform-the-greens-should-keep-climate-tech-in-mind/",
-      "summary": "Amid budget discussions, there's a push for tax incentives aimed at climate tech startups in Australia. Advocates argue that such measures could safeguard public investments and foster innovation in sustainable technologies. This initiative highlights the intersection of policy and climate action in driving forward the green economy.",
+      "title": "Meet the 8 South Australian space startups accelerating to the stars",
+      "link": "https://www.startupdaily.net/topic/space/meet-the-8-south-australian-space-startups-accelerating-to-the-stars/",
+      "summary": "A new wave of South Australian startups is emerging, focusing on innovative solutions that address climate risks through technology. These companies are exploring various applications, from AI-driven climate analysis to sustainable practices in space missions. Their work represents a forward-thinking approach to tackling environmental challenges.",
       "source": "Startup Daily"
-    },
-    {
-      "title": "The Download: a reality check for geoengineering and the science of interoception",
-      "link": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-      "summary": "Recent discussions on geoengineering have provided a reality check on its feasibility and ethical implications. As the climate crisis intensifies, the idea of manipulating the climate system is becoming more mainstream, yet experts caution against oversimplifying its potential benefits and risks. Understanding the science behind these technologies is essential for informed decision-making.",
-      "source": "MIT Technology Review"
     }
   ]
 }
