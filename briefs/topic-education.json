@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-07-06T06:49:59.955Z",
+  "generatedAt": "2026-07-13T05:50:27.679Z",
   "topic": "education",
-  "weekOf": "2026-07-06",
-  "lead": "The integration of AI into education is reshaping traditional learning paradigms, especially among affluent families who are opting for AI-driven teaching methods.",
+  "weekOf": "2026-07-13",
+  "lead": "Exploring the evolving landscape of education, from innovative kids' apps to advanced AI management courses for IT leaders.",
   "stories": [
     {
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "summary": "A growing number of wealthy families in the U.S. are choosing AI-based education for their children, bypassing traditional schooling. Companies like Forge Prep and Alpha School are pioneering this trend, offering high-priced programs that utilize AI tutors and project-based learning. This shift highlights a significant divide in educational access and the potential of AI in personalized learning.",
-      "source": "The Verge"
+      "title": "This educational kids app gives parents a much-needed break — and now it’s $60 for life",
+      "link": "https://mashable.com/life/july-12-pok-pok-lifetime-subscription",
+      "summary": "Pok Pok, an educational app for children, is now available for a lifetime subscription at a one-time cost of $60. This app not only entertains kids but also provides educational content, allowing parents to take a much-needed break. With its engaging approach to learning, Pok Pok aims to make education enjoyable for young learners.",
+      "source": "Mashable"
     },
     {
-      "title": "4 reasons AI projects fail that have nothing to do with technology",
-      "link": "https://www.cio.com/article/4191770/4-reasons-ai-projects-fail-that-have-nothing-to-do-with-technology.html",
-      "summary": "Despite the promise of AI, many projects fail due to cultural and organizational barriers rather than technical limitations. Common issues include fear of job replacement, lack of an AI-first culture, and misaligned incentives among stakeholders. Understanding these factors is crucial for organizations looking to successfully implement AI in their operations, including educational contexts.",
+      "title": "10 courses for IT leaders navigating AI change management",
+      "link": "https://www.cio.com/article/4044424/6-courses-for-it-leaders-navigating-ai-change-management.html",
+      "summary": "As AI continues to reshape business operations, IT leaders are increasingly required to manage organizational change effectively. This article highlights ten educational courses designed to equip leaders with the skills necessary for navigating AI change management. From online programs at Harvard Business School to in-person courses at MIT, these offerings cover a range of topics essential for leading in an AI-driven environment.",
       "source": "CIO"
     },
     {
-      "title": "AI in Education: A Double-Edged Sword",
-      "link": "https://www.educationweek.org/technology/ai-in-education-a-double-edged-sword/2023/07",
-      "summary": "As AI tools become more prevalent in classrooms, educators face both opportunities and challenges. While AI can provide personalized learning experiences, it also raises concerns about data privacy and the potential for widening educational inequalities. Schools must navigate these complexities to harness AI effectively.",
-      "source": "Education Week"
+      "title": "Why the US is at risk of losing the AI talent and productivity war",
+      "link": "https://www.cio.com/article/4194593/why-the-us-is-at-risk-of-losing-the-ai-talent-and-productivity-war.html",
+      "summary": "The U.S. faces a significant challenge in maintaining its leadership in AI due to a shortage of STEM graduates and skilled professionals. This article discusses the implications of this gap on AI leadership and productivity, emphasizing the need for a robust educational framework to prepare future talent. It also highlights successful models from other countries that could inform U.S. strategies to enhance its STEM pipeline.",
+      "source": "CIO"
     },
     {
-      "title": "How AI is transforming higher education",
-      "link": "https://www.insidehighered.com/news/2023/08/15/how-ai-transforming-higher-education",
-      "summary": "AI technologies are increasingly being adopted in higher education, from administrative tasks to personalized learning pathways. Institutions are leveraging AI to enhance student engagement and streamline operations, but they must also consider ethical implications and the need for faculty training.",
-      "source": "Inside Higher Ed"
+      "title": "AI Change Management: Cultivating a Continuous Learning Culture",
+      "link": "https://www.skillsoft.com/courses/ai-change-management-cultivating-a-continuous-learning-culture",
+      "summary": "Skillsoft's program on AI Change Management focuses on fostering a continuous learning culture within organizations. It emphasizes innovative learning strategies to help employees adapt to AI technologies. By engaging in microlearning and gamified experiences, participants will learn how to empower their teams to embrace AI and measure the success of these initiatives.",
+      "source": "Skillsoft"
     },
     {
-      "title": "The role of AI in shaping future job skills",
-      "link": "https://www.forbes.com/sites/forbestechcouncil/2023/09/12/the-role-of-ai-in-shaping-future-job-skills/",
-      "summary": "AI is not only changing how we learn but also what skills will be necessary for future jobs. As educational institutions adapt their curricula to include AI literacy, students will need to develop critical thinking and adaptability to thrive in an AI-driven job market.",
-      "source": "Forbes"
+      "title": "Navigating Transitions During AI-Driven Change",
+      "link": "https://executive.mit.edu/course/navigating-transitions-during-ai-driven-change",
+      "summary": "MIT's course on Navigating Transitions During AI-Driven Change is crafted for leaders looking to understand the organizational impacts of AI. Participants will learn how to implement AI effectively and build resilience within their teams. The program offers both in-person and online formats, making it accessible to a wide range of professionals.",
+      "source": "MIT Management Executive Education"
     },
     {
-      "title": "AI Tutors: The Future of Personalized Learning?",
-      "link": "https://www.edutopia.org/article/ai-tutors-future-personalized-learning",
-      "summary": "AI tutors are emerging as a powerful tool for personalized education, offering tailored learning experiences based on individual student needs. This technology promises to enhance student engagement and performance, but educators must ensure it complements traditional teaching methods.",
-      "source": "Edutopia"
+      "title": "AI strategies for Business Transformation",
+      "link": "https://www.kellogg.northwestern.edu/executive-education/ai-strategies-for-business-transformation.aspx",
+      "summary": "Northwestern's Kellogg School of Management offers an AI strategies program aimed at business leaders. This eight-week online course focuses on applying AI to enhance customer experience and productivity. Participants will engage in discussions and projects that aim to unlock business value through strategic AI implementation.",
+      "source": "Northwestern Kellogg Executive Education"
     },
     {
-      "title": "Ethical considerations in AI education",
-      "link": "https://www.edsurge.com/news/2023-10-01-ethical-considerations-in-ai-education",
-      "summary": "The rise of AI in education brings forth significant ethical considerations, including bias in algorithms and the impact on student privacy. Educators and policymakers must work together to develop guidelines that ensure AI is used responsibly and equitably in educational settings.",
-      "source": "EdSurge"
+      "title": "AI-Driven Leadership: Strategies for the Future",
+      "link": "https://online.stanford.edu/courses/soe-ycai0010-ai-driven-leadership-strategies-future",
+      "summary": "Stanford's six-week online course on AI-Driven Leadership prepares mid-level and senior executives to leverage AI technologies effectively. The curriculum covers decision-making processes and operational efficiency improvements through AI. This program is designed for leaders looking to understand the strategic implications of AI in their organizations.",
+      "source": "Stanford Online"
     },
     {
-      "title": "The impact of AI on teacher roles",
-      "link": "https://www.teachthought.com/technology/the-impact-of-ai-on-teacher-roles/",
-      "summary": "As AI tools become more prevalent in classrooms, the role of teachers is evolving. Educators are shifting from traditional instruction to facilitation, focusing on mentoring and guiding students in their AI-enhanced learning experiences. This transition requires professional development and support.",
-      "source": "TeachThought"
+      "title": "Strategic Leadership in the Age of Generative and Agentic AI",
+      "link": "https://www.chicagobooth.edu/executive-education/strategic-leadership-in-the-age-of-generative-and-agentic-ai",
+      "summary": "The University of Chicago offers a comprehensive online certificate program that spans eight months, focusing on strategic leadership in the context of generative AI. Participants will learn to build AI literacy and governance frameworks, culminating in hands-on projects that apply their learning to real-world scenarios. This program aims to equip leaders with the skills necessary for navigating the complexities of AI.",
+      "source": "The University of Chicago"
     }
   ]
 }
