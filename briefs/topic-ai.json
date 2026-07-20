@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-07-13T05:50:29.027Z",
+  "generatedAt": "2026-07-20T05:51:23.040Z",
   "topic": "AI",
-  "weekOf": "2026-07-13",
-  "lead": "AI continues to influence various sectors, from music to application security, raising questions about its implications and future.",
+  "weekOf": "2026-07-20",
+  "lead": "The rapid advancement of AI technologies is reshaping various sectors, from environmental research to entertainment and governance, raising both opportunities and ethical concerns.",
   "stories": [
     {
-      "title": "Is the most popular song played on Australian radio stations the product of generative AI?",
-      "link": "https://www.theguardian.com/music/2026/jul/13/josh-fawaz-like-a-prayer-song-is-it-ai-radio",
-      "summary": "Josh Fawaz’s cover of Madonna’s 'Like a Prayer' has sparked debate over the use of generative AI in music production. The song's rapid rise to popularity has led some experts to question whether it was created by human effort or AI assistance. This controversy highlights the complexities and ethical considerations surrounding AI's role in creative industries.",
+      "title": "AI-altered images on birdwatching forums putting research at risk",
+      "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
+      "summary": "Experts are sounding alarms over the rise of AI-manipulated images in birdwatching communities, which are leading to false sightings and undermining the credibility of citizen science. This phenomenon, dubbed 'AI slop', poses a significant threat to genuine research efforts and the integrity of data collected by birdwatchers.",
       "source": "The Guardian"
     },
     {
-      "title": "Christopher Nolan says people ‘disdain’ AI and the idea it will replace humans is ‘nonsense’",
-      "link": "https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence",
-      "summary": "Renowned director Christopher Nolan has defended the role of human creativity in filmmaking amidst rising concerns about AI's impact on the industry. He argues that while AI can assist, it cannot replace the unique vision and artistry of human filmmakers. Nolan’s remarks come as he promotes his latest film, 'The Odyssey'.",
+      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+      "summary": "Netflix's acquisition of InterPositive, a startup co-founded by Ben Affleck focused on AI-driven filmmaking, highlights the streaming giant's commitment to integrating advanced technologies in content creation. This move is seen as a strategic investment in the future of film production, leveraging AI to enhance storytelling.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI advice made people three times less accurate but twice as confident, researchers found",
+      "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "summary": "A study by researchers from French and Italian universities revealed that reliance on AI-generated advice significantly decreased accuracy in decision-making while boosting confidence. This paradox raises concerns about the implications of AI on critical thinking and decision-making processes.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
+      "summary": "Australia's government is set to implement stringent regulations on the use of AI in automated decision-making across public sectors. The new national plan aims to ensure fairness, accuracy, and transparency in AI processes, reflecting growing concerns over the ethical implications of AI in governance.",
       "source": "The Guardian"
     },
     {
-      "title": "AI is accelerating software development, creating new challenges for application security",
-      "link": "https://www.itnews.com.au/state-of-security-2026/state-of-security-2026-application-security-625804?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "The integration of AI in software development is transforming application security, presenting both opportunities and challenges. As AI tools streamline coding processes, they also introduce new vulnerabilities that security teams must address. This evolving landscape necessitates a proactive approach to safeguarding applications against AI-related threats.",
+      "title": "Could AI be conscious?",
+      "link": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+      "summary": "Experts are exploring the possibility of AI consciousness, with discussions around advanced models like Anthropic's Claude suggesting that AI systems may reach levels of complexity comparable to biological brains in the near future. This raises profound ethical questions about the rights and responsibilities associated with potentially conscious AI.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Lawsuit says AI tool disproportionately places Black prisoners in maximum security in Ontario",
+      "link": "https://mashable.com/tech/lawsuit-says-ai-tool-disproportionately-places-ontario-black-prisoners",
+      "summary": "A class action lawsuit in Ontario alleges that an AI risk-assessment tool used in jails unfairly categorizes Black prisoners into maximum security. This case highlights the potential biases inherent in AI systems and the urgent need for ethical oversight in their implementation.",
+      "source": "Mashable"
+    },
+    {
+      "title": "Flight Centre to embrace AI agents, ecommerce consolidation",
+      "link": "https://www.itnews.com.au/news/flight-centre-to-embrace-ai-agents-ecommerce-consolidation-627489?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Flight Centre is set to adopt AI agents as part of its strategy to consolidate e-commerce operations. This move reflects a broader trend in the travel industry to leverage AI technologies for improved customer service and operational efficiency.",
       "source": "IT News"
     },
     {
-      "title": "How Monash University is tackling the AI-driven app security gap",
-      "link": "https://www.itnews.com.au/news/how-monash-university-is-tackling-the-ai-driven-app-security-gap-625805?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Monash University is taking steps to address the security gaps that arise from AI's influence on application development. By focusing on human connection and collaboration, the university aims to enhance security measures in an increasingly AI-driven environment. This initiative underscores the importance of integrating human oversight in technological advancements.",
-      "source": "IT News"
-    },
-    {
-      "title": "AI has triggered the biggest gas-plant building boom in history, and a quiet fight to stop it",
-      "link": "https://thenextweb.com/news/ai-data-centres-gas-plants-clean-energy-fight",
-      "summary": "The AI boom has inadvertently led to a surge in the construction of natural gas power plants, raising environmental concerns. This unprecedented building spree is driven by the energy demands of AI data centers, prompting activists and communities to push back against the expansion. The situation highlights the complex relationship between technological advancement and environmental sustainability.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Most Americans now say the public should own half of the big AI companies",
-      "link": "https://thenextweb.com/news/most-americans-now-say-the-public-should-own-half-of-the-big-ai-companies",
-      "summary": "A recent survey reveals that nearly 70% of Americans support the idea of transferring half the stock of major AI companies to a public sovereign wealth fund. This shift in public opinion reflects growing concerns about the concentration of power within the AI sector and the need for broader accountability and ownership.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Darren Aronofsky's '1776' AI Video Series Is Unhinged, and I Can't Look Away",
-      "link": "https://www.cnet.com/tech/services-and-software/darren-aronofsky-on-this-day-1776-ai-series-midseason-review/",
-      "summary": "Darren Aronofsky's latest project, an AI-driven video series titled 'On This Day...1776', explores historical events through a modern lens. The series showcases the potential of generative AI in storytelling, while also raising questions about the implications of using AI in creative narratives. Critics have noted its unique and often bizarre approach to historical storytelling.",
-      "source": "CNET"
-    },
-    {
-      "title": "The fight against AI data centers is just beginning",
-      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "summary": "Communities are increasingly opposing the construction of AI data centers due to their environmental impact and energy consumption. The article discusses the historical context of these protests and the growing awareness of the consequences of AI infrastructure on local ecosystems and power grids. Activists are mobilizing to challenge the expansion of these facilities.",
-      "source": "The Verge"
+      "title": "Moon landing: Why this Chinese AI model rattled global sharemarkets",
+      "link": "https://www.smh.com.au/technology/moon-landing-why-this-chinese-ai-model-rattled-global-sharemarkets-20260720-p60gr1.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "The launch of the Moonshot K3 AI model has shaken global stock markets, demonstrating that open AI models can compete with established closed systems. This event underscores the growing significance of AI in financial markets and its potential to influence global economic trends.",
+      "source": "Sydney Morning Herald"
     }
   ]
 }
