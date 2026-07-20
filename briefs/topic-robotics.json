@@ -1,20 +1,26 @@
 {
-  "generatedAt": "2026-07-13T05:50:27.310Z",
+  "generatedAt": "2026-07-20T05:51:22.017Z",
   "topic": "robotics",
-  "weekOf": "2026-07-13",
-  "lead": "Robotics is advancing rapidly, with innovations focused on enhancing human interaction and solving complex challenges like dexterous manipulation.",
+  "weekOf": "2026-07-20",
+  "lead": "Recent advancements in robotics highlight the integration of AI and innovative training methods, showcasing the potential for robots to learn from vast amounts of data and adapt to new environments.",
   "stories": [
     {
-      "title": "Meet the Floating Robot Companion Designed for Safe, Friendly Human Interaction",
-      "link": "https://www.cnet.com/tech/floating-robots-safe-friendly-human-interaction/",
-      "summary": "Researchers are exploring the potential of lighter-than-air robots that can engage in emotional connections with humans. These floating companions are designed to enhance safety and friendliness in human-robot interactions. The project aims to redefine how robots can integrate into social settings, making them more approachable and effective in various environments.",
+      "title": "They Trained Robots on 100 Million Videos. Here's What Happened",
+      "link": "https://www.cnet.com/videos/they-trained-robots-on-100-million-videos-heres-what-happened/",
+      "summary": "Rhoda AI is pioneering a novel approach to robotics by training its models on 100 million internet videos rather than traditional lab data. This innovative method allows robots to learn complex physics and behaviors from real-world scenarios captured in video format. The implications for future robotics development could be significant, as the technology aims to enhance robot adaptability and functionality.",
       "source": "CNET"
     },
     {
-      "title": "China wants to solve the hardest problem in robotics – making hands",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
-      "summary": "China is at the forefront of developing dextrous robotic hands, a significant challenge in the field of robotics. These hands aim to replicate the complex functionality of human hands, which are essential for performing intricate tasks. The race to create 'embodied AI' is heating up, with various companies striving to overcome this final frontier in humanoid robotics.",
-      "source": "The Guardian Australia"
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "summary": "Agility Robotics has announced the opening of a new training center for its Digit robots in Fremont, California, strategically located near Tesla's operations. This move signifies Agility's commitment to advancing humanoid robotics and could foster collaborations with automotive innovations. The training center is expected to enhance the capabilities of Digit, making it more efficient in performing tasks in dynamic environments.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "China creates World AI body with Russia and 27 others, but without US",
+      "link": "https://www.cio.com/article/4198357/china-creates-world-ai-body-with-russia-and-27-others-but-without-us.html",
+      "summary": "China has established the World Artificial Intelligence Cooperation Organization (WAICO) with 28 other countries, aiming to set global standards and regulations for AI, including robotics. Notably absent from this initiative are major players like the US and EU, highlighting a shift in the global AI landscape. This organization seeks to bridge the capability divide in AI development and could influence international robotics standards.",
+      "source": "CIO"
     }
   ]
 }
