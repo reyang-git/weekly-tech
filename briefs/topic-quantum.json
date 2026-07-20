@@ -1,20 +1,26 @@
 {
-  "generatedAt": "2026-07-06T06:50:00.621Z",
+  "generatedAt": "2026-07-20T05:51:21.958Z",
   "topic": "quantum",
-  "weekOf": "2026-07-06",
-  "lead": "The quantum landscape is evolving, with significant implications for both technology and commerce. From quantum computing's potential economic impact to advancements in quantum-dot technology in consumer electronics, the field is gaining attention across various sectors.",
+  "weekOf": "2026-07-20",
+  "lead": "Quantum technology continues to advance, with innovations in quantum computers and encryption promising to reshape the future of cybersecurity and computing.",
   "stories": [
     {
-      "title": "Organisations should look beyond AI and start thinking about the quantum economy",
-      "link": "https://www.startupdaily.net/advice/business-strategy/organisations-should-look-beyond-ai-to-quantum-computing/",
-      "summary": "As the tech world remains captivated by artificial intelligence, Dr. Simon Ruffell argues that businesses should pivot their focus towards the burgeoning quantum economy. He highlights how quantum computing is poised to become a pivotal commercial opportunity, potentially reshaping industries and driving innovation. Companies that invest in understanding and leveraging quantum technologies may gain a competitive edge in the future.",
-      "source": "Startup Daily"
+      "title": "Post-Quantum Encryption Could Be the Must-Have VPN Feature of the Future",
+      "link": "https://lifehacker.com/tech/post-quantum-encryption-vpn?utm_medium=RSS",
+      "summary": "As quantum computing technology evolves, the potential for quantum computers to break traditional encryption methods poses a significant threat to online security. This article discusses the importance of post-quantum encryption as a necessary feature for VPNs to safeguard user data against future quantum attacks. The shift towards quantum-resistant encryption is becoming increasingly critical in the tech landscape.",
+      "source": "Lifehacker"
     },
     {
-      "title": "Vizio accidentally made the best dumb TV on the market",
-      "link": "https://www.theverge.com/tech/960916/vizio-mini-led-quantum-tv-review",
-      "summary": "Vizio's new 65-inch Mini LED Quantum TV has emerged as a surprising contender in the market, offering advanced quantum-dot technology at an affordable price. This TV not only delivers superior brightness and color accuracy but has also been dubbed the best 'dumb TV' due to its simplicity and effectiveness. The product marks a significant comeback for Vizio, especially after its acquisition by Walmart, showcasing the potential of quantum technology in consumer electronics.",
-      "source": "The Verge"
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "summary": "This edition of The Download highlights the latest developments in quantum technology, including PsiQuantum's ambitious plan to create a massive quantum computer utilizing light. The article also touches on other technological advancements, showcasing how quantum computing is on the verge of becoming a practical reality. The implications of such machines could be profound, impacting various sectors.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+      "summary": "PsiQuantum's innovative approach to building a quantum computer using light aims to revolutionize computational capabilities. The planned facility will house numerous stainless-steel cabinets operating at near absolute zero, creating an environment conducive to quantum processing. This development could significantly enhance the power and efficiency of quantum computing, potentially leading to breakthroughs in various fields.",
+      "source": "MIT Technology Review"
     }
   ]
 }
