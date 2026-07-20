@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-07-13T05:50:27.679Z",
+  "generatedAt": "2026-07-20T05:51:22.123Z",
   "topic": "education",
-  "weekOf": "2026-07-13",
-  "lead": "Exploring the evolving landscape of education, from innovative kids' apps to advanced AI management courses for IT leaders.",
+  "weekOf": "2026-07-20",
+  "lead": "The education landscape is rapidly evolving, with universities facing challenges from AI-driven cheating and the need for innovative leadership in preparing future generations.",
   "stories": [
     {
-      "title": "This educational kids app gives parents a much-needed break — and now it’s $60 for life",
-      "link": "https://mashable.com/life/july-12-pok-pok-lifetime-subscription",
-      "summary": "Pok Pok, an educational app for children, is now available for a lifetime subscription at a one-time cost of $60. This app not only entertains kids but also provides educational content, allowing parents to take a much-needed break. With its engaging approach to learning, Pok Pok aims to make education enjoyable for young learners.",
-      "source": "Mashable"
+      "title": "ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
+      "summary": "The Australian National University is under fire for its reaction to students using AI for cheating, described as 'hysterical' by some academics. As universities strive to maintain academic integrity, experts warn that failing to restore educational rigour could lead to a loss of intellectual capability to foreign companies. The debate highlights the urgent need for institutions to adapt to new technologies while preserving educational standards.",
+      "source": "The Guardian"
     },
     {
-      "title": "10 courses for IT leaders navigating AI change management",
-      "link": "https://www.cio.com/article/4044424/6-courses-for-it-leaders-navigating-ai-change-management.html",
-      "summary": "As AI continues to reshape business operations, IT leaders are increasingly required to manage organizational change effectively. This article highlights ten educational courses designed to equip leaders with the skills necessary for navigating AI change management. From online programs at Harvard Business School to in-person courses at MIT, these offerings cover a range of topics essential for leading in an AI-driven environment.",
+      "title": "ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments",
+      "link": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
+      "summary": "Critics of the Australian National University's response to AI-assisted cheating argue that the institution's measures may be overreactions. Experts emphasize that without a robust educational framework, Australia risks losing its intellectual capital to tech giants abroad. This situation underscores the necessity for universities to innovate their assessment methods to keep pace with technological advancements.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "What next-generation IT leadership looks like",
+      "link": "https://www.cio.com/article/4195784/what-next-generation-it-leadership-looks-like.html",
+      "summary": "Jane Connell, a former Verizon CIO, discusses the evolving role of IT leaders in education and beyond. She emphasizes the importance of curiosity and a mindset of inquiry, especially as AI transforms the workforce. Connell argues that future leaders must adapt to a landscape where traditional entry-level roles are diminishing, necessitating new approaches to building foundational knowledge and skills.",
       "source": "CIO"
     },
     {
-      "title": "Why the US is at risk of losing the AI talent and productivity war",
-      "link": "https://www.cio.com/article/4194593/why-the-us-is-at-risk-of-losing-the-ai-talent-and-productivity-war.html",
-      "summary": "The U.S. faces a significant challenge in maintaining its leadership in AI due to a shortage of STEM graduates and skilled professionals. This article discusses the implications of this gap on AI leadership and productivity, emphasizing the need for a robust educational framework to prepare future talent. It also highlights successful models from other countries that could inform U.S. strategies to enhance its STEM pipeline.",
+      "title": "What next-generation IT leadership looks like",
+      "link": "https://www.cio.com/article/4195784/what-next-generation-it-leadership-looks-like.html",
+      "summary": "In a recent interview, Jane Connell outlined the critical skills needed for future technology leaders, including humility and the ability to foster followership. She highlighted that as organizations increasingly rely on AI, leaders must cultivate a culture of collaboration and trust, moving away from traditional hierarchical structures. This shift is crucial for nurturing the next generation of leaders in an AI-driven world.",
       "source": "CIO"
     },
     {
-      "title": "AI Change Management: Cultivating a Continuous Learning Culture",
-      "link": "https://www.skillsoft.com/courses/ai-change-management-cultivating-a-continuous-learning-culture",
-      "summary": "Skillsoft's program on AI Change Management focuses on fostering a continuous learning culture within organizations. It emphasizes innovative learning strategies to help employees adapt to AI technologies. By engaging in microlearning and gamified experiences, participants will learn how to empower their teams to embrace AI and measure the success of these initiatives.",
-      "source": "Skillsoft"
+      "title": "What next-generation IT leadership looks like",
+      "link": "https://www.cio.com/article/4195784/what-next-generation-it-leadership-looks-like.html",
+      "summary": "Connell's insights reveal that the future of leadership in technology will hinge on the ability to inspire and engage teams in a collaborative manner. She stresses that leaders must be adept at navigating the complexities of AI and digital transformation while maintaining a human-centric approach. This perspective is vital for educational institutions aiming to prepare students for the challenges of tomorrow's workforce.",
+      "source": "CIO"
     },
     {
-      "title": "Navigating Transitions During AI-Driven Change",
-      "link": "https://executive.mit.edu/course/navigating-transitions-during-ai-driven-change",
-      "summary": "MIT's course on Navigating Transitions During AI-Driven Change is crafted for leaders looking to understand the organizational impacts of AI. Participants will learn how to implement AI effectively and build resilience within their teams. The program offers both in-person and online formats, making it accessible to a wide range of professionals.",
-      "source": "MIT Management Executive Education"
+      "title": "What next-generation IT leadership looks like",
+      "link": "https://www.cio.com/article/4195784/what-next-generation-it-leadership-looks-like.html",
+      "summary": "The conversation with Jane Connell emphasizes the need for leaders to be adaptable and forward-thinking in the face of technological disruption. As AI takes over routine tasks, educational leaders must rethink how they equip students with the necessary skills to thrive. This includes fostering a culture of inquiry and resilience, which are essential for navigating the future job market.",
+      "source": "CIO"
     },
     {
-      "title": "AI strategies for Business Transformation",
-      "link": "https://www.kellogg.northwestern.edu/executive-education/ai-strategies-for-business-transformation.aspx",
-      "summary": "Northwestern's Kellogg School of Management offers an AI strategies program aimed at business leaders. This eight-week online course focuses on applying AI to enhance customer experience and productivity. Participants will engage in discussions and projects that aim to unlock business value through strategic AI implementation.",
-      "source": "Northwestern Kellogg Executive Education"
+      "title": "What next-generation IT leadership looks like",
+      "link": "https://www.cio.com/article/4195784/what-next-generation-it-leadership-looks-like.html",
+      "summary": "Connell's reflections on her career journey highlight the importance of embracing change and taking risks in leadership roles. Her experience illustrates how educational institutions can benefit from leaders who are willing to challenge the status quo and innovate continuously. This approach is crucial for fostering a learning environment that prepares students for an increasingly automated world.",
+      "source": "CIO"
     },
     {
-      "title": "AI-Driven Leadership: Strategies for the Future",
-      "link": "https://online.stanford.edu/courses/soe-ycai0010-ai-driven-leadership-strategies-future",
-      "summary": "Stanford's six-week online course on AI-Driven Leadership prepares mid-level and senior executives to leverage AI technologies effectively. The curriculum covers decision-making processes and operational efficiency improvements through AI. This program is designed for leaders looking to understand the strategic implications of AI in their organizations.",
-      "source": "Stanford Online"
-    },
-    {
-      "title": "Strategic Leadership in the Age of Generative and Agentic AI",
-      "link": "https://www.chicagobooth.edu/executive-education/strategic-leadership-in-the-age-of-generative-and-agentic-ai",
-      "summary": "The University of Chicago offers a comprehensive online certificate program that spans eight months, focusing on strategic leadership in the context of generative AI. Participants will learn to build AI literacy and governance frameworks, culminating in hands-on projects that apply their learning to real-world scenarios. This program aims to equip leaders with the skills necessary for navigating the complexities of AI.",
-      "source": "The University of Chicago"
+      "title": "What next-generation IT leadership looks like",
+      "link": "https://www.cio.com/article/4195784/what-next-generation-it-leadership-looks-like.html",
+      "summary": "The discussion with Jane Connell sheds light on the evolving expectations of leaders in education and technology. As institutions face the challenges posed by AI, the need for leaders who can inspire and engage diverse teams becomes paramount. Connell's insights offer a roadmap for cultivating the next generation of leaders who are equipped to handle the complexities of modern education.",
+      "source": "CIO"
     }
   ]
 }
