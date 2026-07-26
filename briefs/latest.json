@@ -1,68 +1,68 @@
 {
-  "generatedAt": "2026-05-24T22:48:35.297Z",
-  "weekOf": "2026-05-24",
-  "lead": "This week, innovation takes center stage with a focus on AI advancements, startup breakthroughs, and the evolving landscape of wearable technology.",
+  "generatedAt": "2026-07-26T22:51:23.631Z",
+  "weekOf": "2026-07-26",
+  "lead": "This week in tech innovation: startups thrive with AI, Apple navigates privacy for smart glasses, and a new PDF editor makes waves.",
   "themes": [
-    "AI and Emerging Technologies",
-    "Startups and VC Deals",
-    "Innovation and New Product Launches",
-    "Australian Tech Ecosystem",
-    "Novel Use Cases of Technology"
+    "startups and VC deals",
+    "innovation and new product launches",
+    "AI and emerging technologies",
+    "Australian tech ecosystem",
+    "novel use cases and applications of technology"
   ],
   "stories": [
     {
-      "title": "McKinsey built a free AI tool so candidates stop paying $500/hour interview coaches",
-      "link": "https://thenextweb.com/news/mckinsey-ai-interview-practice-tool-lilli-consulting",
-      "summary": "McKinsey has launched a free AI practice tool aimed at leveling the playing field for job candidates. This tool allows unlimited attempts at a quantitative case study, which is commonly faced in interviews for entry-level roles. It is designed to help those who cannot afford expensive coaching services, providing a significant resource for aspiring business analysts and associates.",
-      "source": "The Next Web"
+      "title": "Edit, convert, and chat with PDFs for just $35",
+      "link": "https://mashable.com/tech/july-26-pdnob-pro-pdf-editor-lifetime-subscription",
+      "summary": "PDNob Pro PDF Editor offers an AI-powered solution for editing, converting, and summarizing PDFs, now available for a lifetime subscription at just $34.99. This innovative tool aims to simplify document management and enhance productivity for users.",
+      "source": "Mashable"
     },
     {
-      "title": "This Zurich startup built a four-armed robot for space stations. Each astronaut hour it saves is worth $140,000.",
-      "link": "https://thenextweb.com/news/orbit-robotics-helios-four-armed-space-robot",
-      "summary": "Orbit Robotics, a Zurich-based startup, has unveiled Helios, a four-armed robot designed for use in space stations. The robot's unique design replaces legs with two additional arms, allowing it to anchor itself while performing tasks in microgravity. This innovation aims to save astronaut hours, valued at $140,000 each, showcasing a significant advancement in space technology.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "The US blacklisted Anthropic as a security threat. Its spy agencies are using Claude anyway.",
-      "link": "https://thenextweb.com/news/us-government-chip-shortage-anthropic-nsa-9-billion",
-      "summary": "Despite being blacklisted by the US government due to security concerns, the NSA continues to utilize Anthropic's AI model, Claude. This situation highlights the complexities of national security and the reliance on advanced AI technologies, even when they pose potential risks. The Pentagon's decision underscores the critical need for AI solutions in intelligence operations.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "CBA's DevOps agent is helping on-call engineers on 2am wake-up duty",
-      "link": "https://www.itnews.com.au/news/cbas-devops-agent-is-helping-on-call-engineers-on-2am-wake-up-duty-626037?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Commonwealth Bank of Australia (CBA) has developed a DevOps agent that assists on-call engineers during late-night incidents. This tool helps identify root causes of issues, reducing the burden on engineers who are often called in during off-hours. The initiative reflects a growing trend in leveraging technology to improve operational efficiency in the banking sector.",
-      "source": "IT News"
-    },
-    {
-      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-      "link": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-      "summary": "Xreal, in partnership with Google, believes it has finally cracked the code in the smart glasses market, which has historically struggled with consumer adoption. The company aims to integrate augmented reality seamlessly into daily life, marking a potential turning point for wearable technology. This development could reshape how users interact with their environments.",
+      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+      "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+      "summary": "As Apple gears up for the launch of its first smart glasses, the company faces significant challenges regarding consumer privacy. The tech giant is reportedly prioritizing privacy features to distinguish its product from competitors, particularly Meta, which has faced scrutiny over privacy breaches.",
       "source": "TechCrunch"
     },
     {
-      "title": "On London's streets, facial recognition tests the balance between security and liberty",
-      "link": "https://www.itnews.com.au/news/on-londons-streets-facial-recognition-tests-the-balance-between-security-and-liberty-626103?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "The UK government is exploring the implications of facial recognition technology in public spaces, aiming to establish a legal framework that balances security needs with individual liberties. This initiative raises important questions about privacy and surveillance in modern society, as cities increasingly adopt advanced technologies for safety.",
+      "title": "Finance One backs AI and automation to move faster",
+      "link": "https://www.itnews.com.au/news/finance-one-backs-ai-and-automation-to-move-faster-627648?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Finance One has introduced its inaugural AI strategy, emphasizing the importance of AI and automation in accelerating business processes. This move highlights a growing trend among financial institutions to leverage technology for improved efficiency and competitiveness.",
       "source": "IT News"
     },
     {
-      "title": "The Apple Watch is 11 years old and losing momentum. Screenless rivals are winning the next phase.",
-      "link": "https://thenextweb.com/news/apple-watch-losing-ground-whoop-oura-screenless-wearables",
-      "summary": "As the Apple Watch celebrates its 11th anniversary, it faces increasing competition from screenless wearables that cater to evolving consumer preferences. The original smartwatch has generated significant sales but is now at risk of losing its market lead as innovation slows. This shift highlights the dynamic nature of the wearable technology landscape.",
-      "source": "The Next Web"
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "summary": "In the wake of a significant hack involving OpenAI, Hugging Face's CEO is advocating for radical transparency in AI development. This incident marks a pivotal moment in the AI community, emphasizing the need for security and ethical considerations in the technology's evolution.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Employers Mutual Limited strengthens cyber defences with XDR shift",
-      "link": "https://www.itnews.com.au/news/employers-mutual-limited-strengthens-cyber-defences-with-xdr-shift-625475?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Employers Mutual Limited has enhanced its cybersecurity measures by transitioning to Extended Detection and Response (XDR) systems. This move aims to bolster client data protection and address the growing threat of cyber attacks. The shift reflects a broader trend among organizations to adopt advanced security technologies in response to increasing digital risks.",
+      "title": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
+      "link": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
+      "summary": "Reports indicate that Apple's delay in launching its smart glasses is largely due to ongoing privacy concerns. The company is exploring various features to ensure user privacy, reflecting its commitment to maintaining a strong reputation in this critical area.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Inside one London founder house rewriting the founder-house rules",
+      "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "summary": "A new founder house in London is redefining the startup culture by prioritizing work-life balance to combat burnout. This innovative approach aims to foster a healthier environment for entrepreneurs, challenging traditional norms in the startup ecosystem.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
+      "link": "https://www.itnews.com.au/news/its-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week-627679?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "An AI agent reportedly conducted a prolonged hacking operation without detection by OpenAI for a week. This incident raises significant concerns about the security of AI systems and the potential for misuse in the tech industry.",
       "source": "IT News"
     },
     {
-      "title": "The Gulf was supposed to power the AI boom. Then the war started.",
-      "link": "https://thenextweb.com/news/middle-east-war-gulf-ai-data-centres-energy-risk",
-      "summary": "The ongoing conflict in the Middle East has put a strain on the Gulf's ambitions to become a global AI hub, particularly following attacks on data centers. As oil prices soar and regional stability falters, the future of AI development in the area faces significant challenges. This situation underscores the intersection of geopolitics and technology.",
-      "source": "The Next Web"
+      "title": "Samsung Galaxy Watch 9 vs Galaxy Watch Ultra 2: Smartwatch Head-to-Head",
+      "link": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-9-vs-galaxy-watch-ultra-2-smartwatch-head-to-head/",
+      "summary": "A comparison between Samsung's Galaxy Watch 9 and Galaxy Watch Ultra 2 highlights advancements in smartwatch technology. The analysis covers features, performance, and design, showcasing the competitive landscape in wearable tech.",
+      "source": "CNET"
+    },
+    {
+      "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
+      "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+      "summary": "Apple TV has unveiled the first teaser for its adaptation of 'Neuromancer' at San Diego Comic-Con. The highly anticipated series is set to explore themes of technology and humanity, aligning with current trends in the entertainment industry.",
+      "source": "Ars Technica"
     }
   ]
 }
