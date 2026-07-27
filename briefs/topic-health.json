@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-06-29T07:10:22.108Z",
+  "generatedAt": "2026-07-27T06:02:09.694Z",
   "topic": "health",
-  "weekOf": "2026-06-29",
-  "lead": "Recent innovations and studies in health technology highlight the intersection of mental health, child development, and patient privacy, revealing both advancements and challenges in the field.",
+  "weekOf": "2026-07-27",
+  "lead": "Exploring the intersection of technology and health, from AI-driven tools to innovative wearables.",
   "stories": [
     {
-      "title": "Researchers built an AI therapist that reads your smartwatch and earbuds to detect distress before you ask for help",
-      "link": "https://thenextweb.com/news/ubimytherapist-ai-smartwatch-mental-health-proactive",
-      "summary": "A team at the University of Ottawa is developing UbiMyTherapist, an AI assistant designed to proactively detect emotional distress through data from smartwatches and earbuds. This innovative approach aims to address the limitations of traditional mental health chatbots, which require users to initiate contact. By interpreting emotional cues, the AI could provide timely support to individuals who may struggle to articulate their feelings.",
-      "source": "The Next Web"
+      "title": "ChatGPT Health Is Rolling Out to Everyone, but I Don’t Trust It",
+      "link": "https://lifehacker.com/health/chatgpt-health-is-rolling-out-to-everyone-but-i-dont-trust-it?utm_medium=RSS",
+      "summary": "As ChatGPT Health becomes available to a wider audience, concerns about privacy and data protection have surfaced. Critics argue that the privacy safeguards have deteriorated since the feature's initial announcement, raising questions about the reliability and safety of using AI for health-related inquiries. The rollout prompts a deeper discussion on the ethical implications of AI in healthcare.",
+      "source": "Lifehacker"
     },
     {
-      "title": "Screen time can damage under-twos’ development, landmark study suggests",
-      "link": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
-      "summary": "A groundbreaking study has revealed that screen time for children under two years old may lead to significant long-term developmental issues. Researchers are urging for immediate investigations into the risks associated with early exposure to digital devices, highlighting potential consequences for health and quality of life in toddlers. The findings call for a reevaluation of screen time guidelines for young children.",
+      "title": "How to Take Creatine for the (Possible) Mental Health Benefits",
+      "link": "https://lifehacker.com/health/does-creatine-have-mental-health-benefits?utm_medium=RSS",
+      "summary": "The potential mental health benefits of creatine supplementation are being explored, with mixed but promising evidence. While traditionally associated with physical performance, creatine is now being scrutinized for its effects on cognitive function and mood. This article discusses how to properly take creatine to possibly enhance mental well-being.",
+      "source": "Lifehacker"
+    },
+    {
+      "title": "Oura Ring 5 review: a stunning generational leap for smart rings",
+      "link": "https://www.theguardian.com/technology/2026/jun/30/oura-ring-5-review-smart-ring-health-tracking",
+      "summary": "The new Oura Ring 5 represents a significant upgrade in health-tracking wearables, featuring a slimmer design and enhanced functionality. With improved battery life and comfort, it aims to integrate seamlessly into daily life. However, users must subscribe for full access to its features, raising questions about the cost of advanced health technology.",
       "source": "The Guardian"
     },
     {
-      "title": "Health firms tracked patients’ searches without consent, watchdog finds",
-      "link": "https://www.smh.com.au/technology/health-firms-tracked-patients-searches-without-consent-watchdog-finds-20260622-p60927.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "An investigation has uncovered that health websites were tracking patients' online searches without their consent, feeding this data to social media platforms for targeted advertising. The privacy commissioner has deemed this practice unlawful, raising serious concerns about patient privacy and data security in the health sector. This incident underscores the need for stricter regulations regarding data handling in healthcare.",
-      "source": "Sydney Morning Herald"
-    },
-    {
-      "title": "Jessica McCabe built How to ADHD by solving her own biggest problem",
-      "link": "https://mashable.com/life/jessica-mccabe-how-to-adhd-interview-creator-playbook",
-      "summary": "Mental health advocate Jessica McCabe shares her journey in creating the YouTube channel How to ADHD, aimed at helping others navigate life with ADHD. Through her personal experiences, she has developed a community that provides support and resources for individuals facing similar challenges. McCabe's work highlights the importance of sharing personal stories to foster understanding and connection among those with mental health conditions.",
-      "source": "Mashable"
-    },
-    {
-      "title": "The US Is About to Deport an Immigrant to the Center of the Ebola Crisis",
-      "link": "https://www.wired.com/story/the-us-is-about-to-deport-an-immigrant-to-the-center-of-the-ebola-crisis/",
-      "summary": "A troubling case has emerged involving the deportation of a 78-year-old immigrant whose health has deteriorated while in detention. The individual is being sent back to a region currently facing an Ebola crisis, raising ethical concerns about the treatment of vulnerable populations in immigration policies. This situation highlights the intersection of health, human rights, and immigration law.",
-      "source": "Wired"
-    },
-    {
-      "title": "Save 30% on RingConn’s Gen 2 and Enjoy Health Data Without the Subscription Fees",
-      "link": "https://lifehacker.com/ad/tech/save-30-on-ringconns-gen-2-and-enjoy-health-data-without-the-subscription?utm_medium=RSS",
-      "summary": "The RingConn Gen 2 smart ring is now available at a discounted price, offering users a way to track their health data without ongoing subscription fees. This device is designed to be lightweight and comfortable, making it an appealing option for those interested in wearable health technology. The promotion highlights the growing trend of affordable health monitoring solutions in the consumer market.",
+      "title": "Why Bevel Is a Way Better App for the Fitbit Air Than Google Health",
+      "link": "https://lifehacker.com/health/bevel-app-for-fitbit-air?utm_medium=RSS",
+      "summary": "The Bevel app is highlighted as a superior alternative for Fitbit Air users compared to Google Health. With its user-friendly interface and better metric tracking capabilities, Bevel provides a more streamlined experience without intrusive AI features. This comparison emphasizes the importance of app choice in effectively managing health data.",
       "source": "Lifehacker"
     },
     {
-      "title": "OAIC sweep unearths health sites' covert user tracking",
-      "link": "https://www.itnews.com.au/news/oaic-sweep-unearths-health-sites-covert-user-tracking-626881?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "A recent sweep by the Office of the Australian Information Commissioner has revealed that several health websites were covertly tracking users through JavaScript pixels. This practice raises significant privacy concerns, as sensitive health information was being transmitted to overseas advertising platforms without user consent. The findings call for greater transparency and accountability in how health data is managed online.",
-      "source": "IT News"
+      "title": "Atos launches sovereign cloud service to power comeback",
+      "link": "https://www.cio.com/article/4201118/atos-launches-sovereign-cloud-service-to-power-comeback.html",
+      "summary": "Atos has introduced a sovereign cloud platform aimed at European public sector entities, including healthcare providers. This initiative is part of a broader effort to enhance data control and compliance with European regulations. The move reflects a growing trend towards digital sovereignty in healthcare and other sectors.",
+      "source": "CIO"
     },
     {
-      "title": "The Meaning of 'Brain Health' Depends on Who You Ask",
-      "link": "https://lifehacker.com/health/what-does-brain-health-actually-mean?utm_medium=RSS",
-      "summary": "The concept of 'brain health' varies widely depending on individual perspectives and expert opinions. This article explores the complexities surrounding brain health, emphasizing the need for a nuanced understanding of mental wellness. It highlights how different definitions can influence approaches to mental health care and the importance of tailored strategies for individuals seeking to improve their cognitive well-being.",
-      "source": "Lifehacker"
+      "title": "Sovereign AI has become the public-sector CIO’s control problem",
+      "link": "https://www.cio.com/article/4199475/sovereign-ai-has-become-the-public-sector-cios-control-problem.html",
+      "summary": "The integration of AI in public services raises significant control issues for CIOs, particularly regarding data management and operational sovereignty. This article discusses the complexities of maintaining authority over AI systems, emphasizing the need for robust governance frameworks to ensure accountability in public health applications.",
+      "source": "CIO"
+    },
+    {
+      "title": "The new value architecture of the AI-native SaaS era",
+      "link": "https://www.cio.com/article/4199528/the-new-value-architecture-of-the-ai-native-saas-era.html",
+      "summary": "The shift towards AI-native SaaS is transforming how companies measure success and value. Traditional metrics are being replaced by new frameworks that focus on credits and outcomes, impacting pricing and operational strategies. This evolution has significant implications for health tech companies leveraging AI to enhance service delivery.",
+      "source": "CIO"
+    },
+    {
+      "title": "Getting a grip on shadow tokens and AI blowouts",
+      "link": "https://www.cio.com/article/4199599/getting-a-grip-on-shadow-tokens-and-ai-blowouts.html",
+      "summary": "The article explores the risks associated with unregulated AI token consumption in organizations, particularly in healthcare settings. It highlights the need for better governance and financial oversight to prevent budget overruns and ensure sustainable AI deployment. This is crucial as healthcare increasingly adopts AI technologies.",
+      "source": "CIO"
     }
   ]
 }
