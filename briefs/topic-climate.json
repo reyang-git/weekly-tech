@@ -1,38 +1,20 @@
 {
-  "generatedAt": "2026-07-13T05:50:27.510Z",
+  "generatedAt": "2026-07-27T06:02:08.038Z",
   "topic": "climate",
-  "weekOf": "2026-07-13",
-  "lead": "Recent developments highlight the intersection of climate change with technology, fisheries, and historical exploration.",
+  "weekOf": "2026-07-27",
+  "lead": "As climate change accelerates, significant phenomena like El Niño are expected to intensify, leading to unprecedented global temperature spikes and economic impacts. Meanwhile, practical solutions for coping with rising temperatures are becoming increasingly important.",
   "stories": [
     {
-      "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
-      "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
-      "summary": "New research sheds light on the reasons behind the Polynesian voyages to the east after a long period of stagnation. The study suggests that climate changes may have played a crucial role in motivating these long-distance sea travels. This historical context enriches our understanding of how ancient cultures adapted to environmental shifts.",
-      "source": "Ars Technica"
-    },
-    {
-      "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
-      "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-      "summary": "A report reveals that the carbon emissions from major tech companies like Microsoft, Amazon, and Google have surged, now accounting for nearly a third of France's total emissions. This increase is primarily attributed to the rapid construction of datacentres. Despite this rise, the companies maintain their commitment to achieving net-zero emissions.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "El Niño Is Already Wreaking Havoc on Pacific Fisheries",
-      "link": "https://www.wired.com/story/el-nino-wreaking-havoc-on-pacific-fisheries/",
-      "summary": "The current El Niño phenomenon is causing significant disruptions in Pacific fisheries, with some areas facing severe challenges while others benefit from the warm waters. This situation highlights the complex impacts of climate change on marine ecosystems and the fishing industry. Stakeholders are urged to adapt to these shifting conditions to sustain their livelihoods.",
+      "title": "The 2026 El Niño Is on Track to Be the Strongest on Record",
+      "link": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
+      "summary": "The upcoming El Niño event in 2026 is projected to be the most powerful in 150 years, potentially causing a global temperature spike and economic losses estimated at $10 trillion by 2032. This phenomenon could exacerbate existing climate challenges, highlighting the urgent need for adaptive strategies.",
       "source": "Wired"
     },
     {
-      "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
-      "link": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
-      "summary": "The environmental impact of large tech firms is under scrutiny as their datacentres contribute significantly to global carbon emissions. In the last fiscal year, emissions rose sharply, prompting calls for more sustainable practices. The companies are facing pressure to balance growth with their sustainability goals.",
+      "title": "The best fans to keep you cool in 2026 – tried and tested",
+      "link": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
+      "summary": "With the UK experiencing increasingly frequent heatwaves, finding effective cooling solutions has become essential. This guide reviews various fans that can help mitigate the heat without the high energy costs associated with air conditioning, promoting a more sustainable approach to staying cool.",
       "source": "The Guardian Australia"
-    },
-    {
-      "title": "Meet the 8 South Australian space startups accelerating to the stars",
-      "link": "https://www.startupdaily.net/topic/space/meet-the-8-south-australian-space-startups-accelerating-to-the-stars/",
-      "summary": "A new wave of South Australian startups is emerging, focusing on innovative solutions that address climate risks through technology. These companies are exploring various applications, from AI-driven climate analysis to sustainable practices in space missions. Their work represents a forward-thinking approach to tackling environmental challenges.",
-      "source": "Startup Daily"
     }
   ]
 }
