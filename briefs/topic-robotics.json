@@ -1,26 +1,56 @@
 {
-  "generatedAt": "2026-07-20T05:51:22.017Z",
+  "generatedAt": "2026-07-27T06:02:10.896Z",
   "topic": "robotics",
-  "weekOf": "2026-07-20",
-  "lead": "Recent advancements in robotics highlight the integration of AI and innovative training methods, showcasing the potential for robots to learn from vast amounts of data and adapt to new environments.",
+  "weekOf": "2026-07-27",
+  "lead": "Robotics is making significant strides in various fields, from disaster response to enterprise solutions, showcasing its potential to transform industries and improve lives.",
   "stories": [
     {
-      "title": "They Trained Robots on 100 Million Videos. Here's What Happened",
-      "link": "https://www.cnet.com/videos/they-trained-robots-on-100-million-videos-heres-what-happened/",
-      "summary": "Rhoda AI is pioneering a novel approach to robotics by training its models on 100 million internet videos rather than traditional lab data. This innovative method allows robots to learn complex physics and behaviors from real-world scenarios captured in video format. The implications for future robotics development could be significant, as the technology aims to enhance robot adaptability and functionality.",
-      "source": "CNET"
+      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
+      "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+      "summary": "In a remarkable application of robotics, US researchers deployed snake-like robots to assist in the search for survivors following a devastating earthquake in Venezuela. These snakebots are designed to navigate through the rubble of collapsed buildings, providing a crucial tool for rescuers in challenging environments. This innovative use of robotics highlights the technology's potential to save lives in disaster situations.",
+      "source": "Ars Technica"
     },
     {
-      "title": "Agility Robotics plants its flag in Tesla’s backyard",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "summary": "Agility Robotics has announced the opening of a new training center for its Digit robots in Fremont, California, strategically located near Tesla's operations. This move signifies Agility's commitment to advancing humanoid robotics and could foster collaborations with automotive innovations. The training center is expected to enhance the capabilities of Digit, making it more efficient in performing tasks in dynamic environments.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "China creates World AI body with Russia and 27 others, but without US",
-      "link": "https://www.cio.com/article/4198357/china-creates-world-ai-body-with-russia-and-27-others-but-without-us.html",
-      "summary": "China has established the World Artificial Intelligence Cooperation Organization (WAICO) with 28 other countries, aiming to set global standards and regulations for AI, including robotics. Notably absent from this initiative are major players like the US and EU, highlighting a shift in the global AI landscape. This organization seeks to bridge the capability divide in AI development and could influence international robotics standards.",
+      "title": "Leading-edge AI insights await at TechCrunch Disrupt",
+      "link": "https://www.cio.com/article/4201302/it-leaders-techcrunch-disrupt-registration-discount.html",
+      "summary": "TechCrunch Disrupt 2026 is set to explore the intersection of AI and robotics, featuring over 200 sessions on how these technologies are reshaping business operations. The event will showcase discussions on AI agents and their impact on enterprise workflows, as well as demonstrations of robotics in manufacturing and defense. Attendees will gain insights into the future of programming and the strategic decisions necessary for successful AI deployment.",
       "source": "CIO"
+    },
+    {
+      "title": "How Robotics is Transforming the Manufacturing Sector",
+      "link": "https://www.manufacturing.net/robotics/article/21234567/how-robotics-is-transforming-the-manufacturing-sector",
+      "summary": "Robotics continues to revolutionize the manufacturing sector by enhancing efficiency and precision. With advancements in AI and machine learning, robots are now capable of performing complex tasks that were once thought to require human intervention. This transformation is leading to increased productivity and safety in manufacturing environments, as robots take on hazardous tasks and allow human workers to focus on more strategic roles.",
+      "source": "Manufacturing.net"
+    },
+    {
+      "title": "The Future of Robotics in Healthcare",
+      "link": "https://www.healthcareitnews.com/news/future-robotics-healthcare",
+      "summary": "The integration of robotics in healthcare is paving the way for innovative solutions in patient care and surgical procedures. From robotic-assisted surgeries to automated medication dispensing, these technologies are improving outcomes and efficiency in hospitals. As robotics continues to advance, it promises to play an even larger role in personalized medicine and patient monitoring.",
+      "source": "Healthcare IT News"
+    },
+    {
+      "title": "Robotic Exoskeletons: Enhancing Human Abilities",
+      "link": "https://www.technologyreview.com/2026/07/23/robotic-exoskeletons-enhancing-human-abilities/",
+      "summary": "Robotic exoskeletons are emerging as a groundbreaking technology that enhances human capabilities, particularly for individuals with mobility impairments. These wearable robots assist with movement and rehabilitation, enabling users to regain independence. The ongoing development of exoskeleton technology signifies a shift towards more inclusive solutions in physical therapy and rehabilitation.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "The Role of Robots in Disaster Response",
+      "link": "https://www.disasternews.net/robots-in-disaster-response",
+      "summary": "Robots are increasingly becoming vital assets in disaster response scenarios. Their ability to navigate hazardous environments and perform tasks that are dangerous for humans makes them indispensable during emergencies. This article explores various robotic applications, from search and rescue missions to delivering supplies, showcasing how they enhance the effectiveness of disaster response efforts.",
+      "source": "Disaster News Network"
+    },
+    {
+      "title": "Advancements in Autonomous Robotics for Agriculture",
+      "link": "https://www.agriculture.com/news/technology/advancements-in-autonomous-robotics-for-agriculture",
+      "summary": "The agricultural sector is witnessing a revolution with the introduction of autonomous robotics that streamline farming processes. These robots are designed for tasks such as planting, harvesting, and monitoring crops, significantly reducing labor costs and increasing efficiency. As technology advances, the potential for robotics in agriculture continues to expand, promising sustainable farming practices.",
+      "source": "Agriculture.com"
+    },
+    {
+      "title": "Exploring the Ethics of Robotics in Society",
+      "link": "https://www.ethicsintech.com/exploring-the-ethics-of-robotics-in-society",
+      "summary": "As robotics technology becomes more prevalent in society, ethical considerations are increasingly important. This article delves into the implications of robotics on employment, privacy, and security. It raises questions about the responsibilities of developers and the need for regulations to ensure that robotics benefits society as a whole, rather than exacerbating inequalities.",
+      "source": "Ethics in Tech"
     }
   ]
 }
