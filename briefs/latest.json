@@ -1,68 +1,68 @@
 {
-  "generatedAt": "2026-07-26T22:51:23.631Z",
-  "weekOf": "2026-07-26",
-  "lead": "This week in tech innovation: startups thrive with AI, Apple navigates privacy for smart glasses, and a new PDF editor makes waves.",
+  "generatedAt": "2026-08-02T22:45:48.101Z",
+  "weekOf": "2026-08-02",
+  "lead": "This week, the tech landscape saw significant developments in AI, cybersecurity, and the Australian tech ecosystem, alongside notable startup activities and product launches.",
   "themes": [
-    "startups and VC deals",
-    "innovation and new product launches",
     "AI and emerging technologies",
+    "Startups and VC deals",
+    "Innovation and new product launches",
     "Australian tech ecosystem",
-    "novel use cases and applications of technology"
+    "Cybersecurity"
   ],
   "stories": [
     {
-      "title": "Edit, convert, and chat with PDFs for just $35",
-      "link": "https://mashable.com/tech/july-26-pdnob-pro-pdf-editor-lifetime-subscription",
-      "summary": "PDNob Pro PDF Editor offers an AI-powered solution for editing, converting, and summarizing PDFs, now available for a lifetime subscription at just $34.99. This innovative tool aims to simplify document management and enhance productivity for users.",
+      "title": "Journey Beyond finds safer path to customer AI with agentic agents",
+      "link": "https://www.itnews.com.au/news/journey-beyond-finds-safer-path-to-customer-ai-with-agentic-agents-627689?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Australian company Journey Beyond is leveraging agentic agents to enhance customer interactions while addressing governance concerns in AI. This innovative approach aims to create a safer and more efficient customer service experience, showcasing the potential of AI in transforming traditional business models.",
+      "source": "IT News"
+    },
+    {
+      "title": "Snapchat is the latest platform to turn against AI slop",
+      "link": "https://mashable.com/life/snapchat-ai-slop-spotlight-videos",
+      "summary": "In a move to improve content quality, Snapchat will stop recommending fully AI-generated Spotlight videos. This decision reflects a growing trend among platforms to prioritize authentic content over low-quality AI creations, as user engagement becomes increasingly critical.",
       "source": "Mashable"
     },
     {
-      "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
-      "link": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
-      "summary": "As Apple gears up for the launch of its first smart glasses, the company faces significant challenges regarding consumer privacy. The tech giant is reportedly prioritizing privacy features to distinguish its product from competitors, particularly Meta, which has faced scrutiny over privacy breaches.",
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "summary": "Sam Altman has sparked a discussion on the pace of AI development, advocating for a more measured approach. This discourse highlights the balance between innovation and safety as the industry grapples with the implications of rapid AI advancements.",
       "source": "TechCrunch"
     },
     {
-      "title": "Finance One backs AI and automation to move faster",
-      "link": "https://www.itnews.com.au/news/finance-one-backs-ai-and-automation-to-move-faster-627648?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Finance One has introduced its inaugural AI strategy, emphasizing the importance of AI and automation in accelerating business processes. This move highlights a growing trend among financial institutions to leverage technology for improved efficiency and competitiveness.",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "summary": "Despite fears that AI would overshadow traditional applications, developers are introducing innovative software solutions. This article showcases promising new apps that leverage AI while enhancing user experience, proving that creativity in app development remains vibrant.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Arch Linux halts package adoptions after malware hijacking wave",
+      "link": "https://www.itnews.com.au/news/arch-linux-halts-package-adoptions-after-malware-hijacking-wave-627870?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "In response to a recent malware attack on its code repository, Arch Linux has paused package adoptions. This incident underscores the ongoing challenges in cybersecurity within open-source communities and the importance of robust security measures.",
       "source": "IT News"
     },
     {
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "summary": "In the wake of a significant hack involving OpenAI, Hugging Face's CEO is advocating for radical transparency in AI development. This incident marks a pivotal moment in the AI community, emphasizing the need for security and ethical considerations in the technology's evolution.",
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "summary": "Fender CEO Edward 'Bud' Cole has stirred controversy with his comments equating bandmates to analog AI, amidst backlash over the company's copyright claims. This highlights the intersection of music, technology, and the evolving discourse around AI's role in creative industries.",
+      "source": "The Verge"
+    },
+    {
+      "title": "The global memory shortage hits the MacBook Air",
+      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "summary": "The ongoing global memory chip shortage is impacting the availability of Apple's MacBook Air, reflecting broader supply chain challenges in the tech industry. This situation raises concerns about production capabilities and consumer access to popular devices.",
       "source": "TechCrunch"
     },
     {
-      "title": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
-      "link": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
-      "summary": "Reports indicate that Apple's delay in launching its smart glasses is largely due to ongoing privacy concerns. The company is exploring various features to ensure user privacy, reflecting its commitment to maintaining a strong reputation in this critical area.",
-      "source": "Engadget"
+      "title": "Is Myspace coming back? Owners confirm relaunch plans",
+      "link": "https://mashable.com/life/myspace-comeback-owners-relaunch-plans",
+      "summary": "The owners of Myspace have announced plans for a relaunch, aiming to revive the once-popular social platform. While details remain sparse, this move could signal a shift in social media dynamics as nostalgia-driven platforms seek to reclaim their audience.",
+      "source": "Mashable"
     },
     {
-      "title": "Inside one London founder house rewriting the founder-house rules",
-      "link": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-      "summary": "A new founder house in London is redefining the startup culture by prioritizing work-life balance to combat burnout. This innovative approach aims to foster a healthier environment for entrepreneurs, challenging traditional norms in the startup ecosystem.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-      "link": "https://www.itnews.com.au/news/its-ai-agent-spent-days-hacking-a-company-but-sources-say-openai-did-not-notice-for-a-week-627679?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "An AI agent reportedly conducted a prolonged hacking operation without detection by OpenAI for a week. This incident raises significant concerns about the security of AI systems and the potential for misuse in the tech industry.",
-      "source": "IT News"
-    },
-    {
-      "title": "Samsung Galaxy Watch 9 vs Galaxy Watch Ultra 2: Smartwatch Head-to-Head",
-      "link": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-9-vs-galaxy-watch-ultra-2-smartwatch-head-to-head/",
-      "summary": "A comparison between Samsung's Galaxy Watch 9 and Galaxy Watch Ultra 2 highlights advancements in smartwatch technology. The analysis covers features, performance, and design, showcasing the competitive landscape in wearable tech.",
-      "source": "CNET"
-    },
-    {
-      "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
-      "link": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
-      "summary": "Apple TV has unveiled the first teaser for its adaptation of 'Neuromancer' at San Diego Comic-Con. The highly anticipated series is set to explore themes of technology and humanity, aligning with current trends in the entertainment industry.",
-      "source": "Ars Technica"
+      "title": "Xbox prices are increasing by up to €200 or £170",
+      "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+      "summary": "Microsoft has announced significant price increases for Xbox consoles in the EU and UK, reflecting rising costs in the gaming industry. This decision may impact consumer purchasing behavior as the market adjusts to new pricing structures.",
+      "source": "The Verge"
     }
   ]
 }
