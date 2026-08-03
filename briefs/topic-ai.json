@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-07-20T05:51:23.040Z",
+  "generatedAt": "2026-08-03T05:54:41.205Z",
   "topic": "AI",
-  "weekOf": "2026-07-20",
-  "lead": "The rapid advancement of AI technologies is reshaping various sectors, from environmental research to entertainment and governance, raising both opportunities and ethical concerns.",
+  "weekOf": "2026-08-03",
+  "lead": "AI continues to shape industries, spark debates, and raise ethical concerns as it becomes increasingly integrated into daily life and business practices.",
   "stories": [
     {
-      "title": "AI-altered images on birdwatching forums putting research at risk",
-      "link": "https://www.theguardian.com/environment/2026/jul/20/ai-slop-manipulated-fake-images-birds-citizen-science-aoe",
-      "summary": "Experts are sounding alarms over the rise of AI-manipulated images in birdwatching communities, which are leading to false sightings and undermining the credibility of citizen science. This phenomenon, dubbed 'AI slop', poses a significant threat to genuine research efforts and the integrity of data collected by birdwatchers.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-      "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-      "summary": "Netflix's acquisition of InterPositive, a startup co-founded by Ben Affleck focused on AI-driven filmmaking, highlights the streaming giant's commitment to integrating advanced technologies in content creation. This move is seen as a strategic investment in the future of film production, leveraging AI to enhance storytelling.",
+      "title": "Sam Altman and AI’s decel debate",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "summary": "Sam Altman has been vocal about the need to slow down the pace of AI development, urging the industry to consider the implications of rapid advancements. This discussion highlights the tension between innovation and ethical responsibility, as the AI landscape evolves at an unprecedented rate.",
       "source": "TechCrunch"
     },
     {
-      "title": "AI advice made people three times less accurate but twice as confident, researchers found",
-      "link": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-      "summary": "A study by researchers from French and Italian universities revealed that reliance on AI-generated advice significantly decreased accuracy in decision-making while boosting confidence. This paradox raises concerns about the implications of AI on critical thinking and decision-making processes.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
-      "summary": "Australia's government is set to implement stringent regulations on the use of AI in automated decision-making across public sectors. The new national plan aims to ensure fairness, accuracy, and transparency in AI processes, reflecting growing concerns over the ethical implications of AI in governance.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Could AI be conscious?",
-      "link": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
-      "summary": "Experts are exploring the possibility of AI consciousness, with discussions around advanced models like Anthropic's Claude suggesting that AI systems may reach levels of complexity comparable to biological brains in the near future. This raises profound ethical questions about the rights and responsibilities associated with potentially conscious AI.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Lawsuit says AI tool disproportionately places Black prisoners in maximum security in Ontario",
-      "link": "https://mashable.com/tech/lawsuit-says-ai-tool-disproportionately-places-ontario-black-prisoners",
-      "summary": "A class action lawsuit in Ontario alleges that an AI risk-assessment tool used in jails unfairly categorizes Black prisoners into maximum security. This case highlights the potential biases inherent in AI systems and the urgent need for ethical oversight in their implementation.",
-      "source": "Mashable"
-    },
-    {
-      "title": "Flight Centre to embrace AI agents, ecommerce consolidation",
-      "link": "https://www.itnews.com.au/news/flight-centre-to-embrace-ai-agents-ecommerce-consolidation-627489?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Flight Centre is set to adopt AI agents as part of its strategy to consolidate e-commerce operations. This move reflects a broader trend in the travel industry to leverage AI technologies for improved customer service and operational efficiency.",
+      "title": "Journey Beyond finds safer path to customer AI with agentic agents",
+      "link": "https://www.itnews.com.au/news/journey-beyond-finds-safer-path-to-customer-ai-with-agentic-agents-627689?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "In response to rising concerns about chatbot governance, Journey Beyond is exploring the use of agentic agents to enhance customer interactions. This approach aims to balance automation with ethical considerations, ensuring a safer and more responsible use of AI in customer service.",
       "source": "IT News"
     },
     {
-      "title": "Moon landing: Why this Chinese AI model rattled global sharemarkets",
-      "link": "https://www.smh.com.au/technology/moon-landing-why-this-chinese-ai-model-rattled-global-sharemarkets-20260720-p60gr1.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "The launch of the Moonshot K3 AI model has shaken global stock markets, demonstrating that open AI models can compete with established closed systems. This event underscores the growing significance of AI in financial markets and its potential to influence global economic trends.",
-      "source": "Sydney Morning Herald"
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "summary": "As generative AI continues to evolve, artists are grappling with the implications of their work being used without consent. New startups are emerging to offer ethical alternatives, but the question remains whether financial compensation can truly address the concerns of artists affected by AI.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Snapchat is the latest platform to turn against AI slop",
+      "link": "https://mashable.com/life/snapchat-ai-slop-spotlight-videos",
+      "summary": "Snapchat has decided to stop recommending fully AI-generated content, joining a growing trend among platforms to distance themselves from low-quality AI outputs. This move reflects a broader industry shift towards prioritizing quality and user experience over sheer volume of AI-generated material.",
+      "source": "Mashable"
+    },
+    {
+      "title": "Hank Green apologizes for relying too heavily on ChatGPT",
+      "link": "https://mashable.com/life/hank-green-chatgpt-ai-apology",
+      "summary": "YouTuber Hank Green publicly acknowledged his over-reliance on ChatGPT for research, expressing concern about the impact of AI on creativity and content creation. His apology highlights the ongoing debate about the balance between leveraging AI tools and maintaining authentic human input.",
+      "source": "Mashable"
+    },
+    {
+      "title": "Stock market turmoil sheds stark light on the opaque AI economy",
+      "link": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+      "summary": "Recent stock market fluctuations have revealed the complexities of the AI economy, particularly in light of advancements from Chinese tech firms. As investors react to these developments, the implications for Western chipmakers and the overall AI landscape are becoming increasingly significant.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Google rolls back AI Google Earth feature a day after launch",
+      "link": "https://mashable.com/tech/google-rolls-back-ai-google-earth-feature",
+      "summary": "Google's decision to retract its AI-enhanced Google Earth feature just one day after its launch underscores the challenges tech companies face in implementing AI responsibly. This incident raises questions about the readiness of AI technologies for public use and the need for thorough testing.",
+      "source": "Mashable"
+    },
+    {
+      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "summary": "Fender CEO Bud Cole's controversial remarks comparing musicians to analog AI have sparked backlash within the music community. His comments reflect the ongoing tension between traditional artistry and the encroaching influence of AI in creative fields.",
+      "source": "The Verge"
     }
   ]
 }
