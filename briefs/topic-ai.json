@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-08-03T05:54:41.205Z",
+  "generatedAt": "2026-08-10T04:10:16.064Z",
   "topic": "AI",
-  "weekOf": "2026-08-03",
-  "lead": "AI continues to shape industries, spark debates, and raise ethical concerns as it becomes increasingly integrated into daily life and business practices.",
+  "weekOf": "2026-08-10",
+  "lead": "AI continues to evolve and influence various sectors, from finance to education, raising both opportunities and concerns about safety and ethics.",
   "stories": [
     {
-      "title": "Sam Altman and AI’s decel debate",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "summary": "Sam Altman has been vocal about the need to slow down the pace of AI development, urging the industry to consider the implications of rapid advancements. This discussion highlights the tension between innovation and ethical responsibility, as the AI landscape evolves at an unprecedented rate.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Journey Beyond finds safer path to customer AI with agentic agents",
-      "link": "https://www.itnews.com.au/news/journey-beyond-finds-safer-path-to-customer-ai-with-agentic-agents-627689?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "In response to rising concerns about chatbot governance, Journey Beyond is exploring the use of agentic agents to enhance customer interactions. This approach aims to balance automation with ethical considerations, ensuring a safer and more responsible use of AI in customer service.",
-      "source": "IT News"
-    },
-    {
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "summary": "As generative AI continues to evolve, artists are grappling with the implications of their work being used without consent. New startups are emerging to offer ethical alternatives, but the question remains whether financial compensation can truly address the concerns of artists affected by AI.",
-      "source": "The Verge"
-    },
-    {
-      "title": "Snapchat is the latest platform to turn against AI slop",
-      "link": "https://mashable.com/life/snapchat-ai-slop-spotlight-videos",
-      "summary": "Snapchat has decided to stop recommending fully AI-generated content, joining a growing trend among platforms to distance themselves from low-quality AI outputs. This move reflects a broader industry shift towards prioritizing quality and user experience over sheer volume of AI-generated material.",
-      "source": "Mashable"
-    },
-    {
-      "title": "Hank Green apologizes for relying too heavily on ChatGPT",
-      "link": "https://mashable.com/life/hank-green-chatgpt-ai-apology",
-      "summary": "YouTuber Hank Green publicly acknowledged his over-reliance on ChatGPT for research, expressing concern about the impact of AI on creativity and content creation. His apology highlights the ongoing debate about the balance between leveraging AI tools and maintaining authentic human input.",
-      "source": "Mashable"
-    },
-    {
-      "title": "Stock market turmoil sheds stark light on the opaque AI economy",
-      "link": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
-      "summary": "Recent stock market fluctuations have revealed the complexities of the AI economy, particularly in light of advancements from Chinese tech firms. As investors react to these developments, the implications for Western chipmakers and the overall AI landscape are becoming increasingly significant.",
+      "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+      "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+      "summary": "OpenAI has decided to pause development on its AI model Astra after discovering significant security risks. The model was found capable of autonomously identifying and exploiting vulnerabilities, leading to fears of potential cyber-attacks. This decision highlights the ongoing challenges in ensuring AI safety amidst rapid advancements.",
       "source": "The Guardian"
     },
     {
-      "title": "Google rolls back AI Google Earth feature a day after launch",
-      "link": "https://mashable.com/tech/google-rolls-back-ai-google-earth-feature",
-      "summary": "Google's decision to retract its AI-enhanced Google Earth feature just one day after its launch underscores the challenges tech companies face in implementing AI responsibly. This incident raises questions about the readiness of AI technologies for public use and the need for thorough testing.",
-      "source": "Mashable"
+      "title": "AI push is putting banks at mercy of tech firms, warns Moody’s",
+      "link": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
+      "summary": "A report from Moody's warns that the financial sector's rush to adopt AI technologies is making banks vulnerable to a handful of tech firms. While AI can enhance efficiency and reduce costs, the dependency on these technologies could lead to significant risks, including outages and price manipulation by tech companies.",
+      "source": "The Guardian"
     },
     {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "summary": "Fender CEO Bud Cole's controversial remarks comparing musicians to analog AI have sparked backlash within the music community. His comments reflect the ongoing tension between traditional artistry and the encroaching influence of AI in creative fields.",
+      "title": "AI detectors are creating a new era of distrust",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "summary": "As AI writing becomes increasingly sophisticated, the use of AI detectors is rising, leading to a growing atmosphere of suspicion. These tools, originally designed to combat plagiarism, are now raising concerns about trust in written content and the implications for education and journalism.",
       "source": "The Verge"
+    },
+    {
+      "title": "Claude Vs ChatGPT: How These AI Assistants Differ",
+      "link": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ/",
+      "summary": "A comparative analysis of AI assistants Claude and ChatGPT reveals distinct differences in their performance and user experience. While both models offer advanced capabilities, their effectiveness varies, highlighting the ongoing evolution and competition in the AI landscape.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Eightcap uses AI to scale compliance across global markets",
+      "link": "https://www.itnews.com.au/news/eightcap-uses-ai-to-scale-compliance-across-global-markets-627691?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Eightcap is leveraging AI technology to enhance compliance processes across international markets. By automating compliance tasks, the company aims to handle large volumes of data while allowing human experts to focus on more complex issues, showcasing AI's potential in regulatory environments.",
+      "source": "IT News"
+    },
+    {
+      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
+      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
+      "summary": "King's Cross in London, once infamous for its red-light district, has transformed into a vibrant hub for AI innovation. This shift reflects broader trends in urban redevelopment and the growing importance of technology sectors in revitalizing communities.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Recruiters are using AI avatars to run interviews. Now candidates are sending avatars to attend them.",
+      "link": "https://thenextweb.com/news/ai-avatars-job-interviews-candidates-recruiters",
+      "summary": "The rise of AI avatars in recruitment is changing the landscape of job interviews, with candidates now sending digital representations of themselves to interviews. This trend raises questions about authenticity and the future of human interaction in hiring processes.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
+      "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
+      "summary": "A new wave of AI billionaires is pledging to donate their wealth to philanthropic causes. This trend raises important discussions about the responsibilities of tech leaders and the impact of their contributions on society, especially in the realm of AI ethics and development.",
+      "source": "Wired"
     }
   ]
 }
