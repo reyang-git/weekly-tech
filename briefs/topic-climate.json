@@ -1,20 +1,32 @@
 {
-  "generatedAt": "2026-07-27T06:02:08.038Z",
+  "generatedAt": "2026-08-10T04:10:15.757Z",
   "topic": "climate",
-  "weekOf": "2026-07-27",
-  "lead": "As climate change accelerates, significant phenomena like El Niño are expected to intensify, leading to unprecedented global temperature spikes and economic impacts. Meanwhile, practical solutions for coping with rising temperatures are becoming increasingly important.",
+  "weekOf": "2026-08-10",
+  "lead": "The intersection of climate change and technology continues to spark significant debate, particularly with the rise of data centers and their environmental impact. Recent developments highlight the potential for new infrastructure to exacerbate climate issues, while discussions about innovation in climate tech are gaining momentum.",
   "stories": [
     {
-      "title": "The 2026 El Niño Is on Track to Be the Strongest on Record",
-      "link": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
-      "summary": "The upcoming El Niño event in 2026 is projected to be the most powerful in 150 years, potentially causing a global temperature spike and economic losses estimated at $10 trillion by 2032. This phenomenon could exacerbate existing climate challenges, highlighting the urgent need for adaptive strategies.",
-      "source": "Wired"
+      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "link": "https://techcrunch.com/2026/08/08/amazon-data-center-climate-polluter/",
+      "summary": "Amazon's new data center in Texas is raising alarms as it plans to construct an on-site power plant that could become the largest climate polluter in the U.S. This facility is expected to significantly contribute to greenhouse gas emissions, highlighting the environmental costs associated with expanding digital infrastructure. Critics are concerned about the implications for climate change as tech giants continue to grow.",
+      "source": "TechCrunch"
     },
     {
-      "title": "The best fans to keep you cool in 2026 – tried and tested",
-      "link": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
-      "summary": "With the UK experiencing increasingly frequent heatwaves, finding effective cooling solutions has become essential. This guide reviews various fans that can help mitigate the heat without the high energy costs associated with air conditioning, promoting a more sustainable approach to staying cool.",
-      "source": "The Guardian Australia"
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "summary": "The proposed power plant for Amazon's West Texas data center is projected to be one of the largest single producers of greenhouse gases in the United States. This facility, powered by natural gas, raises significant environmental concerns as it will primarily serve the data center without connecting to the state's power grid. The implications for climate policy and corporate responsibility are profound.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+      "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+      "summary": "Recent studies suggest that the Mount Toba eruption, once thought to have had catastrophic climate impacts, may not have been as detrimental to human survival as previously believed. This finding shifts the narrative around historical climate events and their effects on species survival, providing a new perspective on the resilience of humanity in the face of environmental challenges.",
+      "source": "Ars Technica"
+    },
+    {
+      "title": "The Lucky Country’s hitting Season Five, but we need to invent this boom, not just dig it up",
+      "link": "https://www.startupdaily.net/topic/climate-tech/the-lucky-countrys-hitting-season-five-but-we-need-to-invent-this-boom-not-just-dig-it-up/",
+      "summary": "Australia is poised for a new economic boom centered around climate technology rather than traditional mining. The call to action emphasizes the need for investment in innovative climate solutions and support for entrepreneurs in this sector. This shift could redefine the country’s economic landscape and contribute positively to global climate efforts.",
+      "source": "Startup Daily"
     }
   ]
 }
