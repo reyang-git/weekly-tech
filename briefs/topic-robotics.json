@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-07-27T06:02:10.896Z",
+  "generatedAt": "2026-08-10T04:10:16.905Z",
   "topic": "robotics",
-  "weekOf": "2026-07-27",
-  "lead": "Robotics is making significant strides in various fields, from disaster response to enterprise solutions, showcasing its potential to transform industries and improve lives.",
+  "weekOf": "2026-08-10",
+  "lead": "Robotics continues to evolve rapidly, with significant advancements in medical applications, AI integration, and regulatory challenges shaping the landscape.",
   "stories": [
     {
-      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-      "link": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-      "summary": "In a remarkable application of robotics, US researchers deployed snake-like robots to assist in the search for survivors following a devastating earthquake in Venezuela. These snakebots are designed to navigate through the rubble of collapsed buildings, providing a crucial tool for rescuers in challenging environments. This innovative use of robotics highlights the technology's potential to save lives in disaster situations.",
-      "source": "Ars Technica"
+      "title": "UNSW medical robotics spinout raises $8.6m for US ambitions",
+      "link": "https://www.startupdaily.net/topic/funding/unsw-medical-robotics-spinout-raises-8-6m-for-us-ambitions/",
+      "summary": "Vexev, a medical robotics spinout from UNSW, has successfully raised $8.6 million to advance its vascular ultrasound technology. The funding aims to propel the company towards FDA approval in the United States, marking a significant step in integrating robotics with medical diagnostics. This investment highlights the growing interest in robotic solutions within the healthcare sector.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Leading-edge AI insights await at TechCrunch Disrupt",
-      "link": "https://www.cio.com/article/4201302/it-leaders-techcrunch-disrupt-registration-discount.html",
-      "summary": "TechCrunch Disrupt 2026 is set to explore the intersection of AI and robotics, featuring over 200 sessions on how these technologies are reshaping business operations. The event will showcase discussions on AI agents and their impact on enterprise workflows, as well as demonstrations of robotics in manufacturing and defense. Attendees will gain insights into the future of programming and the strategic decisions necessary for successful AI deployment.",
+      "title": "7 use cases for leveraging AI in the physical world",
+      "link": "https://www.cio.com/article/4205856/7-use-cases-for-leveraging-ai-in-the-physical-world.html",
+      "summary": "The integration of AI into physical systems is set to revolutionize various industries, with applications ranging from autonomous vehicles to smart buildings. The physical AI market is projected to grow significantly, driven by labor shortages and the need for efficiency. Key use cases include manufacturing robots, autonomous drones, and AI-enhanced surveillance systems, showcasing the breadth of AI's impact on physical environments.",
       "source": "CIO"
     },
     {
-      "title": "How Robotics is Transforming the Manufacturing Sector",
-      "link": "https://www.manufacturing.net/robotics/article/21234567/how-robotics-is-transforming-the-manufacturing-sector",
-      "summary": "Robotics continues to revolutionize the manufacturing sector by enhancing efficiency and precision. With advancements in AI and machine learning, robots are now capable of performing complex tasks that were once thought to require human intervention. This transformation is leading to increased productivity and safety in manufacturing environments, as robots take on hazardous tasks and allow human workers to focus on more strategic roles.",
-      "source": "Manufacturing.net"
-    },
-    {
-      "title": "The Future of Robotics in Healthcare",
-      "link": "https://www.healthcareitnews.com/news/future-robotics-healthcare",
-      "summary": "The integration of robotics in healthcare is paving the way for innovative solutions in patient care and surgical procedures. From robotic-assisted surgeries to automated medication dispensing, these technologies are improving outcomes and efficiency in hospitals. As robotics continues to advance, it promises to play an even larger role in personalized medicine and patient monitoring.",
-      "source": "Healthcare IT News"
-    },
-    {
-      "title": "Robotic Exoskeletons: Enhancing Human Abilities",
-      "link": "https://www.technologyreview.com/2026/07/23/robotic-exoskeletons-enhancing-human-abilities/",
-      "summary": "Robotic exoskeletons are emerging as a groundbreaking technology that enhances human capabilities, particularly for individuals with mobility impairments. These wearable robots assist with movement and rehabilitation, enabling users to regain independence. The ongoing development of exoskeleton technology signifies a shift towards more inclusive solutions in physical therapy and rehabilitation.",
+      "title": "Trump’s AI protectionism has come for robotics",
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "summary": "The Trump administration's approach to AI regulation is impacting the robotics sector, particularly concerning humanoid robots. Despite advancements, these robots still face challenges in functionality and public perception. This protectionist stance raises questions about the future of robotics innovation in the US amidst global competition.",
       "source": "MIT Technology Review"
     },
     {
-      "title": "The Role of Robots in Disaster Response",
-      "link": "https://www.disasternews.net/robots-in-disaster-response",
-      "summary": "Robots are increasingly becoming vital assets in disaster response scenarios. Their ability to navigate hazardous environments and perform tasks that are dangerous for humans makes them indispensable during emergencies. This article explores various robotic applications, from search and rescue missions to delivering supplies, showcasing how they enhance the effectiveness of disaster response efforts.",
-      "source": "Disaster News Network"
+      "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
+      "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+      "summary": "Recent advancements in China's AI and robotics sectors are creating significant disruptions in the global tech landscape. US tech leaders are increasingly concerned about China's competitive edge, prompting debates on regulatory measures. This situation underscores the geopolitical implications of robotics and AI technologies in shaping market dynamics.",
+      "source": "The Guardian Australia"
     },
     {
-      "title": "Advancements in Autonomous Robotics for Agriculture",
-      "link": "https://www.agriculture.com/news/technology/advancements-in-autonomous-robotics-for-agriculture",
-      "summary": "The agricultural sector is witnessing a revolution with the introduction of autonomous robotics that streamline farming processes. These robots are designed for tasks such as planting, harvesting, and monitoring crops, significantly reducing labor costs and increasing efficiency. As technology advances, the potential for robotics in agriculture continues to expand, promising sustainable farming practices.",
-      "source": "Agriculture.com"
+      "title": "The Download: US robot restrictions and ICE’s DNA grab",
+      "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+      "summary": "The latest edition of The Download discusses the implications of US restrictions on robotics and their potential impact on innovation. The narrative highlights how these regulations could stifle advancements in robotics, particularly in the context of competition with international markets. This situation reflects broader trends in technology regulation and its effects on industry growth.",
+      "source": "MIT Technology Review"
     },
     {
-      "title": "Exploring the Ethics of Robotics in Society",
-      "link": "https://www.ethicsintech.com/exploring-the-ethics-of-robotics-in-society",
-      "summary": "As robotics technology becomes more prevalent in society, ethical considerations are increasingly important. This article delves into the implications of robotics on employment, privacy, and security. It raises questions about the responsibilities of developers and the need for regulations to ensure that robotics benefits society as a whole, rather than exacerbating inequalities.",
-      "source": "Ethics in Tech"
+      "title": "One of science fiction’s greatest writers warned us about AI. Does he also hold the remedy?",
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
+      "summary": "In a thought-provoking commentary, Alan Finkel explores the potential for new laws of robotics inspired by Isaac Asimov's principles. He discusses the challenges posed by AI and robotics, particularly concerning their autonomy and ethical implications. The article suggests that proactive governance may be necessary to ensure that AI technologies serve humanity positively.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "One of science fiction’s greatest writers warned us about AI. Does he also hold the remedy?",
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
+      "summary": "This article reiterates the importance of establishing ethical guidelines for AI and robotics, drawing parallels to Asimov's laws. It emphasizes the need for a collaborative approach to ensure that AI remains beneficial to society. The discussion reflects ongoing concerns about the unchecked development of autonomous systems and the role of government in regulating these technologies.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "Humanoid robots usually elicit more cringe than awe",
+      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+      "summary": "Humanoid robots are often met with skepticism due to their limitations in functionality and public perception. This article discusses the challenges faced by the robotics industry, particularly in the context of regulatory pressures and the need for innovation. The ongoing discourse highlights the balance between technological advancement and societal acceptance.",
+      "source": "MIT Technology Review"
     }
   ]
 }
