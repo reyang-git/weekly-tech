@@ -1,68 +1,68 @@
 {
-  "generatedAt": "2026-08-02T22:45:48.101Z",
-  "weekOf": "2026-08-02",
-  "lead": "This week, the tech landscape saw significant developments in AI, cybersecurity, and the Australian tech ecosystem, alongside notable startup activities and product launches.",
+  "generatedAt": "2026-08-16T22:11:13.367Z",
+  "weekOf": "2026-08-16",
+  "lead": "This week in tech: OpenAI restructures, Stripe acquires an AI startup, and deepfake scams rise in Australia.",
   "themes": [
     "AI and emerging technologies",
     "Startups and VC deals",
     "Innovation and new product launches",
     "Australian tech ecosystem",
-    "Cybersecurity"
+    "Novel use cases and applications of technology"
   ],
   "stories": [
     {
-      "title": "Journey Beyond finds safer path to customer AI with agentic agents",
-      "link": "https://www.itnews.com.au/news/journey-beyond-finds-safer-path-to-customer-ai-with-agentic-agents-627689?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Australian company Journey Beyond is leveraging agentic agents to enhance customer interactions while addressing governance concerns in AI. This innovative approach aims to create a safer and more efficient customer service experience, showcasing the potential of AI in transforming traditional business models.",
-      "source": "IT News"
-    },
-    {
-      "title": "Snapchat is the latest platform to turn against AI slop",
-      "link": "https://mashable.com/life/snapchat-ai-slop-spotlight-videos",
-      "summary": "In a move to improve content quality, Snapchat will stop recommending fully AI-generated Spotlight videos. This decision reflects a growing trend among platforms to prioritize authentic content over low-quality AI creations, as user engagement becomes increasingly critical.",
-      "source": "Mashable"
-    },
-    {
-      "title": "Sam Altman and AI’s decel debate",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "summary": "Sam Altman has sparked a discussion on the pace of AI development, advocating for a more measured approach. This discourse highlights the balance between innovation and safety as the industry grapples with the implications of rapid AI advancements.",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "Stripe is set to acquire OpenRouter, a startup that positions itself as 'Stripe for AI,' for over $7 billion. This acquisition highlights the growing intersection of payment processing and artificial intelligence, as OpenRouter aims to simplify the integration of AI capabilities into various applications. The deal reflects Stripe's commitment to expanding its offerings in the tech landscape.",
       "source": "TechCrunch"
     },
     {
-      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
-      "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-      "summary": "Despite fears that AI would overshadow traditional applications, developers are introducing innovative software solutions. This article showcases promising new apps that leverage AI while enhancing user experience, proving that creativity in app development remains vibrant.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Arch Linux halts package adoptions after malware hijacking wave",
-      "link": "https://www.itnews.com.au/news/arch-linux-halts-package-adoptions-after-malware-hijacking-wave-627870?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "In response to a recent malware attack on its code repository, Arch Linux has paused package adoptions. This incident underscores the ongoing challenges in cybersecurity within open-source communities and the importance of robust security measures.",
-      "source": "IT News"
-    },
-    {
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "summary": "Fender CEO Edward 'Bud' Cole has stirred controversy with his comments equating bandmates to analog AI, amidst backlash over the company's copyright claims. This highlights the intersection of music, technology, and the evolving discourse around AI's role in creative industries.",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "summary": "OpenAI has reportedly disbanded its preparedness team, which was responsible for assessing risks associated with AI models. The responsibilities have been redistributed among existing teams, signaling a shift in the company's internal structure as it prepares for a potential IPO. This change comes amid ongoing scrutiny of AI's safety and ethical implications.",
       "source": "The Verge"
     },
     {
-      "title": "The global memory shortage hits the MacBook Air",
-      "link": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
-      "summary": "The ongoing global memory chip shortage is impacting the availability of Apple's MacBook Air, reflecting broader supply chain challenges in the tech industry. This situation raises concerns about production capabilities and consumer access to popular devices.",
+      "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, ASIC warns",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
+      "summary": "Australia's corporate watchdog has reported a surge in scams using deepfake technology, with Prime Minister Anthony Albanese being the most commonly impersonated figure. These scams have defrauded Australians out of approximately $7.4 million, highlighting the urgent need for public awareness and regulatory measures against such fraudulent activities.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "summary": "Dario Amodei, CEO of Anthropic, has addressed the growing backlash against AI technologies, characterizing it as a crisis of trust. He emphasizes that AI companies must deliver genuine breakthroughs to regain public confidence. This statement comes as the industry faces increasing skepticism about its promises and capabilities.",
       "source": "TechCrunch"
     },
     {
-      "title": "Is Myspace coming back? Owners confirm relaunch plans",
-      "link": "https://mashable.com/life/myspace-comeback-owners-relaunch-plans",
-      "summary": "The owners of Myspace have announced plans for a relaunch, aiming to revive the once-popular social platform. While details remain sparse, this move could signal a shift in social media dynamics as nostalgia-driven platforms seek to reclaim their audience.",
-      "source": "Mashable"
+      "title": "OpenAI’s new ChatGPT feature logs your keystrokes and stores them in plain text",
+      "link": "https://thenextweb.com/news/openai-chatgpt-computer-history-mac-keystrokes",
+      "summary": "OpenAI has introduced a new feature called Computer History in ChatGPT, which records user actions on macOS to enhance the AI's learning capabilities. This feature, however, raises privacy concerns as it stores data in unencrypted plain text. Users can opt-in and manage what data is recorded, but the implications for user privacy are significant.",
+      "source": "The Next Web"
     },
     {
-      "title": "Xbox prices are increasing by up to €200 or £170",
-      "link": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
-      "summary": "Microsoft has announced significant price increases for Xbox consoles in the EU and UK, reflecting rising costs in the gaming industry. This decision may impact consumer purchasing behavior as the market adjusts to new pricing structures.",
-      "source": "The Verge"
+      "title": "Anglicare transforms its IT service management",
+      "link": "https://www.itnews.com.au/news/anglicare-transforms-its-it-service-management-628170?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Anglicare has revamped its IT service management by deploying a new stack focused on monitoring and observability. This transformation aims to improve operational efficiency and service delivery within the organization. Such upgrades are critical for non-profits to enhance their technological capabilities.",
+      "source": "IT News"
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "summary": "In a recent podcast, experts discussed the skepticism surrounding Mark Zuckerberg's vision for AI, highlighting public concerns about privacy and the ethical use of technology. The conversation reflects broader anxieties about the direction of AI development and its implications for society, particularly in light of recent controversies.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "US to tell partners they must pick sides in AI race with China",
+      "link": "https://www.itnews.com.au/news/us-to-tell-partners-they-must-pick-sides-in-ai-race-with-china-628198?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The US government is preparing to urge its allies to take a definitive stance in the ongoing AI competition with China. This move is part of a broader strategy to solidify partnerships and ensure that democratic nations align in their approach to AI development and governance, amidst rising global tensions.",
+      "source": "IT News"
+    },
+    {
+      "title": "The Pixel's new 'HiLight' reminds me of the golden days of Android phones",
+      "link": "https://www.zdnet.com/article/google-pixel-11-pro-hilight-feature-android-golden-days/",
+      "summary": "Google's Pixel 11 Pro has introduced a new feature called 'HiLight,' which pays homage to classic notification LEDs. This nostalgic addition aims to enhance user experience by providing a subtle yet effective way to stay informed about notifications, blending modern technology with a touch of retro charm.",
+      "source": "ZDNet"
     }
   ]
 }
