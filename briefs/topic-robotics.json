@@ -1,56 +1,26 @@
 {
-  "generatedAt": "2026-08-10T04:10:16.905Z",
+  "generatedAt": "2026-08-17T03:24:37.482Z",
   "topic": "robotics",
-  "weekOf": "2026-08-10",
-  "lead": "Robotics continues to evolve rapidly, with significant advancements in medical applications, AI integration, and regulatory challenges shaping the landscape.",
+  "weekOf": "2026-08-17",
+  "lead": "Recent developments in robotics and AI ethics highlight the growing complexities and challenges within the tech landscape, from executive departures at leading companies to the implications of international advancements in technology.",
   "stories": [
     {
-      "title": "UNSW medical robotics spinout raises $8.6m for US ambitions",
-      "link": "https://www.startupdaily.net/topic/funding/unsw-medical-robotics-spinout-raises-8-6m-for-us-ambitions/",
-      "summary": "Vexev, a medical robotics spinout from UNSW, has successfully raised $8.6 million to advance its vascular ultrasound technology. The funding aims to propel the company towards FDA approval in the United States, marking a significant step in integrating robotics with medical diagnostics. This investment highlights the growing interest in robotic solutions within the healthcare sector.",
-      "source": "Startup Daily"
-    },
-    {
-      "title": "7 use cases for leveraging AI in the physical world",
-      "link": "https://www.cio.com/article/4205856/7-use-cases-for-leveraging-ai-in-the-physical-world.html",
-      "summary": "The integration of AI into physical systems is set to revolutionize various industries, with applications ranging from autonomous vehicles to smart buildings. The physical AI market is projected to grow significantly, driven by labor shortages and the need for efficiency. Key use cases include manufacturing robots, autonomous drones, and AI-enhanced surveillance systems, showcasing the breadth of AI's impact on physical environments.",
+      "title": "OpenAI loses its AI ethics lead",
+      "link": "https://www.cio.com/article/4209804/openai-loses-its-ai-ethics-lead-2.html",
+      "summary": "OpenAI's ethics lead, Chloé Bakalar, has reportedly left the company, adding to a series of high-profile departures that raise questions about the organization's commitment to ethical AI development. Bakalar's expertise in machine consciousness and human-AI interaction was seen as vital, especially as OpenAI prepares for an IPO amidst increasing scrutiny over its ethical practices. Her exit follows that of other key figures, including the robotics chief, signaling potential instability within the company.",
       "source": "CIO"
     },
     {
-      "title": "Trump’s AI protectionism has come for robotics",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "summary": "The Trump administration's approach to AI regulation is impacting the robotics sector, particularly concerning humanoid robots. Despite advancements, these robots still face challenges in functionality and public perception. This protectionist stance raises questions about the future of robotics innovation in the US amidst global competition.",
-      "source": "MIT Technology Review"
+      "title": "One of science fiction’s greatest writers warned us about AI. Does he also hold the remedy?",
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
+      "summary": "In a thought-provoking piece, Alan Finkel explores the relevance of Isaac Asimov's laws of robotics in today's AI landscape. With predictions from tech leaders like Elon Musk about AI-powered robots potentially dominating society, the article discusses the urgent need for ethical frameworks that could guide AI development towards benevolence. As governments begin to implement regulations, the challenge remains to create AI that genuinely prioritizes human welfare.",
+      "source": "The Guardian Australia"
     },
     {
       "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
       "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
-      "summary": "Recent advancements in China's AI and robotics sectors are creating significant disruptions in the global tech landscape. US tech leaders are increasingly concerned about China's competitive edge, prompting debates on regulatory measures. This situation underscores the geopolitical implications of robotics and AI technologies in shaping market dynamics.",
+      "summary": "China's rapid advancements in AI, robotics, and chip manufacturing are creating significant disruptions in the US tech industry. The latest developments have led to a rift among US tech leaders regarding how to respond to the competitive threat posed by Chinese innovations. As the Trump administration grapples with these challenges, the implications for the future of robotics and AI regulation in the US remain uncertain.",
       "source": "The Guardian Australia"
-    },
-    {
-      "title": "The Download: US robot restrictions and ICE’s DNA grab",
-      "link": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-      "summary": "The latest edition of The Download discusses the implications of US restrictions on robotics and their potential impact on innovation. The narrative highlights how these regulations could stifle advancements in robotics, particularly in the context of competition with international markets. This situation reflects broader trends in technology regulation and its effects on industry growth.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "One of science fiction’s greatest writers warned us about AI. Does he also hold the remedy?",
-      "link": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
-      "summary": "In a thought-provoking commentary, Alan Finkel explores the potential for new laws of robotics inspired by Isaac Asimov's principles. He discusses the challenges posed by AI and robotics, particularly concerning their autonomy and ethical implications. The article suggests that proactive governance may be necessary to ensure that AI technologies serve humanity positively.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "One of science fiction’s greatest writers warned us about AI. Does he also hold the remedy?",
-      "link": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
-      "summary": "This article reiterates the importance of establishing ethical guidelines for AI and robotics, drawing parallels to Asimov's laws. It emphasizes the need for a collaborative approach to ensure that AI remains beneficial to society. The discussion reflects ongoing concerns about the unchecked development of autonomous systems and the role of government in regulating these technologies.",
-      "source": "The Guardian Australia"
-    },
-    {
-      "title": "Humanoid robots usually elicit more cringe than awe",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "summary": "Humanoid robots are often met with skepticism due to their limitations in functionality and public perception. This article discusses the challenges faced by the robotics industry, particularly in the context of regulatory pressures and the need for innovation. The ongoing discourse highlights the balance between technological advancement and societal acceptance.",
-      "source": "MIT Technology Review"
     }
   ]
 }
