@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-08-10T04:10:16.064Z",
+  "generatedAt": "2026-08-17T03:24:39.468Z",
   "topic": "AI",
-  "weekOf": "2026-08-10",
-  "lead": "AI continues to evolve and influence various sectors, from finance to education, raising both opportunities and concerns about safety and ethics.",
+  "weekOf": "2026-08-17",
+  "lead": "AI continues to make headlines across various sectors, from funding and technological advancements to ethical concerns and societal impacts.",
   "stories": [
     {
-      "title": "OpenAI to pause some work on AI model Astra due to security concerns",
-      "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-      "summary": "OpenAI has decided to pause development on its AI model Astra after discovering significant security risks. The model was found capable of autonomously identifying and exploiting vulnerabilities, leading to fears of potential cyber-attacks. This decision highlights the ongoing challenges in ensuring AI safety amidst rapid advancements.",
+      "title": "Best in Tech awards finalist Sophiie AI lands $5 million Seed round",
+      "link": "https://www.startupdaily.net/topic/funding/best-in-tech-awards-finalist-sophiie-ai-lands-5-million-seed-round/",
+      "summary": "Sophiie AI, a finalist in the Best in Tech awards, has secured a $5 million seed round to enhance its AI solutions aimed at transforming administrative tasks for tradespeople. This funding is expected to facilitate the company's expansion into the US market.",
+      "source": "Startup Daily"
+    },
+    {
+      "title": "Report supporting Australia’s teen social media ban appears to contain AI hallucinations, Senate hears",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/17/australia-social-media-ban-report-ai-hallucinations-ntwnfb",
+      "summary": "A report advocating for a social media ban for teens in Australia has been scrutinized for containing references to non-existent academic articles, raising concerns about AI-generated content. While the authors acknowledged using AI in editing, they denied that the errors were due to hallucinations from the technology.",
       "source": "The Guardian"
     },
     {
-      "title": "AI push is putting banks at mercy of tech firms, warns Moody’s",
-      "link": "https://www.theguardian.com/business/2026/aug/09/ai-push-banks-tech-firms-moodys-risks-financial-sector",
-      "summary": "A report from Moody's warns that the financial sector's rush to adopt AI technologies is making banks vulnerable to a handful of tech firms. While AI can enhance efficiency and reduce costs, the dependency on these technologies could lead to significant risks, including outages and price manipulation by tech companies.",
-      "source": "The Guardian"
+      "title": "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
+      "link": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
+      "summary": "Microsoft has cited AI-related issues as the reason for the delayed rollout of a critical update for its Exchange service. The company is currently grappling with a backlog of machine-generated bugs, complicating its ability to deliver timely software updates.",
+      "source": "The Register"
     },
     {
-      "title": "AI detectors are creating a new era of distrust",
-      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "summary": "As AI writing becomes increasingly sophisticated, the use of AI detectors is rising, leading to a growing atmosphere of suspicion. These tools, originally designed to combat plagiarism, are now raising concerns about trust in written content and the implications for education and journalism.",
-      "source": "The Verge"
-    },
-    {
-      "title": "Claude Vs ChatGPT: How These AI Assistants Differ",
-      "link": "https://www.engadget.com/2229993/claude-vs-chatgpt-how-ai-assistants-differ/",
-      "summary": "A comparative analysis of AI assistants Claude and ChatGPT reveals distinct differences in their performance and user experience. While both models offer advanced capabilities, their effectiveness varies, highlighting the ongoing evolution and competition in the AI landscape.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Eightcap uses AI to scale compliance across global markets",
-      "link": "https://www.itnews.com.au/news/eightcap-uses-ai-to-scale-compliance-across-global-markets-627691?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Eightcap is leveraging AI technology to enhance compliance processes across international markets. By automating compliance tasks, the company aims to handle large volumes of data while allowing human experts to focus on more complex issues, showcasing AI's potential in regulatory environments.",
-      "source": "IT News"
-    },
-    {
-      "title": "This former notorious red-light district is now one of the world’s top AI hubs",
-      "link": "https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/",
-      "summary": "King's Cross in London, once infamous for its red-light district, has transformed into a vibrant hub for AI innovation. This shift reflects broader trends in urban redevelopment and the growing importance of technology sectors in revitalizing communities.",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "In a significant move within the tech industry, Stripe is reportedly set to acquire OpenRouter, an AI gateway startup, for over $7 billion. This acquisition highlights the growing trend of integrating AI capabilities into payment processing and financial services.",
       "source": "TechCrunch"
     },
     {
-      "title": "Recruiters are using AI avatars to run interviews. Now candidates are sending avatars to attend them.",
-      "link": "https://thenextweb.com/news/ai-avatars-job-interviews-candidates-recruiters",
-      "summary": "The rise of AI avatars in recruitment is changing the landscape of job interviews, with candidates now sending digital representations of themselves to interviews. This trend raises questions about authenticity and the future of human interaction in hiring processes.",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "summary": "OpenAI has reportedly disbanded its preparedness team, responsible for assessing risks associated with its AI models. This restructuring comes amidst significant changes within the company as it prepares for a potential IPO, raising questions about its approach to AI safety.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Dario Amodei admits AI companies have not delivered on their promises",
+      "link": "https://thenextweb.com/news/dario-amodei-ai-public-trust-cure-cancer-ipo",
+      "summary": "Dario Amodei, CEO of Anthropic, has openly acknowledged that AI companies have fallen short of their ambitious promises. He emphasizes that only genuine breakthroughs will restore public trust in AI technologies as the industry faces scrutiny ahead of major IPOs.",
       "source": "The Next Web"
     },
     {
-      "title": "These AI Barons Are Ready to Give Away Their Fortunes",
-      "link": "https://www.wired.com/story/ai-billionaires-are-pledging-their-wealth-good-or-bad/",
-      "summary": "A new wave of AI billionaires is pledging to donate their wealth to philanthropic causes. This trend raises important discussions about the responsibilities of tech leaders and the impact of their contributions on society, especially in the realm of AI ethics and development.",
-      "source": "Wired"
+      "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
+      "summary": "Australia's corporate watchdog has reported a surge in scams utilizing deepfake technology, with Prime Minister Anthony Albanese being a common target. These scams have collectively defrauded Australians of approximately $7.4 million, highlighting the risks posed by advanced AI technologies.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
+      "link": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
+      "summary": "Global student protests have erupted in response to AI-related issues in education, including cheating and exam marking errors. The unrest reflects growing frustrations among students in various countries as they navigate an increasingly competitive academic landscape.",
+      "source": "The Guardian"
     }
   ]
 }
