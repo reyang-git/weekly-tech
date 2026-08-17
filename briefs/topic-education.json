@@ -1,56 +1,26 @@
 {
-  "generatedAt": "2026-08-10T04:10:18.818Z",
+  "generatedAt": "2026-08-17T03:24:39.385Z",
   "topic": "education",
-  "weekOf": "2026-08-10",
-  "lead": "Education is evolving with technology, facing challenges and opportunities in areas like social media regulation and AI integration.",
+  "weekOf": "2026-08-17",
+  "lead": "The landscape of education is rapidly evolving, with debates surrounding technology use in classrooms, student protests over exam integrity, and initiatives to prepare unemployed youth for the job market through AI training.",
   "stories": [
     {
-      "title": "Hong Kong educators want a social media ban for under-16s",
-      "link": "https://thenextweb.com/news/hong-kong-under-16-social-media-ban-educators-lawmakers",
-      "summary": "In Hong Kong, educators are advocating for a ban on social media for individuals under 16, citing addiction as a significant barrier to effective education. During a recent panel discussion, Lilian Chan Lui Ling-yee emphasized the need for legislative action to safeguard the youth from the detrimental effects of social media. However, the government has stated it has no plans to pursue such legislation.",
-      "source": "The Next Web"
+      "title": "‘Our children are less cognitively capable,’ says neuroscientist who wants to cut screen use in schools",
+      "link": "https://www.theguardian.com/education/2026/aug/16/neuroscientist-screen-use-schools-educational-technology-jared-cooney-horvath",
+      "summary": "Neuroscientist Jared Cooney Horvath argues that the increasing use of screens in education is detrimental to children's cognitive development. He highlights the need for a reevaluation of educational technology, suggesting that it may be undermining traditional learning methods. His insights come amidst growing concerns about the impact of digital tools on young learners.",
+      "source": "The Guardian"
     },
     {
-      "title": "Your AI hiring tool isn’t an HR problem. It’s a security one",
-      "link": "https://www.cio.com/article/4206304/your-ai-hiring-tool-isnt-an-hr-problem-its-a-security-one.html",
-      "summary": "As AI tools become integral in hiring processes, they are increasingly viewed as security risks rather than just HR technologies. The article discusses how AI can manipulate hiring outcomes through prompt injection, leading to potential security vulnerabilities. Organizations must reassess their AI hiring tools as part of their security infrastructure to ensure integrity and trust in the hiring process.",
-      "source": "CIO"
+      "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
+      "link": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
+      "summary": "Student unrest has erupted globally, particularly in Mexico and Portugal, where exam-related issues have sparked mass protests. In Mexico, nearly 60,000 students were forced to resit tests due to suspected cheating, while Portugal faced a crisis following a failed digitization of exam marking. These events highlight the pressures students face in a competitive job market.",
+      "source": "The Guardian"
     },
     {
-      "title": "Enterprise-wide AI transformation starts with change management",
-      "link": "https://www.cio.com/article/4202993/enterprise-wide-ai-transformation-starts-with-change-management.html",
-      "summary": "The success of AI initiatives in organizations hinges on effective change management and employee readiness. The article highlights that many AI projects fail due to lack of operational readiness and employee understanding. Organizations must focus on improving processes and preparing employees before rolling out AI technologies to ensure meaningful adoption and measurable outcomes.",
-      "source": "CIO"
-    },
-    {
-      "title": "How to prepare students for an AI-driven future",
-      "link": "https://www.educationweek.org/technology/how-to-prepare-students-for-an-ai-driven-future/2026/08",
-      "summary": "As AI technology permeates various sectors, educators are tasked with preparing students for an AI-driven future. This involves integrating AI literacy into curricula and fostering critical thinking skills. The article discusses innovative teaching strategies that empower students to navigate and thrive in an increasingly automated world.",
-      "source": "Education Week"
-    },
-    {
-      "title": "The role of technology in reshaping education",
-      "link": "https://www.edutopia.org/article/role-technology-reshaping-education",
-      "summary": "Technology is revolutionizing education, providing new tools for engagement and personalized learning. This article explores various technologies, including online platforms and interactive tools, that enhance learning experiences. It emphasizes the importance of teacher training in effectively utilizing these technologies to improve student outcomes.",
-      "source": "Edutopia"
-    },
-    {
-      "title": "The impact of AI on student assessment",
-      "link": "https://www.insidehighered.com/news/2026/08/09/impact-ai-student-assessment",
-      "summary": "AI is transforming how student assessments are conducted, offering personalized feedback and adaptive testing. This article discusses the benefits and challenges of using AI in assessments, including concerns about fairness and data privacy. It highlights the need for educators to balance AI's capabilities with traditional assessment methods.",
-      "source": "Inside Higher Ed"
-    },
-    {
-      "title": "Digital literacy: A new core competency for students",
-      "link": "https://www.techlearning.com/news/digital-literacy-a-new-core-competency-for-students",
-      "summary": "Digital literacy has become essential for students in the modern educational landscape. This article outlines the skills necessary for students to navigate digital environments effectively, including critical thinking and online safety. Schools are encouraged to incorporate digital literacy into their curricula to prepare students for future challenges.",
-      "source": "TechLearning"
-    },
-    {
-      "title": "The future of remote learning: Trends and predictions",
-      "link": "https://www.educationdive.com/news/future-of-remote-learning-trends-and-predictions/2026/08",
-      "summary": "The future of remote learning is shaped by evolving technologies and pedagogical approaches. This article examines current trends, such as hybrid models and increased use of AI, and predicts how they will influence education. It emphasizes the need for adaptive strategies to ensure effective learning experiences in remote settings.",
-      "source": "Education Dive"
+      "title": "Unemployed young people to join AI boot camps to get job-ready",
+      "link": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
+      "summary": "In an effort to combat youth unemployment, the UK government is launching AI boot camps aimed at equipping young people with skills for the job market. This initiative targets those not in education or employment, providing three weeks of training to help them harness AI technology. The program reflects a shift towards integrating technology into workforce readiness.",
+      "source": "The Guardian"
     }
   ]
 }
