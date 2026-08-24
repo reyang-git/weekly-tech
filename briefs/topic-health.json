@@ -1,44 +1,56 @@
 {
-  "generatedAt": "2026-08-17T03:24:38.768Z",
+  "generatedAt": "2026-08-24T03:28:17.370Z",
   "topic": "health",
-  "weekOf": "2026-08-17",
-  "lead": "Exploring the intersection of technology and health, from innovative wearables to mental health awareness in the workplace.",
+  "weekOf": "2026-08-24",
+  "lead": "Recent developments in health technology raise questions about the accuracy of AI-driven health tools, the governance of AI in healthcare, and the evolving landscape of health-related consumer products.",
   "stories": [
     {
-      "title": "How Samsung's Galaxy Watch 8 measures your antioxidant levels",
-      "link": "https://www.engadget.com/2236219/how-samsung-galaxy-watch-series8-measures-antioxidant-levels/",
-      "summary": "Samsung's Galaxy Watch 8 introduces a groundbreaking feature that measures antioxidant levels, providing users with insights into their dietary health. This advancement aims to empower individuals to make informed choices about their nutrition and overall wellness. By integrating such health metrics into wearable technology, Samsung is pushing the boundaries of personal health monitoring.",
-      "source": "Engadget"
+      "title": "A lawsuit says Oura’s sleep stages are AI guesses with a coin flip’s odds",
+      "link": "https://thenextweb.com/news/oura-sleep-tracking-accuracy-class-action-lawsuit",
+      "summary": "A proposed class action lawsuit claims that Oura's sleep tracking technology relies on AI estimates rather than accurate measurements, suggesting its accuracy is akin to a coin flip. Oura Health Oy, the Finnish parent company, defends its technology, asserting the reliability of its claims. This case highlights growing scrutiny over the validity of consumer health tech.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "The Single English County Saying No to Palantir",
+      "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+      "summary": "Greater Manchester is pushing back against a significant healthcare contract with Palantir, arguing that local authorities can manage healthcare data more effectively. This decision reflects a broader debate about the role of private companies in public health and the need for local governance in healthcare data management.",
+      "source": "Wired"
+    },
+    {
+      "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
+      "link": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
+      "summary": "Patients in Rotherham are facing challenges with an AI receptionist named Emma, which struggles to understand local accents. The situation raises concerns about the effectiveness of AI in healthcare settings, particularly regarding accessibility and patient experience. Healthwatch Rotherham has highlighted the need for technology that meets the linguistic diversity of patients.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Wesfarmers Health moving up to SAP S/4HANA",
+      "link": "https://www.itnews.com.au/news/wesfarmers-health-moving-up-to-sap-s-4hana-628284?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Wesfarmers Health is transitioning to SAP S/4HANA as part of its multi-year technology roadmap, aiming to enhance its operational efficiency and data management capabilities. This move reflects a trend among healthcare organizations to modernize their IT infrastructure to better support patient care and operational needs.",
+      "source": "IT News"
     },
     {
       "title": "All the Health and Fitness Products You Didn't Realize You Could Buy With HSA Funds",
       "link": "https://lifehacker.com/health/health-and-fitness-products-hsa-fsa-funds?utm_medium=RSS",
-      "summary": "A recent article highlights various health and fitness products eligible for purchase with Health Savings Account (HSA) funds, encouraging consumers to maximize their pre-tax health dollars. This guide opens up new avenues for individuals to invest in their health, from fitness equipment to wellness apps, thereby promoting a proactive approach to health management.",
+      "summary": "Consumers are often unaware of the range of health and fitness products eligible for purchase with Health Savings Account (HSA) funds. This article explores creative ways to utilize pre-tax health dollars, emphasizing the importance of financial literacy in managing health-related expenses effectively.",
       "source": "Lifehacker"
     },
     {
-      "title": "The leadership burnout no one talks about: IT executives who are afraid to ask for help",
-      "link": "https://www.cio.com/article/4209332/the-leadership-burnout-no-one-talks-about-it-executives-who-are-afraid-to-ask-for-help.html",
-      "summary": "IT executives are facing unprecedented levels of burnout, often feeling isolated and reluctant to seek help. This article explores the pressures of leadership in the tech industry, where long hours and high expectations can lead to severe mental health challenges. It emphasizes the importance of addressing mental health in high-stress environments and encourages leaders to prioritize their well-being.",
+      "title": "Explainable AI is necessary, but it’s not enough",
+      "link": "https://www.cio.com/article/4211605/explainable-ai-is-necessary-but-its-not-enough.html",
+      "summary": "The article discusses the limitations of explainable AI in healthcare, emphasizing that while understanding AI decision-making is crucial, it is not sufficient for ensuring accurate outcomes. It advocates for a comprehensive governance framework that includes knowledge and policy oversight to prevent errors in AI-driven decisions.",
       "source": "CIO"
     },
     {
-      "title": "6 startups score $13.5 million from biotech grants fund CUREator+",
-      "link": "https://www.startupdaily.net/topic/funding/6-startups-score-13-5-million-from-biotech-grants-fund-cureator/",
-      "summary": "Six Australian biotechnology startups have secured $13.5 million in funding from the CUREator+ grants to advance their health technologies. These startups are focused on innovative solutions in AI health, cancer treatment, and heart technology, showcasing the growing intersection of technology and healthcare innovation aimed at improving patient outcomes.",
-      "source": "Startup Daily"
+      "title": "Compassion is not a control: What veterinary practices reveal about AI governance",
+      "link": "https://www.cio.com/article/4203552/compassion-is-not-a-control-what-veterinary-practices-reveal-about-ai-governance.html",
+      "summary": "The integration of AI in veterinary practices raises questions about accountability and governance. While AI can enhance efficiency, it is crucial for practices to establish clear guidelines on its use to prevent reliance on flawed tools. The article stresses the need for oversight in AI applications to maintain trust and accuracy in patient care.",
+      "source": "CIO"
     },
     {
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "link": "https://www.wired.com/gallery/best-cat-water-fountains/",
-      "summary": "Keeping pets hydrated is crucial for their health, and the latest cat water fountains are designed to encourage drinking. This guide reviews the best options available in 2026, highlighting features that promote hydration and overall well-being for cats. These innovations not only enhance pet health but also reflect a growing awareness of pet wellness.",
-      "source": "Wired"
-    },
-    {
-      "title": "Oura Ring 5 review: a stunning generational leap for smart rings",
-      "link": "https://www.theguardian.com/technology/2026/jun/30/oura-ring-5-review-smart-ring-health-tracking",
-      "summary": "The Oura Ring 5 represents a significant advancement in health-tracking technology, offering a sleek design and enhanced functionality. This smart ring monitors various health metrics, making it a valuable tool for individuals looking to improve their wellness. Its user-friendly features and integration into daily life set a new standard for wearable health devices.",
-      "source": "The Guardian"
+      "title": "Social media on trial as $200bn case against Facebook and Instagram begins",
+      "link": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial",
+      "summary": "A landmark trial involving Meta's platforms, Facebook and Instagram, is underway, with 29 US states alleging that these platforms are designed to be addictive. This case echoes historical legal actions against industries contributing to public health crises, highlighting the ongoing debate about the impact of social media on mental health.",
+      "source": "The Guardian Australia"
     }
   ]
 }
