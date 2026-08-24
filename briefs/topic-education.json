@@ -1,25 +1,31 @@
 {
-  "generatedAt": "2026-08-17T03:24:39.385Z",
+  "generatedAt": "2026-08-24T03:28:13.933Z",
   "topic": "education",
-  "weekOf": "2026-08-17",
-  "lead": "The landscape of education is rapidly evolving, with debates surrounding technology use in classrooms, student protests over exam integrity, and initiatives to prepare unemployed youth for the job market through AI training.",
+  "weekOf": "2026-08-24",
+  "lead": "The landscape of education is evolving, with discussions around digital detox in classrooms and the impact of AI on student preparedness gaining traction.",
   "stories": [
     {
-      "title": "‘Our children are less cognitively capable,’ says neuroscientist who wants to cut screen use in schools",
-      "link": "https://www.theguardian.com/education/2026/aug/16/neuroscientist-screen-use-schools-educational-technology-jared-cooney-horvath",
-      "summary": "Neuroscientist Jared Cooney Horvath argues that the increasing use of screens in education is detrimental to children's cognitive development. He highlights the need for a reevaluation of educational technology, suggesting that it may be undermining traditional learning methods. His insights come amidst growing concerns about the impact of digital tools on young learners.",
+      "title": "Do Australian schools need a digital detox?",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/24/australian-schools-digital-detox-jason-clare",
+      "summary": "Australian federal education minister Jason Clare has sparked a conversation about the need for a 'digital detox' in schools, suggesting that the omnipresence of technology may be hindering students' concentration. Many teachers and parents support this idea, advocating for a reevaluation of the role of laptops in classrooms after over 15 years of their integration. This shift aims to enhance focus and learning outcomes among students.",
       "source": "The Guardian"
     },
     {
-      "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
-      "link": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
-      "summary": "Student unrest has erupted globally, particularly in Mexico and Portugal, where exam-related issues have sparked mass protests. In Mexico, nearly 60,000 students were forced to resit tests due to suspected cheating, while Portugal faced a crisis following a failed digitization of exam marking. These events highlight the pressures students face in a competitive job market.",
+      "title": "UC Berkeley professor admits to using AI to edit op-ed on students’ math skills",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+      "summary": "Zvezdelina Stankova, a math professor at UC Berkeley, has publicly acknowledged using AI to assist in editing her op-ed discussing alarming deficiencies in her students' math skills. She claims that many of her students are significantly behind, lacking fundamental knowledge in areas such as fractions and algebra. Stankova attributes this issue to the UC system's test-blind admissions policy, which she believes allows underprepared students into rigorous programs.",
       "source": "The Guardian"
     },
     {
-      "title": "Unemployed young people to join AI boot camps to get job-ready",
-      "link": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
-      "summary": "In an effort to combat youth unemployment, the UK government is launching AI boot camps aimed at equipping young people with skills for the job market. This initiative targets those not in education or employment, providing three weeks of training to help them harness AI technology. The program reflects a shift towards integrating technology into workforce readiness.",
+      "title": "The impact of test-blind admissions on student preparedness",
+      "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+      "summary": "The debate surrounding test-blind admissions in universities has intensified, particularly in light of a UC Berkeley professor's claims about students' math deficiencies. Critics argue that without standardized tests like the SAT, students entering competitive programs may lack the necessary foundational skills. This raises questions about the effectiveness of current admission policies in ensuring student readiness for higher education challenges.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Elon Musk's approach to education and the climate crisis",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
+      "summary": "Elon Musk's views on education and the climate crisis reflect a broader trend of tech billionaires proposing grand solutions to complex societal issues. His focus on futuristic concepts, such as the Kardashev scale, suggests a belief in technological advancements as the primary means to address global challenges. Critics argue that this perspective often overlooks the importance of foundational education and practical solutions in addressing immediate societal needs.",
       "source": "The Guardian"
     }
   ]
