@@ -1,56 +1,50 @@
 {
-  "generatedAt": "2026-08-24T03:28:17.370Z",
+  "generatedAt": "2026-08-31T08:45:24.266Z",
   "topic": "health",
-  "weekOf": "2026-08-24",
-  "lead": "Recent developments in health technology raise questions about the accuracy of AI-driven health tools, the governance of AI in healthcare, and the evolving landscape of health-related consumer products.",
+  "weekOf": "2026-08-31",
+  "lead": "Recent developments in health technology highlight both advancements and challenges, particularly in AI applications and wearable devices.",
   "stories": [
     {
-      "title": "A lawsuit says Oura’s sleep stages are AI guesses with a coin flip’s odds",
-      "link": "https://thenextweb.com/news/oura-sleep-tracking-accuracy-class-action-lawsuit",
-      "summary": "A proposed class action lawsuit claims that Oura's sleep tracking technology relies on AI estimates rather than accurate measurements, suggesting its accuracy is akin to a coin flip. Oura Health Oy, the Finnish parent company, defends its technology, asserting the reliability of its claims. This case highlights growing scrutiny over the validity of consumer health tech.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "The Single English County Saying No to Palantir",
-      "link": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
-      "summary": "Greater Manchester is pushing back against a significant healthcare contract with Palantir, arguing that local authorities can manage healthcare data more effectively. This decision reflects a broader debate about the role of private companies in public health and the need for local governance in healthcare data management.",
-      "source": "Wired"
-    },
-    {
-      "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
-      "link": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
-      "summary": "Patients in Rotherham are facing challenges with an AI receptionist named Emma, which struggles to understand local accents. The situation raises concerns about the effectiveness of AI in healthcare settings, particularly regarding accessibility and patient experience. Healthwatch Rotherham has highlighted the need for technology that meets the linguistic diversity of patients.",
+      "title": "Doctors’ AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns",
+      "link": "https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns",
+      "summary": "An NHS watchdog has raised concerns about AI scribes used in medical consultations, which have been found to misreport drug names and diagnoses. Patients have identified errors that were overlooked by healthcare professionals, leading to potential risks. One alarming case involved a misdiagnosis of serious nerve damage, highlighting the critical need for accuracy in AI applications within healthcare.",
       "source": "The Guardian"
     },
     {
-      "title": "Wesfarmers Health moving up to SAP S/4HANA",
-      "link": "https://www.itnews.com.au/news/wesfarmers-health-moving-up-to-sap-s-4hana-628284?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Wesfarmers Health is transitioning to SAP S/4HANA as part of its multi-year technology roadmap, aiming to enhance its operational efficiency and data management capabilities. This move reflects a trend among healthcare organizations to modernize their IT infrastructure to better support patient care and operational needs.",
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "summary": "Grindr is evolving beyond its dating roots, aiming to become a comprehensive platform for gay men, integrating features related to healthcare and social networking. CEO George Arison discusses the potential of AI and a new subscription tier to enhance user experience. This ambitious pivot raises questions about the viability of such a multifaceted app in a competitive market.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Why the Hottest New Wearables Want to Be Ignored",
+      "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
+      "summary": "A new wave of minimalist wearables is emerging, designed to track health data without overwhelming users with notifications. These devices aim to provide essential health insights while promoting a less intrusive user experience. This trend reflects a growing desire for technology that respects users' attention and mental well-being.",
+      "source": "Wired"
+    },
+    {
+      "title": "Health hands enterprise computing to Leidos in $91m deal",
+      "link": "https://www.itnews.com.au/news/health-hands-enterprise-computing-to-leidos-in-91m-deal-628487?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The health sector is transitioning its enterprise computing operations to Leidos in a significant $91 million deal, marking the end of a long-term partnership with Datacom. This move is expected to enhance efficiency and innovation in health IT services, reflecting the industry's ongoing digital transformation.",
       "source": "IT News"
     },
     {
-      "title": "All the Health and Fitness Products You Didn't Realize You Could Buy With HSA Funds",
-      "link": "https://lifehacker.com/health/health-and-fitness-products-hsa-fsa-funds?utm_medium=RSS",
-      "summary": "Consumers are often unaware of the range of health and fitness products eligible for purchase with Health Savings Account (HSA) funds. This article explores creative ways to utilize pre-tax health dollars, emphasizing the importance of financial literacy in managing health-related expenses effectively.",
-      "source": "Lifehacker"
+      "title": "Oura Ring 5 review: a stunning generational leap for smart rings",
+      "link": "https://www.theguardian.com/technology/2026/jun/30/oura-ring-5-review-smart-ring-health-tracking",
+      "summary": "The new Oura Ring 5 has set a high standard for health-tracking wearables, featuring a slimmer design and improved functionality. It offers enhanced comfort and usability, making it a practical choice for users. However, the device comes with a subscription model that may deter some potential buyers.",
+      "source": "The Guardian"
     },
     {
-      "title": "Explainable AI is necessary, but it’s not enough",
-      "link": "https://www.cio.com/article/4211605/explainable-ai-is-necessary-but-its-not-enough.html",
-      "summary": "The article discusses the limitations of explainable AI in healthcare, emphasizing that while understanding AI decision-making is crucial, it is not sufficient for ensuring accurate outcomes. It advocates for a comprehensive governance framework that includes knowledge and policy oversight to prevent errors in AI-driven decisions.",
-      "source": "CIO"
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Elon Musk's new initiative to accelerate gas turbine production has raised environmental concerns, as the associated pollution impacts health. The project aims to streamline energy production but faces scrutiny from health advocates and environmentalists. This highlights the ongoing tension between technological advancement and public health.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Compassion is not a control: What veterinary practices reveal about AI governance",
-      "link": "https://www.cio.com/article/4203552/compassion-is-not-a-control-what-veterinary-practices-reveal-about-ai-governance.html",
-      "summary": "The integration of AI in veterinary practices raises questions about accountability and governance. While AI can enhance efficiency, it is crucial for practices to establish clear guidelines on its use to prevent reliance on flawed tools. The article stresses the need for oversight in AI applications to maintain trust and accuracy in patient care.",
-      "source": "CIO"
-    },
-    {
-      "title": "Social media on trial as $200bn case against Facebook and Instagram begins",
-      "link": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial",
-      "summary": "A landmark trial involving Meta's platforms, Facebook and Instagram, is underway, with 29 US states alleging that these platforms are designed to be addictive. This case echoes historical legal actions against industries contributing to public health crises, highlighting the ongoing debate about the impact of social media on mental health.",
-      "source": "The Guardian Australia"
+      "title": "3 surveys deliver the same uncomfortable truth about adopting agentic AI",
+      "link": "https://www.zdnet.com/article/3-surveys-uncomfortable-adopting-agentic-ai/",
+      "summary": "Recent surveys reveal that the integration of AI in business, including healthcare, is fraught with challenges related to accountability and governance. The findings suggest that successful AI adoption requires a balanced relationship between humans and technology. This is particularly crucial in health sectors where trust and accuracy are paramount.",
+      "source": "ZDNet"
     }
   ]
 }
