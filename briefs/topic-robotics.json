@@ -1,26 +1,32 @@
 {
-  "generatedAt": "2026-08-17T03:24:37.482Z",
+  "generatedAt": "2026-08-31T08:45:24.247Z",
   "topic": "robotics",
-  "weekOf": "2026-08-17",
-  "lead": "Recent developments in robotics and AI ethics highlight the growing complexities and challenges within the tech landscape, from executive departures at leading companies to the implications of international advancements in technology.",
+  "weekOf": "2026-08-31",
+  "lead": "Robotics is advancing rapidly, with significant developments in humanoid technology, innovative applications in disaster response, and discussions on the ethical implications of AI and automation.",
   "stories": [
     {
-      "title": "OpenAI loses its AI ethics lead",
-      "link": "https://www.cio.com/article/4209804/openai-loses-its-ai-ethics-lead-2.html",
-      "summary": "OpenAI's ethics lead, Chloé Bakalar, has reportedly left the company, adding to a series of high-profile departures that raise questions about the organization's commitment to ethical AI development. Bakalar's expertise in machine consciousness and human-AI interaction was seen as vital, especially as OpenAI prepares for an IPO amidst increasing scrutiny over its ethical practices. Her exit follows that of other key figures, including the robotics chief, signaling potential instability within the company.",
-      "source": "CIO"
+      "title": "How Bill Gates uses AI, and why he thinks nobody is preparing for it",
+      "link": "https://thenextweb.com/news/bill-gates-robot-tax-again-european-parliament-2017-vote",
+      "summary": "Bill Gates has proposed a tax on AI to address the potential job displacement caused by automation. He emphasizes the need for new institutions to manage the transition and has expressed concerns that industry leaders are not adequately preparing for the impacts of AI. Gates' insights reflect a growing recognition of the ethical and economic challenges posed by robotics and AI.",
+      "source": "The Next Web"
     },
     {
-      "title": "One of science fiction’s greatest writers warned us about AI. Does he also hold the remedy?",
-      "link": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
-      "summary": "In a thought-provoking piece, Alan Finkel explores the relevance of Isaac Asimov's laws of robotics in today's AI landscape. With predictions from tech leaders like Elon Musk about AI-powered robots potentially dominating society, the article discusses the urgent need for ethical frameworks that could guide AI development towards benevolence. As governments begin to implement regulations, the challenge remains to create AI that genuinely prioritizes human welfare.",
-      "source": "The Guardian Australia"
+      "title": "Faster, higher, funnier: what we learned from China’s robot games",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
+      "summary": "The World Humanoid Robot Games in Beijing showcased China's advancements in humanoid robotics, featuring events that combined humor and impressive technical feats. Robots demonstrated capabilities in martial arts and sprinting, even surpassing Usain Bolt's record before malfunctioning spectacularly. The event highlighted both China's leadership in the field and the ongoing challenges faced by robotic technology.",
+      "source": "The Guardian"
     },
     {
-      "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
-      "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
-      "summary": "China's rapid advancements in AI, robotics, and chip manufacturing are creating significant disruptions in the US tech industry. The latest developments have led to a rift among US tech leaders regarding how to respond to the competitive threat posed by Chinese innovations. As the Trump administration grapples with these challenges, the implications for the future of robotics and AI regulation in the US remain uncertain.",
-      "source": "The Guardian Australia"
+      "title": "Cyborg cockroaches with tiny syringes designed to join search and rescue teams in major disasters",
+      "link": "https://www.theguardian.com/technology/2026/aug/27/cockroaches-used-search-rescue-earthquakes-science-technology-australia",
+      "summary": "Engineers are developing cyborg cockroaches equipped with cameras and medical injectors to assist in search and rescue operations during disasters like earthquakes. These innovative insects could provide critical support by locating trapped individuals and delivering medical aid. This project illustrates the potential of bio-robotics to enhance emergency response capabilities.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Humanoid beats Usain Bolt's 100m record at Beijing robot games",
+      "link": "https://www.smh.com.au/technology/humanoid-beats-usain-bolts-100m-record-at-beijing-robot-games-20260823-p60qr5.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
+      "summary": "In a remarkable display of technological prowess, a humanoid robot broke Usain Bolt's 100m sprint record at the Beijing robot games. The event featured over 1000 competitions, showcasing the rapid progress in robotics and the competitive spirit driving innovation in this field. Such achievements raise questions about the future of sports and human-robot competition.",
+      "source": "Sydney Morning Herald"
     }
   ]
 }
