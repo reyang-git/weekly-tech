@@ -1,74 +1,74 @@
 {
-  "generatedAt": "2026-08-23T22:12:11.591Z",
-  "weekOf": "2026-08-23",
-  "lead": "This week in tech highlights significant advancements in AI, innovative products, and developments within the Australian tech ecosystem.",
+  "generatedAt": "2026-09-06T23:21:32.837Z",
+  "weekOf": "2026-09-06",
+  "lead": "This week in tech highlights significant advancements in AI, startup funding, and innovative product launches, particularly within the Australian tech ecosystem.",
   "themes": [
-    "AI and Emerging Technologies",
-    "Startups and VC Deals",
-    "Innovation and New Product Launches",
-    "Australian Tech Ecosystem",
-    "Novel Use Cases of Technology"
+    "startups and VC deals",
+    "AI and emerging technologies",
+    "innovation and new product launches",
+    "Australian tech ecosystem",
+    "novel use cases of technology"
   ],
   "stories": [
     {
-      "title": "Galbot Robots complete 100 consecutive rallies against a tennis champion",
-      "link": "https://thenextweb.com/news/galbot-autonomous-tennis-robot-100-rallies-claim",
-      "summary": "Galbot showcased its autonomous tennis robot at the World Humanoid Robot Games, completing over 100 consecutive rallies against former world number 15 Zheng Jie. This achievement highlights the advancements in robotics and AI, particularly in sports applications, sparking interest in future competitive uses of such technology.",
+      "title": "Ultrahuman raised $70m to turn its ring into a computer",
+      "link": "https://thenextweb.com/news/ultrahuman-smart-ring-70m-qualcomm-computer",
+      "summary": "Ultrahuman has successfully raised $70 million in funding, aiming to transform its smart ring from a mere health tracker into a fully functional computing device. The investment will allow the company to expand its capabilities, focusing on software development that enhances user experience beyond health metrics. This move reflects a growing trend in wearable technology towards multifunctional devices.",
       "source": "The Next Web"
     },
     {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "summary": "Linkdaze has launched a smart digital calendar designed to manage household tasks efficiently. Unlike typical calendars, it includes features like an AI meal planner without any paywalls, showcasing a novel approach to integrating AI into everyday life and home management.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
-      "link": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
-      "summary": "The Dutch Data Protection Authority has imposed a significant fine on Uber for suspending automated drivers without proper justification, marking a critical moment in the regulation of AI and automated systems in the gig economy. This case underscores the challenges companies face in balancing innovation with compliance.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Employers are quietly rehiring the people AI replaced, and paying them less to come back",
-      "link": "https://thenextweb.com/news/ai-layoff-reversals-worker-trust-works-councils",
-      "summary": "A Forrester report reveals that many employers regret layoffs attributed to AI, with predictions that half of these job cuts will be reversed, albeit often at reduced wages. This trend raises concerns about the future of work and the impact of AI on employment stability.",
+      "title": "Thinking Machines is in talks to raise $6bn",
+      "link": "https://thenextweb.com/news/thinking-machines-lab-6bn-round-nvidia-accel",
+      "summary": "Thinking Machines Lab is reportedly seeking to raise between $5 billion to $6 billion, indicating strong investor interest in AI-driven technologies. The pre-money valuation is expected to be at least $40 billion, showcasing the confidence in the company's potential to innovate within the AI space. Accel, a long-time investor, continues to support this ambitious funding round.",
       "source": "The Next Web"
     },
     {
-      "title": "Nvidia customers notified about AI-related price hikes",
-      "link": "https://www.itnews.com.au/news/nvidia-customers-notified-about-ai-related-price-hikes-628364?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Nvidia has informed its customers of impending price increases of over 15% related to AI products. This move reflects the growing demand for AI technologies and the associated costs of development and production, highlighting the economic pressures within the tech industry.",
+      "title": "OpenAI says it reached its goal of creating an automated research intern",
+      "link": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/",
+      "summary": "OpenAI has announced that it has successfully developed an automated research intern, a significant milestone in AI research capabilities. This advancement aims to streamline research processes and improve efficiency in information gathering and analysis. The company plans to enhance this technology further, with goals set for a more advanced version by 2028.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Anthropic will reportedly list days before the US midterm elections",
+      "link": "https://thenextweb.com/news/anthropic-ipo-mid-october-midterms-15bn-credit-facility",
+      "summary": "Anthropic is preparing for a stock market debut, with plans to market its offering just before the upcoming US midterm elections. This strategic timing could influence investor interest and market dynamics, especially given the company's focus on AI safety and ethics. The expected valuation and investor backing highlight the growing importance of AI in the financial sector.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Nscale is selling Figure $3.5bn of compute and buying a stake in it",
+      "link": "https://thenextweb.com/news/nscale-figure-3-5bn-compute-equity-stake",
+      "summary": "Nscale has entered a significant deal to sell computing power worth at least $3.5 billion to Figure, while also acquiring an equity stake in the company. This partnership is set to leverage Nscale's extensive computing resources, particularly Nvidia GPUs, to enhance Figure's capabilities in the AI sector. Such collaborations are indicative of the growing interdependencies in tech-driven industries.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Vocus hit by Australia Singapore Cable break",
+      "link": "https://www.itnews.com.au/news/vocus-hit-by-australia-singapore-cable-break-628720?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Vocus has reported disruptions due to a break in the Australia-Singapore cable, impacting internet connectivity in the region. This incident highlights the vulnerabilities in global communication infrastructure and the critical need for robust solutions to ensure uninterrupted service. The Australian tech ecosystem is closely monitoring the situation as it affects numerous businesses and consumers.",
       "source": "IT News"
     },
     {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "summary": "Flock Safety's CEO is advocating for a compromise amid increasing public scrutiny over the company's surveillance technologies. This situation illustrates the tension between technological innovation in security and the ethical implications of surveillance practices.",
+      "title": "Europe has its first commercial orbital rocket",
+      "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
+      "summary": "Isar Aerospace has successfully launched Europe's first fully commercial orbital rocket, marking a significant milestone in the space industry. This achievement opens new avenues for commercial and institutional customers in Europe, providing a viable alternative to existing launch services. The successful launch from a Norwegian spaceport underscores the growing capabilities of European aerospace companies.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "Travis Kalanick's startup, Atoms, is reportedly exploring opportunities in the robotaxi sector, potentially reshaping urban transportation. This move could signify Kalanick's return to the forefront of tech innovation, aiming to address the challenges of mobility in cities. The robotaxi market is gaining traction, and Atoms aims to capitalize on this growing demand.",
       "source": "TechCrunch"
     },
     {
-      "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
-      "link": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
-      "summary": "A class action lawsuit has been filed against Twitch and Amazon for allegedly using streamers' content without consent to train AI models. This case raises critical questions about copyright, consent, and the ethical use of content in AI development.",
-      "source": "Engadget"
+      "title": "An AI hacking trick is now being used to split the word ‘funding’ in spam",
+      "link": "https://thenextweb.com/news/ascii-smuggling-phishing-microsoft-unicode-tag-characters",
+      "summary": "A new AI hacking technique has emerged, utilizing invisible Unicode characters to manipulate text for phishing attacks. This method demonstrates the evolving tactics of cybercriminals, highlighting the need for advanced security measures in digital communications. Microsoft has identified this trend, emphasizing the importance of vigilance in cybersecurity practices.",
+      "source": "The Next Web"
     },
     {
-      "title": "How is Android Auto different from Android Automotive?",
-      "link": "https://www.engadget.com/2240251/android-auto-vs-automotive-how-different/",
-      "summary": "Engadget explores the distinctions between Android Auto and Android Automotive, two platforms that serve different purposes in vehicle integration. Understanding these differences is crucial for consumers and developers as automotive technology continues to evolve.",
-      "source": "Engadget"
-    },
-    {
-      "title": "OpenAI wants California to strengthen its newly passed AI safety law",
-      "link": "https://mashable.com/tech/openai-urges-stregthening-of-california-ai-safety-bill",
-      "summary": "OpenAI is advocating for enhancements to California's AI safety law, emphasizing the importance of regulatory frameworks as AI technologies proliferate. This push reflects a growing recognition of the need for robust safety measures in AI development.",
-      "source": "Mashable"
-    },
-    {
-      "title": "Humanoid robots have beaten Usain Bolt's 100-meter dash record",
-      "link": "https://www.engadget.com/2242295/humanoid-robots-have-beaten-usain-bolts-100-meter-dash-record/",
-      "summary": "In a remarkable demonstration of robotic capabilities, humanoid robots have now surpassed Usain Bolt's 100-meter dash record. This achievement not only showcases advancements in robotics but also raises questions about the future of human versus machine performance in athletics.",
-      "source": "Engadget"
+      "title": "The Top Tech Trends at IFA Berlin 2026",
+      "link": "https://www.cnet.com/tech/tech-industry/the-top-tech-trends-at-ifa-berlin-2026-2/",
+      "summary": "The IFA Berlin 2026 showcased several cutting-edge tech trends, including advancements in smart home devices and AI integration. The event highlighted how technology is increasingly becoming intertwined with everyday life, pushing boundaries in consumer electronics. Innovations presented at the fair are expected to shape the market landscape in the coming years.",
+      "source": "CNET"
     }
   ]
 }
