@@ -1,31 +1,25 @@
 {
-  "generatedAt": "2026-08-24T03:28:12.916Z",
+  "generatedAt": "2026-09-07T07:25:16.065Z",
   "topic": "climate",
-  "weekOf": "2026-08-24",
-  "lead": "Exploring innovative ideas and discussions surrounding climate change, including unconventional carbon capture methods and the implications of technological advancements.",
+  "weekOf": "2026-09-07",
+  "lead": "Climate change continues to impact various sectors, from agriculture to energy consumption, with new research and innovative solutions emerging.",
   "stories": [
     {
-      "title": "If all car tyres were filled with CO2, would this cut atmospheric carbon significantly?",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/aug/23/if-all-car-tyres-were-filled-with-co2-would-this-cut-atmospheric-carbon-significantly",
-      "summary": "A thought-provoking question posed by readers explores whether filling car tyres with CO2 could effectively reduce atmospheric carbon levels. This unconventional approach raises concerns about the carbon costs associated with capturing and storing CO2 in tyres. The discussion highlights the complexities of consumerism and its impact on environmental sustainability.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Volcanoes that made history",
-      "link": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-      "summary": "This article delves into the significant impact of historical volcanic eruptions on Earth's climate and human societies. It examines how these natural events have altered weather patterns and contributed to climatic shifts throughout history, providing insights into the interplay between geological activity and climate change.",
+      "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+      "link": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+      "summary": "Recent research indicates that the nutritional value of farmed salmon is declining, primarily due to changes in their diet. This shift not only affects the fish's health but also has broader environmental implications, raising concerns about sustainability and climate impact. The findings highlight the interconnectedness of food production and climate change.",
       "source": "Ars Technica"
     },
     {
-      "title": "The next big thing in hydrogen could be underground",
-      "link": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-      "summary": "Researchers are exploring underground sources of hydrogen, which could revolutionize energy production. Hydrogen is touted as a clean fuel alternative, especially in heavy industries and transportation. This hunt for geologic hydrogen could play a crucial role in mitigating climate change by providing sustainable energy solutions.",
-      "source": "MIT Technology Review"
+      "title": "The best fans to keep you cool in 2026 – tried and tested",
+      "link": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
+      "summary": "As summer heatwaves become more frequent and intense, finding effective cooling solutions is essential. This guide reviews the best fans available, promoting them as a more energy-efficient alternative to air conditioning, which contributes to carbon emissions. The article emphasizes the importance of reducing electricity use to combat climate change.",
+      "source": "The Guardian Australia"
     },
     {
       "title": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
-      "summary": "Elon Musk's perspective on the climate crisis, influenced by the Kardashev scale, suggests that moving energy production off-planet is the key to solving our environmental challenges. This commentary critiques the tendency of tech billionaires to propose grand solutions while ignoring more immediate, practical actions needed to address climate issues.",
+      "summary": "Elon Musk proposes a radical solution to the climate crisis based on the Kardashev scale, suggesting that moving energy production off-planet could be the key to overcoming environmental challenges. This perspective reflects a broader trend where tech billionaires propose grandiose solutions to complex issues, often overshadowing more immediate, practical actions needed to address climate change.",
       "source": "The Guardian Australia"
     }
   ]
