@@ -1,50 +1,56 @@
 {
-  "generatedAt": "2026-08-31T08:45:24.266Z",
+  "generatedAt": "2026-09-07T07:25:16.354Z",
   "topic": "health",
-  "weekOf": "2026-08-31",
-  "lead": "Recent developments in health technology highlight both advancements and challenges, particularly in AI applications and wearable devices.",
+  "weekOf": "2026-09-07",
+  "lead": "Exploring the intersection of technology and health, from women's health startups seeking funding abroad to innovative AI applications in healthcare.",
   "stories": [
     {
-      "title": "Doctors’ AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns",
-      "link": "https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns",
-      "summary": "An NHS watchdog has raised concerns about AI scribes used in medical consultations, which have been found to misreport drug names and diagnoses. Patients have identified errors that were overlooked by healthcare professionals, leading to potential risks. One alarming case involved a misdiagnosis of serious nerve damage, highlighting the critical need for accuracy in AI applications within healthcare.",
-      "source": "The Guardian"
+      "title": "Women’s health founders are heading overseas because local investors don’t prioritise them",
+      "link": "https://www.startupdaily.net/topic/funding/womens-health-founders-are-heading-overseas-because-local-investors-dont-prioritise-them/",
+      "summary": "In Australia, women's health startups are struggling to secure funding, leading many founders to seek investment opportunities overseas. This trend highlights a significant gap in local investor interest, which is causing a talent drain from the country. The lack of prioritization for women's health initiatives is raising concerns about the future of innovation in this critical sector.",
+      "source": "Startup Daily"
     },
     {
-      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-      "link": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-      "summary": "Grindr is evolving beyond its dating roots, aiming to become a comprehensive platform for gay men, integrating features related to healthcare and social networking. CEO George Arison discusses the potential of AI and a new subscription tier to enhance user experience. This ambitious pivot raises questions about the viability of such a multifaceted app in a competitive market.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Why the Hottest New Wearables Want to Be Ignored",
-      "link": "https://www.wired.com/story/why-the-hottest-new-wearables-want-to-be-ignored/",
-      "summary": "A new wave of minimalist wearables is emerging, designed to track health data without overwhelming users with notifications. These devices aim to provide essential health insights while promoting a less intrusive user experience. This trend reflects a growing desire for technology that respects users' attention and mental well-being.",
-      "source": "Wired"
-    },
-    {
-      "title": "Health hands enterprise computing to Leidos in $91m deal",
-      "link": "https://www.itnews.com.au/news/health-hands-enterprise-computing-to-leidos-in-91m-deal-628487?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "The health sector is transitioning its enterprise computing operations to Leidos in a significant $91 million deal, marking the end of a long-term partnership with Datacom. This move is expected to enhance efficiency and innovation in health IT services, reflecting the industry's ongoing digital transformation.",
-      "source": "IT News"
+      "title": "10 Apple Health Hacks Every iPhone User Should Know",
+      "link": "https://lifehacker.com/health/best-apple-health-hacks?utm_medium=RSS",
+      "summary": "Apple Health offers a plethora of features that can enhance your health tracking without the need for an Apple Watch. This article outlines ten essential hacks that can help users maximize their health insights using just their iPhones. From tracking workouts to monitoring sleep patterns, these tips are designed to empower users to take charge of their health.",
+      "source": "Lifehacker"
     },
     {
       "title": "Oura Ring 5 review: a stunning generational leap for smart rings",
       "link": "https://www.theguardian.com/technology/2026/jun/30/oura-ring-5-review-smart-ring-health-tracking",
-      "summary": "The new Oura Ring 5 has set a high standard for health-tracking wearables, featuring a slimmer design and improved functionality. It offers enhanced comfort and usability, making it a practical choice for users. However, the device comes with a subscription model that may deter some potential buyers.",
+      "summary": "The Oura Ring 5 represents a significant advancement in health-tracking wearables, boasting a slimmer design and improved functionality. This new model is designed to be so comfortable that users can forget they're wearing it. However, it comes with a subscription model that may deter some potential buyers, raising questions about the accessibility of advanced health technology.",
       "source": "The Guardian"
     },
     {
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "summary": "Elon Musk's new initiative to accelerate gas turbine production has raised environmental concerns, as the associated pollution impacts health. The project aims to streamline energy production but faces scrutiny from health advocates and environmentalists. This highlights the ongoing tension between technological advancement and public health.",
-      "source": "TechCrunch"
+      "title": "How to check your PC's hard-drive health",
+      "link": "https://www.engadget.com/2248471/how-to-check-hard-drive-health-pc/",
+      "summary": "While primarily a tech article, understanding your PC's hard-drive health can indirectly impact your overall digital wellness. This guide provides a step-by-step approach to checking hard-drive health on Windows systems, emphasizing the importance of maintaining your technology to ensure it supports your health-related applications effectively.",
+      "source": "Engadget"
     },
     {
-      "title": "3 surveys deliver the same uncomfortable truth about adopting agentic AI",
-      "link": "https://www.zdnet.com/article/3-surveys-uncomfortable-adopting-agentic-ai/",
-      "summary": "Recent surveys reveal that the integration of AI in business, including healthcare, is fraught with challenges related to accountability and governance. The findings suggest that successful AI adoption requires a balanced relationship between humans and technology. This is particularly crucial in health sectors where trust and accuracy are paramount.",
-      "source": "ZDNet"
+      "title": "ADHA sticks with Accenture for My Health Record support",
+      "link": "https://www.itnews.com.au/news/adha-sticks-with-accenture-for-my-health-record-support-628595?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The Australian Digital Health Agency (ADHA) has decided to continue its partnership with Accenture for support on the My Health Record system. This decision reflects ongoing efforts to enhance digital health records and improve patient care through better data management and technology integration.",
+      "source": "IT News"
+    },
+    {
+      "title": "The rise of the AI operating executive",
+      "link": "https://www.cio.com/article/4217281/the-rise-of-the-ai-operating-executive.html",
+      "summary": "As AI technology evolves, the role of executives who can effectively integrate AI into business operations is becoming increasingly crucial. This article discusses how leaders are redefining their roles to harness AI's potential, which could significantly impact sectors like healthcare by improving operational efficiency and patient outcomes.",
+      "source": "CIO"
+    },
+    {
+      "title": "AI agents need to learn when enough is enough",
+      "link": "https://www.cio.com/article/4208063/ai-agents-need-to-learn-when-enough-is-enough.html",
+      "summary": "As AI agents become more autonomous, it's essential for them to recognize their limits, especially in healthcare settings where decisions can have serious implications. This article explores the need for AI systems to be designed with restraint, ensuring they act judiciously and do not overstep their authority in critical situations.",
+      "source": "CIO"
+    },
+    {
+      "title": "ChatGPT, Claude, and Grok all went down at once; enterprises need a backup plan",
+      "link": "https://www.cio.com/article/4218403/chatgpt-claude-and-grok-all-went-down-at-once-enterprises-need-a-backup-plan-2.html",
+      "summary": "Recent outages of major AI platforms highlight the vulnerabilities in relying on AI for operational tasks, including those in healthcare. This incident serves as a wake-up call for organizations to develop robust backup plans and maintain human oversight to ensure continuity in critical health services.",
+      "source": "CIO"
     }
   ]
 }
