@@ -1,32 +1,26 @@
 {
-  "generatedAt": "2026-08-24T03:28:13.933Z",
+  "generatedAt": "2026-09-07T07:25:14.388Z",
   "topic": "education",
-  "weekOf": "2026-08-24",
-  "lead": "The landscape of education is evolving, with discussions around digital detox in classrooms and the impact of AI on student preparedness gaining traction.",
+  "weekOf": "2026-09-07",
+  "lead": "Exploring the intersection of technology and education, particularly through the lens of gaming and propaganda.",
   "stories": [
     {
-      "title": "Do Australian schools need a digital detox?",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/24/australian-schools-digital-detox-jason-clare",
-      "summary": "Australian federal education minister Jason Clare has sparked a conversation about the need for a 'digital detox' in schools, suggesting that the omnipresence of technology may be hindering students' concentration. Many teachers and parents support this idea, advocating for a reevaluation of the role of laptops in classrooms after over 15 years of their integration. This shift aims to enhance focus and learning outcomes among students.",
+      "title": "The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
+      "link": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade",
+      "summary": "The Trump administration has launched a controversial arcade on its website that uses gaming to propagate its messaging. The games, which parody popular titles, serve as a disturbing example of how gaming can be weaponized for political purposes. One game, 'Supply Line', masquerades as an educational tool about healthy eating but instead presents a violent twist that reflects the administration's rhetoric.",
       "source": "The Guardian"
     },
     {
-      "title": "UC Berkeley professor admits to using AI to edit op-ed on students’ math skills",
-      "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
-      "summary": "Zvezdelina Stankova, a math professor at UC Berkeley, has publicly acknowledged using AI to assist in editing her op-ed discussing alarming deficiencies in her students' math skills. She claims that many of her students are significantly behind, lacking fundamental knowledge in areas such as fractions and algebra. Stankova attributes this issue to the UC system's test-blind admissions policy, which she believes allows underprepared students into rigorous programs.",
-      "source": "The Guardian"
+      "title": "The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
+      "link": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade",
+      "summary": "A new collection of games released by the Trump White House illustrates the administration's ongoing engagement with gamer culture, albeit in a troubling manner. These games, designed with a nostalgic aesthetic, trivialize serious issues while promoting a political agenda. This initiative raises questions about the role of gaming in education and its potential misuse.",
+      "source": "The Guardian Australia"
     },
     {
-      "title": "The impact of test-blind admissions on student preparedness",
-      "link": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
-      "summary": "The debate surrounding test-blind admissions in universities has intensified, particularly in light of a UC Berkeley professor's claims about students' math deficiencies. Critics argue that without standardized tests like the SAT, students entering competitive programs may lack the necessary foundational skills. This raises questions about the effectiveness of current admission policies in ensuring student readiness for higher education challenges.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Elon Musk's approach to education and the climate crisis",
+      "title": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
-      "summary": "Elon Musk's views on education and the climate crisis reflect a broader trend of tech billionaires proposing grand solutions to complex societal issues. His focus on futuristic concepts, such as the Kardashev scale, suggests a belief in technological advancements as the primary means to address global challenges. Critics argue that this perspective often overlooks the importance of foundational education and practical solutions in addressing immediate societal needs.",
-      "source": "The Guardian"
+      "summary": "Elon Musk's invocation of the Kardashev scale as a solution to the climate crisis highlights a trend among tech leaders to propose grand, often impractical solutions rather than addressing foundational issues like education and public funding. This commentary critiques the tendency of billionaires to focus on technological fixes while neglecting systemic problems in education and public policy. The disconnect raises important discussions about the responsibilities of the wealthy in supporting education and sustainable practices.",
+      "source": "The Guardian Australia"
     }
   ]
 }
