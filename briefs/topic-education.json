@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-07T07:25:14.388Z",
+  "generatedAt": "2026-09-14T07:59:12.196Z",
   "topic": "education",
-  "weekOf": "2026-09-07",
-  "lead": "Exploring the intersection of technology and education, particularly through the lens of gaming and propaganda.",
+  "weekOf": "2026-09-14",
+  "lead": "The landscape of education is evolving, particularly in the context of AI and its integration into learning environments. As enterprises navigate the complexities of AI, the need for a robust educational framework becomes increasingly apparent.",
   "stories": [
+    {
+      "title": "Enterprises can’t spend their way to AI leadership",
+      "link": "https://www.cio.com/article/4220242/enterprises-cant-spend-their-way-to-ai-leadership.html",
+      "summary": "As organizations invest heavily in AI infrastructure, a critical realization is emerging: financial resources alone cannot guarantee success in AI leadership. The article highlights the importance of building a strong engineering culture and retaining top talent, as many companies face challenges in scaling their AI capabilities. The shift towards open-source models is also reshaping the landscape, emphasizing the need for institutions to adapt their educational strategies in AI development.",
+      "source": "CIO"
+    },
     {
       "title": "The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
       "link": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade",
-      "summary": "The Trump administration has launched a controversial arcade on its website that uses gaming to propagate its messaging. The games, which parody popular titles, serve as a disturbing example of how gaming can be weaponized for political purposes. One game, 'Supply Line', masquerades as an educational tool about healthy eating but instead presents a violent twist that reflects the administration's rhetoric.",
+      "summary": "The Trump administration has launched a controversial arcade on its website, using gaming as a tool for propaganda. This initiative reflects a growing trend of integrating gaming culture into political messaging, raising questions about the impact of such approaches on education and civic engagement. The article critiques the use of gaming in this manner, suggesting it could undermine educational values.",
       "source": "The Guardian"
     },
     {
       "title": "The Trump White House’s fetish for gamer culture has moved up a level with new arcade",
       "link": "https://www.theguardian.com/games/2026/sep/04/trump-white-house-gamer-culture-arcade",
-      "summary": "A new collection of games released by the Trump White House illustrates the administration's ongoing engagement with gamer culture, albeit in a troubling manner. These games, designed with a nostalgic aesthetic, trivialize serious issues while promoting a political agenda. This initiative raises questions about the role of gaming in education and its potential misuse.",
-      "source": "The Guardian Australia"
-    },
-    {
-      "title": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away | Emma Brockes",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
-      "summary": "Elon Musk's invocation of the Kardashev scale as a solution to the climate crisis highlights a trend among tech leaders to propose grand, often impractical solutions rather than addressing foundational issues like education and public funding. This commentary critiques the tendency of billionaires to focus on technological fixes while neglecting systemic problems in education and public policy. The disconnect raises important discussions about the responsibilities of the wealthy in supporting education and sustainable practices.",
+      "summary": "In a similar vein, the Trump White House's latest arcade games, which draw on popular gaming motifs, have sparked debate about the intersection of entertainment and education. These games, while seemingly innocuous, serve a propagandistic purpose that raises ethical concerns about their role in shaping young minds. The implications for educational content and the values it promotes are significant.",
       "source": "The Guardian Australia"
     }
   ]
