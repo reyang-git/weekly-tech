@@ -1,26 +1,14 @@
 {
-  "generatedAt": "2026-07-20T05:51:21.958Z",
+  "generatedAt": "2026-09-14T07:59:10.919Z",
   "topic": "quantum",
-  "weekOf": "2026-07-20",
-  "lead": "Quantum technology continues to advance, with innovations in quantum computers and encryption promising to reshape the future of cybersecurity and computing.",
+  "weekOf": "2026-09-14",
+  "lead": "Exploring the intersection of quantum mechanics and relativity reveals fascinating insights into the nature of reality.",
   "stories": [
     {
-      "title": "Post-Quantum Encryption Could Be the Must-Have VPN Feature of the Future",
-      "link": "https://lifehacker.com/tech/post-quantum-encryption-vpn?utm_medium=RSS",
-      "summary": "As quantum computing technology evolves, the potential for quantum computers to break traditional encryption methods poses a significant threat to online security. This article discusses the importance of post-quantum encryption as a necessary feature for VPNs to safeguard user data against future quantum attacks. The shift towards quantum-resistant encryption is becoming increasingly critical in the tech landscape.",
-      "source": "Lifehacker"
-    },
-    {
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-      "summary": "This edition of The Download highlights the latest developments in quantum technology, including PsiQuantum's ambitious plan to create a massive quantum computer utilizing light. The article also touches on other technological advancements, showcasing how quantum computing is on the verge of becoming a practical reality. The implications of such machines could be profound, impacting various sectors.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "link": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-      "summary": "PsiQuantum's innovative approach to building a quantum computer using light aims to revolutionize computational capabilities. The planned facility will house numerous stainless-steel cabinets operating at near absolute zero, creating an environment conducive to quantum processing. This development could significantly enhance the power and efficiency of quantum computing, potentially leading to breakthroughs in various fields.",
-      "source": "MIT Technology Review"
+      "title": "What happens when quantum mechanics and relativity meet?",
+      "link": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
+      "summary": "A recent experiment has aimed to bridge the gap between quantum mechanics and relativity by placing atoms in a superposition of trajectories. This innovative approach seeks to uncover the underlying principles that govern the behavior of particles at both quantum and relativistic scales. The findings could have profound implications for our understanding of the universe.",
+      "source": "Ars Technica"
     }
   ]
 }
