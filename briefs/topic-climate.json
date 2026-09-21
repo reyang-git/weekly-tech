@@ -1,26 +1,38 @@
 {
-  "generatedAt": "2026-09-07T07:25:16.065Z",
+  "generatedAt": "2026-09-21T08:03:58.086Z",
   "topic": "climate",
-  "weekOf": "2026-09-07",
-  "lead": "Climate change continues to impact various sectors, from agriculture to energy consumption, with new research and innovative solutions emerging.",
+  "weekOf": "2026-09-21",
+  "lead": "Climate change continues to impact ecosystems, economies, and technological innovations, with recent studies highlighting its effects on coral physiology and extreme weather patterns.",
   "stories": [
     {
-      "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
-      "link": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-      "summary": "Recent research indicates that the nutritional value of farmed salmon is declining, primarily due to changes in their diet. This shift not only affects the fish's health but also has broader environmental implications, raising concerns about sustainability and climate impact. The findings highlight the interconnectedness of food production and climate change.",
-      "source": "Ars Technica"
+      "title": "Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans",
+      "link": "https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/",
+      "summary": "Recent studies reveal that tiny hairs on corals, crucial for their respiration, may fail in increasingly warm oceans. This malfunction could jeopardize coral survival and the broader marine ecosystems they support. Understanding these physiological changes is essential as climate change accelerates.",
+      "source": "Wired"
     },
     {
-      "title": "The best fans to keep you cool in 2026 – tried and tested",
-      "link": "https://www.theguardian.com/thefilter/2025/jun/17/best-fans-uk",
-      "summary": "As summer heatwaves become more frequent and intense, finding effective cooling solutions is essential. This guide reviews the best fans available, promoting them as a more energy-efficient alternative to air conditioning, which contributes to carbon emissions. The article emphasizes the importance of reducing electricity use to combat climate change.",
-      "source": "The Guardian Australia"
+      "title": "It Still Feels Like Summer in Parts of the US. Blame El Niño",
+      "link": "https://www.wired.com/story/september-feels-like-summer-blame-el-nino/",
+      "summary": "Parts of the US are experiencing unseasonably warm temperatures, attributed to the El Niño climate pattern combined with ongoing fossil fuel emissions. This phenomenon is leading to record-breaking heat, raising concerns about the long-term impacts of climate change on seasonal weather patterns.",
+      "source": "Wired"
     },
     {
-      "title": "Relax, everyone: Elon Musk has a mantra to make the climate crisis go away",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/20/elon-musk-climate-crisis-spacex-kardashev-scale-energy-production",
-      "summary": "Elon Musk proposes a radical solution to the climate crisis based on the Kardashev scale, suggesting that moving energy production off-planet could be the key to overcoming environmental challenges. This perspective reflects a broader trend where tech billionaires propose grandiose solutions to complex issues, often overshadowing more immediate, practical actions needed to address climate change.",
-      "source": "The Guardian Australia"
+      "title": "Meet the innovators under 35 shaping climate tech",
+      "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "summary": "MIT Technology Review highlights nine young innovators under 35 who are making significant strides in climate technology. These individuals are developing solutions to combat climate change, showcasing the potential of fresh perspectives and innovative ideas in addressing environmental challenges.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "summary": "This edition of The Download covers a range of topics, including groundbreaking research on mice with part-human brains and the latest advancements in climate technology. The intersection of biology and tech is paving the way for innovative solutions to climate-related issues.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "The best workplace culture in America is being built by companies you’ve never heard of",
+      "link": "https://www.cio.com/article/4223505/the-best-workplace-culture-in-america-is-being-built-by-companies-youve-never-heard-of.html",
+      "summary": "As large corporations face layoffs and a shift in corporate culture driven by AI, small and mid-sized businesses are emerging as leaders in workplace culture. These companies are prioritizing employee well-being and sustainable practices, reflecting a broader trend towards valuing human contributions in the face of climate challenges.",
+      "source": "CIO"
     }
   ]
 }
