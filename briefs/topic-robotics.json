@@ -1,32 +1,14 @@
 {
-  "generatedAt": "2026-08-31T08:45:24.247Z",
+  "generatedAt": "2026-09-21T08:03:57.731Z",
   "topic": "robotics",
-  "weekOf": "2026-08-31",
-  "lead": "Robotics is advancing rapidly, with significant developments in humanoid technology, innovative applications in disaster response, and discussions on the ethical implications of AI and automation.",
+  "weekOf": "2026-09-21",
+  "lead": "Recent developments in robotics highlight a mix of regulatory challenges and technological advancements, particularly in the humanoid robot sector.",
   "stories": [
     {
-      "title": "How Bill Gates uses AI, and why he thinks nobody is preparing for it",
-      "link": "https://thenextweb.com/news/bill-gates-robot-tax-again-european-parliament-2017-vote",
-      "summary": "Bill Gates has proposed a tax on AI to address the potential job displacement caused by automation. He emphasizes the need for new institutions to manage the transition and has expressed concerns that industry leaders are not adequately preparing for the impacts of AI. Gates' insights reflect a growing recognition of the ethical and economic challenges posed by robotics and AI.",
+      "title": "China is reportedly slowing humanoid robot IPOs after Unitree’s debut round trip",
+      "link": "https://thenextweb.com/news/china-slows-humanoid-robot-ipos-unitree",
+      "summary": "China's securities regulator is advising humanoid robot companies to hold off on public offerings until they can demonstrate consistent revenue and a viable plan for reducing losses. This guidance follows the mixed performance of Unitree's IPO, reflecting a cautious approach to the rapidly evolving robotics market.",
       "source": "The Next Web"
-    },
-    {
-      "title": "Faster, higher, funnier: what we learned from China’s robot games",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
-      "summary": "The World Humanoid Robot Games in Beijing showcased China's advancements in humanoid robotics, featuring events that combined humor and impressive technical feats. Robots demonstrated capabilities in martial arts and sprinting, even surpassing Usain Bolt's record before malfunctioning spectacularly. The event highlighted both China's leadership in the field and the ongoing challenges faced by robotic technology.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Cyborg cockroaches with tiny syringes designed to join search and rescue teams in major disasters",
-      "link": "https://www.theguardian.com/technology/2026/aug/27/cockroaches-used-search-rescue-earthquakes-science-technology-australia",
-      "summary": "Engineers are developing cyborg cockroaches equipped with cameras and medical injectors to assist in search and rescue operations during disasters like earthquakes. These innovative insects could provide critical support by locating trapped individuals and delivering medical aid. This project illustrates the potential of bio-robotics to enhance emergency response capabilities.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Humanoid beats Usain Bolt's 100m record at Beijing robot games",
-      "link": "https://www.smh.com.au/technology/humanoid-beats-usain-bolts-100m-record-at-beijing-robot-games-20260823-p60qr5.html?ref=rss&utm_medium=rss&utm_source=rss_technology",
-      "summary": "In a remarkable display of technological prowess, a humanoid robot broke Usain Bolt's 100m sprint record at the Beijing robot games. The event featured over 1000 competitions, showcasing the rapid progress in robotics and the competitive spirit driving innovation in this field. Such achievements raise questions about the future of sports and human-robot competition.",
-      "source": "Sydney Morning Herald"
     }
   ]
 }
