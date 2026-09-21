@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-08-24T03:28:14.127Z",
+  "generatedAt": "2026-09-21T08:03:59.349Z",
   "topic": "AI",
-  "weekOf": "2026-08-24",
-  "lead": "The landscape of artificial intelligence continues to evolve, with significant developments in governance, legal implications, and industry shifts.",
+  "weekOf": "2026-09-21",
+  "lead": "The latest developments in AI technology highlight both its potential and the ongoing debates surrounding its impact on society, safety, and industry.",
   "stories": [
     {
-      "title": "AI Without Governance Is Just Expensive Risk",
-      "link": "https://www.itnews.com.au/feature/ai-without-governance-is-just-expensive-risk-628288?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "A recent analysis highlights that many organizations lack a coherent AI strategy, leading to potential risks. Without proper governance, the investments in AI may not yield the expected returns, raising concerns about accountability and ethical use of technology.",
-      "source": "IT News"
+      "title": "Nvidia boss says there is ‘0% chance’ AI destroys the world by 2030",
+      "link": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+      "summary": "Jensen Huang, CEO of Nvidia, has dismissed fears that AI could lead to human extinction by 2030, labeling such claims as 'doomsday narratives'. He argues that the discussions around AI's dangers are exaggerated and irresponsible, asserting that there is no scientific basis for the calls to slow down AI development. Huang's comments come amid rising concerns about the rapid advancement of AI technologies.",
+      "source": "The Guardian"
     },
     {
-      "title": "OpenAI wants California to strengthen its newly passed AI safety law",
-      "link": "https://mashable.com/tech/openai-urges-stregthening-of-california-ai-safety-bill",
-      "summary": "OpenAI is advocating for enhancements to California's AI safety legislation, SB 53, which it initially supported. The company emphasizes the need for stronger safeguards to mitigate risks associated with advanced AI technologies.",
+      "title": "AI drift: The catastrophic risk you're taking but don't realize",
+      "link": "https://mashable.com/tech/ai-drift-what-is-it-how-to-stop-it",
+      "summary": "The concept of 'AI drift' refers to the gradual deviation of AI systems from their intended purpose, which can lead to unforeseen consequences. As AI technologies become more integrated into various sectors, understanding and mitigating this risk is crucial. The article discusses strategies to prevent AI drift and emphasizes the importance of maintaining oversight in AI deployment.",
       "source": "Mashable"
     },
     {
-      "title": "Nvidia customers notified about AI-related price hikes",
-      "link": "https://www.itnews.com.au/news/nvidia-customers-notified-about-ai-related-price-hikes-628364?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Nvidia has informed its customers that prices for AI-related servers will increase by over 15% due to rising memory costs. This price hike reflects the increasing demand and competition in the AI hardware market.",
-      "source": "IT News"
+      "title": "Best Practice Software Leads $5.4m Medcast Investment to Advance Australian Clinical AI",
+      "link": "https://www.techbusinessnews.com.au/news/best-practice-software-leads-5-4m-medcast-investment-to-advance-australian-clinical-ai/",
+      "summary": "Best Practice Software has spearheaded a $5.4 million investment in Medcast to enhance its AI-enabled clinical knowledge platform, MedLuma. This funding aims to improve clinical knowledge solutions across Australia's healthcare system, showcasing the growing intersection of AI and healthcare. The investment reflects the increasing reliance on AI to support medical professionals in delivering effective patient care.",
+      "source": "Tech Business News"
     },
     {
-      "title": "Employers are quietly rehiring the people AI replaced, and paying them less to come back",
-      "link": "https://thenextweb.com/news/ai-layoff-reversals-worker-trust-works-councils",
-      "summary": "A report reveals that many employers regret layoffs made in the name of AI efficiency and are beginning to rehire staff at lower wages. This trend raises questions about the long-term impact of AI on employment and worker trust.",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "summary": "Former President Donald Trump has proposed the creation of an 'AI Force' to oversee the development of artificial intelligence technologies. This announcement comes amid a broader discussion about the regulation of AI and its implications. Trump's stance indicates a push for proactive engagement with the AI industry, positioning it as a critical area for national growth.",
+      "source": "The Verge"
+    },
+    {
+      "title": "China is reportedly slowing humanoid robot IPOs after Unitree’s debut round trip",
+      "link": "https://thenextweb.com/news/china-slows-humanoid-robot-ipos-unitree",
+      "summary": "China's securities regulator is reportedly advising humanoid robot companies to delay their IPO plans until they demonstrate stable revenue and a path to profitability. This shift follows the tumultuous debut of Unitree, highlighting the regulatory challenges facing the burgeoning robotics sector in China. The move underscores the cautious approach regulators are taking towards emerging technologies.",
       "source": "The Next Web"
     },
     {
-      "title": "A lawsuit says Oura’s sleep stages are AI guesses with a coin flip’s odds",
-      "link": "https://thenextweb.com/news/oura-sleep-tracking-accuracy-class-action-lawsuit",
-      "summary": "A class action lawsuit claims that the Oura ring's sleep tracking is based on unreliable AI estimates rather than accurate measurements. This raises concerns about the validity of consumer health technologies that rely on AI.",
+      "title": "Apple’s new chief executive built up to unveiling the ideal AI device, then said it was the iPhone.",
+      "link": "https://thenextweb.com/news/ternus-ideal-ai-device-is-the-iphone-j490-hub",
+      "summary": "During his first keynote, Apple CEO John Ternus described the iPhone as the 'ideal AI device', suggesting that the smartphone's capabilities are well-suited for AI applications. This statement reflects Apple's ongoing commitment to integrating AI into its products and services, reinforcing the iPhone's role as a central tool in the AI landscape.",
       "source": "The Next Web"
     },
     {
-      "title": "A free AI model is winning over developers. And nobody knows whose servers it runs on",
-      "link": "https://thenextweb.com/news/ox-alpha-stealth-model-openrouter-anonymous-provider",
-      "summary": "A mysterious AI model named Ox Alpha has surfaced on OpenRouter, gaining popularity among developers despite its anonymous nature. This raises questions about accountability and transparency in the AI development space.",
-      "source": "The Next Web"
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "summary": "Despite fears of rogue AI causing widespread harm, experts emphasize that human actions remain the primary cybersecurity threat to critical infrastructure, including energy systems. This insight highlights the need for robust cybersecurity measures that account for human error and malicious intent, rather than solely focusing on AI-related risks.",
+      "source": "The Verge"
     },
     {
-      "title": "Twitch and Amazon hit with lawsuit for training AI with streamers' content",
-      "link": "https://www.engadget.com/2242283/twitch-amazon-hit-with-lawsuit-for-training-ai-with-streamers-content/",
-      "summary": "A class action lawsuit has been filed against Twitch and Amazon, alleging that the companies used streamers' content to train their AI models without consent. This case highlights the legal complexities surrounding AI training datasets.",
-      "source": "Engadget"
-    },
-    {
-      "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
-      "link": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-      "summary": "OpenAI's chief global affairs officer warns of an emerging threat from AI-driven cyber-attacks, urging the need for new safety standards. As AI capabilities advance, the potential for malicious use becomes a pressing concern.",
-      "source": "The Guardian"
+      "title": "AI actress Tilly Norwood bugs out, speaks Cantonese in Piers Morgan interview",
+      "link": "https://mashable.com/tech/tilly-norwood-piers-morgan-cantonese-glitch",
+      "summary": "In a surprising moment during a live interview, an AI-generated actress, Tilly Norwood, unexpectedly switched to speaking Cantonese, showcasing the unpredictable nature of AI interactions. This incident raises questions about the reliability and control of AI systems in public settings, highlighting both their capabilities and limitations.",
+      "source": "Mashable"
     }
   ]
 }
