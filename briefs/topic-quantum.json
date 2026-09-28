@@ -1,55 +1,55 @@
 {
-  "generatedAt": "2026-09-21T08:03:58.077Z",
+  "generatedAt": "2026-09-28T08:49:22.527Z",
   "topic": "quantum",
-  "weekOf": "2026-09-21",
-  "lead": "The landscape of quantum technology continues to evolve, with significant developments and challenges highlighted by industry leaders and organizations. As companies assess their investments and timelines for practical quantum computing, the implications for various sectors, including defense and IT, are becoming clearer.",
+  "weekOf": "2026-09-28",
+  "lead": "Quantum computing is rapidly approaching a pivotal moment, with the need for organizations to adopt post-quantum cryptography becoming increasingly urgent as quantum threats loom on the horizon.",
   "stories": [
     {
-      "title": "The US Navy's Tech Wish List Includes Quantum",
-      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "summary": "The US Navy has outlined its technology wish list for the coming years, prominently featuring quantum technology among other advanced fields like AI. Navy CTO Justin Fanelli emphasized the importance of co-investing with VCs to drive innovation, indicating a strategic shift in how the Navy approaches tech development. This move reflects a growing recognition of quantum's potential applications in defense and national security.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "NEC Says Practical Quantum Computers Are Over a Decade Away",
-      "link": "https://www.cio.com/article/4223927/practical-quantum-computers-are-over-a-decade-away-says-nec.html",
-      "summary": "NEC has announced that practical quantum computers are still more than a decade away, leading the company to halt its own quantum development plans. This decision highlights the significant challenges in monetizing quantum technology, especially as Japan's investment in quantum lags behind that of the US and China. Despite early ambitions, NEC's shift reflects a broader hesitance in the industry regarding the timeline for viable quantum solutions.",
+      "title": "Why CIOs must pivot to post-quantum cryptography now",
+      "link": "https://www.cio.com/article/4226310/why-cios-must-pivot-to-post-quantum-cryptography-now.html",
+      "summary": "As quantum computing advances, the security of current encryption methods is at risk, making post-quantum cryptography (PQC) essential for organizations. The National Institute of Standards and Technology has finalized PQC standards, urging organizations to begin migrating now. The transition to PQC is not just a technical update but a critical business continuity measure, requiring a comprehensive audit and a shift towards crypto-agility to safeguard sensitive data against future quantum threats.",
       "source": "CIO"
     },
     {
-      "title": "Quantum Computing: A Long Game Ahead",
-      "link": "https://www.cio.com/article/4223927/practical-quantum-computers-are-over-a-decade-away-says-nec.html",
-      "summary": "The current state of quantum computing research suggests that practical applications are still far off, as highlighted by NEC's recent statements. The company has acknowledged the high costs and long timelines associated with developing usable quantum technology, which may deter investment in the short term. This cautionary outlook contrasts with the aggressive advancements being made by competitors in the quantum space.",
+      "title": "The sovereignty imperative: Why AI leaders are taking control of their intelligence",
+      "link": "https://www.cio.com/article/4226316/the-sovereignty-imperative-why-ai-leaders-are-taking-control-of-their-intelligence.html",
+      "summary": "As AI becomes integral to business operations, the concept of sovereign AI is emerging, emphasizing the need for organizations to maintain control over their data and models. This involves ensuring data sovereignty, operational autonomy, and governance of AI systems to protect intellectual property and comply with regulations. The article highlights case studies from institutions like the University of Utah and Argonne National Laboratory, showcasing how sovereign AI infrastructure can drive innovation while safeguarding sensitive information.",
       "source": "CIO"
     },
     {
-      "title": "The Future of AI and Quantum Technology",
-      "link": "https://www.cio.com/article/4222911/the-cio-legal-partnership-will-define-the-future-of-enterprise-ai.html",
-      "summary": "As AI rapidly evolves, its intersection with quantum technology presents both opportunities and challenges for governance and implementation. The collaboration between CIOs and legal teams is becoming crucial in managing the risks associated with AI, especially as quantum computing could enhance AI capabilities. Understanding the implications of quantum advancements on AI governance will be key for organizations looking to leverage these technologies effectively.",
+      "title": "AI’s real bottleneck isn’t compute — it’s the network underneath",
+      "link": "https://www.cio.com/article/4225691/ais-real-bottleneck-isnt-compute-its-the-network-underneath.html",
+      "summary": "Despite advancements in AI, network performance remains a critical bottleneck affecting productivity and ROI. Organizations often face significant latency issues due to multi-cloud environments, leading to wasted time on troubleshooting connectivity problems. The article argues for the importance of integrating network teams into AI planning to ensure that network infrastructure supports the demands of AI applications effectively, thereby improving overall performance.",
       "source": "CIO"
     },
     {
-      "title": "Investment Trends in Quantum Technology",
-      "link": "https://www.cio.com/article/4223927/practical-quantum-computers-are-over-a-decade-away-says-nec.html",
-      "summary": "Investment in quantum technology is a hot topic, with various nations and companies vying for leadership in the field. Japan's commitment of 10 trillion yen by 2040 is significantly lower than that of the US and China, raising questions about its competitive stance. The long-term nature of quantum research means that companies must carefully consider their investment strategies and timelines to remain relevant.",
+      "title": "The intersection of AI and the HPE Sovereign AI Factory",
+      "link": "https://www.cio.com/article/4226310/why-cios-must-pivot-to-post-quantum-cryptography-now.html",
+      "summary": "The HPE Sovereign AI Factory initiative aims to provide a secure foundation for AI workloads while ensuring compliance with data sovereignty regulations. By leveraging accelerated computing and robust infrastructure, organizations can protect their data and models from quantum threats while maintaining control over their AI systems. This approach emphasizes the need for organizations to adopt a comprehensive strategy that integrates AI and post-quantum cryptography to safeguard their intellectual property.",
       "source": "CIO"
     },
     {
-      "title": "Quantum Technology's Role in National Defense",
-      "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
-      "summary": "The US Navy's focus on quantum technology underscores its potential impact on national defense strategies. By incorporating quantum into its tech wish list, the Navy is signaling a commitment to exploring advanced technologies that could enhance operational capabilities. This strategic direction aligns with broader trends in military innovation and the increasing importance of quantum research.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Challenges in Quantum Computing Development",
-      "link": "https://www.cio.com/article/4223927/practical-quantum-computers-are-over-a-decade-away-says-nec.html",
-      "summary": "The challenges faced by companies like NEC in the quantum computing space reflect a broader industry concern about the feasibility of practical quantum applications. High costs and uncertain timelines are leading some firms to reconsider their investment strategies. As the field matures, understanding these challenges will be essential for stakeholders looking to navigate the quantum landscape.",
+      "title": "The looming Y2Q moment",
+      "link": "https://www.cio.com/article/4226310/why-cios-must-pivot-to-post-quantum-cryptography-now.html",
+      "summary": "The potential arrival of a cryptographically relevant quantum computer poses a significant risk to current encryption methods, necessitating immediate action from CIOs. The concept of 'harvest now, decrypt later' highlights the urgency for organizations to secure sensitive data against future quantum attacks. The article outlines the steps CIOs must take to prepare for this transition, including comprehensive audits and prioritizing data based on longevity.",
       "source": "CIO"
     },
     {
-      "title": "The Quantum Computing Race: Who Will Lead?",
-      "link": "https://www.cio.com/article/4223927/practical-quantum-computers-are-over-a-decade-away-says-nec.html",
-      "summary": "The global race for quantum computing supremacy is heating up, with significant investments from the US and China overshadowing Japan's more modest commitments. As companies and governments push for breakthroughs, the competition will likely intensify, with implications for technology development and international relations. The future of quantum technology remains uncertain, but its potential rewards are driving aggressive pursuit.",
+      "title": "The technical platform for sovereignty",
+      "link": "https://www.cio.com/article/4226316/the-sovereignty-imperative-why-ai-leaders-are-taking-control-of-their-intelligence.html",
+      "summary": "Establishing a sovereign AI factory requires more than just robust hardware; it necessitates a comprehensive solution that addresses the entire AI lifecycle. Key technical requirements include hard multi-tenancy, air-gapped management, and security-first design to protect against emerging threats. This approach ensures that organizations can leverage AI effectively while maintaining control over their data and models.",
+      "source": "CIO"
+    },
+    {
+      "title": "Turning network performance into a business metric",
+      "link": "https://www.cio.com/article/4225691/ais-real-bottleneck-isnt-compute-its-the-network-underneath.html",
+      "summary": "As businesses increasingly rely on AI, the performance of their network infrastructure becomes crucial to achieving desired outcomes. The article discusses how organizations can quantify the impact of network performance on AI initiatives and emphasizes the need for direct connectivity solutions to enhance reliability and reduce latency. By addressing network issues proactively, organizations can improve the overall effectiveness of their AI deployments.",
+      "source": "CIO"
+    },
+    {
+      "title": "Industrializing the AI lifecycle: The HPE AI Factory lab",
+      "link": "https://www.cio.com/article/4226316/the-sovereignty-imperative-why-ai-leaders-are-taking-control-of-their-intelligence.html",
+      "summary": "The HPE AI Factory Lab serves as a testing ground for organizations looking to validate their sovereign AI strategies. Equipped with advanced infrastructure, the lab allows enterprises to benchmark their workloads and understand the total cost of ownership before full-scale deployment. This initiative highlights the importance of having a robust AI infrastructure that aligns with sovereignty requirements.",
       "source": "CIO"
     }
   ]
