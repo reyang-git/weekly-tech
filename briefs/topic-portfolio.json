@@ -1,7 +1,14 @@
 {
-  "generatedAt": "2026-09-21T08:03:55.060Z",
+  "generatedAt": "2026-09-28T08:49:23.825Z",
   "topic": "portfolio",
-  "weekOf": "2026-09-21",
-  "lead": "No recent articles found about portfolio this week.",
-  "stories": []
+  "weekOf": "2026-09-28",
+  "lead": "Dr. Ariella Heffernan-Marks has been recognized as the Best New Founder for her innovative work with Ovum, which focuses on AI in women's health.",
+  "stories": [
+    {
+      "title": "Dr Ariella Heffernan-Marks named Best New Founder as Ovum scales women’s health AI",
+      "link": "https://www.startupdaily.net/partner-content/dr-ariella-heffernan-marks-named-best-new-founder-as-ovum-scales-womens-health-ai/",
+      "summary": "Ovum, under the leadership of Dr. Ariella Heffernan-Marks, has achieved significant milestones in women's health AI, including 20,000 downloads and over 113,000 AI health conversations. This success has led to her recognition as Best New Founder at the Startup Daily Best in Tech Awards 2026. The growing dataset and user engagement highlight the potential impact of AI on healthcare.",
+      "source": "Startup Daily"
+    }
+  ]
 }
