@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-09-21T08:03:57.731Z",
+  "generatedAt": "2026-09-28T08:49:22.923Z",
   "topic": "robotics",
-  "weekOf": "2026-09-21",
-  "lead": "Recent developments in robotics highlight a mix of regulatory challenges and technological advancements, particularly in the humanoid robot sector.",
-  "stories": [
-    {
-      "title": "China is reportedly slowing humanoid robot IPOs after Unitree’s debut round trip",
-      "link": "https://thenextweb.com/news/china-slows-humanoid-robot-ipos-unitree",
-      "summary": "China's securities regulator is advising humanoid robot companies to hold off on public offerings until they can demonstrate consistent revenue and a viable plan for reducing losses. This guidance follows the mixed performance of Unitree's IPO, reflecting a cautious approach to the rapidly evolving robotics market.",
-      "source": "The Next Web"
-    }
-  ]
+  "weekOf": "2026-09-28",
+  "lead": "No recent articles found about robotics this week.",
+  "stories": []
 }
