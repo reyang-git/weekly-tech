@@ -1,38 +1,56 @@
 {
-  "generatedAt": "2026-09-21T08:03:58.086Z",
+  "generatedAt": "2026-09-28T08:49:24.345Z",
   "topic": "climate",
-  "weekOf": "2026-09-21",
-  "lead": "Climate change continues to impact ecosystems, economies, and technological innovations, with recent studies highlighting its effects on coral physiology and extreme weather patterns.",
+  "weekOf": "2026-09-28",
+  "lead": "Climate Week 2026 highlights the intersection of technology and environmental activism, focusing on the impact of AI and data centers on climate change.",
   "stories": [
     {
-      "title": "Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans",
-      "link": "https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/",
-      "summary": "Recent studies reveal that tiny hairs on corals, crucial for their respiration, may fail in increasingly warm oceans. This malfunction could jeopardize coral survival and the broader marine ecosystems they support. Understanding these physiological changes is essential as climate change accelerates.",
+      "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
+      "link": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
+      "summary": "As climate activists increasingly target data centers for their environmental impact, the movement raises questions about public awareness and concern. Despite the pushback against these facilities, the broader implications for climate change remain under-discussed. This article delves into the tension between technological advancement and environmental sustainability.",
       "source": "Wired"
     },
     {
-      "title": "It Still Feels Like Summer in Parts of the US. Blame El Niño",
-      "link": "https://www.wired.com/story/september-feels-like-summer-blame-el-nino/",
-      "summary": "Parts of the US are experiencing unseasonably warm temperatures, attributed to the El Niño climate pattern combined with ongoing fossil fuel emissions. This phenomenon is leading to record-breaking heat, raising concerns about the long-term impacts of climate change on seasonal weather patterns.",
-      "source": "Wired"
+      "title": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
+      "link": "https://www.theguardian.com/us-news/2026/sep/24/climate-protesters-ai",
+      "summary": "During Climate Week, activists protested outside the offices of major tech companies like OpenAI, Google, and Amazon, criticizing their roles in climate change. The protests highlighted a growing frustration with the perceived disconnect between tech advancements and environmental responsibility. This movement underscores the urgent call for accountability from the tech sector in addressing climate issues.",
+      "source": "The Guardian Australia"
     },
     {
-      "title": "Meet the innovators under 35 shaping climate tech",
-      "link": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-      "summary": "MIT Technology Review highlights nine young innovators under 35 who are making significant strides in climate technology. These individuals are developing solutions to combat climate change, showcasing the potential of fresh perspectives and innovative ideas in addressing environmental challenges.",
+      "title": "AI is dominating the conversation at Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "summary": "As world leaders gather for Climate Week alongside the UN General Assembly, discussions are heavily centered on the role of artificial intelligence in combating climate change. The intersection of AI technology and environmental policy is becoming increasingly prominent, with stakeholders exploring how AI can be leveraged for sustainability efforts.",
       "source": "MIT Technology Review"
     },
     {
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "link": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-      "summary": "This edition of The Download covers a range of topics, including groundbreaking research on mice with part-human brains and the latest advancements in climate technology. The intersection of biology and tech is paving the way for innovative solutions to climate-related issues.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "The best workplace culture in America is being built by companies you’ve never heard of",
-      "link": "https://www.cio.com/article/4223505/the-best-workplace-culture-in-america-is-being-built-by-companies-youve-never-heard-of.html",
-      "summary": "As large corporations face layoffs and a shift in corporate culture driven by AI, small and mid-sized businesses are emerging as leaders in workplace culture. These companies are prioritizing employee well-being and sustainable practices, reflecting a broader trend towards valuing human contributions in the face of climate challenges.",
+      "title": "The GPU revolution: Redefining the architecture of innovation",
+      "link": "https://www.cio.com/article/4226307/the-gpu-revolution-redefining-the-architecture-of-innovation.html",
+      "summary": "The shift from CPU-centric computing to GPU-accelerated systems has transformed supercomputing capabilities, enabling more efficient climate modeling and simulations. This article discusses how the integration of GPUs into data centers is not only enhancing computational power but also playing a crucial role in addressing complex climate-related problems.",
       "source": "CIO"
+    },
+    {
+      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "summary": "This edition of The Download highlights legislative efforts to dismantle surveillance programs and discusses the prominence of AI at Climate Week. The convergence of technology and environmental policy is becoming a focal point for discussions among lawmakers and activists alike, reflecting a broader trend of integrating AI into climate strategies.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "The sovereignty imperative: Why AI leaders are taking control of their intelligence",
+      "link": "https://www.cio.com/article/4226316/the-sovereignty-imperative-why-ai-leaders-are-taking-control-of-their-intelligence.html",
+      "summary": "As organizations prioritize AI sovereignty, the implications for climate research and data governance become critical. This article explores how maintaining control over AI systems can enhance the effectiveness of climate initiatives, ensuring that data used in environmental modeling is secure and compliant with local regulations.",
+      "source": "CIO"
+    },
+    {
+      "title": "Climate Week 2026: AI and environmental activism collide",
+      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "summary": "The intersection of AI and climate activism is at the forefront of discussions during Climate Week 2026. With leaders and advocates converging in New York, the focus is on how AI technologies can either exacerbate or mitigate climate challenges. This coverage provides insights into the evolving dialogue around technology's role in environmental sustainability.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "Climate activists target tech giants over environmental impact",
+      "link": "https://www.theguardian.com/us-news/2026/sep/24/climate-protesters-ai",
+      "summary": "In a series of protests during Climate Week, activists called out tech giants for their environmental impact, particularly in relation to AI and data centers. The movement reflects a growing awareness and urgency to address the climate crisis, challenging the tech industry to take greater responsibility for its ecological footprint.",
+      "source": "The Guardian Australia"
     }
   ]
 }
