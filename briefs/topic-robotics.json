@@ -1,7 +1,56 @@
 {
-  "generatedAt": "2026-09-28T08:49:22.923Z",
+  "generatedAt": "2026-10-05T09:17:25.456Z",
   "topic": "robotics",
-  "weekOf": "2026-09-28",
-  "lead": "No recent articles found about robotics this week.",
-  "stories": []
+  "weekOf": "2026-10-05",
+  "lead": "Robotics is rapidly evolving, with innovations ranging from humanoid robots to advanced AI applications in various industries. Recent developments highlight the intersection of robotics and AI, showcasing both the potential and challenges of these technologies.",
+  "stories": [
+    {
+      "title": "Watch these defunct humanoid robots go full Terminator and dive into molten steel",
+      "link": "https://mashable.com/tech/figure-robotics-decommissions-robots-molten-metal",
+      "summary": "Figure Robotics has taken a dramatic approach to decommissioning its humanoid robots by programming them to dive into molten steel, reminiscent of iconic scenes from the Terminator franchise. This unusual method not only serves as a spectacle but also raises questions about the lifecycle and disposal of robotic technology. The video showcasing this event has gone viral, highlighting the blend of artistry and technology in the robotics field.",
+      "source": "Mashable"
+    },
+    {
+      "title": "$6T in annual AI revenue needed to pay off data center investments",
+      "link": "https://www.cio.com/article/4230005/6t-in-annual-ai-revenue-needed-to-pay-off-data-center-investments-2.html",
+      "summary": "A recent study reveals that the AI industry must generate $6 trillion annually to justify the massive investments in data centers required to support AI workloads. As hyperscalers ramp up their capital expenditures, the pressure mounts to create new markets, particularly in areas like robotics and autonomous vehicles. The findings underscore the critical role that robotics will play in the future of AI and infrastructure development.",
+      "source": "CIO"
+    },
+    {
+      "title": "Ecovacs Deebot X12 OmniCyclone: The Future of Robotic Cleaning",
+      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "summary": "The Ecovacs Deebot X12 OmniCyclone is a cutting-edge robotic vacuum that utilizes AI technology to enhance cleaning efficiency. It features a self-cleaning dock that empties the vacuum and washes its mop, showcasing the advancements in home robotics. This model represents a significant leap forward in the automation of household chores, making it a valuable addition for tech-savvy consumers.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Nex Playground: A Motion-Controlled Gaming Experience",
+      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "summary": "The Nex Playground is an innovative motion-controlled gaming console that integrates robotics and AI to track player movements. Designed for children, it offers a fun and interactive gaming experience with popular titles. This product exemplifies how robotics can enhance entertainment and learning for younger audiences.",
+      "source": "The Verge"
+    },
+    {
+      "title": "The Rise of Autonomous Vehicles: A Robotics Revolution",
+      "link": "https://www.cio.com/article/4230005/6t-in-annual-ai-revenue-needed-to-pay-off-data-center-investments-2.html",
+      "summary": "As the demand for autonomous vehicles grows, robotics technology is becoming increasingly vital in the automotive industry. The integration of AI in self-driving cars promises to revolutionize transportation, but it also raises significant challenges in terms of regulation and safety. This shift highlights the crucial role robotics will play in future mobility solutions.",
+      "source": "CIO"
+    },
+    {
+      "title": "Physical AI: Bridging the Gap Between Digital and Physical Worlds",
+      "link": "https://www.cio.com/article/4230005/6t-in-annual-ai-revenue-needed-to-pay-off-data-center-investments-2.html",
+      "summary": "The concept of Physical AI encompasses the application of robotics and AI in real-world scenarios, such as manufacturing and healthcare. This emerging field aims to create more efficient systems by integrating digital intelligence with physical processes. As industries explore these possibilities, the demand for advanced robotics solutions is expected to surge.",
+      "source": "CIO"
+    },
+    {
+      "title": "Innovations in Robotics: The Future of Automation",
+      "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+      "summary": "Recent advancements in robotics are paving the way for a future where automation plays a central role in various sectors. From smart home devices to industrial applications, the integration of AI is enhancing the capabilities of robots. This trend indicates a growing reliance on robotics to improve efficiency and productivity across industries.",
+      "source": "The Verge"
+    },
+    {
+      "title": "The Impact of Robotics on Healthcare",
+      "link": "https://www.cio.com/article/4230005/6t-in-annual-ai-revenue-needed-to-pay-off-data-center-investments-2.html",
+      "summary": "Robotics is making significant strides in healthcare, with applications ranging from surgical robots to robotic exoskeletons for rehabilitation. These innovations are transforming patient care and recovery processes, demonstrating the potential of robotics to improve health outcomes. As technology continues to evolve, the healthcare sector is likely to see even greater integration of robotic solutions.",
+      "source": "CIO"
+    }
+  ]
 }
