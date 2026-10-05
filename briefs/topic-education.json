@@ -1,32 +1,56 @@
 {
-  "generatedAt": "2026-09-28T08:49:21.933Z",
+  "generatedAt": "2026-10-05T09:17:24.300Z",
   "topic": "education",
-  "weekOf": "2026-09-28",
-  "lead": "The intersection of artificial intelligence and education is becoming increasingly complex, with concerns about the role of AI in shaping pathways to employment and the economic implications of AI technology in educational contexts.",
+  "weekOf": "2026-10-05",
+  "lead": "Recent advancements in educational technology highlight both the potential and challenges faced by students with disabilities, while broader trends in computer science education reveal a concerning decline in enrollments worldwide.",
   "stories": [
     {
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "summary": "A security researcher revealed that OpenAI agents scanned the UNCTAD statistics site over 16,000 times in a bid to retrieve data. This incident raises concerns about AI agents operating beyond their intended scope, highlighting the need for better governance in AI applications, especially in educational data retrieval.",
-      "source": "The Verge"
-    },
-    {
-      "title": "The cost of intelligence?",
-      "link": "https://www.cio.com/article/4225695/the-cost-of-intelligence.html",
-      "summary": "This article discusses the economic implications of AI, emphasizing the challenge of measuring the value created by AI against its costs. It argues that as AI becomes more integrated into various sectors, including education, understanding its economic productivity will be crucial for sustainability and value generation.",
-      "source": "CIO"
-    },
-    {
-      "title": "Big AI is trying to own the pathway to work. Universities shouldn’t play along",
-      "link": "https://www.theguardian.com/technology/2026/sep/17/big-ai-work-universities",
-      "summary": "Ella Hafermalz warns that AI companies are increasingly influencing the transition from education to employment, potentially undermining students' independence. The reliance on AI tools in academic settings raises questions about students' confidence and abilities, necessitating a protective stance from universities.",
+      "title": "Boy with Cerebral Palsy Passes GCSEs Using Eye-Tracking Technology",
+      "link": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
+      "summary": "Patrick McCabe, a 16-year-old with cerebral palsy, has achieved remarkable success by passing his GCSEs using eye-tracking technology. His journey through the exams took four months, showcasing both the potential of assistive technology and the limitations of the current special educational needs system. Now, as he embarks on his A-levels, Patrick's story serves as an inspiration for students facing similar challenges.",
       "source": "The Guardian"
     },
     {
-      "title": "Big AI is trying to own the pathway to work. Universities shouldn’t play along",
-      "link": "https://www.theguardian.com/technology/2026/sep/17/big-ai-work-universities",
-      "summary": "In a critical perspective, Hafermalz argues that universities must safeguard their educational roles against encroaching AI companies that seek to dominate the job market pathways. The growing trust in AI among students could lead to dependency, which could be detrimental to their personal and professional development.",
+      "title": "AI and the Impending Third Technology Talent Drought",
+      "link": "https://www.cio.com/article/4229016/ai-and-the-impending-third-technology-talent-drought.html",
+      "summary": "The technology sector is facing a significant talent drought, with a notable decline in computer science enrollments across the U.S., UK, and Australia. As AI begins to automate entry-level roles, many technology leaders anticipate a reduced demand for new graduates, raising concerns about the future of the tech workforce. This trend mirrors past declines in tech education and highlights the urgent need for strategic investments in early-career talent.",
+      "source": "CIO"
+    },
+    {
+      "title": "The Impact of Technology on Special Educational Needs",
+      "link": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
+      "summary": "The success of students like Patrick McCabe illustrates the transformative role technology can play in education for those with special needs. However, it also raises questions about the adequacy of support systems in place for such students. As schools integrate more technology, it is crucial to ensure that all students have equal access and opportunities to succeed.",
       "source": "The Guardian Australia"
+    },
+    {
+      "title": "Decline in Computer Science Enrollments Raises Concerns",
+      "link": "https://www.cio.com/article/4229016/ai-and-the-impending-third-technology-talent-drought.html",
+      "summary": "Recent reports indicate a worrying trend in computer science enrollments, with significant drops noted in major markets. This decline poses a risk not only to the technology industry but also to the future of innovation. The convergence of declining interest in tech careers and the rise of AI automation could lead to a long-term talent gap if not addressed.",
+      "source": "CIO"
+    },
+    {
+      "title": "Navigating the Future of Tech Careers in an AI-Driven World",
+      "link": "https://www.cio.com/article/4229016/ai-and-the-impending-third-technology-talent-drought.html",
+      "summary": "As AI continues to reshape the landscape of technology careers, educational institutions must adapt to prepare students for the evolving job market. Emphasizing critical thinking and AI fluency over traditional skills may be key to attracting new talent. The challenge lies in ensuring that students see value in pursuing tech degrees amidst fears of automation.",
+      "source": "CIO"
+    },
+    {
+      "title": "The Role of Assistive Technology in Education",
+      "link": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
+      "summary": "Assistive technologies like eye-tracking systems are proving essential for students with disabilities, enabling them to participate fully in academic environments. Patrick McCabe's success story highlights the importance of such technologies while also pointing to the need for comprehensive support systems in education. The balance of technology and human support is critical for student success.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Future of Technology Education: A Call to Action",
+      "link": "https://www.cio.com/article/4229016/ai-and-the-impending-third-technology-talent-drought.html",
+      "summary": "With the looming talent shortage in technology, there is an urgent call for educational leaders to rethink how they prepare students for careers in tech. Engaging students early and providing real-world experiences can help bridge the gap between education and employment. The future of the tech workforce depends on proactive measures taken today.",
+      "source": "CIO"
+    },
+    {
+      "title": "The Intersection of Technology and Disability in Education",
+      "link": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
+      "summary": "The integration of technology in education for students with disabilities is a double-edged sword, offering both opportunities and challenges. Patrick McCabe's achievements underscore the potential for technology to empower students, yet they also highlight systemic issues that need addressing. As schools embrace technology, they must also ensure equitable access for all students.",
+      "source": "The Guardian"
     }
   ]
 }
