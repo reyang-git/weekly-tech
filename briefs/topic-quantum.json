@@ -1,56 +1,14 @@
 {
-  "generatedAt": "2026-09-28T08:49:22.527Z",
+  "generatedAt": "2026-10-12T09:29:21.122Z",
   "topic": "quantum",
-  "weekOf": "2026-09-28",
-  "lead": "Quantum computing is rapidly approaching a pivotal moment, with the need for organizations to adopt post-quantum cryptography becoming increasingly urgent as quantum threats loom on the horizon.",
+  "weekOf": "2026-10-12",
+  "lead": "The US Department of Defense is making significant investments in quantum technology, particularly in silicon quantum systems, as it seeks to enhance its capabilities in this cutting-edge field.",
   "stories": [
     {
-      "title": "Why CIOs must pivot to post-quantum cryptography now",
-      "link": "https://www.cio.com/article/4226310/why-cios-must-pivot-to-post-quantum-cryptography-now.html",
-      "summary": "As quantum computing advances, the security of current encryption methods is at risk, making post-quantum cryptography (PQC) essential for organizations. The National Institute of Standards and Technology has finalized PQC standards, urging organizations to begin migrating now. The transition to PQC is not just a technical update but a critical business continuity measure, requiring a comprehensive audit and a shift towards crypto-agility to safeguard sensitive data against future quantum threats.",
-      "source": "CIO"
-    },
-    {
-      "title": "The sovereignty imperative: Why AI leaders are taking control of their intelligence",
-      "link": "https://www.cio.com/article/4226316/the-sovereignty-imperative-why-ai-leaders-are-taking-control-of-their-intelligence.html",
-      "summary": "As AI becomes integral to business operations, the concept of sovereign AI is emerging, emphasizing the need for organizations to maintain control over their data and models. This involves ensuring data sovereignty, operational autonomy, and governance of AI systems to protect intellectual property and comply with regulations. The article highlights case studies from institutions like the University of Utah and Argonne National Laboratory, showcasing how sovereign AI infrastructure can drive innovation while safeguarding sensitive information.",
-      "source": "CIO"
-    },
-    {
-      "title": "AI’s real bottleneck isn’t compute — it’s the network underneath",
-      "link": "https://www.cio.com/article/4225691/ais-real-bottleneck-isnt-compute-its-the-network-underneath.html",
-      "summary": "Despite advancements in AI, network performance remains a critical bottleneck affecting productivity and ROI. Organizations often face significant latency issues due to multi-cloud environments, leading to wasted time on troubleshooting connectivity problems. The article argues for the importance of integrating network teams into AI planning to ensure that network infrastructure supports the demands of AI applications effectively, thereby improving overall performance.",
-      "source": "CIO"
-    },
-    {
-      "title": "The intersection of AI and the HPE Sovereign AI Factory",
-      "link": "https://www.cio.com/article/4226310/why-cios-must-pivot-to-post-quantum-cryptography-now.html",
-      "summary": "The HPE Sovereign AI Factory initiative aims to provide a secure foundation for AI workloads while ensuring compliance with data sovereignty regulations. By leveraging accelerated computing and robust infrastructure, organizations can protect their data and models from quantum threats while maintaining control over their AI systems. This approach emphasizes the need for organizations to adopt a comprehensive strategy that integrates AI and post-quantum cryptography to safeguard their intellectual property.",
-      "source": "CIO"
-    },
-    {
-      "title": "The looming Y2Q moment",
-      "link": "https://www.cio.com/article/4226310/why-cios-must-pivot-to-post-quantum-cryptography-now.html",
-      "summary": "The potential arrival of a cryptographically relevant quantum computer poses a significant risk to current encryption methods, necessitating immediate action from CIOs. The concept of 'harvest now, decrypt later' highlights the urgency for organizations to secure sensitive data against future quantum attacks. The article outlines the steps CIOs must take to prepare for this transition, including comprehensive audits and prioritizing data based on longevity.",
-      "source": "CIO"
-    },
-    {
-      "title": "The technical platform for sovereignty",
-      "link": "https://www.cio.com/article/4226316/the-sovereignty-imperative-why-ai-leaders-are-taking-control-of-their-intelligence.html",
-      "summary": "Establishing a sovereign AI factory requires more than just robust hardware; it necessitates a comprehensive solution that addresses the entire AI lifecycle. Key technical requirements include hard multi-tenancy, air-gapped management, and security-first design to protect against emerging threats. This approach ensures that organizations can leverage AI effectively while maintaining control over their data and models.",
-      "source": "CIO"
-    },
-    {
-      "title": "Turning network performance into a business metric",
-      "link": "https://www.cio.com/article/4225691/ais-real-bottleneck-isnt-compute-its-the-network-underneath.html",
-      "summary": "As businesses increasingly rely on AI, the performance of their network infrastructure becomes crucial to achieving desired outcomes. The article discusses how organizations can quantify the impact of network performance on AI initiatives and emphasizes the need for direct connectivity solutions to enhance reliability and reduce latency. By addressing network issues proactively, organizations can improve the overall effectiveness of their AI deployments.",
-      "source": "CIO"
-    },
-    {
-      "title": "Industrializing the AI lifecycle: The HPE AI Factory lab",
-      "link": "https://www.cio.com/article/4226316/the-sovereignty-imperative-why-ai-leaders-are-taking-control-of-their-intelligence.html",
-      "summary": "The HPE AI Factory Lab serves as a testing ground for organizations looking to validate their sovereign AI strategies. Equipped with advanced infrastructure, the lab allows enterprises to benchmark their workloads and understand the total cost of ownership before full-scale deployment. This initiative highlights the importance of having a robust AI infrastructure that aligns with sovereignty requirements.",
-      "source": "CIO"
+      "title": "US defence invests $73 million in Diraq with another $357m on the table",
+      "link": "https://www.startupdaily.net/topic/funding/us-defence-invests-73-million-in-diraq-with-another-357m-on-the-table/",
+      "summary": "Diraq has secured A$73 million from DARPA to demonstrate the scalability of silicon quantum technology. This investment is part of a larger commitment, with an additional $357 million potentially available, highlighting the growing interest and investment in quantum computing by the US defense sector. The focus on silicon quantum systems aims to leverage existing semiconductor technologies for advanced quantum applications.",
+      "source": "Startup Daily"
     }
   ]
 }
