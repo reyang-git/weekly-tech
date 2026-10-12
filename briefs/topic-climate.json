@@ -1,56 +1,38 @@
 {
-  "generatedAt": "2026-09-28T08:49:24.345Z",
+  "generatedAt": "2026-10-12T09:29:21.436Z",
   "topic": "climate",
-  "weekOf": "2026-09-28",
-  "lead": "Climate Week 2026 highlights the intersection of technology and environmental activism, focusing on the impact of AI and data centers on climate change.",
+  "weekOf": "2026-10-12",
+  "lead": "A comprehensive overview of current climate challenges and innovations, highlighting the interconnectedness of climate change, technological advancements, and existential threats.",
   "stories": [
     {
-      "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn’t Yet",
-      "link": "https://www.wired.com/story/data-center-backlash-climate-reckoning/",
-      "summary": "As climate activists increasingly target data centers for their environmental impact, the movement raises questions about public awareness and concern. Despite the pushback against these facilities, the broader implications for climate change remain under-discussed. This article delves into the tension between technological advancement and environmental sustainability.",
+      "title": "How the 2026 Super El Niño and Climate Change Are Related",
+      "link": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
+      "summary": "The upcoming Super El Niño is expected to have significant impacts on global weather patterns, exacerbated by the ongoing climate crisis. Scientists are investigating how this record-setting phenomenon will interact with a planet that is already experiencing unprecedented heat. The article discusses the implications of these changes and the urgent questions researchers are seeking to answer.",
       "source": "Wired"
     },
     {
-      "title": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-      "link": "https://www.theguardian.com/us-news/2026/sep/24/climate-protesters-ai",
-      "summary": "During Climate Week, activists protested outside the offices of major tech companies like OpenAI, Google, and Amazon, criticizing their roles in climate change. The protests highlighted a growing frustration with the perceived disconnect between tech advancements and environmental responsibility. This movement underscores the urgent call for accountability from the tech sector in addressing climate issues.",
-      "source": "The Guardian Australia"
+      "title": "California’s Tallest and Most Iconic Trees Are Getting Heatstroke",
+      "link": "https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/",
+      "summary": "Redwoods, which have adapted to cool, foggy climates, are now showing signs of distress as temperatures rise. A new study reveals that these iconic trees are slowing down photosynthesis in response to increased heat, raising concerns about their survival and the broader impacts on California's ecosystems.",
+      "source": "Wired"
     },
     {
-      "title": "AI is dominating the conversation at Climate Week",
-      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "summary": "As world leaders gather for Climate Week alongside the UN General Assembly, discussions are heavily centered on the role of artificial intelligence in combating climate change. The intersection of AI technology and environmental policy is becoming increasingly prominent, with stakeholders exploring how AI can be leveraged for sustainability efforts.",
+      "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+      "link": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+      "summary": "A new global risk assessment identifies climate change as one of 17 catastrophic threats to human health that could lead to extinction by 2100. The report emphasizes the urgent need for action to mitigate these risks, including the climate crisis, which is highlighted alongside threats from AI and nuclear conflict.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons",
+      "summary": "This commentary reflects on the overshadowing threat of nuclear weapons amidst the global focus on AI. It draws parallels between historical apocalyptic fears and current existential risks, including climate change, suggesting that humanity's neglect of these issues could lead to catastrophic outcomes.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Why we’re watching these climate tech companies",
+      "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "summary": "MIT Technology Review has released its annual list of promising climate tech companies, showcasing innovations aimed at addressing climate change. The article highlights several firms that are making strides in energy technology, emphasizing the importance of these advancements in combatting the climate crisis.",
       "source": "MIT Technology Review"
-    },
-    {
-      "title": "The GPU revolution: Redefining the architecture of innovation",
-      "link": "https://www.cio.com/article/4226307/the-gpu-revolution-redefining-the-architecture-of-innovation.html",
-      "summary": "The shift from CPU-centric computing to GPU-accelerated systems has transformed supercomputing capabilities, enabling more efficient climate modeling and simulations. This article discusses how the integration of GPUs into data centers is not only enhancing computational power but also playing a crucial role in addressing complex climate-related problems.",
-      "source": "CIO"
-    },
-    {
-      "title": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
-      "link": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-      "summary": "This edition of The Download highlights legislative efforts to dismantle surveillance programs and discusses the prominence of AI at Climate Week. The convergence of technology and environmental policy is becoming a focal point for discussions among lawmakers and activists alike, reflecting a broader trend of integrating AI into climate strategies.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "The sovereignty imperative: Why AI leaders are taking control of their intelligence",
-      "link": "https://www.cio.com/article/4226316/the-sovereignty-imperative-why-ai-leaders-are-taking-control-of-their-intelligence.html",
-      "summary": "As organizations prioritize AI sovereignty, the implications for climate research and data governance become critical. This article explores how maintaining control over AI systems can enhance the effectiveness of climate initiatives, ensuring that data used in environmental modeling is secure and compliant with local regulations.",
-      "source": "CIO"
-    },
-    {
-      "title": "Climate Week 2026: AI and environmental activism collide",
-      "link": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
-      "summary": "The intersection of AI and climate activism is at the forefront of discussions during Climate Week 2026. With leaders and advocates converging in New York, the focus is on how AI technologies can either exacerbate or mitigate climate challenges. This coverage provides insights into the evolving dialogue around technology's role in environmental sustainability.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "Climate activists target tech giants over environmental impact",
-      "link": "https://www.theguardian.com/us-news/2026/sep/24/climate-protesters-ai",
-      "summary": "In a series of protests during Climate Week, activists called out tech giants for their environmental impact, particularly in relation to AI and data centers. The movement reflects a growing awareness and urgency to address the climate crisis, challenging the tech industry to take greater responsibility for its ecological footprint.",
-      "source": "The Guardian Australia"
     }
   ]
 }
