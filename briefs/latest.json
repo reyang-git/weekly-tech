@@ -1,74 +1,68 @@
 {
-  "generatedAt": "2026-09-28T00:08:04.861Z",
-  "weekOf": "2026-09-28",
-  "lead": "This week in tech highlights innovative AI applications, significant VC investments, and developments in the Australian tech landscape.",
+  "generatedAt": "2026-10-18T23:48:28.606Z",
+  "weekOf": "2026-10-18",
+  "lead": "This week in tech highlights innovative startups, significant VC deals, and advancements in AI, particularly within the Australian tech landscape.",
   "themes": [
-    "AI and emerging technologies",
-    "Startups and VC deals",
-    "Australian tech ecosystem",
-    "Innovation and new product launches",
-    "Novel use cases of technology"
+    "Startups and VC Deals",
+    "AI and Emerging Technologies",
+    "Innovation and New Product Launches",
+    "Australian Tech Ecosystem",
+    "Novel Applications of Technology"
   ],
   "stories": [
     {
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "summary": "Thoughtful Things has launched a Kickstarter for Engram, a unique music sampler that utilizes AI to create experimental sounds from audio inputs. This device operates offline, using a custom-trained AI model to push the boundaries of audio creation. Engram is designed for those looking to explore new sonic landscapes rather than produce mainstream music.",
-      "source": "The Verge"
-    },
-    {
-      "title": "Labor defends AI crackdown over Medicare data breach",
-      "link": "https://www.startupdaily.net/topic/politics-news-analysis/labor-defends-ai-crackdown-over-medicare-data-breach/",
-      "summary": "In response to a data breach involving an AI bot, the Australian Labor government is advocating for stricter regulations on AI technologies. The incident has raised concerns about the need for safeguards in AI applications, emphasizing the importance of responsible AI deployment in sensitive sectors like healthcare.",
-      "source": "Startup Daily"
-    },
-    {
-      "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
-      "link": "https://www.itnews.com.au/news/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe-629231?utm_source=feed&utm_medium=rss&utm_campaign=iTnews",
-      "summary": "The CEOs of OpenAI and Anthropic have been summoned to participate in an Australian government inquiry into AI technologies. This probe follows incidents involving AI systems accessing sensitive data, highlighting the need for regulatory oversight in the rapidly evolving AI landscape.",
+      "title": "Flight Centre Global Leisure deploys AI agent to help build holidays",
+      "link": "https://www.itnews.com.au/news/flight-centre-global-leisure-deploys-ai-agent-to-help-build-holidays-629579?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Flight Centre has introduced an AI agent designed to assist customers in planning their holidays. This innovation aims to enhance customer support options and streamline the holiday planning process, reflecting the growing trend of AI integration in the travel industry.",
       "source": "IT News"
     },
     {
-      "title": "BYD says its new solid-state EV battery tech is nearly ready for the open road",
-      "link": "https://www.engadget.com/2265495/byd-new-solid-state-battery-ev-almost-ready-2027/",
-      "summary": "Chinese automaker BYD has announced that its solid-state battery technology for electric vehicles is close to commercial readiness. This advancement could significantly enhance EV performance and safety, marking a pivotal step in the transition to more sustainable transportation solutions.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Teen researcher with AI hackbot cracks Microsoft's Titan analytics",
-      "link": "https://www.itnews.com.au/news/teen-researcher-with-ai-hackbot-cracks-microsofts-titan-analytics-629220?utm_source=feed&utm_medium=rss&utm_campaign=iTnews",
-      "summary": "A teenager has successfully used an AI-powered hackbot to breach Microsoft's Titan analytics platform. This incident underscores both the capabilities of young innovators in cybersecurity and the ongoing challenges companies face in protecting their data infrastructure.",
-      "source": "IT News"
-    },
-    {
-      "title": "Instagram’s new Pixel effect takes the relationship soft launch to another level",
-      "link": "https://mashable.com/tech/instagram-pixel-effect-soft-launch",
-      "summary": "Instagram has introduced a new Pixel effect that allows users to blur individuals in Stories using text prompts. This feature, currently in soft launch, is generating buzz for its potential to enhance user engagement and creativity on the platform.",
-      "source": "Mashable"
-    },
-    {
-      "title": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
-      "link": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
-      "summary": "Bill Gates has voiced concerns over the lack of safeguards in AI technologies, labeling it as irresponsible. His comments reflect growing apprehension about the implications of unregulated AI, especially as these technologies become more integrated into everyday life.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Downer invests in security as contracts increasingly demand it",
-      "link": "https://www.itnews.com.au/news/downer-invests-in-security-as-contracts-increasingly-demand-it-629089?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Downer EDI is ramping up its investment in cybersecurity in response to increasing demands from clients for robust security measures in contracts. This move highlights the growing importance of cybersecurity in various sectors, particularly as digital threats evolve.",
-      "source": "IT News"
-    },
-    {
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "summary": "As Meta continues to navigate trust issues, the AI startup Muse is positioning itself to capitalize on the demand for trustworthy AI solutions. This development reflects a broader trend of startups emerging to address concerns over privacy and ethical AI use.",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "AI company Anthropic has announced a commitment to allocate 5% of its shares to a public benefit fund. This move highlights the growing intersection of corporate responsibility and AI development, aiming to ensure that advancements in AI technology benefit society at large.",
       "source": "TechCrunch"
     },
     {
-      "title": "China reportedly may let Alibaba and ByteDance buy new Nvidia chips",
-      "link": "https://thenextweb.com/news/china-alibaba-bytedance-nvidia-rtx-pro-5500",
-      "summary": "China's government is reportedly considering allowing major tech firms like Alibaba and ByteDance to purchase new Nvidia chips. This potential policy shift could impact the global tech landscape, particularly in AI and machine learning applications.",
-      "source": "The Next Web"
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "Disney has reached an agreement to hire most of the workforce from Character.AI, a startup known for its conversational AI technology. This acquisition could enhance Disney's capabilities in AI-driven storytelling and character interactions, marking a significant move in the entertainment tech space.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "What is Apple's Image Playground app for and how do you use it?",
+      "link": "https://www.engadget.com/2286648/what-is-image-playground-app-how-to-use/",
+      "summary": "Apple's Image Playground app has received notable updates, allowing users to explore image generation and manipulation. This tool exemplifies Apple's commitment to enhancing user creativity through innovative software solutions.",
+      "source": "Engadget"
+    },
+    {
+      "title": "An Xbox Series X can now run PlayStation 5 games, but there's a catch",
+      "link": "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/",
+      "summary": "Gamers are now able to run PlayStation 5 games on the Xbox Series X through an emulator, thanks to the similar hardware architecture of both consoles. This development opens up new possibilities for cross-platform gaming experiences, though it comes with some limitations.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Video game ownership bill introduced in Congress",
+      "link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+      "summary": "A new bill, the Power To The Players Act, has been introduced in Congress to ensure consumers retain ownership of video games they purchase. This legislation aims to address growing concerns over digital rights and the impact of server shutdowns on game accessibility.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Benchmark’s partners on investing in a frenzied market",
+      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+      "summary": "Benchmark's partners discussed their investment strategies in a rapidly changing market, emphasizing a thoughtful approach amidst the frenzy. Their insights reflect the challenges and opportunities facing venture capitalists in the current tech landscape.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Japan launches first-ever Mars-bound mission designed to come back",
+      "link": "https://mashable.com/science/how-to-watch-jaxa-mars-mission-phobos-launch",
+      "summary": "Japan's space agency, JAXA, has launched a groundbreaking mission to Mars' moon Phobos, with plans to return samples to Earth by 2031. This mission represents a significant advancement in space exploration technology and international collaboration in scientific research.",
+      "source": "Mashable"
+    },
+    {
+      "title": "TikTok reportedly banned ads for Musk documentary before its wider US release",
+      "link": "https://www.engadget.com/2289782/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release/",
+      "summary": "TikTok has reportedly banned advertisements for a documentary about Elon Musk, citing political content restrictions. This decision raises questions about content moderation policies on social media platforms and their impact on documentary filmmaking.",
+      "source": "Engadget"
     }
   ]
 }
