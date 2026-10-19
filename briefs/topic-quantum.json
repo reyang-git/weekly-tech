@@ -1,14 +1,7 @@
 {
-  "generatedAt": "2026-10-12T09:29:21.122Z",
+  "generatedAt": "2026-10-19T07:57:14.955Z",
   "topic": "quantum",
-  "weekOf": "2026-10-12",
-  "lead": "The US Department of Defense is making significant investments in quantum technology, particularly in silicon quantum systems, as it seeks to enhance its capabilities in this cutting-edge field.",
-  "stories": [
-    {
-      "title": "US defence invests $73 million in Diraq with another $357m on the table",
-      "link": "https://www.startupdaily.net/topic/funding/us-defence-invests-73-million-in-diraq-with-another-357m-on-the-table/",
-      "summary": "Diraq has secured A$73 million from DARPA to demonstrate the scalability of silicon quantum technology. This investment is part of a larger commitment, with an additional $357 million potentially available, highlighting the growing interest and investment in quantum computing by the US defense sector. The focus on silicon quantum systems aims to leverage existing semiconductor technologies for advanced quantum applications.",
-      "source": "Startup Daily"
-    }
-  ]
+  "weekOf": "2026-10-19",
+  "lead": "No recent articles found about quantum this week.",
+  "stories": []
 }
