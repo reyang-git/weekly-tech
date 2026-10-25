@@ -1,68 +1,74 @@
 {
-  "generatedAt": "2026-10-18T23:48:28.606Z",
-  "weekOf": "2026-10-18",
-  "lead": "This week in tech highlights innovative startups, significant VC deals, and advancements in AI, particularly within the Australian tech landscape.",
+  "generatedAt": "2026-10-25T23:41:03.108Z",
+  "weekOf": "2026-10-25",
+  "lead": "This week in tech highlights significant advancements in AI, innovative product launches, and the evolving Australian tech landscape.",
   "themes": [
-    "Startups and VC Deals",
     "AI and Emerging Technologies",
+    "Startups and VC Deals",
     "Innovation and New Product Launches",
     "Australian Tech Ecosystem",
-    "Novel Applications of Technology"
+    "Novel Use Cases"
   ],
   "stories": [
     {
-      "title": "Flight Centre Global Leisure deploys AI agent to help build holidays",
-      "link": "https://www.itnews.com.au/news/flight-centre-global-leisure-deploys-ai-agent-to-help-build-holidays-629579?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Flight Centre has introduced an AI agent designed to assist customers in planning their holidays. This innovation aims to enhance customer support options and streamline the holiday planning process, reflecting the growing trend of AI integration in the travel industry.",
-      "source": "IT News"
-    },
-    {
-      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "summary": "AI company Anthropic has announced a commitment to allocate 5% of its shares to a public benefit fund. This move highlights the growing intersection of corporate responsibility and AI development, aiming to ensure that advancements in AI technology benefit society at large.",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "Grok has unveiled the initial seven minutes of its AI-generated film 'Odyssey'. While the visuals are decent, the project raises questions about the artistic merit and emotional engagement of AI-created content. This release marks a notable step in the exploration of AI's capabilities in creative fields.",
       "source": "TechCrunch"
     },
     {
-      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "summary": "Disney has reached an agreement to hire most of the workforce from Character.AI, a startup known for its conversational AI technology. This acquisition could enhance Disney's capabilities in AI-driven storytelling and character interactions, marking a significant move in the entertainment tech space.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "What is Apple's Image Playground app for and how do you use it?",
-      "link": "https://www.engadget.com/2286648/what-is-image-playground-app-how-to-use/",
-      "summary": "Apple's Image Playground app has received notable updates, allowing users to explore image generation and manipulation. This tool exemplifies Apple's commitment to enhancing user creativity through innovative software solutions.",
-      "source": "Engadget"
-    },
-    {
-      "title": "An Xbox Series X can now run PlayStation 5 games, but there's a catch",
-      "link": "https://www.engadget.com/2286776/xbox-series-x-users-can-play-playstation-5-games-ps5x-emulator-issues/",
-      "summary": "Gamers are now able to run PlayStation 5 games on the Xbox Series X through an emulator, thanks to the similar hardware architecture of both consoles. This development opens up new possibilities for cross-platform gaming experiences, though it comes with some limitations.",
-      "source": "Engadget"
-    },
-    {
-      "title": "Video game ownership bill introduced in Congress",
-      "link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
-      "summary": "A new bill, the Power To The Players Act, has been introduced in Congress to ensure consumers retain ownership of video games they purchase. This legislation aims to address growing concerns over digital rights and the impact of server shutdowns on game accessibility.",
-      "source": "The Verge"
-    },
-    {
-      "title": "Benchmark’s partners on investing in a frenzied market",
-      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "summary": "Benchmark's partners discussed their investment strategies in a rapidly changing market, emphasizing a thoughtful approach amidst the frenzy. Their insights reflect the challenges and opportunities facing venture capitalists in the current tech landscape.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Japan launches first-ever Mars-bound mission designed to come back",
-      "link": "https://mashable.com/science/how-to-watch-jaxa-mars-mission-phobos-launch",
-      "summary": "Japan's space agency, JAXA, has launched a groundbreaking mission to Mars' moon Phobos, with plans to return samples to Earth by 2031. This mission represents a significant advancement in space exploration technology and international collaboration in scientific research.",
+      "title": "Pennsylvania enacts law regulating AI-generated advertisements",
+      "link": "https://mashable.com/tech/pennsylvania-enacts-law-regulating-ai-generated-advertisements",
+      "summary": "Pennsylvania has introduced the AI Deceptive Advertising Act, which aims to regulate the use of AI in advertising. This law reflects growing concerns about transparency and accountability in AI-generated content, setting a precedent for other states to follow.",
       "source": "Mashable"
     },
     {
-      "title": "TikTok reportedly banned ads for Musk documentary before its wider US release",
-      "link": "https://www.engadget.com/2289782/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release/",
-      "summary": "TikTok has reportedly banned advertisements for a documentary about Elon Musk, citing political content restrictions. This decision raises questions about content moderation policies on social media platforms and their impact on documentary filmmaking.",
-      "source": "Engadget"
+      "title": "IAG's SAP migration brings process and data into sharp focus",
+      "link": "https://www.itnews.com.au/news/iags-sap-migration-brings-process-and-data-into-sharp-focus-629812?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Insurance giant IAG is undergoing a significant SAP migration, emphasizing the importance of data and process optimization. This move is expected to lay the groundwork for future AI integration in their finance functions, showcasing a strategic shift within the Australian tech ecosystem.",
+      "source": "IT News"
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "Despite substantial investments in AI, a recent report indicates that most companies are not seeing any financial returns from the technology. This raises critical questions about the effectiveness of AI implementations and the need for better strategies to leverage its potential.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+      "link": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+      "summary": "AI company Anthropic is facing a lawsuit from Authentic Brands Group for allegedly using Elvis Presley's songs to train its models without permission. This case highlights the ongoing legal challenges surrounding AI and intellectual property rights.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "New IDC research reveals the real AI readiness gap: It's not models, it's data",
+      "link": "https://www.itnews.com.au/feature/new-idc-research-reveals-the-real-ai-readiness-gap-its-not-models-its-data-629532?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "A new IDC report reveals that the key to successful AI outcomes lies not in the models themselves but in the quality of data. This insight is crucial for organizations looking to enhance their AI capabilities and drive better results.",
+      "source": "IT News"
+    },
+    {
+      "title": "Zen Browser is the Arc replacement I was looking for",
+      "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+      "summary": "The Zen Browser has emerged as a strong alternative to the now-defunct Arc browser, incorporating many of its best features. Users seeking a fresh browsing experience may find Zen to be a satisfying replacement, offering innovative design and functionality.",
+      "source": "The Verge"
+    },
+    {
+      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "summary": "iFixit's teardown of the iPhone Duo reveals insights into its design and potential durability issues. The findings suggest that while the device has some innovative features, its repairability remains a concern, reflecting ongoing challenges in consumer electronics.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Today’s NYT Wordle Hints, Answer and Help for Monday, Oct. 26, #1955",
+      "link": "https://www.cnet.com/tech/gaming/todays-nyt-wordle-hints-answer-and-help-for-monday-oct-26-1955/",
+      "summary": "The popular word game Wordle continues to engage users with daily challenges. This week's hints and answers provide a glimpse into the game's ongoing popularity and its impact on digital entertainment.",
+      "source": "CNET"
+    },
+    {
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "summary": "Instagram has expanded its reach by launching an app for Apple TV, allowing users to watch Reels and live streams on a larger screen. This move signifies Instagram's strategy to enhance user engagement across platforms.",
+      "source": "The Verge"
     }
   ]
 }
