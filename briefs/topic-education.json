@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-10-26T07:56:54.297Z",
+  "generatedAt": "2026-11-02T09:42:26.393Z",
   "topic": "education",
-  "weekOf": "2026-10-26",
-  "lead": "The evolving landscape of education and workforce development is increasingly influenced by the rise of AI and the demand for polymath profiles, reshaping expectations for skills and knowledge application.",
+  "weekOf": "2026-11-02",
+  "lead": "Exploring the evolving landscape of education technology and its implications for students and educators.",
   "stories": [
     {
-      "title": "Are polymath profiles the key to AI success?",
-      "link": "https://www.cio.com/article/4238319/the-key-to-success-in-the-age-of-ai-will-lie-in-polymath-profiles.html",
-      "summary": "As AI transforms business operations, the demand for polymath profiles—individuals with knowledge across multiple disciplines—grows. Research indicates that these profiles are essential for problem-solving and innovation, as they connect diverse fields to tackle complex challenges. Companies are starting to recognize the value of these hybrid professionals who can navigate the intricacies of AI and bring a broader perspective to decision-making.",
+      "title": "Silicon Valley parents want the tech they help build out of their children’s schools",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/27/silicon-valley-schools-education-tech",
+      "summary": "In a surprising shift, many parents in Silicon Valley, who are integral to the tech industry, are advocating for reduced technology use in their children's classrooms. They believe that excessive screen time detracts from traditional learning experiences, emphasizing the need for a balanced approach to education. This raises questions about whether low-income districts can afford to implement similar changes, highlighting disparities in educational resources.",
+      "source": "The Guardian Australia"
+    },
+    {
+      "title": "State of IT jobs: AI boosts salaries but also burnout and the gender gap",
+      "link": "https://www.cio.com/article/4242019/state-of-it-jobs-ai-boosts-salaries-but-also-burnout-and-the-gender-gap.html",
+      "summary": "The integration of AI into the workforce is reshaping job landscapes, particularly in IT, where salaries for AI-related roles have surged. However, this growth is accompanied by rising burnout rates and a widening gender gap in tech positions. As organizations strive to fill specialized roles, the need for equitable representation and support for employees becomes increasingly critical.",
       "source": "CIO"
     },
     {
-      "title": "10 guidelines for successfully scaling AI",
-      "link": "https://www.cio.com/article/4238588/10-guidelines-for-successfully-scaling-ai.html",
-      "summary": "Scaling AI in organizations remains a challenge despite individual success stories. This article outlines ten guidelines for effectively integrating AI, emphasizing the importance of strategic pilots, business ownership, and continuous measurement of outcomes. It highlights the need for organizations to adapt workflows and governance structures to fully leverage AI's potential and prepare for workforce changes.",
+      "title": "Why CIOs must prepare for hybrid quantum computing",
+      "link": "https://www.cio.com/article/4242872/why-cios-must-prepare-for-hybrid-quantum-computing.html",
+      "summary": "The Pittsburgh Supercomputing Center is pioneering a hybrid quantum-classical supercomputing platform, TangleLab, aimed at integrating quantum processing with classical systems. This initiative not only addresses technical challenges but also highlights the urgent need to cultivate a workforce skilled in both quantum and classical computing. The future of enterprise computing will rely on this hybrid approach, necessitating new educational pathways for IT professionals.",
       "source": "CIO"
     },
     {
-      "title": "The Future of Education: How AI is Reshaping Learning",
-      "link": "https://www.theverge.com/2026/10/21/education-ai-learning-future",
-      "summary": "AI is fundamentally altering the educational landscape, offering personalized learning experiences and new tools for educators. This article explores how AI-driven platforms can adapt to individual student needs, enhancing engagement and retention. As educational institutions embrace these technologies, the role of teachers is evolving towards facilitation and mentorship, rather than traditional lecturing.",
-      "source": "The Verge"
-    },
-    {
-      "title": "Upskilling for the AI Era: What Workers Need to Know",
-      "link": "https://www.wired.com/story/upskilling-ai-era/",
-      "summary": "As AI technologies become more prevalent, the need for upskilling the workforce is critical. This piece discusses the essential skills workers must acquire to thrive in an AI-driven economy, including data literacy, critical thinking, and adaptability. Companies are urged to invest in training programs that prepare employees for the future job market, which increasingly values interdisciplinary knowledge.",
+      "title": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
+      "link": "https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme/",
+      "summary": "A recent incident involving the Department of Education's promotion of a meme with right-wing connotations has sparked controversy. The meme references gender-swapping fan fiction, raising questions about the appropriateness of such content in educational contexts. This situation underscores the intersection of politics and education, and the potential influence of cultural narratives on learning environments.",
       "source": "Wired"
     },
     {
-      "title": "Polymathic Thinking: The Key to Innovation in Education",
-      "link": "https://www.edutopia.org/article/polymathic-thinking-key-innovation-education",
-      "summary": "This article examines how fostering polymathic thinking in education can drive innovation and creativity among students. By encouraging learners to explore multiple disciplines and make connections between them, educators can prepare students for complex problem-solving in the real world. The emphasis on interdisciplinary learning is becoming crucial as industries evolve with technology.",
-      "source": "Edutopia"
+      "title": "The moat is dry – Part 1: Why the old security model failed",
+      "link": "https://www.cio.com/article/4241680/the-moat-is-dry-part-1-why-the-old-security-model-failed.html",
+      "summary": "The article discusses the evolution of security from a technology-centric approach to one that recognizes the business risks posed by modern threats, particularly in educational institutions. As AI-enabled attacks become more prevalent, the need for educational organizations to adapt their security models is critical. This shift emphasizes the importance of integrating security training into educational curricula to prepare future leaders.",
+      "source": "CIO"
     },
     {
-      "title": "AI and the Future of Higher Education",
-      "link": "https://www.insidehighered.com/news/2026/10/20/ai-and-future-higher-education",
-      "summary": "The integration of AI in higher education is reshaping how institutions operate and deliver education. This article discusses the potential benefits and challenges of AI, including personalized learning pathways and administrative efficiencies. However, it also raises concerns about equity and access, emphasizing the need for inclusive strategies in AI implementation.",
-      "source": "Inside Higher Ed"
+      "title": "AI accelerates employee burnout",
+      "link": "https://www.cio.com/article/4242019/state-of-it-jobs-ai-boosts-salaries-but-also-burnout-and-the-gender-gap.html",
+      "summary": "As AI technologies become more integrated into workplaces, reports of employee burnout are rising, particularly among tech professionals. The fast-paced changes driven by AI are creating stress and anxiety, highlighting the need for educational programs that address mental health and resilience in the face of technological advancements. Educational institutions must prepare students for these challenges in their future careers.",
+      "source": "CIO"
     },
     {
-      "title": "The Role of Emotional Intelligence in the Age of AI",
-      "link": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2026/10/19/emotional-intelligence-in-the-age-of-ai/",
-      "summary": "As AI takes over more technical tasks, emotional intelligence (EI) is becoming a critical skill for the workforce. This article highlights how EI can enhance collaboration and communication in teams, especially in environments increasingly influenced by AI. Training programs that focus on developing EI alongside technical skills are essential for preparing future leaders.",
-      "source": "Forbes"
+      "title": "The impact of AI on education: Opportunities and challenges",
+      "link": "https://www.cio.com/article/4242019/state-of-it-jobs-ai-boosts-salaries-but-also-burnout-and-the-gender-gap.html",
+      "summary": "AI's transformative potential in education presents both opportunities and challenges. While it can enhance personalized learning experiences, there are concerns about equity and access, especially for underprivileged students. As educational institutions adapt to these changes, they must ensure that all students benefit from AI advancements, fostering an inclusive learning environment.",
+      "source": "CIO"
     },
     {
-      "title": "The Importance of Lifelong Learning in a Rapidly Changing Job Market",
-      "link": "https://www.hbr.org/2026/10/the-importance-of-lifelong-learning-in-a-rapidly-changing-job-market",
-      "summary": "In a job market transformed by AI and automation, lifelong learning is more important than ever. This Harvard Business Review article emphasizes the need for workers to continuously update their skills and knowledge. Organizations are encouraged to foster a culture of learning, providing resources and support for employees to engage in ongoing education and professional development.",
-      "source": "Harvard Business Review"
+      "title": "Cultivating a quantum-ready workforce",
+      "link": "https://www.cio.com/article/4242872/why-cios-must-prepare-for-hybrid-quantum-computing.html",
+      "summary": "The need for a workforce skilled in hybrid quantum-classical computing is becoming increasingly urgent. Initiatives like TangleLab not only focus on technological advancements but also emphasize the importance of education and training in this emerging field. As organizations invest in quantum technologies, educational institutions must adapt their curricula to prepare students for the future job market.",
+      "source": "CIO"
     }
   ]
 }
