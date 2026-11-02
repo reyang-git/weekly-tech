@@ -1,74 +1,68 @@
 {
-  "generatedAt": "2026-10-25T23:41:03.108Z",
-  "weekOf": "2026-10-25",
-  "lead": "This week in tech highlights significant advancements in AI, innovative product launches, and the evolving Australian tech landscape.",
+  "generatedAt": "2026-11-02T01:07:40.663Z",
+  "weekOf": "2026-11-02",
+  "lead": "This week in tech, we explore innovative AI applications, significant VC movements, and the evolving landscape of the Australian tech ecosystem.",
   "themes": [
-    "AI and Emerging Technologies",
-    "Startups and VC Deals",
-    "Innovation and New Product Launches",
-    "Australian Tech Ecosystem",
-    "Novel Use Cases"
+    "AI and emerging technologies",
+    "Startups and VC deals",
+    "Innovation and new product launches",
+    "Australian tech ecosystem",
+    "Novel use cases and applications of technology"
   ],
   "stories": [
     {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "summary": "Grok has unveiled the initial seven minutes of its AI-generated film 'Odyssey'. While the visuals are decent, the project raises questions about the artistic merit and emotional engagement of AI-created content. This release marks a notable step in the exploration of AI's capabilities in creative fields.",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "In an effort to improve public perception, OpenAI is considering rebranding its data centers as 'AI compute campuses.' This shift aims to highlight the innovative aspects of these facilities rather than their traditional, less favorable image. The rebranding could reflect the growing importance of AI infrastructure in modern technology.",
       "source": "TechCrunch"
     },
     {
-      "title": "Pennsylvania enacts law regulating AI-generated advertisements",
-      "link": "https://mashable.com/tech/pennsylvania-enacts-law-regulating-ai-generated-advertisements",
-      "summary": "Pennsylvania has introduced the AI Deceptive Advertising Act, which aims to regulate the use of AI in advertising. This law reflects growing concerns about transparency and accountability in AI-generated content, setting a precedent for other states to follow.",
+      "title": "NASA hopes the commercial space industry can help save Hubble",
+      "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+      "summary": "NASA is reaching out to the commercial space sector for innovative solutions to extend the life of the Hubble Space Telescope. With its orbit degrading, the agency is exploring proposals that could boost Hubble's orbit and ensure it continues to contribute to astronomical research. This initiative highlights the potential collaboration between government and private space ventures.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Defence declares 'absolute acceleration' in its AI adoption",
+      "link": "https://www.itnews.com.au/news/defence-declares-absolute-acceleration-in-its-ai-adoption-630051?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "The Australian Defence Force is ramping up its AI initiatives, conducting extensive internal interviews to identify use cases and applications. This strategic move signals a commitment to integrating advanced technologies into defense operations, potentially enhancing capabilities and efficiency.",
+      "source": "IT News"
+    },
+    {
+      "title": "Anthropic updates Claude to stop it from recreating existing video games",
+      "link": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+      "summary": "Anthropic has updated its AI model, Claude, to prevent it from recreating existing video games, ensuring originality in game design. This update reflects a growing trend in AI development focused on fostering creativity and innovation while adhering to intellectual property rights.",
+      "source": "Engadget"
+    },
+    {
+      "title": "Acronis MDR empowers service providers with detection, response and true business resilience",
+      "link": "https://www.itnews.com.au/feature/acronis-mdr-empowers-service-providers-with-detection-response-and-true-business-resilience-629922?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "Acronis has launched a new Managed Detection and Response (MDR) service aimed at empowering service providers with advanced cybersecurity capabilities. This offering enhances business resilience by providing 24/7 protection against cyber threats, showcasing innovation in the cybersecurity landscape.",
+      "source": "IT News"
+    },
+    {
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary": "A recent discussion highlights how AI tools are primarily benefiting tech CEOs, raising questions about accessibility for the broader workforce. The conversation emphasizes the need for democratizing AI technologies to ensure that all employees can leverage these advancements for productivity and innovation.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Become a Claude power user with this $20 E-Degree",
+      "link": "https://mashable.com/tech/nov-1-claude-ai-professional-e-degree",
+      "summary": "A new online course is available for those looking to maximize their use of the Claude AI model. Priced at just $20, this E-Degree aims to educate users on effectively utilizing AI in various applications, reflecting the growing interest in AI literacy among professionals.",
       "source": "Mashable"
     },
     {
-      "title": "IAG's SAP migration brings process and data into sharp focus",
-      "link": "https://www.itnews.com.au/news/iags-sap-migration-brings-process-and-data-into-sharp-focus-629812?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Insurance giant IAG is undergoing a significant SAP migration, emphasizing the importance of data and process optimization. This move is expected to lay the groundwork for future AI integration in their finance functions, showcasing a strategic shift within the Australian tech ecosystem.",
-      "source": "IT News"
+      "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
+      "link": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
+      "summary": "A judge has ruled that xAI must respond to a lawsuit from the NAACP regarding pollution from its data centers. This case underscores the increasing scrutiny on tech companies regarding environmental impacts, particularly as AI and data center operations expand.",
+      "source": "Engadget"
     },
     {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "summary": "Despite substantial investments in AI, a recent report indicates that most companies are not seeing any financial returns from the technology. This raises critical questions about the effectiveness of AI implementations and the need for better strategies to leverage its potential.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
-      "link": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
-      "summary": "AI company Anthropic is facing a lawsuit from Authentic Brands Group for allegedly using Elvis Presley's songs to train its models without permission. This case highlights the ongoing legal challenges surrounding AI and intellectual property rights.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "New IDC research reveals the real AI readiness gap: It's not models, it's data",
-      "link": "https://www.itnews.com.au/feature/new-idc-research-reveals-the-real-ai-readiness-gap-its-not-models-its-data-629532?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "A new IDC report reveals that the key to successful AI outcomes lies not in the models themselves but in the quality of data. This insight is crucial for organizations looking to enhance their AI capabilities and drive better results.",
-      "source": "IT News"
-    },
-    {
-      "title": "Zen Browser is the Arc replacement I was looking for",
-      "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
-      "summary": "The Zen Browser has emerged as a strong alternative to the now-defunct Arc browser, incorporating many of its best features. Users seeking a fresh browsing experience may find Zen to be a satisfying replacement, offering innovative design and functionality.",
-      "source": "The Verge"
-    },
-    {
-      "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
-      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
-      "summary": "iFixit's teardown of the iPhone Duo reveals insights into its design and potential durability issues. The findings suggest that while the device has some innovative features, its repairability remains a concern, reflecting ongoing challenges in consumer electronics.",
-      "source": "The Verge"
-    },
-    {
-      "title": "Today’s NYT Wordle Hints, Answer and Help for Monday, Oct. 26, #1955",
-      "link": "https://www.cnet.com/tech/gaming/todays-nyt-wordle-hints-answer-and-help-for-monday-oct-26-1955/",
-      "summary": "The popular word game Wordle continues to engage users with daily challenges. This week's hints and answers provide a glimpse into the game's ongoing popularity and its impact on digital entertainment.",
-      "source": "CNET"
-    },
-    {
-      "title": "Now you can watch Instagram Reels on your Apple TV",
-      "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-      "summary": "Instagram has expanded its reach by launching an app for Apple TV, allowing users to watch Reels and live streams on a larger screen. This move signifies Instagram's strategy to enhance user engagement across platforms.",
-      "source": "The Verge"
+      "title": "Ceramic vs Titanium Apple Watch: Which material is better for overall durability?",
+      "link": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+      "summary": "A comparative analysis of ceramic and titanium materials for Apple Watches reveals insights into durability and user preferences. This exploration of materials not only informs consumer choices but also highlights innovation in wearable technology design.",
+      "source": "Engadget"
     }
   ]
 }
