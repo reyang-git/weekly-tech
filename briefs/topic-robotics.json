@@ -1,20 +1,7 @@
 {
-  "generatedAt": "2026-10-12T09:29:19.326Z",
+  "generatedAt": "2026-11-02T09:42:24.724Z",
   "topic": "robotics",
-  "weekOf": "2026-10-12",
-  "lead": "Exploring the current landscape of robotics, from humanoid advancements to the limitations of AI integration.",
-  "stories": [
-    {
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "summary": "Despite the excitement surrounding humanoid robots, experts caution that recent AI breakthroughs in robotics are unlikely to have a significant impact on daily life in the near future. The article discusses the limitations of current technology and the gap between public perception and actual capabilities. It highlights the challenges that still need to be addressed before humanoid robots can become a common part of our lives.",
-      "source": "MIT Technology Review"
-    },
-    {
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "summary": "This edition of The Download delves into the hurdles faced by humanoid robots and the broader implications of AI in robotics. The article emphasizes that while there is growing interest and investment in humanoid technology, significant AI roadblocks remain. It also touches on the potential applications of robotics in other fields, such as environmental management.",
-      "source": "MIT Technology Review"
-    }
-  ]
+  "weekOf": "2026-11-02",
+  "lead": "No recent articles found about robotics this week.",
+  "stories": []
 }
