@@ -1,38 +1,26 @@
 {
-  "generatedAt": "2026-10-12T09:29:21.436Z",
+  "generatedAt": "2026-11-02T09:42:25.142Z",
   "topic": "climate",
-  "weekOf": "2026-10-12",
-  "lead": "A comprehensive overview of current climate challenges and innovations, highlighting the interconnectedness of climate change, technological advancements, and existential threats.",
+  "weekOf": "2026-11-02",
+  "lead": "Recent discussions on climate change highlight critical blind spots in our models and the urgent need for monitoring feedback loops exacerbated by rising temperatures.",
   "stories": [
     {
-      "title": "How the 2026 Super El Niño and Climate Change Are Related",
-      "link": "https://www.wired.com/story/super-el-nino-climate-change-connections/",
-      "summary": "The upcoming Super El Niño is expected to have significant impacts on global weather patterns, exacerbated by the ongoing climate crisis. Scientists are investigating how this record-setting phenomenon will interact with a planet that is already experiencing unprecedented heat. The article discusses the implications of these changes and the urgent questions researchers are seeking to answer.",
-      "source": "Wired"
-    },
-    {
-      "title": "California’s Tallest and Most Iconic Trees Are Getting Heatstroke",
-      "link": "https://www.wired.com/story/californias-tallest-and-most-iconic-trees-are-getting-heat-stroke/",
-      "summary": "Redwoods, which have adapted to cool, foggy climates, are now showing signs of distress as temperatures rise. A new study reveals that these iconic trees are slowing down photosynthesis in response to increased heat, raising concerns about their survival and the broader impacts on California's ecosystems.",
-      "source": "Wired"
-    },
-    {
-      "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
-      "link": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
-      "summary": "A new global risk assessment identifies climate change as one of 17 catastrophic threats to human health that could lead to extinction by 2100. The report emphasizes the urgent need for action to mitigate these risks, including the climate crisis, which is highlighted alongside threats from AI and nuclear conflict.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons",
-      "summary": "This commentary reflects on the overshadowing threat of nuclear weapons amidst the global focus on AI. It draws parallels between historical apocalyptic fears and current existential risks, including climate change, suggesting that humanity's neglect of these issues could lead to catastrophic outcomes.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Why we’re watching these climate tech companies",
-      "link": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
-      "summary": "MIT Technology Review has released its annual list of promising climate tech companies, showcasing innovations aimed at addressing climate change. The article highlights several firms that are making strides in energy technology, emphasizing the importance of these advancements in combatting the climate crisis.",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "summary": "Climate change is not just a consequence of human activity; it is now driving further climate change through dangerous feedback loops. Current climate models fail to fully account for these dynamics, posing significant risks to our emissions-reduction goals. Scientists warn that without addressing these blind spots, we may underestimate the severity of climate impacts.",
       "source": "MIT Technology Review"
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "summary": "As climate change accelerates, the role of AI in monitoring and managing its effects becomes increasingly vital. Experts argue for the real-time tracking of AI agents to ensure they contribute positively to climate solutions rather than exacerbate the situation. This call for better governance in AI reflects a broader need to integrate technology with environmental stewardship.",
+      "source": "MIT Technology Review"
+    },
+    {
+      "title": "‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity",
+      "link": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
+      "summary": "Author Jeanette Winterson discusses the intersection of AI and climate change, suggesting that humanity stands at a pivotal moment. She emphasizes the importance of storytelling in shaping our future, particularly in addressing the challenges posed by climate change and technology. Winterson's reflections encourage a proactive approach to creating a sustainable future.",
+      "source": "The Guardian Australia"
     }
   ]
 }
