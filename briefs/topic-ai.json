@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-11-02T09:42:23.386Z",
+  "generatedAt": "2026-11-09T09:58:36.763Z",
   "topic": "AI",
-  "weekOf": "2026-11-02",
-  "lead": "AI continues to reshape various industries, from aviation to enterprise solutions, while raising ethical concerns and driving innovation.",
+  "weekOf": "2026-11-09",
+  "lead": "AI continues to shape various industries, from governance and healthcare to music and enterprise solutions, while also raising ethical and operational challenges.",
   "stories": [
     {
-      "title": "Ryanair considers pay freezes and reducing crew on flights as fuel costs soar",
-      "link": "https://www.theguardian.com/business/2026/nov/02/ryanair-considers-pay-freezes-reducing-crew-on-flights-fuel-costs-soar-ai",
-      "summary": "Amid rising fuel costs due to geopolitical tensions, Ryanair is contemplating significant cost-cutting measures, including pay freezes and reduced crew numbers on flights. The airline is also looking to increase its use of AI to help mitigate the financial strain, with expectations that ticket prices across Europe may rise by up to 20%. This shift highlights the growing reliance on AI in the aviation sector as companies seek efficiency.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "The middle layer will make or break enterprise AI agents",
-      "link": "https://www.cio.com/article/4242744/the-middle-layer-will-make-or-break-enterprise-ai-agents.html",
-      "summary": "The success of AI agents in enterprises hinges on the often-overlooked middleware that connects these agents to existing systems. While AI agents can execute actions and provide insights, their effectiveness is limited without robust integration into enterprise workflows. CIOs must focus on building the necessary infrastructure to support these technologies, ensuring that AI can operate effectively within complex business environments.",
-      "source": "CIO"
-    },
-    {
-      "title": "ADNOC signs deal with OpenAI and G42 to deploy Frontier AI agents",
-      "link": "https://thenextweb.com/news/adnoc-openai-g42-frontier-ai-deal",
-      "summary": "Abu Dhabi's state oil company, ADNOC, has entered a multi-year partnership with OpenAI and G42 to integrate AI agents into its operations. This initiative marks a significant step for the energy sector, as ADNOC becomes the first company in the industry to utilize OpenAI's Frontier platform, showcasing the growing trend of AI adoption in traditional industries.",
-      "source": "The Next Web"
-    },
-    {
-      "title": "India floats AI plan under which ‘The model travels to the data, rather than the data travelling to the model’",
-      "link": "https://www.theregister.com/public-sector/2026/11/02/india-floats-ai-plan-under-which-the-model-travels-to-the-data-rather-than-the-data-travelling-to-the-model/5306872",
-      "summary": "India is proposing an innovative AI strategy that emphasizes bringing AI models directly to the data instead of transferring data to the models. This approach aims to enhance local AI capabilities while minimizing reliance on major tech companies, reflecting a growing interest in data sovereignty and localized AI solutions.",
-      "source": "The Register"
-    },
-    {
-      "title": "Westpac reveals AI cut data warehouse migration cost from $70m to $35m",
-      "link": "https://www.itnews.com.au/news/westpac-reveals-ai-cut-data-warehouse-migration-cost-from-70m-to-35m-630064?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "Westpac has successfully reduced its data warehouse migration costs from $70 million to $35 million through the implementation of AI-driven solutions. This significant cost-saving demonstrates the potential of AI to streamline complex processes and enhance operational efficiency within financial institutions.",
+      "title": "ANZ stands up an 'enterprise AI control plane'",
+      "link": "https://www.itnews.com.au/news/anz-stands-up-an-enterprise-ai-control-plane-630221?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "ANZ has launched an enterprise AI control plane to enhance centralized governance and control over its AI initiatives. This move is part of a broader trend among financial institutions to leverage AI for improved operational efficiency and compliance. The control plane aims to streamline AI deployment while ensuring adherence to regulatory standards.",
       "source": "IT News"
     },
     {
-      "title": "AI is stealing Indigenous Australian art and churning out ‘Temu slop’, artist says",
-      "link": "https://www.theguardian.com/artanddesign/2026/nov/02/ai-stealing-indigenous-australian-art-temu-slop-artist-says-ntwnfb",
-      "summary": "Indigenous Australian artist Sally Scales has raised concerns about AI technologies appropriating First Nations art, labeling the output as 'Temu slop.' Scales argues that AI undermines the authenticity and agency of Indigenous artists, highlighting the ethical implications of using AI in creative fields and the need for better protections for cultural heritage.",
+      "title": "Tencent AI chief warns models will soon pose biology risks, SCMP reports",
+      "link": "https://thenextweb.com/news/tencent-yao-shunyu-ai-biology-risk-hy4",
+      "summary": "Yao Shunyu, Tencent's chief AI scientist, has raised concerns that AI models could soon pose risks to biological systems, paralleling existing cybersecurity threats. This warning highlights the need for responsible AI development and oversight as the technology evolves. The implications of AI's capabilities in biological contexts could have far-reaching consequences.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Grok Bot’s usage limits: Why the fine print matters more than the price",
+      "link": "https://www.cio.com/article/4245794/grok-bots-usage-limits-why-the-fine-print-matters-more-than-the-price.html",
+      "summary": "Recent reports on Grok Bot revealed that users faced unexpected limits on their usage allowances, leading to financial implications for IT departments. Elon Musk acknowledged the unsustainable costs associated with the service, prompting discussions about the transparency of AI pricing models. This case exemplifies the complexities of budgeting for AI services in organizations.",
+      "source": "CIO"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "summary": "Apple is accelerating efforts to enhance Siri's capabilities to compete with other AI assistants. The company plans to introduce features that allow Siri to perform more complex tasks, such as managing apps and organizing user data. This initiative reflects the growing competition in the AI assistant market and the need for continuous innovation.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Nvidia is investigating CEO Jensen Huang over affair with alleged Chinese spy",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "summary": "Nvidia has initiated an investigation into CEO Jensen Huang following revelations about his relationship with a former executive linked to Chinese intelligence. This situation raises concerns about corporate governance and the potential impact on Nvidia's operations in the competitive AI sector. The investigation underscores the intersection of personal conduct and corporate responsibility.",
+      "source": "The Verge"
+    },
+    {
+      "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+      "link": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
+      "summary": "The International Federation of the Phonographic Industry has warned that proposed changes to AI copyright laws in Australia could harm creativity and the music industry. The organization argues that allowing AI companies easier access to content would undermine the rights of artists. This highlights the ongoing debate over intellectual property in the age of AI.",
       "source": "The Guardian"
     },
     {
-      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
-      "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
-      "summary": "A growing reliance on AI chatbots for hiking advice has led to dangerous outcomes, as users may overlook critical thinking in favor of automated suggestions. This trend underscores the potential risks associated with outsourcing decision-making to AI, particularly in high-stakes environments like outdoor navigation.",
-      "source": "Wired"
+      "title": "Epic Games Launcher is coming to SteamOS",
+      "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+      "summary": "Epic Games has announced that its launcher will soon be compatible with SteamOS, expanding its reach in the gaming industry. This move is seen as a strategic effort to compete with other gaming platforms and leverage AI technologies in game development. The integration could enhance user experience and broaden the audience for Epic's games.",
+      "source": "The Verge"
     },
     {
-      "title": "Voice cloning scams: How to protect yourself from audio deepfakes",
-      "link": "https://mashable.com/tech/how-to-protect-yourself-voice-clones-audio-deepfake",
-      "summary": "As AI technology advances, voice cloning scams are becoming more prevalent, posing significant risks to personal security. This article outlines steps individuals can take to protect themselves from audio deepfakes, emphasizing the importance of awareness and proactive measures in an increasingly AI-driven world.",
-      "source": "Mashable"
+      "title": "Dev error bricked 600 PCs, caused $1M CD-ROM write-off",
+      "link": "https://www.theregister.com/software/2026/11/09/dev-error-bricked-600-pcs-caused-1m-cd-rom-write-off/5308039",
+      "summary": "A development error resulted in the bricking of 600 PCs and a significant financial loss for a tech company. This incident underscores the importance of rigorous testing and quality assurance in software development, particularly as AI systems become more complex. The repercussions of such errors can be costly and impact company reputation.",
+      "source": "The Register"
     }
   ]
 }
