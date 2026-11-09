@@ -1,32 +1,56 @@
 {
-  "generatedAt": "2026-11-02T09:42:29.646Z",
+  "generatedAt": "2026-11-09T09:58:36.711Z",
   "topic": "health",
-  "weekOf": "2026-11-02",
-  "lead": "Recent advancements in health technology are reshaping how users monitor their well-being, with new features in smartwatches and health apps leading the charge.",
+  "weekOf": "2026-11-09",
+  "lead": "Recent advancements in health technology and data management highlight the ongoing evolution of the healthcare landscape, from innovative drug development to the integration of AI in health monitoring.",
   "stories": [
     {
-      "title": "Google Pixel Watch 5 Sale: Its Lowest Price Yet",
-      "link": "https://www.wired.com/story/googles-pixel-watch-5-is-down-to-its-lowest-price-yet/",
-      "summary": "The Google Pixel Watch 5, known for its robust health and fitness features, is now available at its lowest price ahead of Black Friday. This smartwatch includes advanced tracking capabilities that cater to health-conscious users, making it a compelling option for those looking to enhance their fitness journey. With its sale price, it presents an excellent opportunity for consumers to invest in their health technology.",
-      "source": "Wired"
+      "title": "Dundee biotech PhaSER wins $2.7M Gates grant for infectious disease drugs",
+      "link": "https://thenextweb.com/news/phaser-biomedical-gates-foundation-grant",
+      "summary": "Scottish biotech PhaSER Biomedical has secured a $2.7 million grant from the Gates Foundation aimed at developing new drugs for infectious diseases such as TB and malaria. This funding will support the company's participation in the Global Health Discovery Collaboratory, which facilitates collaboration among teams funded by the foundation to tackle global health challenges.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "British people don’t trust Palantir – it’s not too late to reverse the NHS’s dependence on it",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/09/british-people-palantir-nhs-health-data-us-tech-firm",
+      "summary": "As the NHS approaches the expiration of its contract with Palantir, concerns over data privacy and trust are rising. Critics argue that the NHS should seek alternative suppliers that allow for greater control over health data, emphasizing the need for transparency and public trust in health technology.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Don't like Google Health's AI Coach? Here's how to turn it off",
+      "link": "https://www.engadget.com/2309626/dont-like-google-health-ai-coach-how-turn-off/",
+      "summary": "Google Health's AI Coach feature has faced mixed reviews, prompting users to seek ways to disable it. This highlights the ongoing conversation about user control and preferences in health technology, particularly as AI becomes more integrated into personal health management.",
+      "source": "Engadget"
+    },
+    {
+      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+      "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+      "summary": "The UV-tracking Gem necklace has prompted users to reconsider the impact of UV exposure on health. By providing real-time notifications about UV levels, the device encourages proactive health management, showcasing the potential of wearable technology in personal health awareness.",
+      "source": "The Verge"
+    },
+    {
+      "title": "All the Health and Fitness Products You Didn't Realize You Could Buy With HSA Funds",
+      "link": "https://lifehacker.com/health/health-and-fitness-products-hsa-fsa-funds?utm_medium=RSS",
+      "summary": "Consumers are encouraged to utilize their Health Savings Account (HSA) funds for a variety of health and fitness products, including wearables and fitness trackers. This shift highlights the growing intersection of personal finance and health management, promoting a more proactive approach to health.",
+      "source": "Lifehacker"
     },
     {
       "title": "Google's 'Health Guardian' Is Now Available for Fitbits",
       "link": "https://lifehacker.com/health/pixel-watch-fitbit-new-health-features?utm_medium=RSS",
-      "summary": "Google has introduced its 'Health Guardian' feature for Fitbit users, providing estimates for blood pressure and insulin resistance, albeit for a fee. This enhancement is part of Google's ongoing efforts to integrate more health monitoring capabilities into its wearable devices, aligning with the growing trend of health tracking technology. Users can now access more comprehensive health insights directly from their wrist.",
+      "summary": "Google has introduced the 'Health Guardian' feature for Fitbit users, which includes advanced health metrics like blood pressure and insulin resistance estimates. This move reflects the increasing reliance on technology to monitor and manage health conditions, enhancing user engagement with personal health data.",
       "source": "Lifehacker"
     },
     {
       "title": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
       "link": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking",
-      "summary": "The Apple Watch Ultra 4 has received a battery life upgrade and improved health tracking features, although some anticipated functionalities are still pending. As the flagship model, it supports various health metrics, including heart rate and ECG monitoring, but users are left waiting for promised updates that could enhance its capabilities further. This smartwatch continues to be a leader in the wearable health tech market.",
+      "summary": "The Apple Watch Ultra 4 has received an upgrade in battery life and health tracking capabilities, although some anticipated features are still pending. This highlights the ongoing innovation in wearable health technology and the demand for more comprehensive health monitoring solutions.",
       "source": "The Guardian"
     },
     {
-      "title": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
-      "link": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking",
-      "summary": "The Apple Watch Ultra 4 has been reviewed positively for its longer battery life and enhanced health tracking features. However, many of the new updates that were announced are still not available, leaving users eager for improvements. This smartwatch remains a top choice for those interested in advanced health monitoring.",
-      "source": "The Guardian Australia"
+      "title": "NSW Health server targeted in cyber incident",
+      "link": "https://www.itnews.com.au/news/nsw-health-server-targeted-in-cyber-incident-630096?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "summary": "A cyber incident targeting the NSW Health server underscores the vulnerabilities within health data management systems. This incident raises concerns about data security in healthcare, emphasizing the need for robust cybersecurity measures to protect sensitive health information.",
+      "source": "IT News"
     }
   ]
 }
