@@ -1,25 +1,37 @@
 {
-  "generatedAt": "2026-11-02T09:42:25.142Z",
+  "generatedAt": "2026-11-09T09:58:35.709Z",
   "topic": "climate",
-  "weekOf": "2026-11-02",
-  "lead": "Recent discussions on climate change highlight critical blind spots in our models and the urgent need for monitoring feedback loops exacerbated by rising temperatures.",
+  "weekOf": "2026-11-09",
+  "lead": "The latest developments in climate technology, electric vehicle policies, and the intersection of climate change with societal issues are shaping the future of our planet.",
   "stories": [
     {
-      "title": "Our climate models have a big, dangerous blind spot",
-      "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
-      "summary": "Climate change is not just a consequence of human activity; it is now driving further climate change through dangerous feedback loops. Current climate models fail to fully account for these dynamics, posing significant risks to our emissions-reduction goals. Scientists warn that without addressing these blind spots, we may underestimate the severity of climate impacts.",
-      "source": "MIT Technology Review"
+      "title": "Australian Built: we have the climate tech startups, now it’s time to let them grow",
+      "link": "https://www.startupdaily.net/advice/opinion/australian-built-we-have-the-climate-tech-startups-now-its-time-to-let-them-grow/",
+      "summary": "Australia is home to a burgeoning climate tech startup scene that is poised for growth. However, these startups face challenges in securing their first customers and obtaining necessary funding to scale operations. Without support, there is a risk that these innovative companies will relocate overseas, resulting in a loss of potential jobs and advancements in climate technology.",
+      "source": "Startup Daily"
     },
     {
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "summary": "As climate change accelerates, the role of AI in monitoring and managing its effects becomes increasingly vital. Experts argue for the real-time tracking of AI agents to ensure they contribute positively to climate solutions rather than exacerbate the situation. This call for better governance in AI reflects a broader need to integrate technology with environmental stewardship.",
-      "source": "MIT Technology Review"
+      "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+      "link": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+      "summary": "The UK government is reportedly planning to reduce its electric vehicle (EV) sales targets, a move that has sparked concern among Labour MPs who fear it undermines the country’s commitment to climate action. The decision follows a series of discussions among key ministers, highlighting the tension between industry interests and environmental goals.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "The American Dream Wasn’t Built for Climate Change",
+      "link": "https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/",
+      "summary": "The concept of home ownership, often seen as a cornerstone of the American Dream, is increasingly threatened by climate change. With more frequent climate-related disasters, many homeowners find their investments at risk, leading to a reevaluation of what it means to build wealth in an era of environmental instability.",
+      "source": "Wired"
+    },
+    {
+      "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+      "link": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+      "summary": "In a controversial move, the UK Labour government is set to announce cuts to electric vehicle targets, a decision that has raised alarms among environmental advocates and MPs. This shift reflects a broader concern about the prioritization of economic interests over urgent climate commitments, as discussions continue within the government.",
+      "source": "The Guardian Australia"
     },
     {
       "title": "‘There is no inevitable dystopia’: Jeanette Winterson on AI and the future of humanity",
       "link": "https://www.theguardian.com/books/2026/oct/28/no-inevitable-dystopia-jeanette-winterson-ai-future-of-humanity",
-      "summary": "Author Jeanette Winterson discusses the intersection of AI and climate change, suggesting that humanity stands at a pivotal moment. She emphasizes the importance of storytelling in shaping our future, particularly in addressing the challenges posed by climate change and technology. Winterson's reflections encourage a proactive approach to creating a sustainable future.",
+      "summary": "Author Jeanette Winterson discusses the intersection of artificial intelligence and climate change, emphasizing that the future is not predetermined. She argues that humanity has the power to shape its trajectory, particularly in how we respond to environmental challenges and technological advancements.",
       "source": "The Guardian Australia"
     }
   ]
