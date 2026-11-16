@@ -1,56 +1,32 @@
 {
-  "generatedAt": "2026-11-09T09:58:37.037Z",
+  "generatedAt": "2026-11-16T09:57:32.052Z",
   "topic": "quantum",
-  "weekOf": "2026-11-09",
-  "lead": "Exploring the strategic implications of quantum computing for enterprises, focusing on security readiness, economic evaluations, and architectural frameworks.",
+  "weekOf": "2026-11-16",
+  "lead": "Quantum technology is advancing rapidly, with initiatives aimed at creating quantum-safe networks and enhancing security protocols, particularly in regions like Africa.",
   "stories": [
     {
-      "title": "Quantum without the hype: The CIO’s next architecture challenge",
-      "link": "https://www.cio.com/article/4244626/quantum-without-the-hype-the-cios-next-architecture-challenge.html",
-      "summary": "CIOs face the challenge of navigating quantum computing's potential while avoiding premature investments. The article emphasizes the need for a disciplined approach to quantum readiness, distinguishing between immediate security needs and speculative commercial advantages. It introduces a framework for assessing quantum preparedness, focusing on architecture, economics, and governance.",
+      "title": "Cassava and Graphiant reportedly plan quantum-safe networks for Africa",
+      "link": "https://thenextweb.com/news/cassava-and-graphiant-reportedly-plan-quantum-safe-networks-for-africa",
+      "summary": "Cassava Technologies is collaborating with US firm Graphiant to introduce quantum-safe networks in Africa, starting in South Africa in 2027. These networks will utilize post-quantum cryptography, designed to withstand future quantum computing threats. While details are still under wraps, this initiative could significantly enhance cybersecurity in the region.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Inside X-VPN’s 200%+ Speed Upgrade: 25 Gbps Servers, AI Routing and Talaria Protocol",
+      "link": "https://www.cio.com/article/4247894/inside-x-vpns-200-speed-upgrade-25-gbps-servers-ai-routing-and-talaria-protocol.html",
+      "summary": "X-VPN has announced a major speed upgrade featuring its new Talaria protocol, which improves data transfer speeds by over 200%. The upgrade includes enhanced server capabilities and AI routing technology to optimize connection paths. Notably, Talaria incorporates hybrid post-quantum key exchange mechanisms, reinforcing security alongside performance enhancements.",
       "source": "CIO"
     },
     {
-      "title": "The Future of Quantum Computing: Opportunities and Challenges",
-      "link": "https://www.scientificamerican.com/article/the-future-of-quantum-computing-opportunities-and-challenges/",
-      "summary": "This article discusses the transformative potential of quantum computing across various fields, including medicine and materials science. It highlights both the opportunities presented by quantum technologies and the significant technical challenges that remain, such as error correction and scalability. The piece calls for collaboration between academia and industry to overcome these hurdles.",
-      "source": "Scientific American"
+      "title": "Your AI is smarter. Is your business still working the same way?",
+      "link": "https://www.cio.com/article/4248443/your-ai-is-smarter-is-your-business-still-working-the-same-way.html",
+      "summary": "As AI capabilities grow, many businesses struggle to adapt their workflows accordingly, leading to missed opportunities for performance improvement. The article emphasizes the need for organizations to rethink their processes rather than simply automating existing workflows. This shift could be crucial for leveraging AI's full potential in the context of quantum advancements.",
+      "source": "CIO"
     },
     {
-      "title": "Quantum Computing: The Next Frontier in Cybersecurity",
-      "link": "https://www.forbes.com/sites/bernardmarr/2026/11/01/quantum-computing-the-next-frontier-in-cybersecurity/",
-      "summary": "As quantum computing evolves, its implications for cybersecurity are becoming increasingly critical. This article explores how quantum computers could break current encryption methods, urging organizations to adopt post-quantum cryptography standards. It emphasizes the urgency for businesses to prepare for potential threats while leveraging quantum technologies for enhanced security.",
-      "source": "Forbes"
-    },
-    {
-      "title": "How Quantum Computing Will Change the World",
-      "link": "https://www.bbc.com/future/article/20261102-how-quantum-computing-will-change-the-world",
-      "summary": "The BBC examines the revolutionary potential of quantum computing, projecting its impact on various industries from finance to healthcare. The article outlines how quantum algorithms can solve complex problems faster than classical computers, potentially leading to breakthroughs in drug discovery and climate modeling. However, it also warns of the ethical implications and the need for regulatory frameworks.",
-      "source": "BBC"
-    },
-    {
-      "title": "The Quantum Race: Who Will Lead the Next Tech Revolution?",
-      "link": "https://www.wired.com/story/the-quantum-race-who-will-lead-the-next-tech-revolution/",
-      "summary": "Wired delves into the competitive landscape of quantum computing, highlighting the key players and their strategies. The article discusses government investments, corporate partnerships, and the race for quantum supremacy. It emphasizes the importance of international collaboration to ensure that advancements benefit society as a whole.",
-      "source": "Wired"
-    },
-    {
-      "title": "Understanding Quantum Supremacy: What It Means for the Future",
-      "link": "https://www.techcrunch.com/2026/11/03/understanding-quantum-supremacy-what-it-means-for-the-future/",
-      "summary": "TechCrunch provides an overview of quantum supremacy and its implications for computational tasks. The article explains the significance of achieving quantum supremacy and how it could reshape industries by solving problems previously deemed impossible. It also discusses the skepticism surrounding the practical applications of quantum computing.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "The Economic Impact of Quantum Computing on Business",
-      "link": "https://www.hbr.org/2026/11/the-economic-impact-of-quantum-computing-on-business",
-      "summary": "Harvard Business Review analyzes the economic implications of quantum computing for businesses. The article argues that while quantum technology promises efficiency gains, the costs and complexities involved in its implementation must be carefully considered. It calls for businesses to develop a clear strategy for integrating quantum capabilities into their operations.",
-      "source": "Harvard Business Review"
-    },
-    {
-      "title": "Post-Quantum Cryptography: Preparing for the Quantum Threat",
-      "link": "https://www.securityweek.com/post-quantum-cryptography-preparing-quantum-threat",
-      "summary": "This article discusses the urgent need for organizations to adopt post-quantum cryptography to safeguard against future quantum threats. It outlines the steps businesses should take to assess their current cryptographic systems and transition to more secure alternatives. The piece emphasizes that preparation is key to mitigating risks associated with quantum advancements.",
-      "source": "SecurityWeek"
+      "title": "Your AI ROI problem is a culture problem",
+      "link": "https://www.cio.com/article/4248056/your-ai-roi-problem-is-a-culture-problem.html",
+      "summary": "The article discusses the cultural challenges that hinder the return on investment for AI initiatives, with a focus on the importance of people and processes over technology. It highlights that organizations that invest in cultural change alongside technological advancements, including quantum technologies, are more likely to realize significant benefits.",
+      "source": "CIO"
     }
   ]
 }
