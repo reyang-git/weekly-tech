@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-11-09T09:58:36.711Z",
+  "generatedAt": "2026-11-16T09:57:32.596Z",
   "topic": "health",
-  "weekOf": "2026-11-09",
-  "lead": "Recent advancements in health technology and data management highlight the ongoing evolution of the healthcare landscape, from innovative drug development to the integration of AI in health monitoring.",
+  "weekOf": "2026-11-16",
+  "lead": "Apple is making strides in improving AI health tools through user collaboration, while alarming trends in AI-related child exploitation highlight urgent public health concerns.",
   "stories": [
     {
-      "title": "Dundee biotech PhaSER wins $2.7M Gates grant for infectious disease drugs",
-      "link": "https://thenextweb.com/news/phaser-biomedical-gates-foundation-grant",
-      "summary": "Scottish biotech PhaSER Biomedical has secured a $2.7 million grant from the Gates Foundation aimed at developing new drugs for infectious diseases such as TB and malaria. This funding will support the company's participation in the Global Health Discovery Collaboratory, which facilitates collaboration among teams funded by the foundation to tackle global health challenges.",
-      "source": "The Next Web"
+      "title": "Apple needs your help to make health AI better",
+      "link": "https://mashable.com/life/apple-health-ai-study",
+      "summary": "Apple is launching a new app aimed at evaluating how users interact with AI health tools, seeking participant feedback to enhance these technologies. The initiative is part of Apple's broader commitment to improving health-related AI applications, which could have significant implications for personal healthcare management.",
+      "source": "Mashable"
     },
     {
-      "title": "British people don’t trust Palantir – it’s not too late to reverse the NHS’s dependence on it",
-      "link": "https://www.theguardian.com/commentisfree/2026/nov/09/british-people-palantir-nhs-health-data-us-tech-firm",
-      "summary": "As the NHS approaches the expiration of its contract with Palantir, concerns over data privacy and trust are rising. Critics argue that the NHS should seek alternative suppliers that allow for greater control over health data, emphasizing the need for transparency and public trust in health technology.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Don't like Google Health's AI Coach? Here's how to turn it off",
-      "link": "https://www.engadget.com/2309626/dont-like-google-health-ai-coach-how-turn-off/",
-      "summary": "Google Health's AI Coach feature has faced mixed reviews, prompting users to seek ways to disable it. This highlights the ongoing conversation about user control and preferences in health technology, particularly as AI becomes more integrated into personal health management.",
+      "title": "Apple's new research app is designed to make AI health tools more user-friendly",
+      "link": "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/",
+      "summary": "The new research app from Apple aims to gather insights on user interactions with AI health tools, focusing on improving their usability and effectiveness. This study is crucial as AI continues to play a larger role in health management, potentially transforming how users access and interpret medical information.",
       "source": "Engadget"
     },
     {
-      "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-      "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-      "summary": "The UV-tracking Gem necklace has prompted users to reconsider the impact of UV exposure on health. By providing real-time notifications about UV levels, the device encourages proactive health management, showcasing the potential of wearable technology in personal health awareness.",
+      "title": "Apple Launches New App to Study How People Use AI for Health",
+      "link": "https://www.cnet.com/health/apple-launches-ai-health-app-study/",
+      "summary": "Apple's latest app is designed to study user engagement with AI health tools, allowing participants to ask medical questions and evaluate the responses. This research aims to refine AI interactions, ensuring they meet user needs and enhance healthcare accessibility.",
+      "source": "CNET"
+    },
+    {
+      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+      "summary": "A staggering increase of 8,400% in AI-related child sexual abuse material has been reported over the past two years, prompting calls for governments to treat this issue as a public health emergency. The data highlights the dark side of AI technology and the urgent need for regulatory measures to protect vulnerable populations.",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "Apple's new initiative, in collaboration with OpenEvidence, seeks to enhance the performance of conversational AI health tools. By collecting user feedback on the accuracy and relevance of AI responses to medical inquiries, the study aims to refine these technologies for better healthcare outcomes.",
       "source": "The Verge"
+    },
+    {
+      "title": "High-Protein Packaged Foods May Not Be As Healthy As They Look",
+      "link": "https://lifehacker.com/is-added-protein-in-packaged-food-really-healthier?utm_medium=RSS",
+      "summary": "A recent analysis reveals that many high-protein packaged foods may not be as beneficial as they appear, often containing unhealthy additives. This underscores the importance of scrutinizing food labels and understanding nutritional content to make informed dietary choices.",
+      "source": "Lifehacker"
+    },
+    {
+      "title": "Are walking pads worth it? We put the best under-desk treadmills to the test",
+      "link": "https://www.theguardian.com/thefilter/2025/apr/03/best-walking-pads-under-desk-treadmills-uk",
+      "summary": "Walking pads and under-desk treadmills are gaining popularity as solutions for maintaining physical activity during sedentary work hours. This review evaluates their effectiveness and practicality, suggesting that even small increments of movement can significantly benefit overall health.",
+      "source": "The Guardian Australia"
     },
     {
       "title": "All the Health and Fitness Products You Didn't Realize You Could Buy With HSA Funds",
       "link": "https://lifehacker.com/health/health-and-fitness-products-hsa-fsa-funds?utm_medium=RSS",
-      "summary": "Consumers are encouraged to utilize their Health Savings Account (HSA) funds for a variety of health and fitness products, including wearables and fitness trackers. This shift highlights the growing intersection of personal finance and health management, promoting a more proactive approach to health.",
+      "summary": "Many health and fitness products can be purchased using Health Savings Account (HSA) funds, which can help consumers make better financial decisions regarding their health. This article highlights various eligible products, encouraging proactive health management.",
       "source": "Lifehacker"
-    },
-    {
-      "title": "Google's 'Health Guardian' Is Now Available for Fitbits",
-      "link": "https://lifehacker.com/health/pixel-watch-fitbit-new-health-features?utm_medium=RSS",
-      "summary": "Google has introduced the 'Health Guardian' feature for Fitbit users, which includes advanced health metrics like blood pressure and insulin resistance estimates. This move reflects the increasing reliance on technology to monitor and manage health conditions, enhancing user engagement with personal health data.",
-      "source": "Lifehacker"
-    },
-    {
-      "title": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
-      "link": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking",
-      "summary": "The Apple Watch Ultra 4 has received an upgrade in battery life and health tracking capabilities, although some anticipated features are still pending. This highlights the ongoing innovation in wearable health technology and the demand for more comprehensive health monitoring solutions.",
-      "source": "The Guardian"
-    },
-    {
-      "title": "NSW Health server targeted in cyber incident",
-      "link": "https://www.itnews.com.au/news/nsw-health-server-targeted-in-cyber-incident-630096?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "A cyber incident targeting the NSW Health server underscores the vulnerabilities within health data management systems. This incident raises concerns about data security in healthcare, emphasizing the need for robust cybersecurity measures to protect sensitive health information.",
-      "source": "IT News"
     }
   ]
 }
