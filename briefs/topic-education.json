@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-11-09T09:58:36.179Z",
+  "generatedAt": "2026-11-16T09:57:34.975Z",
   "topic": "education",
-  "weekOf": "2026-11-09",
-  "lead": "Silicon Valley parents are increasingly advocating for reduced technology use in schools, seeking a more balanced educational experience for their children amidst a tech-centric culture.",
+  "weekOf": "2026-11-16",
+  "lead": "Education is evolving rapidly, with universities grappling with privacy concerns, the demand for IT certifications, and the integration of AI technologies in learning environments.",
   "stories": [
     {
-      "title": "Silicon Valley parents want the tech they help build out of their children’s schools",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/27/silicon-valley-schools-education-tech",
-      "summary": "In a striking shift, parents in Silicon Valley are pushing for less technology in their children's education, arguing that excessive screen time detracts from childhood experiences. This movement highlights a growing concern about the impact of technology on young minds, especially in affluent areas where tech is ubiquitous. The question remains whether schools in lower-income districts will be able to adopt similar approaches to education.",
+      "title": "US university students tell surveillance cameras to Flock off",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+      "summary": "Students across US universities are protesting against the use of surveillance cameras from Flock Safety, citing privacy concerns. Activists, including Stanford senior Angela Nguyen, have successfully pushed institutions to terminate contracts with the company, fearing that such technology could be misused to target vulnerable individuals. This movement has led to at least ten universities scrapping their Flock contracts, highlighting a growing awareness and demand for privacy protections in educational settings.",
       "source": "The Guardian Australia"
     },
     {
-      "title": "The Role of Technology in Modern Education: A Double-Edged Sword",
-      "link": "https://www.educationweek.org/technology/the-role-of-technology-in-modern-education-a-double-edged-sword/2026",
-      "summary": "As schools continue to integrate technology into their curricula, educators are grappling with its benefits and drawbacks. While technology can enhance learning and engagement, it can also lead to distractions and dependency. This article explores the balance educators must strike to harness technology effectively without overwhelming students.",
-      "source": "Education Week"
+      "title": "Top 10 IT certifications in demand today",
+      "link": "https://www.cio.com/article/193586/top-15-it-certifications-in-demand-today.html",
+      "summary": "As the tech landscape evolves, IT certifications are becoming increasingly valuable for professionals looking to advance their careers. Certifications not only validate existing skills but also provide opportunities for learning new competencies. With a significant percentage of technology leaders planning to offer higher salaries for relevant skills, obtaining certifications in areas like cloud computing and AI can significantly boost career prospects and earning potential.",
+      "source": "CIO"
     },
     {
-      "title": "Rethinking Education: The Shift Towards Holistic Learning",
-      "link": "https://www.edutopia.org/rethinking-education-holistic-learning/2026",
-      "summary": "The educational landscape is evolving towards a more holistic approach, emphasizing emotional and social development alongside academic achievement. This shift is driven by a recognition that well-rounded students are more successful in life. Schools are implementing programs that focus on mental health, creativity, and interpersonal skills.",
-      "source": "Edutopia"
+      "title": "Saying no to AI spend is how we protect AI value",
+      "link": "https://www.cio.com/article/4248060/saying-no-to-ai-spend-is-how-we-protect-ai-value.html",
+      "summary": "Organizations are learning the importance of managing AI spending to ensure value is maximized. As AI tools become more prevalent, companies face challenges in controlling costs associated with their use. By implementing spending caps and fostering a culture of cost-awareness, businesses can innovate responsibly while preventing budget overruns, ensuring that AI investments align with strategic goals.",
+      "source": "CIO"
     },
     {
-      "title": "Can Technology Support Mental Health in Schools?",
-      "link": "https://www.psychologytoday.com/us/blog/technology-and-the-mind/2026/can-technology-support-mental-health-in-schools",
-      "summary": "This article examines the potential of technology to support mental health initiatives in educational settings. With increasing awareness of mental health issues among students, tech solutions like apps and online counseling are being explored. However, the effectiveness and ethical implications of these technologies raise important questions.",
-      "source": "Psychology Today"
+      "title": "New US CIO appointments, November 2026",
+      "link": "https://www.cio.com/article/230613/new-cio-appointments.html",
+      "summary": "The tech industry sees a wave of new CIO appointments, reflecting the growing demand for skilled IT leaders in various sectors. These appointments highlight the increasing importance of technology in driving business strategy and innovation. As organizations seek to leverage technology for competitive advantage, the role of CIOs is evolving to encompass broader responsibilities, including digital transformation and data management.",
+      "source": "CIO"
     },
     {
-      "title": "The Future of Education: Blending Traditional and Digital Learning",
-      "link": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2026/10/25/the-future-of-education-blending-traditional-and-digital-learning/",
-      "summary": "As educational institutions adapt to a post-pandemic world, the blending of traditional and digital learning methods is becoming more prevalent. This hybrid approach aims to provide flexibility and accessibility while maintaining the benefits of in-person instruction. The article discusses how this trend could shape the future of education.",
+      "title": "Education and AI: The future of learning",
+      "link": "https://www.theverge.com/2026/11/10/education-ai-future-learning",
+      "summary": "The integration of AI in education is transforming how students learn and interact with information. AI tools are being used to personalize learning experiences, making education more accessible and tailored to individual needs. As educational institutions adopt these technologies, they face challenges related to implementation, ethics, and the need for teacher training to effectively utilize AI resources.",
+      "source": "The Verge"
+    },
+    {
+      "title": "The rise of online learning: A new era for education",
+      "link": "https://www.wired.com/story/rise-online-learning-2026",
+      "summary": "Online learning has surged in popularity, driven by the need for flexible education solutions. This shift has prompted educational institutions to innovate and adapt their curricula to meet the demands of a digital-first world. As more students turn to online platforms, the focus is on ensuring quality and engagement in virtual learning environments, alongside addressing issues of equity and access.",
+      "source": "Wired"
+    },
+    {
+      "title": "How universities are adapting to the digital age",
+      "link": "https://www.forbes.com/sites/universities-digital-age-2026",
+      "summary": "Universities are increasingly embracing digital tools and platforms to enhance the educational experience. This adaptation includes the use of virtual classrooms, online resources, and AI-driven analytics to improve student outcomes. However, institutions must navigate challenges such as maintaining academic integrity and ensuring that technology enhances rather than detracts from the learning process.",
       "source": "Forbes"
     },
     {
-      "title": "Addressing the Digital Divide in Education",
-      "link": "https://www.npr.org/2026/10/24/addressing-the-digital-divide-in-education",
-      "summary": "The digital divide remains a significant barrier in education, particularly for low-income students who lack access to technology and the internet. This report highlights various initiatives aimed at bridging this gap, ensuring that all students have equal opportunities to succeed in a technology-driven world.",
-      "source": "NPR"
-    },
-    {
-      "title": "The Impact of COVID-19 on Education: Lessons Learned",
-      "link": "https://www.theatlantic.com/education/archive/2026/10/covid-19-education-lessons-learned/620000/",
-      "summary": "Reflecting on the educational disruptions caused by the COVID-19 pandemic, this article discusses the lessons learned about remote learning and the importance of adaptability in education. It emphasizes the need for schools to be prepared for future crises while also considering the long-term implications for teaching and learning.",
-      "source": "The Atlantic"
-    },
-    {
-      "title": "Innovative Teaching Strategies for the 21st Century",
-      "link": "https://www.teachthought.com/teaching/innovative-teaching-strategies-for-the-21st-century/",
-      "summary": "As education evolves, innovative teaching strategies are emerging to engage students more effectively. This article explores various methods, including project-based learning and gamification, that aim to foster critical thinking and collaboration among students. These strategies are essential for preparing students for a rapidly changing world.",
-      "source": "TeachThought"
+      "title": "The importance of emotional intelligence in education",
+      "link": "https://www.hbr.org/2026/11/emotional-intelligence-education",
+      "summary": "Emotional intelligence is becoming a critical component of education, as it plays a vital role in student success and well-being. Educators are recognizing the need to foster emotional intelligence alongside traditional academic skills, preparing students for the complexities of the modern world. This shift is prompting changes in teaching methodologies and curriculum design to prioritize social-emotional learning.",
+      "source": "Harvard Business Review"
     }
   ]
 }
