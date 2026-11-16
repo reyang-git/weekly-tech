@@ -1,56 +1,56 @@
 {
-  "generatedAt": "2026-11-09T09:58:36.763Z",
+  "generatedAt": "2026-11-16T09:57:29.423Z",
   "topic": "AI",
-  "weekOf": "2026-11-09",
-  "lead": "AI continues to shape various industries, from governance and healthcare to music and enterprise solutions, while also raising ethical and operational challenges.",
+  "weekOf": "2026-11-16",
+  "lead": "The landscape of artificial intelligence continues to evolve rapidly, with significant developments from major tech companies, regulatory changes, and emerging challenges in ethics and safety.",
   "stories": [
     {
-      "title": "ANZ stands up an 'enterprise AI control plane'",
-      "link": "https://www.itnews.com.au/news/anz-stands-up-an-enterprise-ai-control-plane-630221?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
-      "summary": "ANZ has launched an enterprise AI control plane to enhance centralized governance and control over its AI initiatives. This move is part of a broader trend among financial institutions to leverage AI for improved operational efficiency and compliance. The control plane aims to streamline AI deployment while ensuring adherence to regulatory standards.",
-      "source": "IT News"
-    },
-    {
-      "title": "Tencent AI chief warns models will soon pose biology risks, SCMP reports",
-      "link": "https://thenextweb.com/news/tencent-yao-shunyu-ai-biology-risk-hy4",
-      "summary": "Yao Shunyu, Tencent's chief AI scientist, has raised concerns that AI models could soon pose risks to biological systems, paralleling existing cybersecurity threats. This warning highlights the need for responsible AI development and oversight as the technology evolves. The implications of AI's capabilities in biological contexts could have far-reaching consequences.",
+      "title": "Nvidia, OpenAI and Anthropic to be named AI national champions, WSJ reports",
+      "link": "https://thenextweb.com/news/ai-national-champions-nvidia-openai-anthropic-trump",
+      "summary": "The Trump administration plans to designate Nvidia, OpenAI, and Anthropic as AI national champions to bolster U.S. firms against Chinese competition. This initiative aims to enhance the global presence of American AI companies. The announcement is expected to include over two dozen firms as part of this strategic move.",
       "source": "The Next Web"
     },
     {
-      "title": "Grok Bot’s usage limits: Why the fine print matters more than the price",
-      "link": "https://www.cio.com/article/4245794/grok-bots-usage-limits-why-the-fine-print-matters-more-than-the-price.html",
-      "summary": "Recent reports on Grok Bot revealed that users faced unexpected limits on their usage allowances, leading to financial implications for IT departments. Elon Musk acknowledged the unsustainable costs associated with the service, prompting discussions about the transparency of AI pricing models. This case exemplifies the complexities of budgeting for AI services in organizations.",
-      "source": "CIO"
-    },
-    {
-      "title": "Apple is racing to make Siri more agentic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "summary": "Apple is accelerating efforts to enhance Siri's capabilities to compete with other AI assistants. The company plans to introduce features that allow Siri to perform more complex tasks, such as managing apps and organizing user data. This initiative reflects the growing competition in the AI assistant market and the need for continuous innovation.",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "summary": "In the wake of a scandal involving Nvidia's former CEO and alleged espionage, Congress is considering stricter regulations on the export of AI chips. Both parties are pushing for measures to ensure national security and prevent sensitive technology from falling into the wrong hands.",
       "source": "The Verge"
     },
     {
-      "title": "Nvidia is investigating CEO Jensen Huang over affair with alleged Chinese spy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "summary": "Nvidia has initiated an investigation into CEO Jensen Huang following revelations about his relationship with a former executive linked to Chinese intelligence. This situation raises concerns about corporate governance and the potential impact on Nvidia's operations in the competitive AI sector. The investigation underscores the intersection of personal conduct and corporate responsibility.",
-      "source": "The Verge"
+      "title": "Apple needs your help to make health AI better",
+      "link": "https://mashable.com/life/apple-health-ai-study",
+      "summary": "Apple is launching a new app aimed at improving AI in health by gathering user feedback on health-related AI tools. This initiative seeks to evaluate how effectively these tools respond to medical inquiries and enhance their usability for everyday users.",
+      "source": "Mashable"
     },
     {
-      "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
-      "link": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
-      "summary": "The International Federation of the Phonographic Industry has warned that proposed changes to AI copyright laws in Australia could harm creativity and the music industry. The organization argues that allowing AI companies easier access to content would undermine the rights of artists. This highlights the ongoing debate over intellectual property in the age of AI.",
+      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+      "summary": "A shocking report reveals that the use of AI in the creation of child sexual abuse material has surged by over 8,400% in just two years. This alarming trend has prompted calls for governments to treat it as a public health emergency and take urgent action to combat the exploitation.",
       "source": "The Guardian"
     },
     {
-      "title": "Epic Games Launcher is coming to SteamOS",
-      "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-      "summary": "Epic Games has announced that its launcher will soon be compatible with SteamOS, expanding its reach in the gaming industry. This move is seen as a strategic effort to compete with other gaming platforms and leverage AI technologies in game development. The integration could enhance user experience and broaden the audience for Epic's games.",
-      "source": "The Verge"
+      "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+      "summary": "Elon Musk and other tech leaders are advocating for the reinstatement of Jensen Huang as CEO of Nvidia following his recent ousting. The situation has sparked widespread debate about leadership stability in the AI sector and its implications for the industry.",
+      "source": "The Guardian"
     },
     {
-      "title": "Dev error bricked 600 PCs, caused $1M CD-ROM write-off",
-      "link": "https://www.theregister.com/software/2026/11/09/dev-error-bricked-600-pcs-caused-1m-cd-rom-write-off/5308039",
-      "summary": "A development error resulted in the bricking of 600 PCs and a significant financial loss for a tech company. This incident underscores the importance of rigorous testing and quality assurance in software development, particularly as AI systems become more complex. The repercussions of such errors can be costly and impact company reputation.",
-      "source": "The Register"
+      "title": "Your AI is smarter. Is your business still working the same way?",
+      "link": "https://www.cio.com/article/4248443/your-ai-is-smarter-is-your-business-still-working-the-same-way.html",
+      "summary": "Despite advancements in AI capabilities, many businesses are struggling to adapt their workflows accordingly. This article discusses how organizations can better integrate AI into their processes to enhance overall performance rather than just speeding up individual tasks.",
+      "source": "CIO"
+    },
+    {
+      "title": "Alibaba launches Qwen4-Max flagship AI model without open weights",
+      "link": "https://thenextweb.com/news/alibaba-launches-qwen4-max-flagship-ai-model-without-open-weights",
+      "summary": "Alibaba has introduced its latest AI model, Qwen4-Max, which is designed to assist in various work and creative tasks. However, the company has opted to keep the model's weights closed, raising questions about accessibility and collaboration in AI development.",
+      "source": "The Next Web"
+    },
+    {
+      "title": "Apple launches new app to study how people use AI for health",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "summary": "Apple has launched a new app aimed at studying user interactions with AI health tools. The initiative seeks to gather data on the effectiveness of these tools in providing medical information and improving user experience.",
+      "source": "TechCrunch"
     }
   ]
 }
